@@ -5,6 +5,8 @@ Richel:
 * notifying DJO: when there is a sketch of the course content
 * I'd like to use DIYbio to provide us a new emaillist, e.g thursday@diybiogroningen.nl, instead of this list of addresses
 * course content I am willing to teach: connecting shift registers to Arduino
+
+
 Thijs:
 * More programming: Arduino, Android apps and C++
 * Explore new topics before doing these on Friday, e.g. Raspberry Pi
