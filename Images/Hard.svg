@@ -10,40 +10,44 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="192mm"
-   height="42mm"
-   viewBox="0 0 680.31496 148.8189"
+   width="192"
+   height="42"
+   viewBox="0 0 192.00001 42.000002"
    id="svg4179"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="Hard.svg">
+   sodipodi:docname="Hard.svg"
+   inkscape:export-filename="/home/frode/Git/Dojo/Images/Medium.png"
+   inkscape:export-xdpi="89.958336"
+   inkscape:export-ydpi="89.958336">
   <defs
      id="defs4181">
     <linearGradient
-       id="linearGradient6151"
-       inkscape:collect="always">
+       inkscape:collect="always"
+       id="linearGradient6151">
       <stop
-         id="stop6135"
+         style="stop-color:#fcec22;stop-opacity:1"
          offset="0"
-         style="stop-color:#e4550d;stop-opacity:1" />
+         id="stop5087" />
       <stop
-         style="stop-color:#ffe9ee;stop-opacity:1"
+         id="stop5089"
          offset="0.15129146"
-         id="stop6137" />
+         style="stop-color:#fffeef;stop-opacity:1" />
       <stop
-         id="stop6155"
+         style="stop-color:#e9e454;stop-opacity:1"
          offset="0.7564581"
-         style="stop-color:#ff4605;stop-opacity:1" />
+         id="stop5091" />
       <stop
-         id="stop6139"
+         style="stop-color:#dab304;stop-opacity:1"
          offset="1"
-         style="stop-color:#bf280c;stop-opacity:1" />
+         id="stop5093" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient6151"
-       id="linearGradient6153"
+       id="linearGradient5066"
        gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.28353285,0,0,0.27487543,-0.4458162,762.5471)"
        x1="109.29826"
        y1="915.32336"
        x2="109.29826"
@@ -56,9 +60,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="280.87273"
-     inkscape:cy="54.775922"
+     inkscape:zoom="3.8019759"
+     inkscape:cx="85.872625"
+     inkscape:cy="14.746183"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -68,7 +72,8 @@
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true"
+     units="px" />
   <metadata
      id="metadata4184">
     <rdf:RDF>
@@ -85,39 +90,40 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-903.54331)">
+     transform="translate(0,-1010.3622)">
     <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#53b8d8;fill-opacity:0.4074074;fill-rule:evenodd;stroke:#787878;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#53b8d8;fill-opacity:0.40740739;fill-rule:evenodd;stroke:#787878;stroke-width:0.83751178;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4727"
-       width="673.77173"
-       height="143.44167"
-       x="3.271616"
-       y="906.23193"
-       ry="12.203557" />
+       width="191.03642"
+       height="39.428589"
+       x="0.48179436"
+       y="1011.6479"
+       ry="3.3544579" />
     <rect
-       ry="10.698488"
-       y="915.07727"
-       x="13.505139"
-       height="125.75095"
-       width="211.86031"
+       ry="2.9407516"
+       y="1014.0793"
+       x="3.3833346"
+       height="34.565845"
+       width="60.069359"
        id="rect6157"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient6153);fill-opacity:1;fill-rule:evenodd;stroke:#787878;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       rx="10.698487" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient5066);fill-opacity:1;fill-rule:evenodd;stroke:#787878;stroke-width:0.55834115;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       rx="3.0333724" />
     <use
        x="0"
        y="0"
        xlink:href="#rect6157"
        id="use4289"
-       transform="translate(220.21328,0)"
+       transform="translate(62.437699,1.6066368e-5)"
        width="100%"
-       height="100%" />
+       height="100%"
+       style="fill:#889099;fill-opacity:1" />
     <use
        x="0"
        y="0"
        xlink:href="#use4289"
        id="use4312"
-       transform="translate(220.21323,0)"
        width="100%"
-       height="100%" />
+       height="100%"
+       transform="translate(62.437684,0)" />
   </g>
 </svg>
