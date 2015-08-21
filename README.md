@@ -19,3 +19,9 @@ Deze avond is een cursusavond, waarin samen leren programmeren voorop staat. Je 
    * Juni en juli: 10 euro
  * Leeftijd: 8-18 jaar
  * Benodigdheden: Laptop met WiFi. Het is aan te raden om de leiding het admin/root wachtwoord te geven; deze wordt dan vertrouwelijk behandeld
+
+# Links
+
+ * [SMFL GitHub van Jan](https://github.com/janderkkotlarski/Cplusplus-with-SFML-course)
+ 
+ 
