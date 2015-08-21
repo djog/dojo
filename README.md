@@ -1,6 +1,6 @@
 # Dojo
 
-![Teacher1](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Teacher.png)|![Teacher1](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Teacher.png) | ![Teacher1](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Teacher.png)
+![Teacher1](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Teacher.png)|![Teacher2](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Teacher.png) | ![Teacher3](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Teacher.png)
 ---|---|---
 Thijs | Jan | Frode
 ![Easy](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Easy.png) | ![Medium](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Medium.png) | ![Difficulty Hard](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Hard.png)
