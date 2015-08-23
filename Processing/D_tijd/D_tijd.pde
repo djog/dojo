@@ -1,6 +1,6 @@
-int time;
-int x = 0;
-int delay = 50;
+float time;
+float x = 0;
+float delay = 50;
 
 void setup(){
  size(500,500);
@@ -16,9 +16,8 @@ void draw(){
   {
    ++x;
    
-   println(millis() - time);
+   //println(millis() - time);
    time = millis();
   }
   
 }
-

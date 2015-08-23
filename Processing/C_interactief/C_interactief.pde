@@ -1,6 +1,6 @@
-int d = 20;
+float d = 20;
 int e;
-int y = 5;
+float y = 5;
 String typed = "";
 
 
@@ -57,4 +57,3 @@ void mouseWheel(MouseEvent event) {
   stroke(255);
   e = event.getCount();
 }
-
