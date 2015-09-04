@@ -12,7 +12,7 @@ Aan computers vertellen wat ze moeten doen is de kern van programmeren. Wil jij 
 Deze avond is een cursusavond, waarin samen leren programmeren voorop staat. Je zult aan de slag gaan met de C++ bibliotheken Processing, SFML of Urho3D, maar je bent ook vrij je eigen weg te kiezen.
 
  * Dag: Elke donderdagavond, behalve op feestdagen en in de kerstvakantie
- * Tijd: 19:00-22:00, pauze van 20:30-20:45 (noot: 18:00-20:00 is een alternatief waar we nu over nadenken)
+ * Tijd: 19:00-21:00, pauze van 20:00-20:15
  * Locatie: De Jonge Onderzoekers Groningen, www.djog.nl, Dirk Huizingastraat 13
  * Kosten per leerling:
    * September t/m december: 20 euro
