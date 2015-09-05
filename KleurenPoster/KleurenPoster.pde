@@ -2,22 +2,27 @@ size(1000,1414);
 background(128);
 rectMode(CENTER);
 int w = width/50;
-noStroke();
+
 for (int z = 0; z < 5; z++){
   for(int i=w/2; i!=width+w/2; i+=w){
     for(int o=0; o<height; o+=w){
+      float strokeBright = random(255);
+      stroke(strokeBright, random(64));
       pushMatrix();
       translate(i,o);
       rotate(random(TWO_PI));
-      fill(23*z+random(64),23*z+random(255),128+random(128), 192-sqrt(z)*64);
-      scale(2.0-z*0.5);
+      fill( 5*z+random(64)+(width-i)/128*w,
+            23*z+random(255),
+            128+random(128)+5*(width-i),
+            128-sqrt(z)*64-o*0.23+random(128));
+      scale(1.0-z*0.5+o*0.0023);
       rect(0,0,w,w);
       popMatrix();
     }
   }
 }
 //Text
-  fill(0,255*.75);
+  fill(0,255*.5);
   rect(width/2,height/2,width*.75,height*.75);
   PFont head = createFont("Source Code Pro",32*2);
   PFont font = createFont("Source Code Pro",16*2);
