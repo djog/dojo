@@ -6,8 +6,7 @@ int w = width/50;
 for (int z = 0; z < 5; z++){
   for(int i=w/2; i!=width+w/2; i+=w){
     for(int o=0; o<height; o+=w){
-      float strokeBright = random(255);
-      stroke(strokeBright, random(64));
+      stroke(random(255), random(64));
       pushMatrix();
       translate(i,o);
       rotate(random(TWO_PI));
@@ -48,12 +47,12 @@ for (int i = 0; i < maxi; i++){
   text(text[6],x,height/8+(5*32+2*26+3*16)*2-i);
   text(text[9],x,height/8+(6*32+3*26+5*16)*2-i);
   textFont(font);
-  text(text[2],x,height/8+(3*32+26)*2-i);
-  text(text[4],x,height/8+(4*32+2*26+16)*2-i);
-  text(text[5],x,height/8+(4*32+2*26+2*16)*2-i);
-  text(text[7],x,height/8+(5*32+3*26+3*16)*2-i);
-  text(text[8],x,height/8+(5*32+3*26+4*16)*2-i);
-  text(text[10],x,height/8+(6*32+4*26+5*16)*2-i);
+  text(text[2],x,height/8+(3*32+26)*2+i);
+  text(text[4],x,height/8+(4*32+2*26+16)*2+i);
+  text(text[5],x,height/8+(4*32+2*26+2*16)*2+i);
+  text(text[7],x,height/8+(5*32+3*26+3*16)*2+i);
+  text(text[8],x,height/8+(5*32+3*26+4*16)*2+i);
+  text(text[10],x,height/8+(6*32+4*26+5*16)*2+i);
   textAlign(RIGHT,BOTTOM);
   text(text[11],width*7/8,height*7/8);
 }
