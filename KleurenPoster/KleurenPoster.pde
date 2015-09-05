@@ -26,26 +26,27 @@ for (int z = 0; z < 5; z++){
 for (int i = 0; i < maxi; i++){
   float offset = i;
   if (i != maxi-1){fill(64+10*offset,255,32+offset, 16*i);}
-   else fill(255);
+   else fill(255, 255, 255, 192);
 
   textFont(head);
   textAlign(LEFT,TOP);
   String[] text = loadStrings("file.txt");
 
-  text(text[0],width/8,height/8-offset);
-  text("Dojo",width/8,height/8+32*2-offset);
+  float x = width/8 + i;
+  text(text[0],x,height/8-offset);
+  text("Dojo",x,height/8+32*2-offset);
   textFont(bold);
-  text(text[1],width/8,height/8+(3*32)*2-offset);
-  text(text[3],width/8,height/8+(4*32+26+16)*2-offset);
-  text(text[6],width/8,height/8+(5*32+2*26+3*16)*2-offset);
-  text(text[9],width/8,height/8+(6*32+3*26+5*16)*2-offset);
+  text(text[1],x,height/8+(3*32)*2-offset);
+  text(text[3],x,height/8+(4*32+26+16)*2-offset);
+  text(text[6],x,height/8+(5*32+2*26+3*16)*2-offset);
+  text(text[9],x,height/8+(6*32+3*26+5*16)*2-offset);
   textFont(font);
-  text(text[2],width/8,height/8+(3*32+26)*2-offset);
-  text(text[4],width/8,height/8+(4*32+2*26+16)*2-offset);
-  text(text[5],width/8,height/8+(4*32+2*26+2*16)*2-offset);
-  text(text[7],width/8,height/8+(5*32+3*26+3*16)*2-offset);
-  text(text[8],width/8,height/8+(5*32+3*26+4*16)*2-offset);
-  text(text[10],width/8,height/8+(6*32+4*26+5*16)*2-offset);
+  text(text[2],x,height/8+(3*32+26)*2-offset);
+  text(text[4],x,height/8+(4*32+2*26+16)*2-offset);
+  text(text[5],x,height/8+(4*32+2*26+2*16)*2-offset);
+  text(text[7],x,height/8+(5*32+3*26+3*16)*2-offset);
+  text(text[8],x,height/8+(5*32+3*26+4*16)*2-offset);
+  text(text[10],x,height/8+(6*32+4*26+5*16)*2-offset);
   textAlign(RIGHT,BOTTOM);
   text(text[11],width*7/8,height*7/8);
 }
