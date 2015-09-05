@@ -10,7 +10,7 @@ for (int z = 0; z < 5; z++){
       translate(i,o);
       rotate(random(TWO_PI));
       fill(23*z+random(64),23*z+random(255),128+random(128), 192-sqrt(z)*64);
-      scale(0.1+z*0.23);
+      scale(2.0-z*0.5);
       rect(0,0,w,w);
       popMatrix();
     }
