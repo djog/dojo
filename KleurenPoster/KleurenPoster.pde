@@ -22,7 +22,7 @@ for (int z = 0; z < 5; z++){
   }
 }
 //Text
-  fill(0,255*.5);
+  fill(0,255*.75);
   rect(width/2,height/2,width*.75,height*.75);
   PFont head = createFont("Source Code Pro",32*2);
   PFont font = createFont("Source Code Pro",16*2);
