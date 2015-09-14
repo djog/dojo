@@ -17,6 +17,7 @@ for(int i=w/2; i!=width+w/2; i+=w){
 
 //Text
 fill(255);
+noStroke();
 rect(width/2,height/2,width*.75,height*.75);
 fill(0);
 PFont head = createFont("Source Code Pro",32*2);
