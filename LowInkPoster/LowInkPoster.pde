@@ -43,4 +43,4 @@ text(text[10],width/8,height/8+(6*32+4*26+5*16)*2);
 textAlign(RIGHT,BOTTOM);
 text(text[11],width*7/8,height*7/8);
 image(logo,width-472,height-76);
-save("poster.jpg");
+save("poster_lowInk.jpg");
