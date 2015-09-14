@@ -1,3 +1,4 @@
+PImage logo = loadImage("djoglogo.png");
 size(1000,1414);
 background(128);
 rectMode(CENTER);
@@ -56,4 +57,5 @@ for (int i = 0; i < maxi; i++){
   textAlign(RIGHT,BOTTOM);
   text(text[11],width*7/8,height*7/8);
 }
+image(logo,width-472,height-76);
 save("poster_kleur.jpg");

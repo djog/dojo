@@ -8,5 +8,5 @@ Wat:
 Leer games,programma's,kunst maken 
 in Processing,SFML en Urho3D
 Meer info?
-github.com/richelbilderbeek/dojo
+www.djog.nl
 Deze poster is geprogrammeerd

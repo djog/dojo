@@ -3,22 +3,22 @@ size(1000,1414);
 background(255);
 rectMode(CENTER);
 int w = width/50;
-noStroke();
+noFill();
 for(int i=w/2; i!=width+w/2; i+=w){
   for(int o=0; o<height; o+=w){
     pushMatrix();
     translate(i,o);
     rotate(random(TWO_PI));
-    fill(random(255));
+    stroke(random(255));
     rect(0,0,w,w);
     popMatrix();
   }
 }
 
 //Text
-fill(0,255*.75);
-rect(width/2,height/2,width*.75,height*.75);
 fill(255);
+rect(width/2,height/2,width*.75,height*.75);
+fill(0);
 PFont head = createFont("Source Code Pro",32*2);
 PFont font = createFont("Source Code Pro",16*2);
 PFont bold = createFont("Source Code Pro Bold",26*2);
