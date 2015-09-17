@@ -44,6 +44,10 @@ op [de LucKey productions website](http://www.luckeyproductions.nl).
 [Jan geeft les in SFML](https://github.com/janderkkotlarski/Cplusplus-with-SFML-course) en is ook handig
 met GameMaker.
 
+### Peter
+
+Peter is de BHV-er en helpt de cursus mee achter de schermen. Hij weet veel van electronica.
+
 ### Richel
 
 ![Richel](Images/Richel.png)
