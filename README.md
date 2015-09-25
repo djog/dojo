@@ -18,7 +18,7 @@ Deze avond is een cursusavond, waarin samen leren programmeren voorop staat. Je 
    * September t/m december: 20 euro
    * Januari tot en met mei: 20 euro
    * Juni en juli: 10 euro
- * Leeftijd: 8-18 jaar
+ * Leeftijd: 8-25 jaar
  * Benodigdheden: Laptop met WiFi
 
 # Veelgestelde vragen
@@ -54,8 +54,14 @@ Peter is de BHV-er en helpt de cursus mee achter de schermen. Hij weet veel van 
 
 Richel programmeert sinds zijn achtste. Hij is de meest ervaren en belezen programmeur, vooral in C++.
 Richel is vooral geinteresseerd in onderwijs en heeft de lerarenopleiding aan de universiteit cum laude afgerond.
-Hij coordineert de Dojo en zal gastlessen geven bij elk van de andere docenten.
+Hij coordineert de Dojo en zal gastlessen geven bij elk van de andere docenten. 
+
+Zijn werk is te zien op (zijn website met meer dan 3900 pagina's)[http://richelbilderbeek.nl] en [meer dan 100 GitHub repositories](https://github.com/richelbilderbeek?tab=repositories).
 
 ### Thijs
 
 Thijs geeft les in Processing. Ook is Thijs handig met Arduino, te zien aan [de GitHub van de Arduino cursus](https://github.com/richelbilderbeek/ArduinoCourse).
+
+# Wat is de missie van de cursus?
+
+De missie van De Jonge Onderzoekers is: '[Het] exploiteren van een activiteitencentrum met als doel kinderen op een uitdagende en creatieve manier met techniek en wetenschap in aanraking te laten komen'. De missie van de DOJO heeft veel overlap hiermee. We vinden het belangrijk dat de kinderen iets leren, uitgedaagd worden en hun creativiteit gebruiken om iets te maken. Om dit te bereiken laten we de leerlingen games maken en presenteren, maar het spelen van niet-zelfgemaakte games vinden we niet goed.
