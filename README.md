@@ -56,7 +56,7 @@ Richel programmeert sinds zijn achtste. Hij is de meest ervaren en belezen progr
 Richel is vooral geinteresseerd in onderwijs en heeft de lerarenopleiding aan de universiteit cum laude afgerond.
 Hij coordineert de Dojo en zal gastlessen geven bij elk van de andere docenten. 
 
-Zijn werk is te zien op (zijn website met meer dan 3900 pagina's)[http://richelbilderbeek.nl] en [meer dan 100 GitHub repositories](https://github.com/richelbilderbeek?tab=repositories).
+Zijn werk is te zien op [zijn website met meer dan 3900 pagina's](http://richelbilderbeek.nl) en [meer dan 100 GitHub repositories](https://github.com/richelbilderbeek?tab=repositories).
 
 ### Thijs
 
