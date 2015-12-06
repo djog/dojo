@@ -1,6 +1,11 @@
 Ship player;
 PImage playerImg;
 PImage vijandImg;
+float vijandx = 200;
+float vijandy = 200;
+boolean rechts = true;
+boolean omhoog = true;
+
 Star[] starField = new Star[1024];
 IntList pressedKeys = new IntList();
 ArrayList<Laser> lasers = new ArrayList<Laser>();
@@ -9,8 +14,8 @@ boolean paused = false;
 
 void setup(){
   playerImg = loadImage("Player.png");
-  //vijandImg = loadImage("Pizza_Steve_Suit");
-  fullScreen(P2D);
+  vijandImg = loadImage("g11.png");
+  fullScreen();
   noCursor();
   strokeWeight(2);
   player = new Ship(playerImg);
@@ -27,18 +32,41 @@ void draw(){
     background(255 * pow(skyFade, 5), 255 * pow(skyFade, 3), 255 * pow(skyFade, 2));
   }
   else background(0);
-   ellipse(50,50,30,30); 
-  ellipse(150,150,30,30); 
-   ellipse(250,250,30,30);
-    ellipse(350,350,30,30);
   noStroke();
   for (int s = 0; s < starField.length; ++s){
     starField[s].update();
     starField[s].display();
   }
 
-  //image(vijandImg,0,0);
+  if(rechts){
+    vijandx = vijandx + 10;
+  }
+  if(!rechts){
+    vijandx = vijandx - 10;
+  }
+  if(vijandx + 104 >= width){
+    rechts = false;
+  }
+  if(vijandx <= 0){
+    rechts = true;
+  }
+  if(omhoog){
+  vijandy = vijandy - 10;
+  }
+  if(!omhoog){
+    vijandy = vijandy +10;
+  }
+  //if(omhoog +104 = width){ //Richel
+  //  omhoog = false; //Richel
+  //} //Richel
+  //if(omhoog <= 0){ //Richel
+  //} //Richel
+    
+  //} //Richel
+  image(vijandImg, vijandx, vijandy);
+  
 
+  
   for (int l = 0; l < lasers.size(); ++l){
     Laser laser = lasers.get(l);
     if (laser.position.y < -height) lasers.remove(l);
