@@ -2,20 +2,20 @@
 Evaluatie Dojo
 
 Op een Dojo avond vind ik de sfeer
-(1) super leuk
-(2) leuk
-(3) gaat wel
-(4) niet leuk
+[ ] super leuk
+[ ] leuk
+[ ] gaat wel
+[ ] niet leuk
 
 De uitleg vind ik meestal
-(1) goed te snappen
-(2) met moeite te snappen
-(3) niet te snappen
+[ ] goed te snappen
+[ ] met moeite te snappen
+[ ] niet te snappen
 
 Ik vind dat ik
-(1) veel geleerd heb
-(2) een beetje geleerd
-(3) weinig geleerd heb
+[ ] veel geleerd heb
+[ ] een beetje geleerd
+[ ] weinig geleerd heb
 
 Ik wil volgend jaar doen:
 [ ] Processing (bij Thijs)
@@ -27,12 +27,12 @@ Ik wil volgend jaar les hebben:
 [ ] van 7 tot 9 uur
 [ ] van 8 tot 10 uur
 
-Ik vind dat de leraren (Frode, Jan, Richel, Thijs) dit erg goed doen:
+Ik vind dat de leraren dit erg goed doen:
 
 
 
 
-Ik vind dat de leraren (Frode, Jan, Richel, Thijs) dit meer moeten doen:
+Ik vind dat de leraren dit meer moeten doen:
 
 
 
