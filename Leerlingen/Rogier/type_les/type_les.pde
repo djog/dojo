@@ -1,7 +1,8 @@
+int score = 0;
 
 char letter;
 char[] alphabet = {'a', 'b', 'c', 'd', 'e','f','g','h','i', 'j','k', 'l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'};
-int score = 0;
+int nummer = 5;
 float breedte =1000;
 
 void setup(){
@@ -18,15 +19,16 @@ if (breedte<=0){
   rect(0,20,breedte,20);
 if (keyPressed){
   if (key == letter){
-    if(breedte>0){
-      score =score + 1;
+    if(key == score){
+      text(score,100,100);
+      
     }
     breedte = 1000;
     letter = willekeurigeLetter();
+    score = score + 1;
   }
 }
   text(letter,width/2,height/2);
-  //text(score
  //text(alphabet[(int)random(alphabet.length)], width/2, height/2);
 breedte = breedte - 4;
 }

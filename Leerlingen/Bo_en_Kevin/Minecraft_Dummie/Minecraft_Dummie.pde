@@ -1,13 +1,16 @@
-float W = 650;
-float S = 480;
-float X = 290;
-float Y =230;
-String chat;
-void setup()
+  float W = 650;
+  float S = 480;
+  float X = 290;
+  float Y =230;
+  String chat = " ";
+  boolean ready = true;
+  boolean jump = false;
+  boolean spring = false;
+  void setup()
 {
   size(1000,1000);
 }
-void draw()
+  void draw()
 {
   background(255,255,255);
   fill(0,195,255);
@@ -93,10 +96,12 @@ void draw()
   rect(W-100,S+25,100,100);
   rect(W+0,S+150,50,100);
   rect(W+150,S+150,50,100);
-  
- 
-    
-   
+
+  fill(0);
+  rect(X+42,Y+70,10,10);
+  fill(0);
+  rect(X+102,Y+70,10,10);
+
   fill(0);
   rect(W-75,S+50,15,10);
   rect(W-35,S+50,15,10);
@@ -104,10 +109,13 @@ void draw()
   fill(0);
   rect(W-72,S+95,50,10);
 
-
+  text(chat,10,20);
 
   if(keyPressed){
+  if(ready){
   chat = chat +key;
+  ready = false;
+  }
   textSize(25);
   
   
@@ -125,7 +133,13 @@ void draw()
       Y = Y + 5;
     }
 
+if(key == ' '){
+  jump = true;
+}
   
+}
+if(!keyPressed){
+  ready = true;
 }
 
 
@@ -138,6 +152,15 @@ void draw()
     if(keyCode == SHIFT){
       S = S + 1;
     }
+}
+
+if(jump){  
+  Y = Y - 10;
+  if(Y <= 100) {jump = false;}
+}
+
+if(!jump){
+  if(Y < 230) { Y = Y + 10;}
 }
 
 }
