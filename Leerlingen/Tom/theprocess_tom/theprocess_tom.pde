@@ -56,14 +56,15 @@ void draw(){
   if(!omhoog){
     vijandy = vijandy +10;
   }
-  //if(omhoog +104 = width){ //Richel
-  //  omhoog = false; //Richel
-  //} //Richel
-  //if(omhoog <= 0){ //Richel
-  //} //Richel
-    
-  //} //Richel
-  image(vijandImg, vijandx, vijandy);
+  //if(((int)omhoog +104) >= width){
+    //omhoog = false;
+  //}
+  //if(omhoog <= 0){
+  //}
+  
+
+  
+  image(vijandImg, vijandx%width, sin(millis()*0.001)*256);
   
 
   
