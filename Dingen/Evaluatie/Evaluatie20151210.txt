@@ -50,7 +50,12 @@ Als ik iets aan de cursus mocht veranderen, dan zou ik
   * Niets doen
   * ?
   * Gratis eten
-  * Iets  minder serieus
+  * Net iets minder serieus
+  * Dat je muziek mocht luisteren
+  * 2x Niets
+  * -
+  * Niks is al goed
+  * Zelf iets bedenken
 
 Cijfer:
   * 1x 10+
@@ -60,12 +65,11 @@ Cijfer:
   * 1x 8.5
   * 2x 8
   * 1x 6
-Gemiddelde (10 cijfers): 8.9
-
-  
+Gemiddelde (10 cijfers): 8.89
 
 Leerlingen:
   * Over Frode:
+    * Aardig, omdat hij code voor je typt
     * Soms niet helpen
     * Aardig
     * Beste leraar ooit
@@ -77,9 +81,11 @@ Leerlingen:
     * Te serieus
     * Een keer chagrijnig, omdat iemand niks deed en toen moest iedereen laptop dicht
     * Goed uitleggen
+    * Heel positief
     * Beetje irritant
   * Over Thijs:
     * Vet coole gozer
+    * Te serieus
     * Te serieus, net als Richel
   * Over de sfeer:
     * Gezellig
@@ -92,12 +98,12 @@ Leerlingen:
   * Gamen: mag niet -> maar gebeurt wel, gamen vinden ze in de pauze wel oke
   * Groep is druk, vinden ze niet goed, moet beter doorgewerkt na de pauze
   * Werken minder na de pauze -> blijven in pauze sfeer
-  * Leren hoe ze game kunnen maken
+  * Leren hoe ze game (FPS) kunnen maken
   * Leren waar je later wat aan hebt
   * Leuk leren
   * Eigen games maken is leuk
   * Programmeren is leuk
-  
+  * Meer samenwerken: nee
 
 Ouders:
  * Tijd: 18:30-20:30
@@ -105,3 +111,32 @@ Ouders:
  * Geen games voor, tijdens en na de les = prima
  * Leerlingen gaan met veel plezier naar de cursus
  * Presentatie was leuk
+
+Interpretatie Richel:
+De leerlingen vinden de cursus leuk en leerzaam.
+De leerlingen vinden dat er een goede werksfeer 
+op de cursus is, hoewel soms te serieus.
+De pauze heeft een effect op de werksfeer:
+de leerlingen en leraren vinden de werksfeer 
+ervoor goed en slechter erna.
+De leerlingen zien verschillen tussen de leraren en vinden sommige te serieus.
+De ouders vonden de presentatie leuk.
+De ouders zien dat de leerlingen de cursus leuk vinden,
+veel leren en waarderen de goede 
+en toch ontspannen werksfeer.
+De ouders vinden het een goed idee 
+nog meer te focusen op een werksfeer: 
+enkel ranja in de pauze is prima, met af en toe iets extra's.
+
+Wijzigingen (voorstel):
+
+ * Cursustijd wordt 18:30-20:30 (18:30-18:45 inloop, 19:30-19:45 pauze)
+ * Gamen wordt de hele avond ontmoedigd (niet voor de cursus, niet in de pauze, niet erna)
+ * In de pauze een 'gratis' glas ranja voor iedereen, bij echt goed werk iets extra's (dit wordt begroot op 10 euro in totaal)
+ * In de pauze gaan alle computers dicht
+ * Jan en Frode krijgen de leiding over de C++ cursisten, Richel en Thijs de Processing leerlingen
+
+Planning volgend jaar (voorstel):
+
+ * Weer presentatie op het einde!
+ 
