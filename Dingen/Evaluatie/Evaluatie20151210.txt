@@ -1,3 +1,5 @@
+Evaluatie Dojo 10 december 2015
+
 Op een Dojo avond vind ik de sfeer
 [6x] super leuk
 [4x] leuk
@@ -131,7 +133,7 @@ enkel ranja in de pauze is prima, met af en toe iets extra's.
 Wijzigingen (voorstel):
 
  * Cursustijd wordt 18:30-20:30 (18:30-18:45 inloop, 19:30-19:45 pauze)
- * Gamen wordt de hele avond ontmoedigd (niet voor de cursus, niet in de pauze, niet erna)
+ * Gamen wordt de hele avond (voor de cursus, in de pauze, erna) ontmoedigd 
  * In de pauze een 'gratis' glas ranja voor iedereen, bij echt goed werk iets extra's (dit wordt begroot op 10 euro in totaal)
  * In de pauze gaan alle computers dicht
  * Jan en Frode krijgen de leiding over de C++ cursisten, Richel en Thijs de Processing leerlingen
