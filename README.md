@@ -9,17 +9,30 @@ Processing | [SMFL](https://github.com/janderkkotlarski/Cplusplus-with-SFML-cour
 
 Aan computers vertellen wat ze moeten doen is de kern van programmeren. Wil jij dit ook kunnen? Vanaf donderdag 3 september kun je bij de DOJO leren hoe je je eigen interactieve programma's maakt, zoals een échte game! Je kunt programma's leren maken voor PC of smartphone. Voorkennis is niet nodig.
 
-Deze avond is een cursusavond, waarin samen leren programmeren voorop staat. Je zult aan de slag gaan met Processing, SFML of Urho3D, maar je bent ook vrij je eigen weg te kiezen.
+Deze avond is een cursusavond, waarin samen leren programmeren voorop staat. 
+Je zult aan de slag gaan met Processing, SFML of Urho3D, 
+maar je bent ook vrij je eigen weg te kiezen.
 
  * Dag: Elke donderdagavond, behalve op feestdagen en in de kerstvakantie
- * Tijd: 19:00-21:00, pauze van 20:00-20:15
+ * Tijd: 
+    * 18:15: inloop
+    * 18:30: start les
+    * 19:30: pauze
+    * 19:45: start les
+    * 20:30: einde les
  * Locatie: De Jonge Onderzoekers Groningen, www.djog.nl, Dirk Huizingastraat 13
  * Kosten per leerling:
    * September t/m december: 20 euro
-   * Januari tot en met mei: 20 euro
+   * Januari tot en met mei: 20 euro (*)
    * Juni en juli: 10 euro
  * Leeftijd: 8-25 jaar
  * Benodigdheden: Laptop met WiFi
+
+Aan het eind van een cursus is er een presentatie door de leerlingen en een evaluatie.
+
+(*) De cursusprijs wordt misschien twee keer zo duur, omdat we misschien de cursus
+inclusief gezond drinken en fruit in de pauze aan willen bieden. Inplaats van de 
+leerlingen steeds een euro per avond mee te laten nemen, zou het zo handiger voor ons zijn.
 
 # Veelgestelde vragen
 
@@ -30,6 +43,7 @@ Jazeker! Sterker nog, het programmeren van games is een van de leukste manieren 
 ## Mag ik gamen?
 
 Nee. De Dojo is een cursus avond, waarbij leren voorop staat. Gamen draagt niet bij aan het leren programmeren.
+Ook niet voor de cursus, ook niet in de pauze en ook niet na de pauze.
 Heb je *zelf* een spel geprogrammeerd, dan krijg je de ruimte om het spel te laten zien en te laten testen.
 
 ## Welke vrijwilligers zijn er?
@@ -53,7 +67,7 @@ Peter is de BHV-er en helpt de cursus mee achter de schermen. Hij weet veel van 
 ![Richel](Images/Richel.png)
 
 Richel programmeert sinds zijn achtste. Hij is de meest ervaren en belezen programmeur, vooral in C++.
-Richel is vooral geinteresseerd in onderwijs en heeft de lerarenopleiding aan de universiteit cum laude afgerond.
+Richel is vooral geinteresseerd in onderwijs en heeft de lerarenopleiding aan de universiteit afgerond.
 Hij coordineert de Dojo en zal gastlessen geven bij elk van de andere docenten. 
 
 Zijn werk is te zien op [zijn website met meer dan 3900 pagina's](http://richelbilderbeek.nl) en [meer dan 200 GitHub repositories](https://github.com/richelbilderbeek?tab=repositories).
