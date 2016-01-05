@@ -23,16 +23,12 @@ maar je bent ook vrij je eigen weg te kiezen.
  * Locatie: De Jonge Onderzoekers Groningen, www.djog.nl, Dirk Huizingastraat 13
  * Kosten per leerling:
    * September t/m december: 20 euro
-   * Januari tot en met mei: 20 euro (*)
+   * Januari tot en met mei: 20 euro
    * Juni en juli: 10 euro
  * Leeftijd: 8-25 jaar
  * Benodigdheden: Laptop met WiFi
 
 Aan het eind van een cursus is er een presentatie door de leerlingen en een evaluatie.
-
-(*) De cursusprijs wordt misschien twee keer zo duur, omdat we misschien de cursus
-inclusief gezond drinken en fruit in de pauze aan willen bieden. Inplaats van de 
-leerlingen steeds een euro per avond mee te laten nemen, zou het zo handiger voor ons zijn.
 
 # Veelgestelde vragen
 
