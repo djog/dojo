@@ -46,6 +46,14 @@ Nee. De Dojo is een cursus avond, waarbij leren voorop staat. Gamen draagt niet 
 Ook niet voor de cursus, ook niet in de pauze en ook niet na de pauze.
 Heb je *zelf* een spel geprogrammeerd, dan krijg je de ruimte om het spel te laten zien en te laten testen.
 
+## Ik wil Processing doen, kan dat?
+
+Ja, dat kan altijd! [Download Processing hier](https://processing.org/download/).
+
+## Ik wil C++ doen, kan dat?
+
+Ja, dat kan! C++ is wat moeilijker dan Processing, daarom kun je er niet zomaar mee beginnen. Om ermee te mogen beginnen moet je (1) zelf een C++ programmeeromgeving installeren (2) een voorbeeld SFML of Urho3D programma kunnen laten runnen (3) dit allemaal zelfstanding Googlen. Natuurlijk helpen we je bij je vragen, maar het leeuwendeel zul je zelf moeten doen.
+
 ## Welke vrijwilligers zijn er?
 
 ### Frode
