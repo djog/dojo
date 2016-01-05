@@ -7,7 +7,7 @@ Processing | [SMFL](https://github.com/janderkkotlarski/Cplusplus-with-SFML-cour
 ![Easy](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Easy.png) | ![Medium](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Medium.png) | ![Difficulty Hard](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Hard.png)
  ![SuperBar](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/superBar.png)|![Dark Hypersquare](https://cloud.githubusercontent.com/assets/13890380/9529429/7f52a582-4cfa-11e5-9265-51b4eed9e597.png) | ![heXon](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/heXon.png)
 
-Aan computers vertellen wat ze moeten doen is de kern van programmeren. Wil jij dit ook kunnen? Vanaf donderdag 3 september kun je bij de DOJO leren hoe je je eigen interactieve programma's maakt, zoals een échte game! Je kunt programma's leren maken voor PC of smartphone. Voorkennis is niet nodig.
+Aan computers vertellen wat ze moeten doen is de kern van programmeren. Wil jij dit ook kunnen? Elke donderdagavond kun je bij de DOJO leren hoe je je eigen interactieve programma's maakt, zoals een échte game! Je kunt programma's leren maken voor PC, maar uiteindelijk ook smartphone of Nintendo DS. Voorkennis is niet nodig.
 
 Deze avond is een cursusavond, waarin samen leren programmeren voorop staat. 
 Je zult aan de slag gaan met Processing, SFML of Urho3D, 
