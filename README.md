@@ -1,9 +1,5 @@
 # Dojo
 
-# Wegens ijzel geen Dojo op 7 januari!
-# Wegens ijzel geen Dojo op 7 januari!
-# Wegens ijzel geen Dojo op 7 januari!
-
 ![Teacher1](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Teacher.png)|![Teacher2](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Teacher.png) | ![Teacher3](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Teacher.png)
 ---|---|---
 Thijs | Jan | Frode
