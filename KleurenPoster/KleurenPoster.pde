@@ -59,3 +59,4 @@ for (int i = 0; i < maxi; i++){
 }
 image(logo,width-472,height-76);
 save("poster_kleur.jpg");
+exit();
