@@ -43,3 +43,4 @@ textAlign(RIGHT,BOTTOM);
 text(text[11],width*7/8,height*7/8);
 image(logo,width-472,height-76);
 save("poster.jpg");
+exit();

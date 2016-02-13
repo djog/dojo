@@ -7,7 +7,7 @@ Processing | [SMFL](https://github.com/janderkkotlarski/Cplusplus-with-SFML-cour
 ![Easy](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Easy.png) | ![Medium](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Medium.png) | ![Difficulty Hard](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Hard.png)
  ![SuperBar](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/superBar.png)|![Dark Hypersquare](https://cloud.githubusercontent.com/assets/13890380/9529429/7f52a582-4cfa-11e5-9265-51b4eed9e597.png) | ![heXon](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/heXon.png)
 
-Aan computers vertellen wat ze moeten doen is de kern van programmeren. Wil jij dit ook kunnen? Vanaf donderdag 3 september kun je bij de DOJO leren hoe je je eigen interactieve programma's maakt, zoals een échte game! Je kunt programma's leren maken voor PC of smartphone. Voorkennis is niet nodig.
+Aan computers vertellen wat ze moeten doen is de kern van programmeren. Wil jij dit ook kunnen? Elke donderdagavond kun je bij de DOJO leren hoe je je eigen interactieve programma's maakt, zoals een échte game! Je kunt programma's leren maken voor PC, maar uiteindelijk ook smartphone of Nintendo DS. Voorkennis is niet nodig.
 
 Deze avond is een cursusavond, waarin samen leren programmeren voorop staat. 
 Je zult aan de slag gaan met Processing, SFML of Urho3D, 
@@ -23,16 +23,12 @@ maar je bent ook vrij je eigen weg te kiezen.
  * Locatie: De Jonge Onderzoekers Groningen, www.djog.nl, Dirk Huizingastraat 13
  * Kosten per leerling:
    * September t/m december: 20 euro
-   * Januari tot en met mei: 20 euro (*)
+   * Januari tot en met mei: 20 euro
    * Juni en juli: 10 euro
  * Leeftijd: 8-25 jaar
  * Benodigdheden: Laptop met WiFi
 
 Aan het eind van een cursus is er een presentatie door de leerlingen en een evaluatie.
-
-(*) De cursusprijs wordt misschien twee keer zo duur, omdat we misschien de cursus
-inclusief gezond drinken en fruit in de pauze aan willen bieden. Inplaats van de 
-leerlingen steeds een euro per avond mee te laten nemen, zou het zo handiger voor ons zijn.
 
 # Veelgestelde vragen
 
@@ -45,6 +41,14 @@ Jazeker! Sterker nog, het programmeren van games is een van de leukste manieren 
 Nee. De Dojo is een cursus avond, waarbij leren voorop staat. Gamen draagt niet bij aan het leren programmeren.
 Ook niet voor de cursus, ook niet in de pauze en ook niet na de pauze.
 Heb je *zelf* een spel geprogrammeerd, dan krijg je de ruimte om het spel te laten zien en te laten testen.
+
+## Ik wil Processing doen, kan dat?
+
+Ja, dat kan altijd! [Download Processing hier](https://processing.org/download/).
+
+## Ik wil C++ doen, kan dat?
+
+Ja, dat kan! C++ is wat moeilijker dan Processing, daarom kun je er niet zomaar mee beginnen. Om ermee te mogen beginnen moet je (1) zelf een C++ programmeeromgeving installeren (2) een voorbeeld SFML of Urho3D programma kunnen laten runnen (3) dit allemaal zelfstanding Googlen. Natuurlijk helpen we je bij je vragen, maar het leeuwendeel zul je zelf moeten doen.
 
 ## Welke vrijwilligers zijn er?
 
