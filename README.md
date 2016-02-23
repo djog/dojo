@@ -62,11 +62,19 @@ op [de LucKey productions website](http://www.luckeyproductions.nl).
 [Jan geeft les in SFML](https://github.com/janderkkotlarski/Cplusplus-with-SFML-course) en is ook handig
 met GameMaker.
 
+### [Lucas](https://github.com/LJK1991)
+
+Lucas is handig in Python, C++ en Processing. Hij helpt bij de Processing klas.
+
 ### Peter
 
 Peter is de BHV-er en helpt de cursus mee achter de schermen. Hij weet veel van electronica.
 
-### Richel
+### Petra
+
+Lucas is handig met Arduino (C++) en Processing. Zij helpt vooral bij de Processing klas.
+
+### [Richel](https://github.com/richelbilderbeek)
 
 ![Richel](Images/Richel.png)
 
@@ -74,7 +82,7 @@ Richel programmeert sinds zijn achtste. Hij is de meest ervaren en belezen progr
 Richel is vooral geinteresseerd in onderwijs en heeft de lerarenopleiding aan de universiteit afgerond.
 Hij coordineert de Dojo en zal gastlessen geven bij elk van de andere docenten. 
 
-Zijn werk is te zien op [zijn website met meer dan 3900 pagina's](http://richelbilderbeek.nl) en [meer dan 200 GitHub repositories](https://github.com/richelbilderbeek?tab=repositories).
+Zijn werk is te zien op [zijn website met meer dan 3900 pagina's](http://richelbilderbeek.nl) en [meer dan 300 GitHub repositories](https://github.com/richelbilderbeek?tab=repositories).
 
 ### Thijs
 
