@@ -52,12 +52,12 @@ Ja, dat kan! C++ is wat moeilijker dan Processing, daarom kun je er niet zomaar 
 
 ## Welke vrijwilligers zijn er?
 
-### Frode
+### [Frode](https://github.com/Modanung)
 
 Frode geeft les in Urho3D en het maken van 2D of 3D graphics en het maken van geluid. Zijn werk is te zien
 op [de LucKey productions website](http://www.luckeyproductions.nl).
 
-### Jan
+### [Jan](https://github.com/janderkkotlarski)
 
 [Jan geeft les in SFML](https://github.com/janderkkotlarski/Cplusplus-with-SFML-course) en is ook handig
 met GameMaker.
@@ -66,7 +66,7 @@ met GameMaker.
 
 Lucas is handig in Python, C++ en Processing. Hij helpt bij de Processing klas.
 
-### Peter
+### [Peter](https://github.com/dpstruwe)
 
 Peter is de BHV-er en helpt de cursus mee achter de schermen. Hij weet veel van electronica.
 
@@ -84,7 +84,7 @@ Hij coordineert de Dojo en zal gastlessen geven bij elk van de andere docenten.
 
 Zijn werk is te zien op [zijn website met meer dan 3900 pagina's](http://richelbilderbeek.nl) en [meer dan 300 GitHub repositories](https://github.com/richelbilderbeek?tab=repositories).
 
-### Thijs
+### [Thijs](https://github.com/thijsvb)
 
 Thijs geeft les in Processing. Ook is Thijs handig met Arduino, te zien aan [de GitHub van de Arduino cursus](https://github.com/richelbilderbeek/ArduinoCourse).
 
