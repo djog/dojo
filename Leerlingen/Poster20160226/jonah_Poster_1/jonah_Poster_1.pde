@@ -12,3 +12,5 @@ for(int i = 0;i<1000 ; i = i+100){
   fill(0,200,255);
   ellipse(i,100,400,300);
 }
+
+save("JonahPoster0.png");

@@ -1,0 +1,40 @@
+size(595, 842);
+PImage poster = loadImage("naam.png");
+PImage logo = loadImage("djoglogo.png");
+pushMatrix();
+if(poster.width > poster.height){
+  translate(width,0);
+  rotate(HALF_PI);
+}
+image(poster,0,0);
+popMatrix();
+pushMatrix();
+scale(0.7,0.7);
+
+fill(255);
+PFont head = createFont("Source Code Pro",32*2);
+PFont font = createFont("Source Code Pro",16*2);
+PFont bold = createFont("Source Code Pro Bold",26*2);
+textFont(head);
+textAlign(LEFT,TOP);
+String[] text = loadStrings("file.txt");
+text(text[0],width/8,height/8);
+text("Dojo",width/8,height/8+32*2);
+textFont(bold);
+text(text[1],width/8,height/8+(3*32)*2);
+text(text[3],width/8,height/8+(4*32+26+16)*2);
+text(text[6],width/8,height/8+(5*32+2*26+3*16)*2);
+text(text[9],width/8,height/8+(6*32+3*26+5*16)*2);
+textFont(font);
+text(text[2],width/8,height/8+(3*32+26)*2);
+text(text[4],width/8,height/8+(4*32+2*26+16)*2);
+text(text[5],width/8,height/8+(4*32+2*26+2*16)*2);
+text(text[7],width/8,height/8+(5*32+3*26+3*16)*2);
+text(text[8],width/8,height/8+(5*32+3*26+4*16)*2);
+text(text[10],width/8,height/8+(6*32+4*26+5*16)*2);
+popMatrix();
+textSize(20);
+textAlign(RIGHT,BOTTOM);
+text(text[11] + " door Tom ",width,height*7/8);
+image(logo,width-472,height-76);
+save("Poster0.png");

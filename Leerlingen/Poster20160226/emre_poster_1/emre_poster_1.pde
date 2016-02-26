@@ -17,3 +17,5 @@ for(int i=0; i<595; i = i+3){
   line(0, i, 842, 595-i);
     line(0, i, 832, 595-i);
 }
+
+save("EmrePoter0.png");

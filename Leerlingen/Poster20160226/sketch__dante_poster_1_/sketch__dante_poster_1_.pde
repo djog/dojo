@@ -19,3 +19,5 @@ textSize(30);
 text("Processing",390,240);
 textSize(20);
 text("deze poster is geprogrammeerd door dante 10 jaar",130,450);
+
+save("DantePoster0.png");

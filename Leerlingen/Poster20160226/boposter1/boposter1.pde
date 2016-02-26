@@ -29,5 +29,7 @@ void  draw()  {
   
   
   
+  save("BoPoster0.png");
+  exit();
   
 }

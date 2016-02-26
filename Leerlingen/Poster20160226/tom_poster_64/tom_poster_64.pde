@@ -16,3 +16,5 @@ for(int j=0; j<842; j = j+5){
 
 
 }
+
+save("TomPoster0.png");

@@ -27,3 +27,5 @@ for(int j=0; j<842; j = j+5){
   stroke(99, 152,19);
   line(j,0, 595, 842-j);
 }
+
+save("RobinPoster0.png");
