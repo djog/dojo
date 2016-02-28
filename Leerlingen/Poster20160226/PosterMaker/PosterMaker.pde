@@ -1,17 +1,19 @@
 size(595, 842);
-PImage poster = loadImage("naam.png");
+PImage poster = loadImage("NaamPoster0.png");
 PImage logo = loadImage("djoglogo.png");
 pushMatrix();
 if(poster.width > poster.height){
   translate(width,0);
   rotate(HALF_PI);
 }
+//scale(0.75,0.75);
+//translate(width/2-poster.width/2, height/2-poster.height/2);
 image(poster,0,0);
 popMatrix();
 pushMatrix();
 scale(0.7,0.7);
 
-fill(255);
+fill(0);
 PFont head = createFont("Source Code Pro",32*2);
 PFont font = createFont("Source Code Pro",16*2);
 PFont bold = createFont("Source Code Pro Bold",26*2);
@@ -35,6 +37,6 @@ text(text[10],width/8,height/8+(6*32+4*26+5*16)*2);
 popMatrix();
 textSize(20);
 textAlign(RIGHT,BOTTOM);
-text(text[11] + " door Tom ",width,height*7/8);
+text(text[11] + " door Naam ",width,height*7/8);
 image(logo,width-472,height-76);
-save("Poster0.png");
+save("PosterN.png");
