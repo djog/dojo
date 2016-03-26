@@ -1,6 +1,6 @@
 # Processing boek
 
-Door Bo, Lukas, Richel
+Door Bo, Lucas, Richel
 
 ## Les ?: Tekenen
 
