@@ -1,5 +1,7 @@
 # Dojo
 
+![Codestarter logo](Codestarter.png)
+
 ![Teacher1](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Teacher.png)|![Teacher2](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Teacher.png) | ![Teacher3](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Teacher.png)
 ---|---|---
 Thijs | Jan | Frode
