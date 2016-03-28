@@ -2,6 +2,8 @@
 
 ![Codestarter logo](Codestarter.png)
 
+[![IRC Network](https://img.shields.io/badge/irc-%23NIPAP-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=Dojo)
+
 ![Teacher1](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Teacher.png)|![Teacher2](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Teacher.png) | ![Teacher3](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Teacher.png)
 ---|---|---
 Thijs | Jan | Frode
