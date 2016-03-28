@@ -1,6 +1,6 @@
 # Dojo
 
-![Codestarter logo](Codestarter.png)
+![DJOG logo](Djog.png) ![Codestarter logo](Codestarter.png)
 
 [![IRC Network](https://img.shields.io/badge/irc-%23DojoGroningen-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=DojoGroningen)
 
