@@ -1,11 +1,11 @@
 # Dojo
 
-![Codestarter logo](Codestarter.png)
+![DJOG logo](Djog.png) ![Codestarter logo](Codestarter.png)
 
-![Teacher1](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Teacher.png)|![Teacher2](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Teacher.png) | ![Teacher3](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Teacher.png)
----|---|---
-Thijs | Jan | Frode
+[![IRC Network](https://img.shields.io/badge/irc-%23DojoGroningen-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=DojoGroningen)
+
 Processing | [SMFL](https://github.com/janderkkotlarski/Cplusplus-with-SFML-course) | Urho3D
+--- | --- | ---
 ![Easy](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Easy.png) | ![Medium](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Medium.png) | ![Difficulty Hard](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Hard.png)
  ![SuperBar](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/superBar.png)|![Dark Hypersquare](https://cloud.githubusercontent.com/assets/13890380/9529429/7f52a582-4cfa-11e5-9265-51b4eed9e597.png) | ![heXon](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/heXon.png)
 
