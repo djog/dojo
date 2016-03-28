@@ -2,7 +2,7 @@
 
 ![Codestarter logo](Codestarter.png)
 
-[![IRC Network](https://img.shields.io/badge/irc-%23Dojo-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=Dojo)
+[![IRC Network](https://img.shields.io/badge/irc-%23DojoGroningen-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=DojoGroningen)
 
 ![Teacher1](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Teacher.png)|![Teacher2](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Teacher.png) | ![Teacher3](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Teacher.png)
 ---|---|---
