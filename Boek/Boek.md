@@ -1,10 +1,10 @@
-# Processing boek
+# Processing handleiding
 
 Door Bo, Lucas, Richel
 
 ## Les ?: Tekenen
 processing is een codeer taal waar goed mee getekend kan worden.
-maar voordat we daarmee beginnen moeten we eerst een paar basics te leren.
+maar voordat we daarmee beginnen moeten we eerst een paar basics leren.
 
 void setup(){
   size(400, 600);
@@ -24,8 +24,26 @@ het bestaat uit drie delen:
   ->dit is een speciale omgeving waarin we de code schrijven die wordt getekent. alles binnen de accolade's valt in draw loop.
   draw()
 [voorstel: begin meteen met setup en draw te werken]
+## Les ?: uitleg van ellipse,rect,triangle en een line (kunnen jullie dit meschien veranderen)
+Nou je weet nu de basics maar nu wil je daadwerkelijk iets gaan tekennen de makelijkste zijn:
+`ellipse:met een ellipse kan je een rondje maken.Het 1ste cijfer staat er voor hoeveel pixels de ellipse naar rechts gaat het 2de hoeveel de ellipse naar onder gaat.Het punt tussen die 2 punten is het midden van het rondje.nu wil je hem groter en kleiner maken dat doe je met het 3de en 4de cijfer.Het 3de cijfer staat er voor wat de straal is vanaf het middenpunt naar het randje van de ellipse in de breedte het 4de cijfer is eigenlijk precies het zelfde maar de verticaal.`
+`rect:Met een rect kan je een vierhoek maken.`
+`triangle:`
+`line:`
 
 
+```
+void setup() {
+size(600,400);
+}
+void draw() {
+ellipse(300,200,50,50);
+rect(250,150,50,50);
+triangle(100,300,300,100,500,300);
+line(100,100,500,300);
+}
+
+```
 ## Les ?: Beweging met een variabele
 
 Als je de vorige lessen hebt gedaan, weet
