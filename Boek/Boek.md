@@ -1,10 +1,10 @@
-# Processing handleiding
+# Processing boek
 
 Door Bo, Lucas, Richel
 
 ## Les ?: Tekenen
 processing is een codeer taal waar goed mee getekend kan worden.
-maar voordat we daarmee beginnen moeten we eerst een paar basics leren.
+maar voordat we daarmee beginnen moeten we eerst een paar basics te leren.
 
 void setup(){
   size(400, 600);
@@ -16,34 +16,26 @@ void draw(){
 
 dit stukje code geeft je een scherm om op te tekenen. 
 het bestaat uit drie delen:
--- void setup(){    }
-  -> setup() is een functie die een keer word uitgevoerd aan het begin van de code. in setup() wordt vooral het scherm              aangeroepen. ook wordt hier de frame rate van het scherm ingestelt en file's vanaf je computer geladen . dit wordt dan 1       keer uitgevoerd zodat het niet veel geheugen van je computer kost.
--- size(x, y);
-  -> dit is een de functie die een scherm maakt er grote can x breed en y hoog.
--- void draw(){   }
-  ->dit is een speciale omgeving waarin we de code schrijven die wordt getekent. alles binnen de accolade's valt in draw loop.
-  draw()
+- void setup(){    }
+  - setup() is een functie die een keer word uitgevoerd aan het begin van de code. in setup() wordt vooral het scherm              aangeroepen. ook wordt hier de frame rate van het scherm ingestelt en file's vanaf je computer geladen . dit wordt dan 1       keer uitgevoerd zodat het niet veel geheugen van je computer kost.
+- size(x, y);
+   - dit is een de functie die een scherm maakt er grote van x pixels breed en y pixels hoog.
+- void draw(){   }
+   -deze functie wordt direct opgeroepen na de setup() functie. het is een speciale omgeving waarin we de code die wordt geschreven herhaalt blijft worden.alles binnen de accolade's valt vna de draw() functie valt in deze "loop". de snelheid van het herhalen (de framerate) wordt vastgesteld in setup(). hier teken je bijvoorbeeld je games.
+
+### Vragen
+* wat moet je gebruiken als je een scherm van 800 bij 800 pixels wilt?
+* wat als je een scherm van 5 cm bij 3 cm wilt? (1 cm = 37.8 pixels)?
+* wat als je fullscreen wilt?
+
+nu als je wilt tekenen moeten we leren werken met coordinaten. net zoals op een kaart hebben we x coordinaten en y coordinaten.
+het makkelijkst is om je een grafiek dat gebruikt wordt bij wiskunde voor te stellen. 
+<hier een voorbeeld van een grid https://www.google.nl/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjvupGyyOvLAhVH3A4KHQPnAZIQjhwIBQ&url=http%3A%2F%2Fwww.datemplate.com%2Fpost_blank-x-y-graph_672581%2F&psig=AFQjCNFdSwinHzO1K1cyd8TfB9Iygn2wJw&ust=1459535675438287&cad=rjt>
+
+
 [voorstel: begin meteen met setup en draw te werken]
-## Les ?: uitleg van ellipse,rect,triangle en een line (kunnen jullie dit meschien veranderen)
-Nou je weet nu de basics maar nu wil je daadwerkelijk iets gaan tekennen de makelijkste zijn:
-`ellipse:met een ellipse kan je een rondje maken.Het 1ste cijfer staat er voor hoeveel pixels de ellipse naar rechts gaat het 2de hoeveel de ellipse naar onder gaat.Het punt tussen die 2 punten is het midden van het rondje.nu wil je hem groter en kleiner maken dat doe je met het 3de en 4de cijfer.Het 3de cijfer staat er voor wat de straal is vanaf het middenpunt naar het randje van de ellipse in de breedte.Het 4de cijfer is eigenlijk precies het zelfde maar dan verticaal.`
-`rect:Met een rect kan je een vierhoek maken.`
-`triangle:`
-`line:`
 
 
-```
-void setup() {
-size(600,400);
-}
-void draw() {
-ellipse(300,200,50,50);
-rect(250,150,50,50);
-triangle(100,300,300,100,500,300);
-line(100,100,500,300);
-}
-
-```
 ## Les ?: Beweging met een variabele
 
 Als je de vorige lessen hebt gedaan, weet
