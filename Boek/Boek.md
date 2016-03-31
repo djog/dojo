@@ -1,9 +1,28 @@
-# Processing handleiding
+# Processing boek
 
 Door Bo, Lucas, Richel
 
 ## Les ?: Tekenen
+processing is een codeer taal waar goed mee getekend kan worden.
+maar voordat we daarmee beginnen moeten we eerst een paar basics te leren.
 
+void setup(){
+  size(400, 600);
+}
+
+void draw(){
+  
+}
+
+dit stukje code geeft je een scherm om op te tekenen. 
+het bestaat uit drie delen:
+-- void setup(){    }
+  -> setup() is een functie die een keer word uitgevoerd aan het begin van de code. in setup() wordt vooral het scherm              aangeroepen. ook wordt hier de frame rate van het scherm ingestelt en file's vanaf je computer geladen . dit wordt dan 1       keer uitgevoerd zodat het niet veel geheugen van je computer kost.
+-- size(x, y);
+  -> dit is een de functie die een scherm maakt er grote can x breed en y hoog.
+-- void draw(){   }
+  ->dit is een speciale omgeving waarin we de code schrijven die wordt getekent. alles binnen de accolade's valt in draw loop.
+  draw()
 [voorstel: begin meteen met setup en draw te werken]
 
 
@@ -209,3 +228,4 @@ Daarna wordt x een hoger. Dan is `draw` klaar.
 ## Les ?: Stuiterbeweging met zwaartekracht
 
 [bal valt versnellend omlaag en beweegt naar rechts, stuitert tegen onderkant en zijkanten]
+
