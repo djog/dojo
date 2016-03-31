@@ -1,4 +1,4 @@
-# Processing boek
+# Processing handleiding
 
 Door Bo, Lucas, Richel
 
@@ -209,4 +209,3 @@ Daarna wordt x een hoger. Dan is `draw` klaar.
 ## Les ?: Stuiterbeweging met zwaartekracht
 
 [bal valt versnellend omlaag en beweegt naar rechts, stuitert tegen onderkant en zijkanten]
-
