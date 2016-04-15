@@ -9,7 +9,7 @@ maar voordat we daarmee beginnen moeten we eerst een paar basics leren.
 ```
 void setup()
 {
-  size(600, 400);
+  size(400, 600);
 }
 
 void draw() 
@@ -35,74 +35,12 @@ het bestaat uit drie delen:
 
 nu als je wilt tekenen moeten we leren werken met coordinaten. net zoals op een kaart hebben we x coordinaten en y coordinaten.
 het makkelijkst is om je een ruitjes blad dat gebruikt wordt bij wiskunde voor te stellen. 
-![alt text](/boek/Cartesian_coordinates_2D2.png "Figuur 1: coordinate grid")
-je scherm heeft pixels die werkt net als het ruitjes blad. elke pixels is een coordinaat op het ruitjesblad.
-de x coordinaten vertellen hoeveel je naar rechts en links wil, de y coordinaten hoeveel je naar boven en beneden wil.
-de computer werkt alleen net iets anders op de y-as (naar boven en beneden). Als je naar beneden wilt moet je y coordinaat groter worden. zoals in het plaatje te zien is. coordinaten worden altijd geschreven met de x coordinaat eerst en daarna de y coordinaat (x,y). wanneer coordinaten worden door gegeven aan de computer kunnen we tekenen op het scherm.
- ![alt text](/boek/Cartesian_coordinates_2D.png "Figuur 2: computer coordinate grid")
+![alt text](/boek/xygrid.jpg "coordinate grid")
+je scherm heeft pixels die werkt net als het ruitjes blad. elke pixels is een coordinaat op het ruitjesblad. 
+door coordinaten door te geven aan de computer kunnen we tekenen op het scherm.
+Er zijn vier simpele functies om mee te tekenen op het scherm.
 
-### Vragen
-pak een schrift of blaadje met ruitjes. hierop gaan we coordinaten oefenen.
-* teken een computer grid met een x-as van 15 pixels en een y-as van 15 pixels, zet links bovenin de 0 en tel dan bij elke lijn 1 op tot je 15 pixels hebt.
-LETOP! een computer telt inplaats van 1 tot 15 van 0 tot tot 14. als je goed kijkt zie dat er dan nog steeds 15 cijfers zijn. 
-* zet een stip op coordinaat (0,0), (0,14), (14,0), (14,14), (7,7)).
-* zet een stip of coordinaat (7,3)
-* zet een stip of coordinaat (5,1)
-* zet een stip of coordinaat (3,3)
-* zet een stip of coordinaat (7,7)
-* zet een stip of coordinaat (11,3)
-* zet een stip of coordinaat (9,1)
-* verbint nu alle stippen. (als het goed is een hartje)
-
-Er zijn vier simpele functies om mee te tekenen op het computer scherm en ze werken allemaal met x en y coordinaten.
-line (lijn),triangle (driehoek),rect (rechthoek),ellipse (cirkel).
-
-`line(x1,y1,x2,y2)`: dit tekent een lijn van punt 1 naar punt 2. de x1 en y1 vertellen waar het eerste punt komt, x2 en y2 waar het tweede punt komt. de computer tekent dan een lijn tussen deze twee punten in.
-
-### Vragen
-nu gaan we tekenen op de computer. hiervoor hebben we een stukje code nodig dat eerder is uitgelegd.
-```
-void setup()
-{
-  size(600, 400);
-}
-
-void draw() 
-{
-!!!! HIER ALLES DAT GETEKENT MOET WORDEN!!!!
-}
-```
-* teken deze lijnen: `line(200,150,250,100)`,`line(250,100,300,150)`, `line(200,150,300,150)`
-* teken een lijn van coordinaat (200,150) naar (200, 250)
-* teken een lijn van coordinaat (200,250) naar (300, 250)
-* teken een lijn van cordinaat (300,250) naar (300,150)
-je hebt nu een huisje getekent.
-je code moet er nu zo uit zien.
-```
-void draw()
-{
-line(200,150,250,100);
-line(250,100,300,150);
-line(200,150,300,150);
-line(200,150,200,250);
-line(200,250,300,250);
-line(300,250,300,150);
-}
-```
-
-* wat gebeurt er als je een lijn tekent van coordinaat (500,200) naar (700,200)
-* wat gebeurt er als je een lijn tekent van coordinaat (100,300) naar (100,500)
-* wat gebeurt er als je een lijn tekent van coordinaat (-100,100) naar (100,100)
-* wat gebeurt er als je een lijn tekent van coordinaat (100,-100) naar (100,100)
-* speel met de `line(x1,y1,x2,y2)` functie todat je hem onder de knie hebt.
-
-
-nu heb je onder de knie hoe je lijnen kunt tekenen, met lijnen kan je natuurlijk alle figuren maken die je wilt, maar er zijn ook al makkelijkere functies gemaakt die je daarbij heel goed kunnen helpen. in de oefening heb je een dak getekend voor een huisje. inplaats van drie line() functies te gebruiken kan je ook een triangle() functie gebruiken. de triangle() functie kan in een keer driehoeken tekenen.
-`triangle(x1,y1,x2,y2,x3,y3)`: de triangle() functie heeft 3 coordinaten nodig en verbint deze dan met lijnen. 
- 
-### Vragen
-* teken een driehoek ...
-* vervang de 3 line() functies uit de vorige opdracthen met 1 triangle() functie 
+line:
 
 ellipse:met een ellipse kan je een rondje maken. Het 1ste cijfer staat er voor hoeveel pixels de ellipse naar rechts gaat het 2de hoeveel de ellipse naar onder gaat.Het punt tussen die 2 punten is het midden van het rondje.nu wil je hem groter en kleiner maken dat doe je met het 3de en 4de cijfer.Het 3de cijfer staat er voor wat de straal is vanaf het middenpunt naar het randje van de ellipse in de breedte.Het 4de cijfer is eigenlijk precies het zelfde maar dan verticaal.
 rect:Met een rect kan je een vierhoek maken.
