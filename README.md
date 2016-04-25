@@ -1,5 +1,7 @@
 # Dojo
 
+# :heavy_exclamation_mark: Donderdag 5 mei zijn we dicht :heavy_exclamation_mark:
+
 ![DJOG logo](Djog.png) ![Codestarter logo](Codestarter.png)
 
 [![IRC Network](https://img.shields.io/badge/irc-%23DojoGroningen-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=DojoGroningen)
