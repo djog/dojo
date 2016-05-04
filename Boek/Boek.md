@@ -20,12 +20,12 @@ void draw()
 
 dit stukje code geeft je een scherm om op te tekenen. 
 het bestaat uit drie delen:
--- `void setup()`{    }
-  -> setup() is een functie die een keer word uitgevoerd aan het begin van de code. in setup() wordt vooral het scherm aangeroepen. ook wordt hier de frame rate van het scherm ingestelt en file's vanaf je computer geladen . dit wordt dan 1 keer uitgevoerd zodat het niet veel geheugen van je computer kost.
--- `size(x, y)`;
-  -> dit is een de functie die een scherm maakt er grote can x breed en y hoog.
--- `void draw()`{   }
-  ->dit is een speciale omgeving waarin we de code schrijven die wordt getekent. alles binnen de accolade's valt in draw loop.
+* `void setup()`{    }
+  * setup() is een functie die een keer word uitgevoerd aan het begin van de code. in setup() wordt vooral het scherm aangeroepen. ook wordt hier de frame rate van het scherm ingestelt en file's vanaf je computer geladen . dit wordt dan 1 keer uitgevoerd zodat het niet veel geheugen van je computer kost.
+* `size(x, y)`;
+  * dit is een de functie die een scherm maakt er grote can x breed en y hoog.
+* `void draw()`{   }
+  * dit is een speciale omgeving waarin we de code schrijven die wordt getekent. alles binnen de accolade's valt in draw loop.
   draw()
 
 ### Vragen
@@ -39,7 +39,7 @@ het makkelijkst is om je een ruitjes blad dat gebruikt wordt bij wiskunde voor t
 je scherm heeft pixels die werkt net als het ruitjes blad. elke pixels is een coordinaat op het ruitjesblad.
 de x coordinaten vertellen hoeveel je naar rechts en links wil, de y coordinaten hoeveel je naar boven en beneden wil.
 de computer werkt alleen net iets anders op de y-as (naar boven en beneden). Als je naar beneden wilt moet je y coordinaat groter worden. zoals in het plaatje te zien is. coordinaten worden altijd geschreven met de x coordinaat eerst en daarna de y coordinaat (x,y). wanneer coordinaten worden door gegeven aan de computer kunnen we tekenen op het scherm.
- ![alt text](/boek/Cartesian_coordinates_2D.png "Figuur 2: computer coordinate grid")
+ ![alt text](/boek/Computer_coordinates_2D.png "Figuur 2: computer coordinate grid")
 
 ### Vragen
 pak een schrift of blaadje met ruitjes. hierop gaan we coordinaten oefenen.
@@ -101,12 +101,70 @@ nu heb je onder de knie hoe je lijnen kunt tekenen, met lijnen kan je natuurlijk
 `triangle(x1,y1,x2,y2,x3,y3)`: de triangle() functie heeft 3 coordinaten nodig en verbint deze dan met lijnen. 
  
 ### Vragen
-* teken een driehoek ...
+* teken een driehoek op coordinaten (100,20), (50,50), (150,50)
+* teken een paar driehoeken, om te oefenen.
 * vervang de 3 line() functies uit de vorige opdracthen met 1 triangle() functie 
 
-ellipse:met een ellipse kan je een rondje maken. Het 1ste cijfer staat er voor hoeveel pixels de ellipse naar rechts gaat het 2de hoeveel de ellipse naar onder gaat.Het punt tussen die 2 punten is het midden van het rondje.nu wil je hem groter en kleiner maken dat doe je met het 3de en 4de cijfer.Het 3de cijfer staat er voor wat de straal is vanaf het middenpunt naar het randje van de ellipse in de breedte.Het 4de cijfer is eigenlijk precies het zelfde maar dan verticaal.
-rect:Met een rect kan je een vierhoek maken.
-triangle:
+om een vierkant of cirkel te tekenen krijg je met twee nieuwe termen te maken, hoogte en breedte. om een vierkant te tekenen geef je de (x,y) coordinaten van de linker bovenhoek van het vierkant. daarna vertel je hoe breed en hoog het vierkant moet worden. 
+`rect(x,y,breedte,hoogte)`
+
+### Vragen
+* teken een vierkant op coordinaat (500,100) met een hoogte van 100 en een breedte van 50
+* teken een vierkant met hoogte 40 en breedte 100
+* teken een vierkant met breedte 60 en hoogte 60
+* vervang de 3 overgebleven line() functies van het huisje en vervang het met 1 rect() functie
+* teken een raampje en een deur in het huisje met de rect()
+
+de ellipse is vergelijkbaar met de rect() fuctie. Een word een coordinaat gegeven met een breedte en een hoogte. bij de ellipse is de coordinaat die gegeven wordt het middelste punt van de cirkel.
+`ellipse(x,y,breedte,hoogte)`
+
+### Vragen
+* teken een cirkel op coordinaat (100, 300) met breedte 50 en hoogte 50
+* wat gebeurte er als je de hoogte verandert maar de breedte niet
+* teken een cirkel op coordinaat (100, 300) met breedte 70 en hoogte 30
+* teken een cirkel op coordinaat (100, 300) met hoogte 70 en breedte 30
+* teken een paar cirkels om te oefenen
+* teken een zolderraam in het huisje
+
+nu weet je de basic functies om mee te tekenen in processing. Er zijn een aantal andere functies om de vier vooreen uitgelegde functies te versterken en flexibeler te maken. eerst moeten we wat leren over het RGB kleuren systeem. RGB is een afkorting van RED GREEN BLUE. met deze drie kleuren kan de computer alle mogelijke kleuren die wij kunnen zien maken. de computer heeft voor elke van de drie kleuren (RED/GREEN/BLUE) een waarde van 0 tot 255 nodig. hoe hoger de waarde hoe feller de kleur, op deze site kan je een beetje spelen met RGB. [RGB rekenmachine](http://www.rapidtables.com/web/color/RGB_Color.html)
+Er drie functies die werken met het RGB systeem.
+* `background(RED, GREEN, BLUE)` 
+  * background() wordt in het begin draw() opgeroepen. background staat voor achtergrond en bepaalt dus de kleur van het scherm zelf. 
+* `fill(RED, GREEN, BLUE)`
+  * fill() wordt gebruikt om je figuur dat net is getekend in te vullen met een kleur. fill() werkt met ellipse(), triangle() en rect(). 
+* `stroke(RED, GREEN, BLUE)`
+  * stroke() wordt gebruikt om de lijn van het figuur te kleuren. stroke() werkt met ellipse(), triangle(), rect() en line().
+
+* `noFill()`
+  * noFill() is het omgekeerde van fill(), het zorgt ervoor dat er het figuur dat getekent is doorzichtig wordt. noFill() werkt met ellipse(), triangle() en rect(). 
+* `noStroke()`
+  * noStroke() zorgt ervoor dat de lijnen waarmee je figuur wordt getekent verdwijnen. noStroke() werkt met ellipse(), triangle(), rect() en line().
+* `strokeWeight(x)`
+  * strokeWeight() bepaalt de dikte van de lijnen die worden getekent. als je een figuur wilt met dikke lijnen gebruikt je de strokeWeight().
+
+dit zijn allemaal functies om je tekeningen mooier te maken of in te kleuren. TIP: deze functie schrijf je boven het figuur dat je wil tekenen. als je het erna zet werkt het niet.
+```
+void draw(){
+background(0,0,0)
+
+//dit werkt
+fill(0,255,0)
+rect(100,100,50,50)
+
+//dit niet
+rect(100,100,50,50)
+fill(255,0,0)
+}
+```
+
+### Vragen
+* geef de tekening een mooie achtegrond kleur die jezelf hebt uitgezocht met de RGB rekenmachine
+* kleur het huisje in
+* geef een figuur dikkere lijnen
+* maak een figuur doorzichtig
+* geef een figuur blauw zonder de zwarte lijnen om het figuur.
+
+nu weet je hoe je kan tekenen met Processing. Dit is het begin om games te maken. als het coördinaten vinden nog lastig gaat blijf oefenen met tekenen. In de volgende hoofdstukken gaan we leren hoe we de tekeningen die we hebben gemaakt kunnen laten bewegen.
 
 
 [voorstel: begin meteen met setup en draw te werken]
