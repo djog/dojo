@@ -30,7 +30,8 @@ maar je bent ook vrij je eigen weg te kiezen.
  * Leeftijd: 8-25 jaar
  * Benodigdheden: Laptop met WiFi
 
-Aan het eind van een cursus is er een presentatie door de leerlingen en een evaluatie.
+Op donderdag 7 juli is er een eindpresentatie, waarin elke leerling iets presenteert.
+Er is dan ook een evalutie.
 
 # Veelgestelde vragen
 

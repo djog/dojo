@@ -4,14 +4,14 @@
 -------------------------------------------------------------------------
 
 Wie: leerlingen van de Dojo
-Wanneer: 10 december 2015
-Hoe laat: 19:15-21:00
+Wanneer: 7 juli 2016
+Hoe laat: 19:00-20:30
 Waar: De Jonge Onderzoekers, Dirk Huizingastraat 13
 
 -------------------------------------------------------------------------
                   PLANNING (dit zijn natuurlijk richtlijnen)
 -------------------------------------------------------------------------
-19:00-19:15: Inloop (met koffie voor de ouders)
+19:00-19:15: Inloop (met koffie voor de ouders) (eerder mag ook!)
 19:15-19:30: Voorbereiding && Inleiding
  * leerlingen: @ houtlokaal om presentaties op een computer te zetten
  * ouders: @ kantine, waar Dojo leraren vertellen 
