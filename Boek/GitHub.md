@@ -3,7 +3,17 @@
 GitHub is een site waar programmeurs samen aan programma's werken.
 Dit doen ze, omdat ze dan nooit meer hun code kwijtraken.
 
-# :exclamation: Waarschuwing
+Wij gaan vandaag GitHub gebruiken om:
+
+ * Nooit meer code kwijt te raken
+ * Altijd bij onze code te kunnen
+
+Wij gaan later GitHub gebruiken om:
+
+ * Samen te kunnen werken
+ * Onze games online to kunnen zetten
+
+# :exclamation: Waarschuwing :exclamation:
 
 GitHub is openbaar. Iedereen kan zien wat je doet. Doe dus alleen slimme dingen op GitHub:
 
@@ -111,6 +121,6 @@ Het bestand `README.md` bevat de welkomsttekst van je website. Dit gaan we aanpa
 ![README.md wijzigen](GitHubEditReadme2.png)
 
  * Zet hier iets leuks. Je kunt ook je plaatje laten zien, met bijvoorbeeld `![Dit vind ik leuk](plaatje.jpg)`
-
+ * Zet je code op GitHub
 
 
