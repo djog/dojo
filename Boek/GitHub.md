@@ -3,9 +3,7 @@
 GitHub is een site waar programmeurs samen aan programma's werken.
 Dit doen ze, omdat ze dan nooit meer hun code kwijtraken.
 
-# Waarschuwing
-
-:!:
+# :exclamation: Waarschuwing
 
 GitHub is openbaar. Iedereen kan zien wat je doet. Doe dus alleen slimme dingen op GitHub:
 
@@ -69,7 +67,7 @@ Nu je een account hebt, kun je vrienden maken
 
 ## Een eigen GitHub website aanmaken
 
-:!: Dit kan alleen als je je emailadres bevestigd hebt
+:exclamation: Dit kan alleen als je je emailadres bevestigd hebt
 
 ### Maak een nieuwe GitHub website
 
@@ -106,11 +104,11 @@ Het bestand `README.md` bevat de welkomsttekst van je website. Dit gaan we aanpa
 
  * Klik op het woord `README.md`
 
-[README.md wijzigen](GitHubEditReadme1.png)
+![README.md wijzigen](GitHubEditReadme1.png)
 
  * Klik op het potloodje met de tekst `Edit this file`
 
-[README.md wijzigen](GitHubEditReadme2.png)
+![README.md wijzigen](GitHubEditReadme2.png)
 
  * Zet hier iets leuks. Je kunt ook je plaatje laten zien, met bijvoorbeeld `![Dit vind ik leuk](plaatje.jpg)`
 
