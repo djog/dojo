@@ -4,7 +4,7 @@
 -------------------------------------------------------------------------
 
 Wie: leerlingen van de Dojo
-Wanneer: 7 juli 2016
+Wanneer: 30 juni 2016
 Hoe laat: 19:00-20:30
 Waar: De Jonge Onderzoekers, Dirk Huizingastraat 13
 
