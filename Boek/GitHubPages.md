@@ -93,10 +93,10 @@ Elke website is een map met bestanden, alleen staat de map niet op jouw computer
 
 * Noem het nieuwe bestand `index.html`
 * Begin het bestand met `<!doctype html>`
-* Open een `html` tag met `<html>`
+* Open op een nieuwe regel een `html` tag met `<html>`
 * Open op een nieuwe regel een `head` tag met `<head>`
 * Open op een nieuwe regel een `title` tag met `<title>`
-* Typ hier de title van je webpagina, bijvoorbeeld `Hello World`
+* Typ hier de titel van je webpagina, bijvoorbeeld `Hello World`
 * Sluit de `title` tag met `</title>`
 * Sluit op een nieuwe regel de `head` tag met `</head>`
 * Open op een nieuwe regel een `body` tag met `<body>`
@@ -115,6 +115,7 @@ Als het goed is ziet je bestand er nu zo uit:
 
 * Klik onderaan op de groene `Commit new file` knop
 * Ga in je browser naar je GitHub Page en bewonder je eigen website!
+* Ga terug naar je GitHub Page repository
 * Klik bij `index.html` op het podloodje om het bestand te bewerken
 * Maak een paar veranderingen en klik op `Commit changes`
 * Bewonder nu je eigen gepersonaliseerde website en bekijk ook eens die van je klasgenoten!
