@@ -58,14 +58,6 @@ HTML staat voor HyperText Markup Language en is een opmaaktaal. Met een opmaakta
 Om tekstopmaak te doen in een programma zoals *Microsoft Word* heb je allerlei knoppen; dikgedrukte tekst, schuine tekst, plaatje, etc.
 In HTML heb je daar *tags* voor; `<b></b>`, `<i></i>`, `<img></img>`.
 
-Een stukje HTML kan er bijvoorbeeld zo uit zien:
-```
-<body>
-  <h1>Hello World</h1>
-  <p>This is <b>my</b> website!</p>
-</body>
-```
-
 Een stukje HTML met een tag gaat altijd op deze manier:
 
 `<tag>(n)iets</tag>`
@@ -74,3 +66,55 @@ Een stukje HTML met een tag gaat altijd op deze manier:
 * `(n)iets` kan een heleboel zijn, zoals teks, nog meer tags, of helemaal niks
 * `</tag>` sluit de tag, hier moet in plaats van `tag` het zelfde als in de openende tag staan
 
+Een HTML-bestand begint altijd met `<!doctype html>`, dit verteld een programma wat het bestand opent dat het in HTML geschreven is.
+De rest van het bestand staat in één `html` tag, die weer is opgedeeld in één `head` tag en één `body` tag.
+
+In de `head` tag staat informatie *over* de webpagina, in de `body` tag staat wat er *op* de webpagina komt.
+
+Een stukje HTML kan er bijvoorbeeld zo uit zien:
+```
+<body>
+  <h1>Hello World</h1>
+  <p>This is <b>my</b> website!</p>
+</body>
+```
+
+###De homepage maken
+
+Elke website is een map met bestanden, alleen staat de map niet op jouw computer. Een repository is ook een map, en de GitHub Page repository is ook jouw website. De homepage van elke website is het bestand `index.html`, die gaan we dus maken!
+
+* Ga naar je GitHub Page repository
+
+![De GitHub Page repository](GitHubCreateNewFile.png)
+
+* Klik op `New file`
+
+![Maak index.html](GitHubCreateIndex.png)
+
+* Noem het nieuwe bestand `index.html`
+* Begin het bestand met `<!doctype html>`
+* Open een `html` tag met `<html>`
+* Open op een nieuwe regel een `head` tag met `<head>`
+* Open op een nieuwe regel een `title` tag met `<title>`
+* Typ hier de title van je webpagina, bijvoorbeeld `Hello World`
+* Sluit de `title` tag met `</title>`
+* Sluit op een nieuwe regel de `head` tag met `</head>`
+* Open op een nieuwe regel een `body` tag met `<body>`
+* Open op een nieuwe regel een `h1` tag met `<h1>`
+* Typ hier een kop voor je webpagina, bijvoorbeeld `Hallo`
+* Sluit de `h1` tag met `</h1>`
+* Open op een nieuwe regel een `p` tag met `<p>`
+* Type hier een stukje tekst voor je webpagina, bijvoorbeeld `Welkom op mijn website`
+* Sluit de `p` tag met `</p>`
+* Sluit op een nieuwe regel de `body` tag met `</body>`
+* Sluit op een nieuwe regel de `html` tag met `</html>`
+
+Als het goed is ziet je bestand er nu zo uit:
+
+![index.html](GitHubCreateIndex1.png)
+
+* Klik onderaan op de groene `Commit new file` knop
+* Ga in je browser naar je GitHub Page en bewonder je eigen website!
+* Klik bij `index.html` op het podloodje om het bestand te bewerken
+* Maak een paar veranderingen en klik op `Commit changes`
+* Bewonder nu je eigen gepersonaliseerde website en bekijk ook eens die van je klasgenoten!
