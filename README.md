@@ -4,7 +4,7 @@
 
 [![IRC Network](https://img.shields.io/badge/irc-%23DojoGroningen-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=DojoGroningen)
 
-Processing | [SMFL](https://github.com/janderkkotlarski/Cplusplus-with-SFML-course) | Urho3D
+[Processing](Lessen/README.md) | [SMFL](https://github.com/janderkkotlarski/Cplusplus-with-SFML-course) | Urho3D
 --- | --- | ---
 ![Easy](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Easy.png) | ![Medium](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Medium.png) | ![Difficulty Hard](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Hard.png)
  ![SuperBar](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/superBar.png)|![Dark Hypersquare](https://cloud.githubusercontent.com/assets/13890380/9529429/7f52a582-4cfa-11e5-9265-51b4eed9e597.png) | ![heXon](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/heXon.png)
@@ -30,7 +30,7 @@ maar je bent ook vrij je eigen weg te kiezen.
  * Leeftijd: 8-25 jaar
  * Benodigdheden: Laptop met WiFi
 
-Op donderdag 7 juli is er een eindpresentatie, waarin elke leerling iets presenteert.
+Op donderdag 30 juni is er een eindpresentatie, waarin elke leerling iets presenteert.
 Er is dan ook een evalutie.
 
 # Veelgestelde vragen
@@ -48,6 +48,8 @@ Heb je *zelf* een spel geprogrammeerd, dan krijg je de ruimte om het spel te lat
 ## Ik wil Processing doen, kan dat?
 
 Ja, dat kan altijd! [Download Processing hier](https://processing.org/download/).
+
+De lessen staan [hier](Lessen/README.md).
 
 ## Ik wil C++ doen, kan dat?
 
