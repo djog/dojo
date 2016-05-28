@@ -11,6 +11,7 @@ Dit zijn de Processing lessen
 
  * [GitHub #1: account aannmaken](GitHub/README.md)
  * [GitHub #2: homepage maken](GitHubPages/README.md)
+ * [GitHub #3: Processing sketch op je homepage zetten](ProcessingJS/README.md)
 
 ## Andere dingen
 
