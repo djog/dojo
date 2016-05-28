@@ -32,7 +32,7 @@ In deze les maken we een GitHub account en gaan we onze code er op zetten.
 
 Je komt nu op de GitHub homepage:
 
-![GitHub homepage](GitHubHomepage.png)
+GitHub homepage](GitHubHomepage.png)
 
 De kat heet Octocat en is de mascotte van GitHub.
 

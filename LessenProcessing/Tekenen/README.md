@@ -34,11 +34,14 @@ het bestaat uit drie delen:
 
 Nu als je wilt tekenen moeten we leren werken met coordinaten. net zoals op een kaart hebben we x coordinaten en y coordinaten.
 het makkelijkst is om je een ruitjes blad dat gebruikt wordt bij wiskunde voor te stellen. 
-![alt text](/boek/Cartesian_coordinates_2D2.png "Figuur 1: coordinate grid")
+
+![Figuur 1: coordinate grid](Cartesian_coordinates_2D2.png)
+
 je scherm heeft pixels die werkt net als het ruitjes blad. elke pixels is een coordinaat op het ruitjesblad.
 de x coordinaten vertellen hoeveel je naar rechts en links wil, de y coordinaten hoeveel je naar boven en beneden wil.
 de computer werkt alleen net iets anders op de y-as (naar boven en beneden). Als je naar beneden wilt moet je y coordinaat groter worden. zoals in het plaatje te zien is. coordinaten worden altijd geschreven met de x coordinaat eerst en daarna de y coordinaat (x,y). wanneer coordinaten worden door gegeven aan de computer kunnen we tekenen op het scherm.
- ![alt text](/boek/Computer_coordinates_2D.png "Figuur 2: computer coordinate grid")
+
+![Figuur 2: computer coordinate grid](Computer_coordinates_2D.png)
 
 ### Vragen
 

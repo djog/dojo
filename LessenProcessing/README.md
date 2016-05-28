@@ -4,15 +4,15 @@ Dit zijn de Processing lessen
 
 ## Processing
 
- * [Les 1: Tekenen](Tekenen.md)
- * [Les 2: Beweging met een variabele](BewegingMetEenVariabele.md)
+ * [Les 1: Tekenen](Tekenen/README.md)
+ * [Les 2: Beweging met een variabele](BewegingMetEenVariabele/README.md)
 
 ## GitHub
 
- * [GitHub #1: account aannmaken](GitHub.md)
- * [GitHub #2: homepage maken](GitHubPages.md)
+ * [GitHub #1: account aannmaken](GitHub/README.md)
+ * [GitHub #2: homepage maken](GitHubPages/README.md)
 
 ## Andere dingen
 
- * [Boek](Boek.md)
+ * [Boek](Boek/README.md)
 
