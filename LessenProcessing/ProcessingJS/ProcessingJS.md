@@ -29,7 +29,7 @@ Je komt nu op de download pagina
 * Kies een plek op je computer waar je het bestand zo terug kan vinden (Tip: `Bureaublad` of `Desktop` is vaak makkelijk te vinden!)
 * Ga naar je GitHub Page repository
 
-![GitHub Page repository](GitHubCreateNewFile.png)
+![GitHub Page repository](../GitHubPages/GitHubCreateNewFile.png)
 
 * Klik op `Upload file`
 
@@ -43,7 +43,7 @@ Je komt nu op de download pagina
 * Als je in de sketch map kijkt staat daar een `.pde` bestand, deze hebben we straks nodig
 * Ga naar je GitHub Page repository
 
-![GitHub Page repository](GitHubCreateNewFile.png)
+![GitHub Page repository](../GitHubPages/GitHubCreateNewFile.png)
 
 * Klik op `Upload file`
 
@@ -56,7 +56,7 @@ Nu ga je de sketch op je homepage zetten
 
 * Ga naar je GitHub Page repository
 
-![GitHub Page repository](GitHubCreateNewFile.png)
+![GitHub Page repository](../GitHubPages/GitHubCreateNewFile.png)
 
 * Klik op `index.html`
 * Klik op het podloodje rechts boven
