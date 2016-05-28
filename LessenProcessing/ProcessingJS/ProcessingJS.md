@@ -13,7 +13,7 @@ Processing.js is een JavaScript bestand. Om het te gebruiken moeten we het eerst
 
 Je komt nu op de homepage
 
-![ProcessingJS homepage](ProcessingJSHome.png]
+![ProcessingJS homepage](ProcessingJSHome.png)
 
 * Klik bovenin op `download` 
 
@@ -57,3 +57,13 @@ Nu ga je de sketch op je homepage zetten
 * Ga naar je GitHub Page repository
 
 ![GitHub Page repository](GitHubCreateNewFile.png)
+
+* Klik op `index.html`
+* Klik op het podloodje rechts boven
+* Open een nieuwe regel in head (dus tussen `<head>` en `</head>`)
+* Typ hier deze regel over: `<script src="processing.js"></script>`
+* Open een nieuwe regel in body (dus tussen `<body>` en `</body>`)
+* Typ hier deze regel over: `<canvas data-processing-sources="voorbeeld.pde"></canvas>`
+* Vervang nu `voorbeeld` voor de naam van je `.pde` bestand
+* Klik onderaan op de groene knop `Commit changes`
+* Ga naar je website en bewonder je werk!
