@@ -65,5 +65,10 @@ Nu ga je de sketch op je homepage zetten
 * Open een nieuwe regel in body (dus tussen `<body>` en `</body>`)
 * Typ hier deze regel over: `<canvas data-processing-sources="voorbeeld.pde"></canvas>`
 * Vervang nu `voorbeeld` voor de naam van je `.pde` bestand
+
+Het bestand moet er nu ongeveer zo uit zien:
+
+![index](EditIndex.png)
+
 * Klik onderaan op de groene knop `Commit changes`
 * Ga naar je website en bewonder je werk!
