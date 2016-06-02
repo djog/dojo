@@ -16,4 +16,5 @@ Dit zijn de Processing lessen
 ## Andere dingen
 
  * [Boek](Boek/README.md)
+ * [Scorebord](../Leerlingen/README.md)
 
