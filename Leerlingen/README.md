@@ -2,7 +2,7 @@
 
 ##Scorebord
 |**Plek**|**Naam**|**Punten**|**Quote**|**Link**|
-|---|---|:---:|---|---|
+|:---:|:---|:---:|---:|---:|
 |**1**|Ruben|5|*"Simple but neat, I like the minimalist look of it."* ~ NakedFluffyBee|[[PWC11] Pong by Ruben](https://redd.it/4l6thy)|
 
 ## Aik & Job
