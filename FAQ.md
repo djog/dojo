@@ -85,3 +85,13 @@ cd ~/Programs/processing-3.0.1/java/lib/fonts
 su
 cp *.* /usr/lib/jvm/java-8-oracle/jre/lib/fonts
 ```
+
+## Could not start `java`. Ik heb Debian
+
+Doe
+
+```
+uname -a
+```
+
+Dan kun je zien dat je de 64 bit versie moet downloaden :-)
