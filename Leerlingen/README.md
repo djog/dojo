@@ -3,7 +3,9 @@
 ##Scorebord
 |**Plek**|**Naam**|**Punten**|**Quote**|**Link**|
 |:---:|:---|:---:|---:|---:|
-|**1**|Ruben|5|*"Simple but neat, I like the minimalist look of it."* ~ NakedFluffyBee|[[PWC11] Pong by Ruben](https://redd.it/4l6thy)|
+|**1**|Ruben|5|*"Simple but neat, I like the minimalist look of it."* ~ NakedFluffyBee|[PWC11](https://redd.it/4l6thy)|
+|**2**|Jorn|2|*"Winner from last week: 12 year old Jorn!"* ~ seoceojoe|[PWC12](https://redd.it/4meopg)|
+|**3**|Jonah|1|*"great effort for a 9 year old! it would be a simple matter to reset the level and position variables when checking for game over state to actually end the game when the player steps out of bounds, making you have to start over! just a suggestion."* ~ Introscopia |[PWC12](https://redd.it/4m8lss)|
 
 ## Aik & Job
 
