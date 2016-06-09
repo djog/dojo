@@ -4,6 +4,11 @@
 
 [![IRC Network](https://img.shields.io/badge/irc-%23DojoGroningen-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=DojoGroningen)
 
+[![IRC Network](https://img.shields.io/badge/irc-%23DojoGroningen2-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=DojoGroningen2)
+
+[![IRC Network](https://img.shields.io/badge/irc-%23DojoGroningen3-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=DojoGroningen3)
+
+
 [![IRC Network](https://img.shields.io/badge/irc-%23PwcGroningen-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=PwcGroningen)
 
 
