@@ -6,6 +6,7 @@ Dit zijn de Processing lessen
 
  * [Les 1: Tekenen](Tekenen/README.md)
  * [Les 2: Beweging met een variabele](BewegingMetEenVariabele/README.md)
+ * [PImage les 1](PImage1/README.md)
 
 ## GitHub
 
