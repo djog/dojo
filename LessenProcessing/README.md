@@ -14,6 +14,7 @@ Dit zijn de Processing lessen
  * [GitHub #2: homepage maken](GitHubPages/README.md)
  * [GitHub #3: Processing sketch op je homepage zetten](ProcessingJS/README.md)
  * [GitHub chat](GitHubChat/README.md)
+ * [GitHub en samenwerken](GitHubSamenwerken/README.md)
 
 ## Andere dingen
 
