@@ -22,7 +22,7 @@ Hoe meer pixels je scherm heeft, hoe scherper je beeldscherm eruit ziet
 Vroeger hadden computers een lage resolutie. Daarom zien oude
 spellen er wat blokkiger uit:
 
-![Super Mario Bros 1 op de NES](NES_Super_Mario_Bros.png =200x200)
+![Super Mario Bros 1 op de NES](NES_Super_Mario_Bros.png)
 
 ## Vragen
 
