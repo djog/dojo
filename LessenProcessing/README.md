@@ -4,8 +4,9 @@ Dit zijn de Processing lessen
 
 ## Processing
 
- * [Les 1: Tekenen](Tekenen/README.md)
- * [Les 2: Beweging met een variabele](BewegingMetEenVariabele/README.md)
+ * [Les 1: Iets moois](IetsMoois/README.md)
+ * [Les 2: point](Point/README.md)
+ * [Les 3: Beweging met een variabele](BewegingMetEenVariabele/README.md)
  * [PImage les 1](PImage1/README.md)
 
 ## GitHub
@@ -18,6 +19,7 @@ Dit zijn de Processing lessen
 
 ## Andere dingen
 
+ * [Tekenen](Tekenen/README.md)
  * [Boek](Boek/README.md)
  * [Scorebord](../Leerlingen/README.md)
 
