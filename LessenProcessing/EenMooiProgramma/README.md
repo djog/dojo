@@ -32,7 +32,7 @@ Dubbelklik hierop.
 
 Start een Terminal. Dit kan soms met `Win+T`, `CTRL+ALT+T`, of deze te vinden in de menuutjes, of te zoeken op het woord `Terminal`
 
-![Een terminal](Images/Terminal.png)
+![Een terminal](Terminal.png)
 
 Ga naar de folder waar Processing in staat. Hiervoor is het command `cd`. `cd` is een afkorting van 'Change Directory'. "Change Directory' is Engels voor 'Verander van folder'.
 
