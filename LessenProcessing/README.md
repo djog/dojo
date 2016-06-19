@@ -4,7 +4,7 @@ Dit zijn de Processing lessen
 
 ## Processing
 
- * [Les 1: Iets moois](IetsMoois/README.md)
+ * [Les 1: Een mooi programma](EenMooiProgramma/README.md)
  * [Les 2: point](Point/README.md)
  * [Les 3: Beweging met een variabele](BewegingMetEenVariabele/README.md)
  * [PImage les 1](PImage1/README.md)
