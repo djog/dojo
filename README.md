@@ -32,8 +32,9 @@ maar je bent ook vrij je eigen weg te kiezen.
  * Leeftijd: 8-25 jaar
  * Benodigdheden: Laptop met WiFi
 
-Op donderdag 30 juni is er een eindpresentatie, waarin elke leerling iets presenteert.
-Er is dan ook een evalutie.
+Op donderdag 30 juni is er een eindpresentatie, waarin elke leerling iets presenteert:
+
+![Flyer presentatie 30 juni 2016](Dingen/Presentatie20160630.png)
 
 # Veelgestelde vragen
 
