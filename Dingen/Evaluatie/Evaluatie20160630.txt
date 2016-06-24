@@ -1,4 +1,3 @@
-/*
 Evaluatie Dojo
 
 Ik kom vooral bij de Dojo om iets te leren 
@@ -41,5 +40,4 @@ Ik zou willen dat de Dojo dit anders doet:
 
 
 
-Ik geef de Dojo dit cijfer (van 1 tot en met 10): 
-*/
+Ik geef de Dojo dit cijfer (van 1 tot en met 10):
