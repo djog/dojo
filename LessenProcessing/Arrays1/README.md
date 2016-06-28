@@ -65,7 +65,7 @@ Dit is wat de code betekent:
  * Zorg dat er een derde rookdeeltje bijkomt
  * Hoeveel regels code kost het ongeveer om honderd rookdeeltjes te programmeren?
 
-## Arrays
+## Waarom arrays?
 
 Dit is de code met drie rookdeeltjes:
 
@@ -108,6 +108,8 @@ Dit komt omdat we de computer steeds een getal tegelijk laten onthouden:
 Wat we willen kunnen zeggen is 'Lieve computer, onthoud keiveel gebroken getallen'.
 Dit is precies wat een array kan doen.
 
+## Wat is een array?
+
 Een array kun je zien als een kast met laatjes:
 
 ![Kast met laatjes](Kast.jpg)
@@ -123,7 +125,55 @@ Mensen beginnen vaak te tellen vanaf een, bij arrays telt
 Processing vanaf nul.
 De kast heeft zeven laatjes, met nummers nul tot en met zes.
 
+## Werken met arrays
 
+Stel we willen een array maken van gebroken getallen (`float`s) met de naam `geheime_getallen`, 
+dan moeten we boven de `setup` het volgende typen:
+
+```
+float[] geheime_getallen;
+```
+
+Hiermee zeg je: 'Lieve computer, onthoud keiveel gebroken getallen met de naam `geheime_getallen`'.
+
+Er is nog niet gezegd *hoeveel* gebroken getallen dat zijn.
+Vaak wordt de `setup` functie gebruikt om te zeggen hoeveel getallen er onthouden moeten worden:
+
+```
+geheime_getallen = new float[7];
+```
+
+Hiermee zeg je: 'Lieve computer, maak `geheime_getallen` groot genoeg om zeven gebroken getallen (`float`s) te onthouden'.
+
+
+
+```
+int aantal_punten = 3;
+float[] xs;
+float[] ys;
+
+void setup() 
+{
+  size(320, 200);
+  xs = new float[aantal_punten];
+  ys = new float[aantal_punten];
+  for (int i=0; i!=aantal_punten; ++i)
+  {
+    ys[i] = 160;
+    xs[i] = 100;
+  }
+}
+
+void draw()
+{
+  for (int i=0; i!=aantal_punten; ++i)
+  {
+    xs[i] += random(-1,1);
+    ys[i] += random(-1,1);
+    ellipse(xs[i], ys[i], 10, 10);
+  }
+}
+```
 
 
 
