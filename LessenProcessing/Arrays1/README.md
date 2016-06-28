@@ -105,11 +105,27 @@ void draw()
 Het valt op dat er veel herhaling in zit.
 Dit komt omdat we de computer steeds een getal tegelijk laten onthouden:
 `float x1 = 160` betekent 'Lieve computer, onthoudt een gebroken getal met de naam `x1`, met als beginwaarde 160'.
-Wat we willen kunnen zeggen is 'Lieve computer, onthoudt keiveel gebroken getallen'.
+Wat we willen kunnen zeggen is 'Lieve computer, onthoud keiveel gebroken getallen'.
 Dit is precies wat een array kan doen.
 
 Een array kun je zien als een kast met laatjes:
 
-![Kast met laatjes](Cupboard.jpg)
+![Kast met laatjes](Kast.jpg)
 
-In elk laatje kan een getal
+Elk laatje heeft een nummer en in elk laatje kan een getal.
+
+Hier zie je de nummers van de laatjes:
+
+![Kast met genummerde laatjes](KastMetGenummerdeLaatjes.png)
+
+Het valt op dat het eerste laatje nummer *nul* heeft. 
+Mensen beginnen vaak te tellen vanaf een, bij arrays telt
+Processing vanaf nul.
+De kast heeft zeven laatjes, met nummers nul tot en met zes.
+
+
+
+
+
+
+
