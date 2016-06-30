@@ -8,7 +8,7 @@
   * Aik en Job presenteren [Dino's op internet](http://suppermannetjejob.github.io)
   * Rogier en Emre presenteren een poster
   * Tom presenteert Reactiespel
-  * Raymon presenteert Blokjesspel
+  * Raymon presenteert MarioPlaatje
   * Ruben presenteert [Pong](http://ruben-bouman.github.io)
   * Jorn presenteert [PWC inzending(en)](https://github.com/jorn600/WAKKA_WAKKA) [fireflies](fireflies/fireflies.pde)
   * Robin presenteert FNAF
