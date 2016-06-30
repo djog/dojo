@@ -6,7 +6,7 @@
 * 19:30: Leerlingen laten hun werk zien
   * Dante presenteert [PWC inzending(en)](https://github.com/DantVader2005/raindrops) [raindrops](raindrops/raindrops.pde)
   * Aik en Job presenteren [Dino's op internet](http://suppermannetjejob.github.io)
-  * Rogier en Emre presenteert Het Vuurspel
+  * Rogier en Emre presenteren een poster
   * Tom presenteert Reactiespel
   * Raymon presenteert Blokjesspel
   * Ruben presenteert [Pong](http://ruben-bouman.github.io)
