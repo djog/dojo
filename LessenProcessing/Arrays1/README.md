@@ -120,15 +120,20 @@ Hier zie je de nummers van de laatjes:
 
 ![Kast met genummerde laatjes](KastMetGenummerdeLaatjes.png)
 
-Het valt op dat het eerste laatje nummer *nul* heeft. 
-Mensen beginnen vaak te tellen vanaf een, bij arrays telt
-Processing vanaf nul.
-De kast heeft zeven laatjes, met nummers nul tot en met zes.
+Het valt op dat het eerste laatje nummer *nul* heeft.
+Je zegt: 'Het eerste laatje heeft index nul'. 
+Als je normaal telt, begin je bij een.
+Bij indices (het meervoud van index) begin je te tellen bij nul.
+De kast heeft zeven laatjes, met indices nul tot en met zes.
 
 ## Vragen
 
  * Wat is een array?
- * 
+ * Wat is een index?
+ * Een array kan drie getallen bevatten. Wat zijn de indices?
+ * Een array heeft als hoogste index `13`. Wat is de grootte van de array?
+ * Een array kan 314 getallen bevatten. Wat is de hoogste index?
+ * Een array heeft als hoogste index `0`. Wat is de grootte van de array?
 
 ## Werken met arrays
 
@@ -217,7 +222,14 @@ void draw()
 
 Dit programma ziet er niet erg mooi uit. Het is bedoeld om je te laten hoe je arrays maakt, vult en leest.
 
+## Vragen
 
+ * Welke foutmelding krijg je als je `float[] geheime_getallen;` in de `setup` functie zet?
+ * Welke foutmelding krijg je als je `float geheime_getallen;` (dus zonder blokhaken) gebruikt?
+ * Je wilt een array maken van gebroken getallen met de naam `snelheden`. Hoe zeg je dat in code?
+ * Je hebt een array van gebroken getallen met de naam `schades`. Je wilt dat deze 345 groot wordt. Hoe zeg je dat in code?
+ * Je hebt een array van gebroken getallen met de naam `roodwaarden` die 987 groot is. Je wilt alle `roodwaarden` op `128` zetten. Hoe doe je dat?
+ * Je hebt een array van gebroken getallen met de naam `breedtes` die 345 groot is. Je wilt 345 ovalen tekenen, op `123` pixels naar rechts, `234` pixels omlaag, met een breedte van `breedtes` en een hoogte van `345`. Hoe doe je dat?
 
 ## Code met drie rookdeeltjes
 
