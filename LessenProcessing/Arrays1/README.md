@@ -125,6 +125,11 @@ Mensen beginnen vaak te tellen vanaf een, bij arrays telt
 Processing vanaf nul.
 De kast heeft zeven laatjes, met nummers nul tot en met zes.
 
+## Vragen
+
+ * Wat is een array?
+ * 
+
 ## Werken met arrays
 
 Stel we willen een array maken van gebroken getallen (`float`s) met de naam `geheime_getallen`, 
@@ -145,10 +150,123 @@ geheime_getallen = new float[7];
 
 Hiermee zeg je: 'Lieve computer, maak `geheime_getallen` groot genoeg om zeven gebroken getallen (`float`s) te onthouden'.
 
-
+Om de kast met de laatjes na te maken, kun je de volgende code gebruiken:
 
 ```
-int aantal_punten = 3;
+geheime_getallen[0] =  0;
+geheime_getallen[1] =  1;
+geheime_getallen[2] =  4;
+geheime_getallen[3] =  9;
+geheime_getallen[4] = 16;
+geheime_getallen[5] = 25;
+geheime_getallen[6] = 36;
+```
+
+Hiermee zeg je, in de derde regel: 'Lieve computer, stop in laatje met index twee het getal vier'.
+Deze code zou prima in de `setup` functie gedaan kunnen worden.
+
+Dit kan ook slimmer. Hieronder zie je code die *precies* hetzelfde doet:
+
+```
+for (int i=0; i!=7; ++i) 
+{
+  geheime_getallen[i] = i * i;
+}
+```
+
+Hiermee zeg je: 'Lieve computer, laat een for loop lopen van nul tot zeven met `i` als teller. Stop in het `i`-de laatje het getal `i` keer `i`'.
+
+Je zou ook de waarden in de laatjes kunnen lezen:
+
+```
+for (int i=0; i!=7; ++i) 
+{
+  float x = geheime_getallen[i];
+  ellipse(x,200,300,400);
+}
+```
+
+Hiermee zeg je: 'Lieve computer, laat een for loop lopen van nul tot zeven met `i` als teller. 
+Kijk wat er in het `i`-de laatje zit en onthoud dat als `x`. 
+Teken dan een ovaal die `x` pixels naar rechts is, 200 pixels omlaag is, 300 pixels breed is, en 400 pixels hoog is.'.
+
+Alles bij elkaar krijg je dit programma:
+
+```
+float[] geheime_getallen;
+
+void setup()
+{
+  size(400,400);
+  geheime_getallen = new float[7];
+  for (int i=0; i!=7; ++i) 
+  {
+    geheime_getallen[i] = i * i;
+  }
+}
+
+void draw() 
+{
+  for (int i=0; i!=7; ++i) 
+  {
+    float x = geheime_getallen[i];
+    ellipse(x,200,300,400);
+  }
+}
+```
+
+Dit programma ziet er niet erg mooi uit. Het is bedoeld om je te laten hoe je arrays maakt, vult en leest.
+
+
+
+## Code met drie rookdeeltjes
+
+Kijk naar de code met de drie rookdeeltjes:
+
+```
+float x1 = 160;
+float y1 = 100;
+float x2 = 160;
+float y2 = 100;
+float x3 = 160;
+float y3 = 100;
+
+void setup() 
+{
+  size(320, 200);
+  x1 = 160;
+  y1 = 100;
+  x2 = 160;
+  y2 = 100;
+  x3 = 160;
+  y3 = 100;
+}
+
+void draw()
+{
+  x1 += random(-1,1);
+  y1 += random(-1,1);
+  ellipse(x1, y1, 10, 10);
+  x2 += random(-1,1);
+  y2 += random(-1,1);
+  ellipse(x2, y2, 10, 10);
+  x3 += random(-1,1);
+  y3 += random(-1,1);
+  ellipse(x3, y3, 10, 10);
+}
+```
+
+## Opdracht
+
+ * Schrijf deze code om dat deze gebruik maakt van arrays
+ * Verander de code zo dat er honderd rookdeeltjes kunnen zijn
+
+## Oplossing
+
+Hier de oplossing:
+
+```
+final int aantal_punten = 100;
 float[] xs;
 float[] ys;
 
@@ -159,8 +277,8 @@ void setup()
   ys = new float[aantal_punten];
   for (int i=0; i!=aantal_punten; ++i)
   {
-    ys[i] = 160;
-    xs[i] = 100;
+    xs[i] = 160;
+    ys[i] = 100;
   }
 }
 
@@ -175,7 +293,36 @@ void draw()
 }
 ```
 
+Dit doet de code:
 
+ * `final int aantal_punten = 100`: 'Lieve computer, onthoud een heel getal (`int`), die ik `aantal_punten` noem, met beginwaarde 100, die ik nooit zal veranderen (`final`)
+ * `float[] xs`: 'Lieve computer, onthoud een heleboel gebroken getallen (`float[]`), die ik `xs` noem'. Dit zijn de x-coordinaten (hoeveel pixels naar rechts) van de rookdeeltjes. 
+ * `float[] ys`: 'Lieve computer, onthoud een heleboel gebroken getallen (`float[]`), die ik `ys` noem'. Dit zijn de y-coordinaten (hoeveel pixels omlaag)
+ van de rookdeeltjes. 
+ * `size(320, 200)`: maak het scherm 320 pixels breed en 200 pixels hoog
+ * `xs = new float[aantal_punten]`: 'Lieve computer, maak `xs` groot genoeg om `aantal_punten` (dus 100) gebroken getallen (`float`s) te onthouden'
+ * `ys = new float[aantal_punten]`: 'Lieve computer, maak `ys` groot genoeg om `aantal_punten` (dus 100) gebroken getallen (`float`s) te onthouden'
+
+```
+for (int i=0; i!=aantal_punten; ++i)
+{
+  xs[i] = 160;
+  ys[i] = 100;
+}
+```
+
+ * Laat een teller lopen van nul to `aantal_punten` (dus 100) in stapjes van een en noem het tellertje `i`. Zet de `i`-de `xs` op `160`. Zet de `i`-de `ys` op `100`.
+
+```
+for (int i=0; i!=aantal_punten; ++i)
+{
+  xs[i] += random(-1,1);
+  ys[i] += random(-1,1);
+  ellipse(xs[i], ys[i], 10, 10);
+}
+```
+
+ * Laat een teller lopen van nul to `aantal_punten` (dus 100) in stapjes van een en noem het tellertje `i`. Verander de `i`-de `xs` willekeurig met -1, 0 of +1. Verander de `i`-de `ys` willekeurig met -1, 0 of +1. Teken een ellipse met de `i`-de `xs` naar rechts, de `i`-de `ys` omlaag, 10 pixels breed en 10 pixels hoog
 
 
 
