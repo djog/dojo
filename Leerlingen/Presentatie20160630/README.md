@@ -1,4 +1,5 @@
 # Programma
+
 * 19:00: Inloop (met koffie voor de ouders) (eerder mag ook!)
 * 19:15: Voorbereiding && Inleiding
  * leerlingen: @ houtlokaal om presentaties op een computer te zetten
@@ -28,3 +29,12 @@ Deze leerlingen konden niet aanwezig zijn op de echte presentaties.
 
   * Daan presenteert [Het Bewegende Rondje](hetbewegenderonje/hetbewegenderonje.pde)
   * Stijn presenteert [Lolding](Lolding/Lolding.pde)
+
+## Foto's
+
+![Presentatie 30 juni 2016 1](20160630Presentatie_1.jpg)
+![Presentatie 30 juni 2016 2](20160630Presentatie_2.jpg)
+![Presentatie 30 juni 2016 3](20160630Presentatie_3.jpg)
+![Presentatie 30 juni 2016 4](20160630Presentatie_4.jpg)
+![Presentatie 30 juni 2016 5](20160630Presentatie_5.jpg)
+![Presentatie 30 juni 2016 6](20160630Presentatie_6.jpg)
