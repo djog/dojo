@@ -1,4 +1,15 @@
-# Beweging met een variabele
+# Bal naat rechts
+
+In deze les gaan we een bal naar rechts laten bewegen.
+
+Het ziet er zo uit:
+
+![Bal naat rechts](BalNaarRechts.png)
+
+We leren in deze les wat een variabele is.
+Je kunt (bijna) niet programmeren zonder variabelen.
+
+## Wat weten we al?
 
 Als je de vorige lessen hebt gedaan, weet
 je wat deze code doet:
