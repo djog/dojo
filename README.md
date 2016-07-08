@@ -32,9 +32,18 @@ maar je bent ook vrij je eigen weg te kiezen.
  * Leeftijd: 8-25 jaar
  * Benodigdheden: Laptop met WiFi
 
-Op donderdag 30 juni is er een eindpresentatie, waarin elke leerling iets presenteert:
+## Vakantieperiode
 
-![Flyer presentatie 30 juni 2016](Dingen/Presentatie20160630.png)
+Het is (voor ons al) vakantie! Wij blijven gewoon doorgaan :-) De cursusprijs van de vakantie is 10 euro. Ga je op vakantie? Dit is geen probleem:
+je bent in de vakantie ook welkom op de vrijdagavond, bij de [Arduino cursus](https://www.github.com/richelbilderbeek/ArduinoCourse).
+
+In september begint het volgende seizoen.
+
+## Hackathon
+
+Er is een hackathon in de vakantie:
+
+![Flyer hackathon](Publiciteit/HackathonFlyer.png)
 
 # Veelgestelde vragen
 
