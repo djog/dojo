@@ -45,6 +45,8 @@ Er is een hackathon in de vakantie:
 
 ![Flyer hackathon](Publiciteit/HackathonFlyer.png)
 
+Meer weten, zie [de Hackathon2016 GitHub](https://github.com/richelbilderbeek/Hackathon2016)
+
 # Veelgestelde vragen
 
 Zie [Veelgestelde vragen](FAQ.md)
