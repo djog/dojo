@@ -3,7 +3,7 @@
 ## Scorebord
 
 |**Plek**|**Naam**|**Punten** (totaal)|**Punten** (per inzending)|**Quote**|**Link**|
-|:---:|:---|:---:|---:|---:|
+|:---:|:---|:---:|:---:|---:|---:|
 |**1**|Jorn|22|4,4|*"Winner from last week: 12 year old Jorn!"* ~ seoceojoe|[PWC12](https://redd.it/4meopg), [PWC13](https://redd.it/4nf6q9), [PWC14](https://redd.it/4okwlo), [PWC15](https://redd.it/4ps437), [PWC16](https://redd.it/4qtbb1)|
 |**2**|Dante|8|4,0|*"Hey, loving the submissions from your Dojo!"* ~ Introscopia |[PWC13](https://redd.it/4ncey5), [PWC14](https://redd.it/4of3o5)|
 |**2**|Ruben|8|4,0|*"Simple but neat, I like the minimalist look of it."* ~ NakedFluffyBee|[PWC11](https://redd.it/4l6thy), [PWC17](https://redd.it/4rq5hv)|
