@@ -22,27 +22,14 @@ Ja, dat kan! C++ is wat moeilijker dan Processing, daarom kun je er niet zomaar 
 
 ## Welke vrijwilligers zijn er?
 
-### [Frode](https://github.com/Modanung)
-
-Frode geeft les in Urho3D en het maken van 2D of 3D graphics en het maken van geluid. Zijn werk is te zien
-op [de LucKey productions website](http://www.luckeyproductions.nl).
-
 ### [Jan](https://github.com/janderkkotlarski)
 
 [Jan geeft les in SFML](https://github.com/janderkkotlarski/Cplusplus-with-SFML-course) en is ook handig
 met GameMaker.
 
-### [Lucas](https://github.com/LJK1991)
-
-Lucas is handig in Python, C++ en Processing. Hij helpt bij de Processing klas.
-
 ### [Peter](https://github.com/dpstruwe)
 
 Peter is de BHV-er en helpt de cursus mee achter de schermen. Hij weet veel van electronica.
-
-### Petra
-
-Lucas is handig met Arduino (C++) en Processing. Zij helpt vooral bij de Processing klas.
 
 ### [Richel](https://github.com/richelbilderbeek)
 
