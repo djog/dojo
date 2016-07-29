@@ -56,10 +56,10 @@ Dit betekent:
  * `if`: begin van een if statement. Een if-statement heeft dan twee gedeeltes:
    * `()`: tussen de ronde haken staat een test; iets wat waar of niet waar is
    * `{}`: tussen de accolades staat wat de computer moet doen als de test waar is
- * `x > 200`: dit staat tussen de ronde haken. Dit is de test 'is x groter dan 200?'. Het `>` tekentje betekent 'groter dan'
- * `x = 100`: dit staat tussen de accolades. Als 'is x groter dan 200?' waar is, dan krijgt `x` de waarde 100
+ * `x > 200`: dit staat tussen de ronde haken. Dit is de test 'x is groter dan 200'. Het `>` tekentje betekent 'groter dan'
+ * `x = 100`: dit staat tussen de accolades. Als 'x is groter dan 200' waar is, dan krijgt `x` de waarde 100
 
-Preciezer zeg je: 'Lieve computer, *als* x meer is dan 550, zet x dat op 50'. `if` is Engels voor 'als'.
+Preciezer zeg je: 'Lieve computer, *als* x meer is dan 200, zet x dat op 100'. `if` is Engels voor 'als'.
 
 ## Vragen
 
