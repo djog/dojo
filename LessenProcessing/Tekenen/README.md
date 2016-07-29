@@ -142,7 +142,7 @@ De ellipse is vergelijkbaar met de rect() fuctie. Een word een coordinaat gegeve
  * Teken een paar cirkels om te oefenen
  * Teken een zolderraam in het huisje
 
-Nu weet je de basic functies om mee te tekenen in processing. Er zijn een aantal andere functies om de vier vooreen uitgelegde functies te versterken en flexibeler te maken. eerst moeten we wat leren over het RGB kleuren systeem. RGB is een afkorting van RED GREEN BLUE. met deze drie kleuren kan de computer alle mogelijke kleuren die wij kunnen zien maken. de computer heeft voor elke van de drie kleuren (RED/GREEN/BLUE) een waarde van 0 tot 255 nodig. hoe hoger de waarde hoe feller de kleur, op deze site kan je een beetje spelen met RGB. [RGB rekenmachine](http://www.rapidtables.com/web/color/RGB_Color.html)
+Nu weet je de basic functies om mee te tekenen in processing. Er zijn een aantal andere functies om de vier vooreen uitgelegde functies te versterken en flexibeler te maken. eerst moeten we wat leren over het RGB kleuren systeem. RGB is een afkorting van RED GREEN BLUE. met deze drie kleuren kan de computer alle mogelijke kleuren die wij kunnen zien maken. de computer heeft voor elke van de drie kleuren (RED/GREEN/BLUE) een waarde van 0 tot 255 nodig. hoe hoger de waarde hoe feller de kleur, op deze site kan je een beetje spelen met RGB. [RGB rekenmachine](http://www.rapidtables.com/web/color/RGB_Color.htm)
 Er drie functies die werken met het RGB systeem.
 * `background(RED, GREEN, BLUE)` 
   * background() wordt in het begin draw() opgeroepen. background staat voor achtergrond en bepaalt dus de kleur van het scherm zelf. 
