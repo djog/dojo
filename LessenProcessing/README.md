@@ -10,6 +10,7 @@ Dit zijn de Processing lessen
  * [Les 4: Bal die eeuwig naar rechts gaat](BalEeuwigNaarRechts/README.md)
  * [Les 5: Bal die horizontaal stuitert](BalDieHorizontaalStuitert/README.md)
  * [Arrays les 1](Arrays1/README.md)
+ * [Arrays les 2](Arrays2/README.md)
  * [PImage les 1](PImage1/README.md)
 
 ## GitHub
