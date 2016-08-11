@@ -1,8 +1,7 @@
 # Arrays1
 
 Met arrays kun je de computer veel waardes laten onthouden:
-de coordinaten van kogels, meteorieten, vijanden. 
-Met een for loop kun je door een array heen gaan.
+de coordinaten van kogels, meteorieten, vijanden.
 
 In deze les gaan we leren 
 
@@ -14,7 +13,48 @@ Zo gaat het eruit zien:
 
 ![Arrays1](Arrays1.png)
 
-## Rooksimulator
+## Rooksimulator met een deeltje
+
+Je bent bezig een simulatie te maken: je wilt allemaal 
+rookdeeltjes laten bewegen op het scherm.
+
+Dit is je code:
+
+```
+float x = 160;
+float y = 100;
+
+void setup() 
+{
+  size(320, 200);
+}
+
+void draw()
+{
+  x += random(-1,1);
+  y += random(-1,1);
+  ellipse(x, y, 10, 10);
+}
+```
+
+Dit is wat de code betekent:
+
+ * `float x = 160`: 'Lieve computer, onthoudt een gebroken getal met de naam `x`, met als beginwaarde 160'. Dit wordt de x coordinaat van het eerste rookdeeltje
+ * `float y = 100`: 'Lieve computer, onthoudt een gebroken getal met de naam `y`, met als beginwaarde 100'. Dit wordt de y coordinaat van het eerste rookdeeltje
+ * `void setup() {}`: de klaarzet functie. Bij het opstarten wordt de code tussen de accolates een keer uitgevoerd
+ * `size(320, 200)`: maak een venster van 320 pixels breed en 200 pixels hoog
+ * `void draw() {}`: de teken functie. De code tussen de accolates wordt oneindig vaak uitgevoerd
+ * `x += random(-1,1)`: verander de waarde van `x` met een willekeurige waarden van -1 tot 1. Dit laat rookdeeltje 1 willekeurig horizontaal bewegen
+ * `y += random(-1,1)`: verander de waarde van `y` met een willekeurige waarden van -1 tot 1. Dit laat rookdeeltje 1 willekeurig verticaal bewegen
+ * `ellipse(x, y, 10, 10)`: teken een ovaal met als middelpunt (`x`, `y`) met breedte 10 en hoogte 10. Teken het eerste rookdeeltje
+
+## Vragen
+
+ * Run deze code
+ * Zorg dat er een tweede rookdeeltje bijkomt
+ * Hoeveel regels code kost het ongeveer om honderd rookdeeltjes te programmeren?
+
+## Rooksimulator met twee deeltjes
 
 Je bent bezig een simulatie te maken: je wilt allemaal 
 rookdeeltjes laten bewegen op het scherm.
