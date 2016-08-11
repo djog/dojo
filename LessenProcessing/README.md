@@ -7,7 +7,7 @@ Dit zijn de Processing lessen
  * [Les 1: Een mooi programma](EenMooiProgramma/README.md)
  * [Les 2: point](Point/README.md)
  * [Les 3: Bal naar rechts](BalNaarRechts/README.md)
- * [Les 4: Bal die eeuwig naar rechst gaat](BalEeuwigNaarRechts/README.md)
+ * [Les 4: Bal die eeuwig naar rechts gaat](BalEeuwigNaarRechts/README.md)
  * [Les 5: Bal die horizontaal stuitert](BalDieHorizontaalStuitert/README.md)
  * [Arrays les 1](Arrays1/README.md)
  * [PImage les 1](PImage1/README.md)

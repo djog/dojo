@@ -115,3 +115,9 @@ void draw()
 ```
 
 Het lijkt al een beetje op [Lonelier Pong](https://github.com/richelbilderbeek/LonelierPong). Dit is geen toeval :-)
+
+## Verder
+
+Je zou nu kunnen doen:
+
+ * [Bal die horizontaal stuitert](../BalDieHorizontaalStuitert/README.md)

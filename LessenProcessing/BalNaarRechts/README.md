@@ -187,3 +187,9 @@ Daarna wordt x een hoger. Dan is `draw` klaar.
  * Wat als je `x = x + 1;` vervangt door `x = x / -2;`?
  * Wat als je `x = x + 1;` vervangt door `x = x / 1;`?
  * Wat als je `x = x + 1;` vervangt door `x = x / 0;`?
+
+## Verder
+
+Je zou nu kunnen doen:
+
+ * [Bal die eeuwig naar rechts gaat](../BalEeuwigNaarRechts/README.md)
