@@ -34,18 +34,18 @@ Start een Terminal. Dit kan soms met `Win+T`, `CTRL+ALT+T`, of deze te vinden in
 
 ![Een terminal](Terminal.png)
 
-Ga naar de folder waar Processing in staat. Hiervoor is het command `cd`. `cd` is een afkorting van 'Change Directory'. "Change Directory' is Engels voor 'Verander van folder'.
+Ga naar de folder waar Processing in staat. Hiervoor is het commando `cd`. De afkorting `cd` staat voor 'Change Directory'. "Change Directory' is Engels voor 'Verander van folder'.
 
 Zo ga je naar de folder waar Processing instaat:
 
 ```
-cd Programs/Processing-3.1.1
+cd Programs/processing-3.1.1
 ```
 
 Dit hoef je niet zo te typen! Een terminal kan je woorden aanvullen als je op Tab drukt. Vaak is het volgende typen voldoende:
 
 ```
-cd Progr[TAB]/Pr[TAB]
+cd Progr[TAB]/pr[TAB]
 ```
 
 Dit werkt ook als een andere versie van Processing op de computer staat :-)
