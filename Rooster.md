@@ -6,8 +6,8 @@ Dit rooster is nog een voorstel.
 
 Dag|Docent|Activiteit
 ---|---|---
-8 sep|?|
-15 sep|?|
+8 sep|?|[GitHub les 1](Dojo/LessenProcessing/GitHub/README.md) 
+15 sep|?|[Een mooi programma](Dojo/LessenProcessing/EenMooiProgramma/README.md)
 22 sep|?|
 29 sep|?|
 6 okt|?|
