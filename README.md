@@ -43,9 +43,7 @@ In september begint het volgende seizoen.
 
 ## Hackathon
 
-Er is een hackathon in de vakantie:
-
-![Flyer hackathon](Publiciteit/HackathonFlyer.png)
+We zijn van plan een hacathon te organiseren samen met de [Arduino cursus](https://github.com/richelbilderbeek/ArduinoCourse), de datum komt nog.
 
 Meer weten, zie [de Hackathon2016 GitHub](https://github.com/richelbilderbeek/Hackathon2016)
 
