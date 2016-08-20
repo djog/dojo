@@ -4,9 +4,7 @@ In deze les gaan we een bal horizontaal laten stuiteren.
 
 Het ziet er zo uit:
 
-![Bal die horizontaal stuitert](BalDieHorizontaalStuitert1.png)
-
-![Bal die horizontaal stuitert](BalDieHorizontaalStuitert2.png)
+![Bal die horizontaal stuitert (zie 'dojo/Images/BalDieHorizontaalStuitertGif')](BalDieHorizontaalStuitert.gif)
 
 We gaan in deze les twee variabelen en twee `if`-statements gebruiken. 
 
