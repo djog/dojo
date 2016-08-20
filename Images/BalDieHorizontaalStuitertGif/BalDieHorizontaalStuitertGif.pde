@@ -6,6 +6,8 @@ void setup()
   size(600, 100);
 }
 
+int i =0;
+
 void draw()
 {
   ellipse(x,50,100,100);
@@ -14,4 +16,12 @@ void draw()
   {
     dx = -dx;
   }
+  
+  if(i%10 == 0){
+    saveFrame("Bal-###.png");
+  }
+  if(i == 1200){
+    exit();
+  }
+  ++i;
 }
