@@ -6,7 +6,7 @@ Dit rooster is nog een voorstel.
 
 Dag|Docent|Activiteit
 ---|---|---
-8 sep|?|[Een mooi programma](LessenProcessing/EenMooiProgramma/README.md) 
+8 sep|?|[Een mooi programma](LessenProcessing/EenMooiProgramma/README.md) ([Lesplan](Lesplannen/EenMooiProgramma/README.md))
 15 sep|?|[GitHub les 1](LessenProcessing/GitHub/README.md)
 22 sep|?|[Punt](LessenProcessing/Point/README.md)
 29 sep|?|[Bal naar rechts](LessenProcessing/BalNaarRechts/README.md)

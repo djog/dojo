@@ -27,10 +27,6 @@ Ja, dat kan! C++ is wat moeilijker dan Processing, daarom kun je er niet zomaar 
 [Jan geeft les in SFML](https://github.com/janderkkotlarski/Cplusplus-with-SFML-course) en is ook handig
 met GameMaker.
 
-### [Peter](https://github.com/dpstruwe)
-
-Peter is de BHV-er en helpt de cursus mee achter de schermen. Hij weet veel van electronica.
-
 ### [Richel](https://github.com/richelbilderbeek)
 
 ![Richel](Images/Richel.png)
