@@ -13,68 +13,22 @@ Zo ziet het programma eruit:
 
 ![EenMooiProgramma](EenMooiProgramma.png)
 
-## Processing opstarten
+## Wat je nodig hebt
 
-Hoe je Processing opstart, hangt af van het besturingssysteem
+Je moet Processing op kunnen starten. 
+Hoe dat moet, hangt af van het besturingssysteem:
 
-Hieronder staat uitgelegd:
-
- * Processing opstarten in Windows
- * Processing opstarten in Linux
-
-### Processing opstarten in Windows
-
-In Windows staat er na installatie een icoontje op je Bureaublad.
-
-Dubbelklik hierop.
-
-### Processing opstarten in Linux
-
-Start een Terminal. Dit kan soms met `Win+T`, `CTRL+ALT+T`, of deze te vinden in de menuutjes, of te zoeken op het woord `Terminal`
-
-![Een terminal](Terminal.png)
-
-Ga naar de folder waar Processing in staat. Hiervoor is het commando `cd`. De afkorting `cd` staat voor 'Change Directory'. "Change Directory' is Engels voor 'Verander van folder'.
-
-Zo ga je naar de folder waar Processing instaat:
-
-```
-cd Programs/processing-3.1.1
-```
-
-Dit hoef je niet zo te typen! Een terminal kan je woorden aanvullen als je op Tab drukt. Vaak is het volgende typen voldoende:
-
-```
-cd Progr[TAB]/pr[TAB]
-```
-
-Dit werkt ook als een andere versie van Processing op de computer staat :-)
-
-Nu je in de juiste folder bent, start Processing:
-
-```
-./processing
-```
-
-De `./` betekent 'Start hier'
-
-Ook hier is Tab nuttig:
-
-```
-./p[TAB]
-```
-
-Je mag de terminal nu sluiten.
-
-## Opdrachten
- 
- * Start Processing
-
-![Processing zonder code](Processing.png)
+ * [Processing opstarten op cursus laptop](../ProcessingOpstartenOpCursusLaptop/README.md)
+ * Processing installeren op eigen laptop met GNU/Linux
+ * Processing installeren op eigen laptop met Windows
 
 ## Code kopieeren
 
-Dit is de programmeercode die je nodig hebt:
+Processing begint met een leeg programma zonder code:
+
+![Processing zonder code](Processing.png)
+
+Dit is de programmeercode die we gaan gebruiken:
 
 ```
 void setup()
@@ -94,6 +48,16 @@ void draw()
 Wat de code precies doet, leggen we later uit.
 Voor nu is het genoeg te weten dat het iets moois doet. 
 
+Om code te kopieeren gebruik je sneltoetsen:
+
+ * `SHIFT + pijltjes`: selecteren
+ * `CTRL + A`: alles selecteren
+ * `CTRL + C`: kopieren van selectie
+ * `CTRL + X`: knippen van selectie
+ * `CTRL + V`: plakken van selectie
+
+
+ * Start Processing
  * Kopieer deze code naar Processing
 
 ![Processing met code](ProcessingMetCode.png)
@@ -105,3 +69,7 @@ Voor nu is het genoeg te weten dat het iets moois doet.
 ![De Run knop](ProcessingRun.png)
 
 Als het goed is, zie je nu het programma!
+
+## Sneltoetsen oefenen
+
+ * Werk met iemand samen. Hussel de code van de andere door de war, door deze te kopieren en te plakken. Repareer dan de code op je eigen computer

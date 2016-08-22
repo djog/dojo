@@ -13,6 +13,8 @@ Lesdoelen:
 
 # Waar staat de GitHub van de cursus?
 
+18:30-18:40
+
  * Wat: GitHub kunnen vinden
  * Waarom: die zullen de leerlingen vaak nodig hebben
  * Expert: zelfstanding kunnen Googlen, bookmarken 
@@ -21,6 +23,8 @@ Lesdoelen:
 
  * Zet de laptops aan. Google de cursus. 
  * Klaar? Lees de 'Veelgestelde vragen' alvast
+
+18:40-18:50
 
 # Hoe werkt de cursus?
 
@@ -46,9 +50,12 @@ Lesdoelen:
    * Een leerling geeft volgende week een spreekbeurt over Processing en moet nog veel doen. Waar kan deze het best gaan zitten? 
    * Een leerling heeft een game opgezet. Richel vind dat goed. Hoe kan dat? 
    * Een leerling heeft een game opgezet. Richel vond dat eerst goed, maar na tien minuten niet meer. Hoe kan dat? 
+   * Wat is de laatste les?
  * Klaar? Start Processing alvast
 
 # Hoe start ik Processing?
+
+18:50-19:10
 
 Dit is afhankelijk van of de leerling een eigen laptop heeft.
 
@@ -60,7 +67,59 @@ Dit is afhankelijk van of de leerling een eigen laptop heeft.
  * Gelukt? Help dan de anderen. Iedereen klaar? Start dan 'Een mooi programma'
 
  
-# Hoe start ik een programma? Hoe copy-paste ik?
+# Hoe start ik een programma?
 
+19:10-19:30
 
+ * Zet de les op de beamer
+
+```
+void setup()
+{
+  size(256,256);  
+}
+
+void draw() 
+{
+  fill(mouseX, mouseY, mouseX + mouseY);
+  ellipse(mouseX, mouseY, 50, 50);  
+  fill(mouseY, mouseX, 255);
+  ellipse(mouseY, mouseX, 50, 50);  
+}
+```
+
+ * Doe de opdrachten op de pagina
+
+# Hoe copy-paste ik? Hoe zien errors eruit?
+
+19:45-19:30
+
+ * Zet het voorbeeld programma op de beamer
+
+```
+void setup()
+{
+  size(256,256);  
+}
+
+void draw() 
+{
+  fill(mouseX, mouseY, mouseX + mouseY);
+  ellipse(mouseX, mouseY, 50, 50);  
+  fill(mouseY, mouseX, 255);
+  ellipse(mouseY, mouseX, 50, 50);  
+}
+```
+
+ * Oefen met het husselen van de code
+ * Laat de leerlingen bij elkaar de code husselen en repareren
+
+## 
+
+# Informele toets
+
+ * Met welke toetscominatie plak je?
+ * Met welke toetscominatie knip je?
+ * Met welke toetscominatie kopieer je?
+ * Met welke toetscominatie start je je programma in Processing?
 
