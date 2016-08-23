@@ -42,11 +42,20 @@ In het begin zul je veel aan de grote tafel zitten, totdat je zelfstandig kunt w
 
 Ja, dat kan altijd! [Download Processing hier](https://processing.org/download/).
 
-De lessen staan [hier](Lessen/README.md).
+De lessen Processing staan [in de map LessenProcessing](LessenProcessing/README.md).
 
 ## Ik wil C++ doen, kan dat?
 
-Ja, dat kan! C++ is wat moeilijker dan Processing, daarom kun je er niet zomaar mee beginnen. Om ermee te mogen beginnen moet je (1) zelf een C++ programmeeromgeving installeren (2) een voorbeeld SFML of Urho3D programma kunnen laten runnen (3) dit allemaal zelfstanding Googlen. Natuurlijk helpen we je bij je vragen, maar het leeuwendeel zul je zelf moeten doen.
+Ja, dat kan! C++ is wat moeilijker dan Processing, daarom kun je er niet zomaar mee beginnen. 
+
+Om ermee te mogen beginnen moet je:
+  * (1) zelf een C++ programmeeromgeving installeren 
+  * (2) een voorbeeld SFML of Urho3D programma kunnen laten runnen 
+  * (3) dit allemaal zelfstanding Googlen. 
+
+Natuurlijk helpen we je bij je vragen, maar het meeste zul je zelf moeten doen.
+
+De lessen C++ staan [in de map LessenCpp](LessenCpp/README.md).
 
 ## Welke vrijwilligers zijn er?
 
@@ -54,6 +63,12 @@ Ja, dat kan! C++ is wat moeilijker dan Processing, daarom kun je er niet zomaar 
 
 [Jan geeft les in SFML](https://github.com/janderkkotlarski/Cplusplus-with-SFML-course) en is ook handig
 met GameMaker.
+
+### Jorn
+
+`[Hier een foto van Jorn]`
+
+Jorn is een leerling en ook gastheer. Hij vangt de nieuwe leerlingen op
 
 ### [Richel](https://github.com/richelbilderbeek)
 
