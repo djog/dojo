@@ -10,6 +10,34 @@ Nee. De Dojo is een cursus avond, waarbij leren voorop staat. Gamen draagt niet 
 Ook niet voor de cursus, ook niet in de pauze en ook niet na de pauze.
 Heb je *zelf* een spel geprogrammeerd, dan krijg je de ruimte om het spel te laten zien en te laten testen.
 
+## Waar ga ik zitten?
+
+Dit is afhankelijk van wat je wilt doen:
+
+  * nieuwe dingen leren: grote tafel in kantine bij het bord
+  * samenwerken: andere tafels in kantine
+  * rustig alleen werken: aquarium
+
+In het begin zul je veel aan de grote tafel zitten, totdat je zelfstandig kunt werken.
+
+## Wie stel ik een vraag?
+
+  * Zit er een leerling naast je? Zo ja, dan hij/zij.
+  * Zit er een leerling aan je tafel? Zo ja, dan hij/zij
+  * Als er niemand is of niemand is die het weet, vraag het dan een volwassene
+
+## Waar staan de lessen?
+
+ * De lessen Processing staan [in de map LessenProcessing](LessenProcessing/README.md).
+ * De lessen C++ staan [in de map LessenCpp](LessenCpp/README.md).
+
+## Wat als er een nieuwe leerling binnenkomt?
+
+ * De gastheer/gastvrouw vangt hem/haar op:
+    * Jas ophangen
+    * Naam op de lijst zetten
+    * Koppelen aan een leerling die hem/haar op wilt starten: ze gaan dan aan de grote tafel zitten
+
 ## Ik wil Processing doen, kan dat?
 
 Ja, dat kan altijd! [Download Processing hier](https://processing.org/download/).

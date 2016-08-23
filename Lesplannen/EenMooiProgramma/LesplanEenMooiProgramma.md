@@ -19,7 +19,7 @@ Lesdoelen:
  * Waarom: die zullen de leerlingen vaak nodig hebben
  * Expert: zelfstanding kunnen Googlen, bookmarken 
 
-![Cursus](Cursus1.png)
+![Cursus](CursusWebsite.png)
 
  * Zet de laptops aan. Google de cursus. 
  * Klaar? Lees de 'Veelgestelde vragen' alvast
@@ -31,16 +31,6 @@ Lesdoelen:
  * Wat: de regels van de cursus kennen
  * Waarom: dan is het duidelijk hoe we met elkaar omgaan
  * Expert: naar deze regels handelen
-
- * [TODO: zet dit op de FAQ] Flowchart 'Waar ga ik zitten':
-    * nieuwe dingen leren: grote tafel in kantine
-    * samenwerken: andere tafel in kantine
-    * rustig alleen werken: aquarium
- * [TODO: zet dit op de FAQ] Flowchart 'Wie stel ik een vraag?'
-    * de leerling naast je
-    * een leraar
- * [TODO: zet dit op de FAQ] Flowchart 'Nieuwe leerling'
-    * gastheer vindt iemand die hem/haar wil opstarten. Deze twee gaan aan de grote tafel zitten
 
  * Beantwoord de volgende vragen:
    * Hoeveel vrijwilligers zijn er?
@@ -88,11 +78,11 @@ void draw()
 }
 ```
 
- * Doe de opdrachten op de pagina
+ * Doe de opdrachten op de pagina [EenMooiProgramma](../../LessenProcessing/EenMooiProgramma/README.md)
 
-# Hoe copy-paste ik? Hoe zien errors eruit?
+# Wat doet het programma?
 
-19:45-19:30
+19:45-20:10
 
  * Zet het voorbeeld programma op de beamer
 
@@ -111,10 +101,32 @@ void draw()
 }
 ```
 
- * Oefen met het husselen van de code
- * Laat de leerlingen bij elkaar de code husselen en repareren
+ * Oefen met het experimenteren met code
+ * Op het bord: `fill(0 t/m 255, 0 t/m 255, 0 t/m 255);`
+ * Laat de leerlingen uitvinden wat de code ongeveer doet
 
-## 
+# Fouten
+
+20:10-20:20
+
+ * Zet het voorbeeld programma op de beamer
+
+```
+void setup()
+{
+  size(256,256);  
+}
+
+void draw() 
+{
+  fill(mouseX, mouseY, mouseX + mouseY);
+  ellipse(mouseX, mouseY, 50, 50);  
+  fill(mouseY, mouseX, 255);
+  ellipse(mouseY, mouseX, 50, 50);  
+}
+```
+
+ * Omstebeurt: een leerling verandert een teken, terwijl de ander wegkijkt. Dan probeert de ander de fout op te lossen. Dan andersom
 
 # Informele toets
 
@@ -122,4 +134,83 @@ void draw()
  * Met welke toetscominatie knip je?
  * Met welke toetscominatie kopieer je?
  * Met welke toetscominatie start je je programma in Processing?
+ * Wat is een programma?
+ * Beschrijf wat dit programma doet:
+
+```
+void setup()
+{
+  size(320,200);  
+}
+
+void draw() 
+{
+  fill(0, 0, 0);
+  ellipse(50, 100, 150, 200);  
+}
+```
+
+
+## Antwoorden
+
+### Met welke toetscominatie plak je?
+
+Omschrijving|Punten
+---|---
+CTRL+P|1
+Maximaal aantal punten|1
+
+
+### Met welke toetscominatie knip je?
+
+Omschrijving|Punten
+---|---
+CTRL+X|1
+Maximaal aantal punten|1
+
+### Met welke toetscominatie kopieer je?
+
+Omschrijving|Punten
+---|---
+CTRL+C|1
+Maximaal aantal punten|1
+
+### Met welke toetscominatie start je je programma in Processing?
+
+Omschrijving|Punten
+---|---
+CTRL+R|1
+Maximaal aantal punten|1
+
+### Wat is een programma?
+
+Omschrijving|Punten
+---|---
+Een stuk tekst|2
+Dat wat de computer moet doen|2
+Een stuk tekst die de computer uitvoert|4
+Maximaal aantal punten|4
+
+### Beschrijf wat dit programma doet:
+
+Omschrijving|Punten
+---|---
+Scherm is vierkant|0
+Scherm is rechthoekig|1
+Scherm is 320 pixels hoog en 200 breed|1
+Scherm is 320 pixels breed en 200 hoog|2
+Vulkleur wordt veranderd|1
+Vulkleur wordt op zwart gezet|2
+Er wordt een cirkel getekent|0
+Er wordt een ovaal getekent|1
+De ovaal staat 100 pixels naar rechts en 50 pixels omlaag|1
+De ovaal staat 50 pixels naar rechts en 100 pixels omlaag|2
+De ovaal is 150 pixels hoog en 200 pixels breed|1
+De ovaal is 150 pixels breed en 200 pixels hoog|2
+Maximaal aantal punten|8
+
+### Eindscore
+
+`Eindscore = 1 + (Aantal punten / 16) * 9`
+
 
