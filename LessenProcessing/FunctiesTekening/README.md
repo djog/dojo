@@ -1,7 +1,7 @@
 # Functies les 1: Tekening
 In deze les gaan we leren wat een functie is en waarom het handig is om functies te gebruiken. We doen dat met een mooie tekening van een schaap, bij dag of nacht.
 
-<img alt="SchaapDag" src="SchaapDag.png" width="200"></img>
+<img alt="SchaapDag" src="SchaapDag.png" width="200"></img> of
 <img alt="SchaapNacht" src="SchaapNacht.png" width="200"></img>
 
 ## Code
@@ -64,3 +64,69 @@ ellipse(120, 180, 30, 30);
 ```
 
 ## Functies
+We kunnen bij deze code goed een functie gebruiken. Een functie kan er zo uit zien:
+
+```
+void naamVanDeFunctie(){
+  //doe iets
+}
+```
+
+* `void` betekent dat deze functie niets terug geeft
+* `naamVanDeFunctie` is naam van de functie
+* `()` tussen deze haakjes kan je argumenten zetten, dat doen we nu niet. Deze functie heeft dus geen argumenten!
+* `//doe iets` hier kan je zetten wat de functie moet doen, deze code wordt uitgevoerd elke keer als de functie aangeroepen wordt
+
+Om onze tekening code korter te maken kunnen we deze functie maken:
+
+```
+void tekenGrondEnSchaap(){
+  //Teken grond
+  fill(0, 255, 0);
+  rect(0, 250, 500, 250);
+  //Teken schaap
+  line(50, 200, 50, 250);
+  line(70, 200, 70, 250);
+  line(100, 200, 100, 250);
+  line(120, 200, 120, 250);
+  fill(255);
+  ellipse(80, 200, 100, 50);
+  ellipse(120, 180, 30, 30);
+}
+```
+
+De code wordt dan:
+
+```
+void setup() {
+  size(500, 500);
+}
+
+void draw() {
+  if (mousePressed) {
+    //Dag
+    background(128, 128, 255);
+    tekenGrondEnSchaap();
+  } else {
+    //Nacht
+    background(0, 0, 64);
+    tekenGrondEnSchaap();
+  }
+}
+
+void tekenGrondEnSchaap() {
+  //Teken grond
+  fill(0, 255, 0);
+  rect(0, 250, 500, 250);
+  //Teken schaap
+  line(50, 200, 50, 250);
+  line(70, 200, 70, 250);
+  line(100, 200, 100, 250);
+  line(120, 200, 120, 250);
+  fill(255);
+  ellipse(80, 200, 100, 50);
+  ellipse(120, 180, 30, 30);
+}
+```
+
+Je kan zien dat we de functie `tekenGrondEnSchaap` aanroepen met de regel `tekenGrondEnSchaap();`
