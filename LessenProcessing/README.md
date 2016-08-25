@@ -20,7 +20,7 @@ Dit zijn de Processing lessen
  * [Arrays les 1](Arrays1/README.md)
  * [Arrays les 2](Arrays2/README.md)
  * [PImage les 1](PImage1/README.md)
- * Functies les 1: functies zonder return waarde noch argumenten 
+ * [Functies les 1: Tekening](FunctiesTekening/README.md)
  * Functies les 2: functies met argumenten 
  * Functies les 3: functies met return waarde
  * Klassen les 1: een pixel
