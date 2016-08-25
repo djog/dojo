@@ -1,7 +1,8 @@
 # Functies les 1: Tekening
 In deze les gaan we leren wat een functie is en waarom het handig is om functies te gebruiken. We doen dat met een mooie tekening van een schaap, bij dag of nacht.
 
-![SchaapDag](SchaapDag.png) ![SchaapNacht](SchaapNacht.png)
+<img alt="SchaapDag" src="SchaapDag.png" width="200"></img>
+<img alt="SchaapNacht" src="SchaapNacht.png" width="200"></img>
 
 ## Code
 Dit is de code voor de tekening, als je de muis indrukt wordt het dag.
