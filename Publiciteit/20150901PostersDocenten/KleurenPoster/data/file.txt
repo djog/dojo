@@ -1,12 +1,15 @@
-Programmeer cursus
+Codestarter Codeclub
+Nieuw seizoen! 
+Start op 8 september
 Wanneer:
 Elke donderdag van 18:30 tot 20:30
+
 Waar:
 De Jonge Onderzoekers Groningen
 Dirk Huizingastraat 13
 Wat:
-Leer games,programma's,kunst maken 
-in Processing,SFML en Urho3D
-Meer info?
-www.djog.nl
+Leer games, programma's, kunst maken 
+in Processing, SFML en Urho3D
+
+Meer info? Ga naar www.djog.nl
 Deze poster is geprogrammeerd

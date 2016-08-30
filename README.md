@@ -32,22 +32,14 @@ maar je bent ook vrij je eigen weg te kiezen.
  * Leeftijd: 8-25 jaar
  * Benodigdheden: Laptop met WiFi
 
-## Vakantieperiode
+Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
 
 Het is (voor ons al) vakantie! Wij blijven gewoon doorgaan :-) De cursusprijs van de vakantie is 10 euro. Ga je op vakantie? Dit is geen probleem:
 je bent in de vakantie ook welkom op de vrijdagavond, bij de [Arduino cursus](https://www.github.com/richelbilderbeek/ArduinoCourse).
 
 ![Zomervakantielessen](Publiciteit/Zomervakantielessen.png)
 
-In september begint het volgende seizoen.
+Op 8 september begint het volgende seizoen.
 
-## Hackathon
 
-We zijn van plan een hacathon te organiseren samen met de [Arduino cursus](https://github.com/richelbilderbeek/ArduinoCourse), de datum komt nog.
-
-Meer weten, zie [de Hackathon2016 GitHub](https://github.com/richelbilderbeek/Hackathon2016)
-
-# Veelgestelde vragen
-
-Zie [Veelgestelde vragen](FAQ.md)
 
