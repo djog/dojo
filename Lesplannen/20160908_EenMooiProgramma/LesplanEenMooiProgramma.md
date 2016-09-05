@@ -11,6 +11,12 @@ Lesdoelen:
  * Hoe start ik een programma in Processing?
  * Wat is een programma?
 
+## Voorbereiding
+
+ * Beamer + laptop met internet
+ * 1x papier + pen per leerling
+ * Informele toets op achterkant van bord
+
 # Waar staat de GitHub van de cursus?
 
 18:30-18:40
@@ -149,7 +155,6 @@ void draw()
   ellipse(50, 100, 150, 200);  
 }
 ```
-
 
 ## Antwoorden
 

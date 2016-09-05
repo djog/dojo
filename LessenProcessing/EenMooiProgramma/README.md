@@ -72,4 +72,4 @@ Als het goed is, zie je nu het programma!
 
 ## Sneltoetsen oefenen
 
- * Werk met iemand samen. Hussel de code van de andere door de war, door deze te kopieren en te plakken. Repareer dan de code op je eigen computer
+ * Werk met iemand samen. Hussel de code van de andere door de war, door deze te knippen/kopieren en te plakken. Repareer dan de code op je eigen computer
