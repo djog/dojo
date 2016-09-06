@@ -6,20 +6,20 @@ Dit rooster is nog een voorstel.
 
 Dag|Docent|Activiteit
 ---|---|---
-8 sep|?|[Een mooi programma](LessenProcessing/EenMooiProgramma/README.md) ([Lesplan](Lesplannen/EenMooiProgramma/README.md))
-15 sep|?|[GitHub les 1](LessenProcessing/GitHub/README.md)
-22 sep|?|[Punt](LessenProcessing/Point/README.md)
-29 sep|?|[Lijn](LessenProcessing/Line/README.md)
-6 okt|?|[Rechthoek](LessenProcessing/Rect/README.md)
-13 okt|?|[Bal naar rechts](LessenProcessing/BalNaarRechts/README.md)
-20 okt|?|[Bal die eeuwig naar rechts gaat](LessenProcessing/BalEeuwigNaarRechts/README.md)
-27 okt|?|[Bal die horizontaal stuitert](LessenProcessing/BalDieHorizontaalStuitert/README.md)
-3 nov|?|[PImage les 1](LessenProcessing/PImage1/README.md)
-10 nov|?|Functies zonder argumenten
-17 nov|?|Functies met argumenten
-24 nov|?|Functies met een return waarde
-1 dec|?|Maken eindproject
-8 dec|?|Maken eindproject, voorbereiden eindpresentatie
+8 sep|Richel|[Les 1: Een mooi programma](LessenProcessing/EenMooiProgramma/README.md)
+15 sep|Richel|[Les 2: point](LessenProcessing/Point/README.md)
+22 sep|Richel|[Les 3: line](LessenProcessing/Line/README.md)
+29 sep|Richel|[Les 4: backGround](LessenProcessing/BackGround/README.md)
+6 okt|Richel|[Les 5: stroke](LessenProcessing/Stroke/README.md)
+13 okt|Richel|[Les 6: rect](LessenProcessing/Rect/README.md)
+20 okt|Richel|[Les 7: ellipse](LessenProcessing/Ellipse/README.md)
+27 okt|Richel|[Les 8: fill](LessenProcessing/Fill/README.md)
+3 nov|Richel|[Les 9: Bal naar rechts](LessenProcessing/BalNaarRechts/README.md)
+10 nov|Richel|[Les 10: Bal die eeuwig naar rechts gaat](LessenProcessing/BalEeuwigNaarRechts/README.md)
+17 nov|Richel|[Les 11: Bal die horizontaal stuitert](LessenProcessing/BalDieHorizontaalStuitert/README.md)
+24 nov|Richel|[Les 12: random](LessenProcessing/Random/README.md)
+1 dec|Richel|Maken eindproject
+8 dec|Richel|Maken eindproject, voorbereiden eindpresentatie
 15 dec|Team|Eindpresentatie
 
 ## C++

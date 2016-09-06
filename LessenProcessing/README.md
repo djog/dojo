@@ -12,9 +12,15 @@ Dit zijn de Processing lessen
 
  * [Les 1: Een mooi programma](EenMooiProgramma/README.md)
  * [Les 2: point](Point/README.md)
- * [Les 3: Bal naar rechts](BalNaarRechts/README.md)
- * [Les 4: Bal die eeuwig naar rechts gaat](BalEeuwigNaarRechts/README.md)
- * [Les 5: Bal die horizontaal stuitert](BalDieHorizontaalStuitert/README.md)
+ * [Les 3: line](Line/README.md)
+ * [Les 4: backGround](BackGround/README.md)
+ * [Les 5: stroke](Stroke/README.md)
+ * [Les 6: rect](Rect/README.md)
+ * [Les 7: ellipse](Ellipse/README.md)
+ * [Les 8: fill](Fill/README.md)
+ * [Les 9: Bal naar rechts](BalNaarRechts/README.md)
+ * [Les 10: Bal die eeuwig naar rechts gaat](BalEeuwigNaarRechts/README.md)
+ * [Les 11: Bal die horizontaal stuitert](BalDieHorizontaalStuitert/README.md)
  * For loops les 1: geheel getal dat telt van 0 tot een waarde
  * For loops les 2: andere soorten for-loops, continue, break
  * [Arrays les 1](Arrays1/README.md)

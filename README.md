@@ -34,12 +34,3 @@ maar je bent ook vrij je eigen weg te kiezen.
 
 Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
 
-Het is (voor ons al) vakantie! Wij blijven gewoon doorgaan :-) De cursusprijs van de vakantie is 10 euro. Ga je op vakantie? Dit is geen probleem:
-je bent in de vakantie ook welkom op de vrijdagavond, bij de [Arduino cursus](https://www.github.com/richelbilderbeek/ArduinoCourse).
-
-![Zomervakantielessen](Publiciteit/Zomervakantielessen.png)
-
-Op 8 september begint het volgende seizoen.
-
-
-
