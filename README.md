@@ -32,5 +32,6 @@ maar je bent ook vrij je eigen weg te kiezen.
  * Leeftijd: 8-25 jaar
  * Benodigdheden: Laptop met WiFi
 
-Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
+Het rooster staat [hier](Rooster.md). De eerste les van het seizoen is op 8 september. Je bent ook altijd welkom om later in te stromen.
 
+Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
