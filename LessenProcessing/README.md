@@ -13,7 +13,7 @@ Dit zijn de Processing lessen
  * [Les 1: Een mooi programma](EenMooiProgramma/README.md)
  * [Les 2: point](Point/README.md)
  * [Les 3: line](Line/README.md)
- * [Les 4: backGround](BackGround/README.md)
+ * [Les 4: background](Background/README.md)
  * [Les 5: stroke](Stroke/README.md)
  * [Les 6: rect](Rect/README.md)
  * [Les 7: ellipse](Ellipse/README.md)
