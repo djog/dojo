@@ -71,55 +71,29 @@ De linkerbovenhoek heeft coordinaat (2,1), hij is vier pixels breed en drie pixe
 
 ## Oplossing
 
- * 1. (0,0) en (0,3)
- * 2. (3,1) en (3,4)
- * 3. (2,1) en (0,3)
- * 4. Van links naar rechts/horizontaal. `line(0,0,10,0)`
- * 5. Van onder naar boven/verticaal. `line(0,0,0,10)`
- * 6. Schuin/diagonaal. `line(0,0,0,10)`
- * 7. Van rechts naar links/horizontaal. `line(30,20,20,20)`
- * 8. (30,20). `line(10,20,30,20)`
- * 9. (20,20). `line(10,30,20,20)`
  * 10. Zie hieronder:
 
 ```
 void setup()
 {
-  size(300,300);  
+  size(100,100);
 }
 
-void draw() 
+void draw()
 {
-  //         
-  //    a    
-  //   / \   
-  //  e---b  
-  //  |\ /|  
-  //  | X |  
-  //  |/ \|  
-  //  d---c  
-  //
-  // a: (150, 50)
-  // b: (200,100)
-  // c: (200,200)
-  // d: (100,200)
-  // e: (100,100)
+  rect(10,10,10,10);
+  rect(10,20,10,10);
+  rect(20,20,10,10);
+  rect(20,30,10,10);
 
-  //Van a naar b
-  line(150,50,200,100);
-  //Van b naar c
-  line(200,100,200,200);
-  //Van c naar d
-  line(200,200,100,200);
-  //Van d naar e
-  line(100,200,100,100);
-  //Van e naar a
-  line(100,100,150,50);
-  //Van b naar d
-  line(200,100,100,200);
-  //Van b naar e
-  line(200,100,100,100);
-  //Van c naar e
-  line(200,200,100,100);
+  rect(40,20,10,10);
+  rect(50,20,10,10);
+  rect(50,30,10,10);
+  rect(50,40,10,10);
+
+  rect(20,60,10,10);
+  rect(30,60,10,10);
+  rect(30,70,10,10);
+  rect(40,70,10,10);
 }
 ```
