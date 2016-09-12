@@ -4,9 +4,9 @@ Dit zijn de Processing lessen
 
 ## Processing installeren en starten
 
- * [Processing opstarten op cursus laptop](ProcessingOpstartenOpCursusLaptop/README.md)
- * [Processing installeren op Linux](ProcessingInstallerenOpLinux/README.md)
- * [Processing installeren op Windows](ProcessingInstallerenOpWindows/README.md)
+ * [Processing opstarten op cursus laptop](LessenProcessing/ProcessingOpstartenOpCursusLaptop/README.md)
+ * [Processing installeren op Linux](LessenProcessing/ProcessingInstallerenOpLinux/README.md)
+ * [Processing installeren op Windows](LessenProcessing/ProcessingInstallerenOpWindows/README.md)
 
 ## Programmeren
 

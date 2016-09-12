@@ -2,7 +2,9 @@
 
 Vierkanten worden veel gebruikt in games.
 
-![Asteroids](Asteroids.png)
+Hier zie je een van de beroemdste games ooit:
+
+![Tetris](Tetris.gif)
 
 Je kunt een vierkant tekenen met vier lijnen,
 maar de `rect` functie werkt gemakkelijker.
