@@ -15,7 +15,7 @@ Dit zijn de Processing lessen
  * [Les 3: line](Line/README.md)
  * [Les 4: background](Background/README.md)
  * [Les 5: stroke](Stroke/README.md)
- * [Les 6: rect](Rect/README.md)
+ * [Les 6: rect](LessenProcessing/Rect/README.md)
  * [Les 7: ellipse](Ellipse/README.md)
  * [Les 8: fill](Fill/README.md)
  * [Les 9: Bal naar rechts](BalNaarRechts/README.md)
