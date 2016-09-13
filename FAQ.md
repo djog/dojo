@@ -57,6 +57,20 @@ Natuurlijk helpen we je bij je vragen, maar het meeste zul je zelf moeten doen.
 
 De lessen C++ staan [in de map LessenCpp](LessenCpp/README.md).
 
+## Ik wil Arduino doen, kan dat?
+
+Jazeker, maar we geven op de donderdag geen les in Arduino.
+
+Je zou de [Arduino cursus van de vrijdagavond](https://github.com/richelbilderbeek/ArduinoCourse)
+kunnen volgen :-)
+
+## Ik wil iets met dieren/planten/biologie doen, kan dat?
+
+Jazeker, maar we geven op de donderdag geen les in dieren/planten/biologie.
+
+Je zou de [biologie cursus van de woensdagavond](https://github.com/DIYbioCourse/BioCourse)
+kunnen volgen :-)
+
 ## Welke vrijwilligers zijn er?
 
 ### [Jan](https://github.com/janderkkotlarski)
