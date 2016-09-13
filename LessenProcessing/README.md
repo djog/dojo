@@ -10,7 +10,7 @@ Dit zijn de Processing lessen
 
 ## Programmeren
 
- * [Les 1: Een mooi programma](LessenProcessing/EenMooiProgramma/README.md)
+ * [Les 1: Een mooi programma](./EenMooiProgramma/README.md)
  * [Les 2: point](LessenProcessing/Point/README.md)
  * [Les 3: line](LessenProcessing/Line/README.md)
  * [Les 4: background](LessenProcessing/Background/README.md)
