@@ -13,17 +13,12 @@ In deze les gaan we leren
 
 Zo gaat het eruit zien:
 
-![background](background.png)
+![fill](fill.png)
 
-Je hoeft maar weinig te weten, behalve hoe je
-[een mooi programma maakt](../EenMooiProgramma/README.md)
+Weet je nog niet hoe je een lijn een kleur kan geven?
+Ga dan naar [stroke](../Stroke/README.md)
 
 ## Kleuren
-
-Als je goed naar een beeldscherm kijkt, zie je dat elke pixel
-uit drie lampjes bestaat:
-
-![RGB pixels](RGB_pixels.jpg)
 
 De lampjes hebben de kleuren rood, groen en blauw.
 
