@@ -137,7 +137,7 @@ Omdat we een functie gebruiken is onze code een stuk korter geworden. Ook is de 
 1. Kopieer de code en deel de functie 'tekenGrondEnSchaap' op in twee functies; 'tekenGrond' en 'tekenSchaap'
 2. Teken een zon als het dag is
 3. Teken een maan als het nacht is
-4. Maak nu de functies 'tekenDag' en 'tekenNacht'
+4. Maak nu de functies 'tekenDag' en 'tekenNacht' en zorg dat je de kleur van de lucht en de zon of maan in die functies tekent
 5. Check of 'void draw' er nu zo uit ziet:
   
 ```
