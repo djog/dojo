@@ -132,3 +132,26 @@ void tekenGrondEnSchaap() {
 Je kan zien dat we de functie `tekenGrondEnSchaap` aanroepen met de regel `tekenGrondEnSchaap();`
 
 Omdat we een functie gebruiken is onze code een stuk korter geworden. Ook is de code een stuk overzichtelijker en leesbaarder geworden, het lijkt bijna Nederlands!
+
+##Opdrachten
+1. Kopieer de code en deel de functie 'tekenGrondEnSchaap' op in twee functies; 'tekenGrond' en 'tekenSchaap'
+2. Teken een zon als het dag is
+3. Teken een maan als het nacht is
+4. Maak nu de functies 'tekenDag' en 'tekenNacht'
+5. Check of 'void draw' er nu zo uit ziet:
+  
+```
+  void draw() {
+    if (mousePressed) {
+      //Dag
+      tekenDag()
+      tekenGrond();
+      tekenSchaap();
+    } else {
+      //Nacht
+      tekenNacht();
+      tekenGrond()
+      tekenSchaap();
+    }
+  }
+```
