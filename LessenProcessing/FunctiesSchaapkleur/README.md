@@ -65,3 +65,50 @@ void draw() {
     tekenSchaap();
 }
 ```
+
+### Argumenten
+
+Nu gaan we de kleur van het schaap aanpasbaar maken, dat doen we door een argument toe te voegen aan de `tekenSchaap()` functie.
+
+Eerst veranderen we de regel
+```
+void tekenSchaap() {
+```
+in
+```
+void tekenSchaap(float kleur) {
+```
+
+`float kleur` betekend dat als we de functie aanroepen we er een getal in kunnen stoppen die wordt opgeslagen in het getal `kleur`
+
+Nu kunnen we dus het getal `kleur` ook in de rest van de functie gebruiken, de `tekenSchaap()` ziet er dan zo uit:
+
+```
+void tekenSchaap(float kleur) {
+  //Teken schaap
+  stroke(kleur);
+  line(50, 100, 50, 150);
+  line(70, 100, 70, 150);
+  line(100, 100, 100, 150);
+  line(120, 100, 120, 150);
+  fill(kleur);
+  ellipse(80, 100, 100, 50);
+  ellipse(120, 80, 30, 30);
+}
+```
+
+Maar om te zorgen dat de code nu nog wel werkt moeten we in `void draw()` de regel
+```
+tekenSchaap();
+```
+veranderen in
+```
+tekenSchaap(255);
+```
+
+Nu tekent het programma weer een wit schaap! Maar het handige van deze code is dat we heel makkelijk de kleur kunnen veranderen.
+
+### Opdrachten
+* Verander het argument in `tekenSchaap` zodat het schaap zwart is.
+* Verander het argument in `tekenSchaap` zodat het schaap grijs is.
+* Wat denk je dat er gebeurt als je `mouseX` invult als argument? Probeer het om je hypthese te controleren!
