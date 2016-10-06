@@ -1,4 +1,4 @@
-# Functies les 2: Argumenten
+# Functies les 2: Schaapkleur
 
 **Als je nog niet weet wat functies zijn, doe dan eerst [deze les](../FunctiesTekening/README.md)**
 
