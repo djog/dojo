@@ -81,7 +81,7 @@ void tekenSchaap(float kleur) {
 
 `float kleur` betekend dat als we de functie aanroepen we er een getal in kunnen stoppen die wordt opgeslagen in het getal `kleur`
 
-Nu kunnen we dus het getal `kleur` ook in de rest van de functie gebruiken, de `tekenSchaap()` ziet er dan zo uit:
+Nu kunnen we dus het getal `kleur` ook in de rest van de functie gebruiken, de `tekenSchaap()` functie ziet er dan zo uit:
 
 ```
 void tekenSchaap(float kleur) {
@@ -97,7 +97,7 @@ void tekenSchaap(float kleur) {
 }
 ```
 
-Maar om te zorgen dat de code nu nog wel werkt moeten we in `void draw()` de regel
+Maar om de functie nu ook goed te gebruiken moeten we in `void draw()` de regel
 ```
 tekenSchaap();
 ```
@@ -106,7 +106,7 @@ veranderen in
 tekenSchaap(255);
 ```
 
-Nu tekent het programma weer een wit schaap! Maar het handige van deze code is dat we heel makkelijk de kleur kunnen veranderen.
+Nu tekent het programma weer een wit schaap! Maar met deze code kunnen we heel makkelijk de kleur veranderen.
 
 ### Opdrachten
 * Verander het argument in `tekenSchaap` zodat het schaap zwart is.
