@@ -1,4 +1,4 @@
-**Als je nog geen GitHub account hebt, doe dan eerst [deze les](GitHub.md)**
+**Als je nog geen GitHub account hebt, doe dan eerst [deze les](../GitHub/README.md)**
 
 #GitHub Pages
 
