@@ -22,15 +22,16 @@ Dit zijn de Processing lessen
  * [Les 10: Bal die eeuwig naar rechts gaat](./BalEeuwigNaarRechts/README.md)
  * [Les 11: Bal die horizontaal stuitert](./BalDieHorizontaalStuitert/README.md)
  * [Les 12: Zwaartekracht](./Zwaartekracht/README.md)
- * For loops les 1: geheel getal dat telt van 0 tot een waarde
- * For loops les 2: andere soorten for-loops, continue, break
- * [Arrays les 1](./Arrays1/README.md)
- * [Arrays les 2](./Arrays2/README.md)
- * [PImage les 1](./PImage1/README.md)
- * [Functies les 1: Tekening](./FunctiesTekening/README.md)
- * [Functies les 2: Schaapkleur](./FunctiesSchaapkleur/README.md) 
- * Functies les 3: functies met return waarde
- * Klassen les 1: een pixel
+ * [Les 13: Tekst](./Text/README.md)
+ * Les 14: for loops 1: geheel getal dat telt van 0 tot een waarde
+ * Les 15: for loops les 2: andere soorten for-loops, continue, break
+ * [Les 16: Arrays les 1](./Arrays1/README.md)
+ * [Les 17: Arrays les 2](./Arrays2/README.md)
+ * [Les 18: PImage les 1](./PImage1/README.md)
+ * [Les 19: Functies les 1: Tekening](./FunctiesTekening/README.md)
+ * [Les 20: Functies les 2: Schaapkleur](./FunctiesSchaapkleur/README.md) 
+ * Les 21: Functies les 3: functies met return waarde
+ * Les 22: Klassen les 1: een pixel
  
 ## GitHub
 
