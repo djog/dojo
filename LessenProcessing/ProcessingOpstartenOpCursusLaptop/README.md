@@ -1,5 +1,13 @@
 # Processing opstarten op cursuslaptop
 
+Met een terminal kun je veel dingen doen,
+die soms niet met een normaal programma gedaan kunnen worden.
+Op de cursus start je Processing vanuit de terminal.
+
+![Hackers werken met een terminal](HackerMetTerminal.jpg)
+
+## Processing starten
+
 Start een Terminal. Dit kan soms met `Win+T`, `CTRL+ALT+T`, of deze te vinden in de menuutjes, of te zoeken op het woord `Terminal`
 
 ![Een terminal](Terminal.png)
