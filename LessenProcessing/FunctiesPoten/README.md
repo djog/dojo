@@ -1,6 +1,7 @@
 #Functies les 3: Poten
 
 **Als je nog niet weet wat functies zijn, doe dan eerst [deze les](../FunctiesTekening/README.md)**
+
 **Als je nog niet weet hoe functies met argumenten werken, doe dan eerst [deze les](../FunctiesSchaapkleur/README.md)**
 
 In deze les gaan we kijken naar functies met een return type. Dat doen we door poten van een aantal schapen te tellen.
