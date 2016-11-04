@@ -30,7 +30,7 @@ Dit zijn de Processing lessen
  * [Les 18: PImage les 1](./PImage1/README.md)
  * [Les 19: Functies les 1: Tekening](./FunctiesTekening/README.md)
  * [Les 20: Functies les 2: Schaapkleur](./FunctiesSchaapkleur/README.md) 
- * Les 21: Functies les 3: functies met return waarde
+ * [Les 21: Functies les 3: Poten](./FunctiesPoten/README.md)
  * Les 22: Klassen les 1: een pixel
  
 ## GitHub
