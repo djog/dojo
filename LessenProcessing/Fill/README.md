@@ -13,7 +13,7 @@ In deze les gaan we leren
 
 Zo gaat het eruit zien:
 
-![fill](fill.png)
+![Fill](Fill.png)
 
 Weet je nog niet hoe je een lijn een kleur kan geven?
 Ga dan naar [stroke](../Stroke/README.md)

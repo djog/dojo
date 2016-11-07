@@ -36,5 +36,6 @@ De eerste les van het seizoen is op 8 september. Je bent ook altijd welkom om la
 
  * Het [rooster](Rooster.md) staat [hier](Rooster.md)
  * De [lessen](LessenProcessing/README.md) staan [hier](LessenProcessing/README.md)
+ * Het [boek](Boek/Boek.pdf) staat [hier](Boek/Boek.pdf)
  
 Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
