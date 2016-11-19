@@ -1,7 +1,5 @@
 # Draaiboek presentaties 15 december 2016
 
-## Scorebord
-
  * `J`: Jan
  * `N`: JorN
  * `R`: Ruben
