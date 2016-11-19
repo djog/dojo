@@ -15,5 +15,8 @@
 
 ## Presentaties
 
- * [Presentaties 11 december 2015](Presentatie20151211/README.md)
+Nieuwste eerst!
+
+ * [Presentaties 15 december 2016](Presentatie20161215/README.md)
  * [Presentaties 30 juni 2016](Presentatie20160630/README.md)
+ * [Presentaties 11 december 2015](Presentatie20151211/README.md)
