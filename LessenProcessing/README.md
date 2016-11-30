@@ -41,6 +41,11 @@ Dit zijn de Processing lessen
  * [GitHub chat](./GitHubChat/README.md)
  * [GitHub en samenwerken](./GitHubSamenwerken/README.md)
 
+## Code
+
+ * For loop spelen
+ * Accolade spelen
+
 ## Andere dingen
 
  * [Tekenen](./Tekenen/README.md)
