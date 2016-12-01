@@ -15,3 +15,7 @@
 |n|Ruben|3D Crystal|[GitHub](https://github.com/ruben-bouman/pwc-crystal/blob/master/crystal_pwc.pde)|
 
 \* lokale presentaties worden nog op de Dojo repository gezet
+
+### Nog in te delen:
+* Daan
+* Jeroen
