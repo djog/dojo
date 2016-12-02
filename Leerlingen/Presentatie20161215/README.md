@@ -11,7 +11,7 @@ Tijd|Houtlokaal|Kantine
 ---|---|---
 18:00|`R`+`J`: klaarzetten [1]|`N` gastheer
 18:30|`T`+`N`: technische bespreking met `lln`, rest van `lln` wacht|`J`+`R` gastheer, `J` monoloog [2]
-19:00|`lln` presenteren, `T` techniek, `J`+`R` duo-presentator, `N` doet eerste presentatie|(niemand hier)
+19:00|`lln` presenteren, `T` techniek, `J`+`R` duo-presentator, `N` doet eerste presentatie, [volledige volgorde hier](presentaties.md)|(niemand hier)
 20:00|(niemand hier)|Iedereen gastheer. `N`+`R` klaarzetten bar [3]
 20:15|`lln` anonieme evaluatie [4]|`T`+`J` evaluatie met ouders [5], `R`+`N` gastheer
 20:30|iedereen: opruimen|iedereen: gasten naar huis sturen, dan opruimen
