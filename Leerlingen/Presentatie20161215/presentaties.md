@@ -18,5 +18,4 @@
 \* lokale presentaties worden nog op de Dojo repository gezet
 
 ### Nog in te delen:
-* Raymon
 * Jeroen
