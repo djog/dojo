@@ -2,20 +2,16 @@
 
 |Volgorde|Naam|Project|Waar|
 |:---:|:---|:---|---:|
-|0|Jorn|...|GitHub?|
+|0|Jorn|?|?|
 |1|Annika, Anastacia en Priscilla|Emoji's|[GitHub](https://github.com/ruben-bouman/eindpresentatie-ana-annika-priscilla/blob/master/code%20eindpresentatie)|
 |2|Bastiaan|Het liedje dat je gaat irriteren|Lokaal|
 |3|Aik en Job|De donkere nacht|Lokaal|
 |4|Carmen|Tower Builder|Laptop van Carmen|
 |5|Daan|Githubs & De Kleurmaker|[GitHub](https://github.com/daantje1?tab=repositories)|
-|x|Emre|Music Box by Emre|Lokaal|
-|x+1|Thijs|Tafeltennis|Lokaal|
-|x+2|Tom|Reactiespel & iPhone|[GitHub](https://github.com/tomyboy112/reaction-game) & lokaal|
-|n-2|Jelmer|Basic BALL|Lokaal|
-|n-1|Jasper en Dante|Horrorman|[GitHub](https://github.com/DantVader2005/jaspers-en-dantes-horrorman/blob/master/de_horror_man.pde)|
-|n|Ruben|3D Crystal|[GitHub](https://github.com/ruben-bouman/pwc-crystal/blob/master/crystal_pwc.pde)|
-
-\* lokale presentaties worden nog op de Dojo repository gezet
-
-### Nog in te delen:
-* Jeroen
+|6|Emre|Music Box by Emre|Lokaal|
+|7|Jeroen|?|?|
+|8|Thijs|Tafeltennis|Lokaal|
+|8|Tom|Reactiespel & iPhone|[GitHub](https://github.com/tomyboy112/reaction-game) & [dojo](https://github.com/richelbilderbeek/Dojo/blob/master/Leerlingen/Presentatie20161215/PresentatiesPerLeerling/Tom/iphone/iphone.pde)|
+|10|Jelmer|Basic BALL|Lokaal|
+|11|Jasper en Dante|Horrorman|[GitHub](https://github.com/DantVader2005/jaspers-en-dantes-horrorman/blob/master/de_horror_man.pde)|
+|12|Ruben|3D Crystal|[GitHub](https://github.com/ruben-bouman/pwc-crystal/blob/master/crystal_pwc.pde)|
