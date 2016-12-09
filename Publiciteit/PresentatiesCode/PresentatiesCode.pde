@@ -13,14 +13,14 @@ Waar: De Jonge Onderzoekers, Dirk Huizingastraat 13
 -------------------------------------------------------------------------
 18:15-18:30: Inloop (met koffie voor de ouders) (eerder mag ook!)
 18:30-19:00: Voorbereiding && Inleiding
- * leerlingen: @ houtlokaal om presentaties op een computer te zetten
- * ouders: @ kantine, waar Dojo leraren vertellen 
+ * deelnemers: @ houtlokaal om presentaties op een computer te zetten
+ * ouders: @ kantine, waar Dojo begeleiders vertellen 
            wat de leerlingen hebben gedaan
-19:00-20:00: Leerlingen laten hun werk zien 
+19:00-20:00: Deelnemers laten hun werk zien 
 20:00-20:15: Pauze
 20:15-20:30: Evaluatie 
- * leerlingen: @ houtlokaal met Mr/Mrs X 
- * ouders: @ kantine met leraren
+ * deelnemers: @ houtlokaal met Mr/Mrs X 
+ * ouders: @ kantine met begeleiders
 20:30 Klaar!
 -------------------------------------------------------------------------
                                 FAQ
