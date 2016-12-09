@@ -7,14 +7,14 @@
  * `ll`: leerling
  * `lln`: leerlingen
 
-Tijd|Houtlokaal|Kantine
+Tijd|Kantine|Houtlokaal
 ---|---|---
 18:00|`R`+`J`: klaarzetten [1]|`N` gastheer
 18:30|`T`+`N`: technische bespreking met `lln`, rest van `lln` wacht|`J`+`R` gastheer, `J` monoloog [2]
 19:00|`lln` presenteren, `T` techniek, `J`+`R` duo-presentator, `N` doet eerste presentatie, [volledige volgorde hier](presentaties.md)|(niemand hier)
-20:00|(niemand hier)|Iedereen gastheer. `N`+`R` klaarzetten bar [3]
-20:15|`lln` anonieme evaluatie [4]|`T`+`J` evaluatie met ouders [5], `R`+`N` gastheer
-20:30|iedereen: opruimen|iedereen: gasten naar huis sturen, dan opruimen
+20:00|Iedereen gastheer. `N`+`R` klaarzetten bar [3]|(niemand hier)
+20:15|`T`+`J` evaluatie met ouders [5], `R`+`N` gastheer|`lln` anonieme evaluatie [4]
+20:30|iedereen: gasten naar huis sturen, dan opruimen|iedereen: opruimen
 20:45|KLAAR! [6] |KLAAR! [6]
 
 
