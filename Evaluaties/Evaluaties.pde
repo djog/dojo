@@ -24,21 +24,18 @@ Ik vind dat ik dit seizoen
 Hoe heb je dat gedaan? Waarom?
 
 
+De fijnste leerling (behalve ikzelf) vind ik:
+Dat vind ik omdat:
 
+
+De minst fijne leerling vind ik:
+Dat vind ik omdat:
 
 
 Ik zou willen dat de Dojo dit blijft doen:
 
 
-
-
-
 Ik zou willen dat de Dojo dit anders doet:
-
-
-
-
-
 
 
 Ik geef de Dojo dit cijfer (van 1 tot en met 10): 
