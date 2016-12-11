@@ -21,21 +21,24 @@ Ik vind dat ik dit seizoen
 [ ] een beetje geleerd
 [ ] weinig geleerd heb
 
-Hoe heb je dat gedaan? Waarom?
+Ik vind dat Jan ...
 
 
-De fijnste leerling (behalve ikzelf) vind ik:
-Dat vind ik omdat:
+
+Ik vind dat Richel ...
 
 
-De minst fijne leerling vind ik:
-Dat vind ik omdat:
+
+Ik vind dat Thijs ...
 
 
-Ik zou willen dat de Dojo dit blijft doen:
+
+Ik vind goed aan de cursus, dat ...
 
 
-Ik zou willen dat de Dojo dit anders doet:
+
+Als ik iets aan de cursus mocht veranderen, dan zou ik ...
+
 
 
 Ik geef de Dojo dit cijfer (van 1 tot en met 10): 
