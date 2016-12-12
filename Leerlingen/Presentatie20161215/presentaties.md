@@ -2,7 +2,7 @@
 
 |Volgorde|Naam|Project|Waar|
 |:---:|:---|:---|---:|
-|0|Jorn|?|?|
+|0|Jorn|pumpkinheader|?|
 |1|Annika, Anastacia en Priscilla|Emoji's|[GitHub](https://github.com/ruben-bouman/eindpresentatie-ana-annika-priscilla/blob/master/code%20eindpresentatie)|
 |2|Bastiaan|Het liedje dat je gaat irriteren|Lokaal|
 |3|Aik en Job|De donkere nacht|Lokaal|
