@@ -153,7 +153,7 @@ Dit is precies wat een array kan doen.
 Een array kun je zien als een kast met laatjes.
 In deze les beginnen we met een kast met een laatje:
 
-![Kast met laatje](KastMetLaatje.jpg)
+![Kast met laatje](KastMetLaatje.png)
 
 Elk laatje heeft een nummer en in elk laatje kan een getal.
 

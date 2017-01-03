@@ -1,6 +1,6 @@
 **Als je nog geen GitHub account hebt, doe dan eerst [deze les](../GitHub/README.md)**
 
-#GitHub Pages
+# GitHub Pages
 
 GitHub Pages is een service van GitHub waarmee elke gebruiker zijn eigen website kan maken. Deze les gaan we een GitHub Page met homepage maken.
 
@@ -15,7 +15,7 @@ Een GitHub Page gebruik je om:
 * Mensen jouw spellen te laten spelen
 * De wereld te laten zien wat je kan
 
-##GitHub Page aanmaken
+## GitHub Page aanmaken
 
 * Open een webbrowser
 * Ga naar `www.github.com`
@@ -30,7 +30,7 @@ Je komt nu op de GitHub homepage:
 
 * Log in met je GitHub account (Heb je die niet? Doe dan eerst [deze les](GitHub.md)!)
 
-###GitHub Page repository maken
+### GitHub Page repository maken
 
 ![Maak een GitHub](GitHubCreateNewRepository.png)
 
