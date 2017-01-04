@@ -1,24 +1,24 @@
 # Evaluatie Dojo 15 december 2016
 
 Ik kom vooral bij de Dojo om iets te leren 
-[15x] mee eens
-[   ] geen mening
-[   ] niet mee eens
+ * [15x] mee eens
+ * [   ] geen mening
+ * [   ] niet mee eens
 
 Ik zou willen dat we serieuzer werkten 
-[5x] mee eens
-[7x] geen mening
-[3x] niet mee eens
+ * [5x] mee eens
+ * [7x] geen mening
+ * [3x] niet mee eens
 
 Op een Dojo avond vind ik de sfeer
-[14x] gezellig
-[ 1x] gaat wel
-[   ] vervelend
+ * [14x] gezellig
+ * [ 1x] gaat wel
+ * [   ] vervelend
 
 Ik vind dat ik dit seizoen
-[10x] veel geleerd heb
-[ 4x] een beetje geleerd
-[   ] weinig geleerd heb
+ * [10x] veel geleerd heb
+ * [ 4x] een beetje geleerd
+ * [   ] weinig geleerd heb
 
 Ik vind dat Jan ...
 
@@ -107,6 +107,8 @@ Ik geef de Dojo dit cijfer (van 1 tot en met 10):
  * 9,9
  * (3x) 10
  * 10,5 (noot: dit telt als een 10,0)
+
+Gemiddeld: 8.9
 
 ## Vragen van de leerlingen
 
@@ -259,7 +261,20 @@ zijn, omdat het een pittige groep is.
 
 Ik denk dat we veel verbeteringen kunnen halen uit deze evaluatie!
 
+De leerlingen willen dat we strenger zijn en ik denk dat we dat 
+dan ook horen te (durven) doen.
+
 Het is belangrijk dat de leerlingen weten wanneer ze naar
-het aquarium kunnen. Voorstel: ???
+het aquarium kunnen. Mijn voorstel is dat de basis
+van 'Team Jan' wordt: voel je je daar thuis, dan mag je daar gaan zitten.
 
+Mij lijkt het goed om zowieso meer in 'Team Jan', 'Team Thijs'
+en 'Team Richel' (en later 'Team Dagmar' en 'Team Jorn') te gaan werken. 
+Ik zou graag Thijs meer les zien
+geven!
 
+Ik denk dat er een les moet komen met `fullScreen`, `width`
+en `height`. Ik hoop dat Thijs die maakt.
+
+Er is een (slordig) boek. Hopelijk helpt dit met het scheppen van duidelijkheid
+en structuur.
