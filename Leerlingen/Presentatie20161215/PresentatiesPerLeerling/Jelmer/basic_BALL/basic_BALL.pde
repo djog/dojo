@@ -1,87 +1,123 @@
-float richting = 2;
-float x = 0;
-float y = 700;
-boolean gameOver = false;
-PImage bg;
-float ymax = 5;
+float y = 300;
+float x = 300;
+float v = 0;
+float richting = 0;
+boolean sprint = false;
+float sprintv = 2;
+
 
 void setup()
 {
-  size(800,800);
-  background(0);
-  textSize(50);
-  bg = loadImage("meatball.png");
+  size(900,900);
 }
 
 void draw()
 {
-  if (gameOver)
+  background(41);
+  ellipse(x,y,100,100);
+  rect(0,350,900,100);
+ 
+  if ( y > 300)
   {
-    background(bg);
-    text("that's a spicy meatball", 100, 100, 600);
-    x=400;
+    y = 300;
+  }
+  if (sprint == true)
+  {
+    sprintv = 5;
+  }
     
-    y=400;
-    if (keyPressed) 
+  
+  if(richting == 1)
+  {
+  
+    if ( y == 300)
     {
-      gameOver = false;
-      background(0);
+      v = 20;
     }
-  }
+    v = v - 1;
+    y = y - v;
   
-  ellipse(x, y , 7 , 7 );
-  rect(0,700,800,100);
-  
-  if ( richting == 0)
+    if(v < -18)
   {
-    y = y- 1;
-  }
-  if (richting == 1)
-  {
-    y = y + 1;
-  }
-  if (richting == 2)
-  {
-  x = x + 1;
-  }
-  if (richting == 3) 
-  {
-    x = x - 1;
-  }
-  if( richting == 5)
-  {
-    x = x + 1;
-    y = y - 1;
-  }
-  
-  if (keyPressed){
-  {
-    if(key =='w')
+   v = 0; 
     richting = 0;
   }
-  if (key == 's')
-  {
-    richting = 1;
   }
-  if (key == 'd')
+  if(richting == 2)
+{
+ 
+if( y < 299)
+    {
+    x = x + sprintv;
+    y = y - v;
+    v = v - 1;
+    }
+  if ( y == 300)
   {
-    richting = 2;
+   x = x + sprintv;
   }
-  if (key == 'a')
+    
+    
+
+}
+  if(richting == 3)
+  {
+    if( y < 299)
+    {
+    x = x - sprintv;
+    y = y - v;
+    v = v - 1;
+    }
+    if ( y == 300)
+    {
+      x = x - sprintv;
+    }
+    
+    else
+    x = x - sprintv;
+    
+ 
+  }
+ 
+ if(y > 300)
+  {
+   
+    richting = 0;
+  }  
+
+    
+
+  
+ if (keyPressed)
+ {
+   if(key == 'w')
+   richting = 1;
+ }
+ {
+   if(key == 'd')
+   richting = 2;
+ }
+  if(key== 'a')
   {
     richting = 3;
   }
+  if(key=='e')
+  {
+  sprintv = 5;
+  }
+  if (key=='r')
+  {
+    sprintv = 2;
+  }
+  if (key=='s')
+  {
+    richting = 0;
+  }
+
+
+
   
- 
-}
-else
-  richting = 4;
-
-
- if (x>800 || y > 800 || x<0 || y<0)
- {
-   gameOver = true;
- }
-
 
 }
+  
+  

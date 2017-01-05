@@ -22,17 +22,18 @@ Dit zijn de Processing lessen
  * [Les 10: Bal die eeuwig naar rechts gaat](./BalEeuwigNaarRechts/README.md)
  * [Les 11: Bal die horizontaal stuitert](./BalDieHorizontaalStuitert/README.md)
  * [Les 12: Zwaartekracht](./Zwaartekracht/README.md)
- * [Les 13: Tekst](./Text/README.md)
- * Les 14: for loops 1: geheel getal dat telt van 0 tot een waarde
- * Les 15: for loops les 2: andere soorten for-loops, continue, break
- * [Les 16: Arrays les 1](./Arrays1/README.md)
- * [Les 17: Arrays les 2](./Arrays2/README.md)
- * [Les 18: PImage les 1](./PImage1/README.md)
- * [Les 19: Functies les 1: Tekening](./FunctiesTekening/README.md)
- * [Les 20: Functies les 2: Schaapkleur](./FunctiesSchaapkleur/README.md) 
- * [Les 21: Functies les 3: Poten](./FunctiesPoten/README.md)
- * Les 22: Klassen les 1: een pixel
- 
+ * [Les 13: `width` en `height`](./WidthHeight/README.md)
+ * [Les 14: Tekst](./Text/README.md)
+ * Les 15: for loops 1: geheel getal dat telt van 0 tot een waarde
+ * Les 16: for loops les 2: andere soorten for-loops, continue, break
+ * [Les 17: Arrays les 1](./Arrays1/README.md)
+ * [Les 18: Arrays les 2](./Arrays2/README.md)
+ * [Les 19: PImage les 1](./PImage1/README.md)
+ * [Les 20: Functies les 1: Tekening](./FunctiesTekening/README.md)
+ * [Les 21: Functies les 2: Schaapkleur](./FunctiesSchaapkleur/README.md)
+ * [Les 22: Functies les 3: Poten](./FunctiesPoten/README.md)
+ * Les 23: Klassen les 1: een pixel
+
 ## GitHub
 
  * [GitHub #1: account aannmaken](./GitHub/README.md)
@@ -51,4 +52,3 @@ Dit zijn de Processing lessen
  * [Tekenen](./Tekenen/README.md)
  * [Boek](./Boek/README.md)
  * [Scorebord](../Leerlingen/README.md)
-
