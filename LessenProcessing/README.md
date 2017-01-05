@@ -10,29 +10,34 @@ Dit zijn de Processing lessen
 
 ## Programmeren
 
- * [Les 1: Een mooi programma](./EenMooiProgramma/README.md)
- * [Les 2: point](./Point/README.md)
- * [Les 3: line](./Line/README.md)
- * [Les 4: background](./Background/README.md)
- * [Les 5: stroke](./Stroke/README.md)
- * [Les 6: rect](./Rect/README.md)
- * [Les 7: ellipse](./Ellipse/README.md)
- * [Les 8: fill](./Fill/README.md)
- * [Les 9: Bal naar rechts](./BalNaarRechts/README.md)
- * [Les 10: Bal die eeuwig naar rechts gaat](./BalEeuwigNaarRechts/README.md)
- * [Les 11: Bal die horizontaal stuitert](./BalDieHorizontaalStuitert/README.md)
- * [Les 12: Zwaartekracht](./Zwaartekracht/README.md)
- * [Les 13: `width` en `height`](./WidthHeight/README.md)
- * [Les 14: Tekst](./Text/README.md)
- * Les 15: for loops 1: geheel getal dat telt van 0 tot een waarde
- * Les 16: for loops les 2: andere soorten for-loops, continue, break
- * [Les 17: Arrays les 1](./Arrays1/README.md)
- * [Les 18: Arrays les 2](./Arrays2/README.md)
- * [Les 19: PImage les 1](./PImage1/README.md)
- * [Les 20: Functies les 1: Tekening](./FunctiesTekening/README.md)
- * [Les 21: Functies les 2: Schaapkleur](./FunctiesSchaapkleur/README.md)
- * [Les 22: Functies les 3: Poten](./FunctiesPoten/README.md)
- * Les 23: Klassen les 1: een pixel
+### Tekenen
+ * [Een mooi programma](./EenMooiProgramma/README.md)
+ * [point](./Point/README.md)
+ * [line](./Line/README.md)
+ * [background](./Background/README.md)
+ * [stroke](./Stroke/README.md)
+ * [rect](./Rect/README.md)
+ * [ellipse](./Ellipse/README.md)
+ * [fill](./Fill/README.md)
+ * [Tekst](./Text/README.md)
+
+### Variabelen
+ * [Bal naar rechts](./BalNaarRechts/README.md)
+ * [Bal die eeuwig naar rechts gaat](./BalEeuwigNaarRechts/README.md)
+ * [Bal die horizontaal stuitert](./BalDieHorizontaalStuitert/README.md)
+ * [Zwaartekracht](./Zwaartekracht/README.md)
+ * [`width` en `height`](./WidthHeight/README.md)
+ * [Arrays les 1](./Arrays1/README.md)
+ * [Arrays les 2](./Arrays2/README.md)
+ * [PImage les 1](./PImage1/README.md)
+
+### Structuur
+ * for loops 1: geheel getal dat telt van 0 tot een waarde
+ * for loops les 2: andere soorten for-loops, continue, break
+ * [Functies les 1: Tekening](./FunctiesTekening/README.md)
+ * [Functies les 2: Schaapkleur](./FunctiesSchaapkleur/README.md)
+ * [Functies les 3: Poten](./FunctiesPoten/README.md)
+ * Klassen les 1: een pixel
 
 ## GitHub
 
