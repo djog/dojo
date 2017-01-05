@@ -31,6 +31,13 @@ Dit zijn de Processing lessen
  * [Arrays les 2](./Arrays2/README.md)
  * [PImage les 1](./PImage1/README.md)
 
+### Input
+ * Muis les 1: Positie
+ * Muis les 2: Knoppen
+ * Muis les 3: Scrollen
+ * Toetsen les 1: Indrukken
+ * Toetsen les 2: Loslaten
+
 ### Structuur
  * for loops 1: geheel getal dat telt van 0 tot een waarde
  * for loops les 2: andere soorten for-loops, continue, break
