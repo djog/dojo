@@ -1,6 +1,6 @@
 # `width` en `height`
 
-`width` en `height` zijn ingebouwde getallen in Processing, die handig zijn om te gebruiken zodat je programma nog werkt als je de grootte van je scherm aanpast.
+`width` en `height` zijn ingebouwde variabelen in Processing, die handig zijn om te gebruiken zodat je programma nog werkt als je de grootte van je scherm aanpast.
 
 Stel dat je een programma maakt wat een ovaal tekent die het scherm opvult, deze zou er zo uit kunnen zien:
 ```
