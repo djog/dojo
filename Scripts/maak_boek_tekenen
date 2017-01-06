@@ -7,7 +7,8 @@ my_folder_path=`dirname $my_script_path`
 build_folder=$my_folder_path/build
 #echo $build_folder
 
-if [ ! -d "build" ]; then mkdir build; fi
+rm -rf build
+mkdir build
 
 if [ ! -d $build_folder ]; then 
   echo "Error: failed to create build folder"

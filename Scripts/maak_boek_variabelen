@@ -8,7 +8,7 @@ build_folder=$my_folder_path/build
 #echo $build_folder
 
 # Remove build folder
-rm -rf build_folder
+rm -rf $build_folder
 mkdir build
 
 if [ ! -d $build_folder ]; then 
