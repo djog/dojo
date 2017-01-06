@@ -40,5 +40,8 @@ sed -e '$s/$/\n/' -s *.md > README.md
 # cat all_content.md >> README.md
 
 pandoc README.md -o boek.pdf
-cp boek.pdf ../../Boek/Boek_github.pdf
+cp boek.pdf ../../Boek/Boek_github_zonder_voorpagina.pdf
 
+cd ../../Boek
+pdfunite Boek_voorpagina.pdf Boek_github_zonder_voorpagina.pdf Boek_github.pdf
+rm Boek_github_zonder_voorpagina.pdf
