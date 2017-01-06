@@ -40,5 +40,8 @@ cat README_07.md >> README.md; echo " " >> README.md
 cat README_08.md >> README.md; echo " " >> README.md
 
 pandoc README.md -o boek.pdf
-cp boek.pdf ../../Boek/Boek_tekenen.pdf
+cp boek.pdf ../../Boek/Boek_tekenen_zonder_voorpagina.pdf
 
+cd ../../Boek
+pdfunite Boek_voorpagina.pdf Boek_tekenen_zonder_voorpagina.pdf Boek_tekenen.pdf
+rm Boek_tekenen_zonder_voorpagina.pdf
