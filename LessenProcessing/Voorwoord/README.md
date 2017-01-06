@@ -1,7 +1,3 @@
-# Processing
-
-![Voorblad](Voorblad.png)
-
 # Voorwoord
 
 ![Het logo van De Jonge Onderzoekers](DjogLogo.png)
