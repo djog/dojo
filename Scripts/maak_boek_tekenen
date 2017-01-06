@@ -1,0 +1,47 @@
+#!/bin/bash
+
+# Concatenate all Markdown files first, convert those to one PDF
+
+my_script_path=`realpath $0`
+my_folder_path=`dirname $my_script_path`
+build_folder=$my_folder_path/build
+#echo $build_folder
+
+if [ ! -d "build" ]; then mkdir build; fi
+
+if [ ! -d $build_folder ]; then 
+  echo "Error: failed to create build folder"
+  exit 1
+fi
+
+
+
+cd ..
+cd LessenProcessing
+cd Voorwoord                        ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_00.md; cd ..
+cd ProcessingOpstartenOpCursusLaptop; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_01.md; cd ..
+cd EenMooiProgramma                 ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_02.md; cd ..
+cd Point                            ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_03.md; cd ..
+cd Line                             ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_04.md; cd ..
+cd Background                       ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_05.md; cd ..
+cd Stroke                           ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_06.md; cd ..
+cd Rect                             ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_07.md; cd ..
+cd Ellipse                          ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_08.md; cd ..
+cd Fill                             ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_09.md; cd ..
+cd Text                             ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_10.md; cd ..
+
+cd $build_folder
+sed -e '$s/$/\n/' -s *.md > README.md
+
+# sed -e '$s/$/\n/' -s *.md > all_content.md
+# if [ ! -e gh-md-toc ]; then
+#   wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc
+#   chmod a+x gh-md-toc
+# fi
+# ./gh-md-toc all_content.md > toc.md
+# cat toc.md > README.md
+# cat all_content.md >> README.md
+
+pandoc README.md -o boek.pdf
+cp boek.pdf ../../Boek/Boek_tekenen.pdf
+
