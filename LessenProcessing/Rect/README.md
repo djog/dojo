@@ -4,7 +4,7 @@ Vierkanten worden veel gebruikt in games.
 
 Hier zie je een van de beroemdste games ooit:
 
-![Tetris](Tetris.gif)
+![Tetris](Tetris.png)
 
 Je kunt een vierkant tekenen met vier lijnen,
 maar de `rect` functie werkt gemakkelijker.
