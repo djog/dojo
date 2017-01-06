@@ -18,28 +18,27 @@ fi
 
 cd ..
 cd LessenProcessing
-cd Voorwoord                        ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_10.md; cd ..
-cd ProcessingOpstartenOpCursusLaptop; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_11.md; cd ..
-cd BalNaarRechts                    ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_10.md; cd ..
-cd BalEeuwigNaarRechts              ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_11.md; cd ..
-cd BalDieHorizontaalStuitert        ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_12.md; cd ..
-cd Zwaartekracht                    ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_13.md; cd ..
-cd WidthHeight                      ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_14.md; cd ..
-cd Arrays1                          ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_16.md; cd ..
-cd Arrays2                          ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_17.md; cd ..
-cd PImage1                          ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_18.md; cd ..
+cd Voorwoord                        ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_00.md; cd ..
+cd BalNaarRechts                    ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_01.md; cd ..
+cd BalEeuwigNaarRechts              ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_02.md; cd ..
+cd BalDieHorizontaalStuitert        ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_03.md; cd ..
+cd Zwaartekracht                    ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_04.md; cd ..
+cd WidthHeight                      ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_05.md; cd ..
+cd Arrays1                          ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_06.md; cd ..
+cd Arrays2                          ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_07.md; cd ..
+cd PImage1                          ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_08.md; cd ..
 
 cd $build_folder
-sed -e '$s/$/\n/' -s *.md > README.md
 
-# sed -e '$s/$/\n/' -s *.md > all_content.md
-# if [ ! -e gh-md-toc ]; then
-#   wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc
-#   chmod a+x gh-md-toc
-# fi
-# ./gh-md-toc all_content.md > toc.md
-# cat toc.md > README.md
-# cat all_content.md >> README.md
+cat README_00.md >> README.md; echo " " >> README.md
+cat README_01.md >> README.md; echo " " >> README.md
+cat README_02.md >> README.md; echo " " >> README.md
+cat README_03.md >> README.md; echo " " >> README.md
+cat README_04.md >> README.md; echo " " >> README.md
+cat README_05.md >> README.md; echo " " >> README.md
+cat README_06.md >> README.md; echo " " >> README.md
+cat README_07.md >> README.md; echo " " >> README.md
+cat README_08.md >> README.md; echo " " >> README.md
 
 pandoc README.md -o boek.pdf
 cp boek.pdf ../../Boek/Boek_variabelen.pdf
