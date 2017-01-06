@@ -77,10 +77,6 @@ line(2,4,1,1);
  * 7. Een lijn gaat van coordinaat (30,20) naar (20,20). In welke richting gaat de lijn? Wat is het Processing commando?
  * 8. Een lijn gaat van coordinaat (10,20) 20 pixels naar rechts. Welke coordinaat heeft het eindpunt? Wat is het Processing commando?
  * 9. Een lijn gaat van coordinaat (10,30) 10 pixels naar rechtsomhoog. Welke coordinaat heeft het eindpunt? Wat is het Processing commando?
- 
-![Line](Line.png)
-
- * 10.Hierboven staat een tekening. Maak deze tekening na in Processing
 
 ## Oplossing
 
@@ -93,46 +89,12 @@ line(2,4,1,1);
  * 7. Van rechts naar links/horizontaal. `line(30,20,20,20)`
  * 8. (30,20). `line(10,20,30,20)`
  * 9. (20,20). `line(10,30,20,20)`
- * 10. Zie hieronder:
 
-```
-void setup()
-{
-  size(300,300);  
-}
+## Eindopdracht
+ 
+![Line](Line.png)
 
-void draw() 
-{
-  //         
-  //    a    
-  //   / \   
-  //  e---b  
-  //  |\ /|  
-  //  | X |  
-  //  |/ \|  
-  //  d---c  
-  //
-  // a: (150, 50)
-  // b: (200,100)
-  // c: (200,200)
-  // d: (100,200)
-  // e: (100,100)
+Hierboven staat een tekening. 
+Maak deze tekening zo goed mogelijk na in Processing.
 
-  //Van a naar b
-  line(150,50,200,100);
-  //Van b naar c
-  line(200,100,200,200);
-  //Van c naar d
-  line(200,200,100,200);
-  //Van d naar e
-  line(100,200,100,100);
-  //Van e naar a
-  line(100,100,150,50);
-  //Van b naar d
-  line(200,100,100,200);
-  //Van b naar e
-  line(200,100,100,100);
-  //Van c naar e
-  line(200,200,100,100);
-}
-```
+

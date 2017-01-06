@@ -148,3 +148,84 @@ Dit is wat de code doet:
  * Draai de lach verticaal om, zodat de smiley sip gaat kijken
  * Geef de smiley punk haar door drie pixels bovenop het hoofd erbij te tekenen
  * Geef de smiley een sik van een pixel
+
+## Oplossing
+
+```
+void setup()
+{
+  size(10,10);  
+}
+
+void draw() 
+{
+  //   0123456789
+  // 0 ..X.X..X..
+  // 1 ..XXXXXX..
+  // 2 .X......X.
+  // 3 .X.X..X.X.
+  // 4 .X......X.
+  // 5 .X..XX..X.
+  // 6 .X.X..X.X.
+  // 7 .X......X.
+  // 8 ..XXXXXX..
+  // 9 ....X.....
+
+
+  // Bovenkant hoofd
+  point(2,1);  
+  point(3,1);  
+  point(4,1);  
+  point(5,1);  
+  point(6,1);  
+  point(7,1);  
+
+  // Rechterkant hoofd
+  point(8,2);  
+  point(8,3);  
+  point(8,4);  
+  point(8,5);  
+  point(8,6);  
+  point(8,7);  
+
+  // Onderkant hoofd
+  point(2,8);  
+  point(3,8);  
+  point(4,8);  
+  point(5,8);  
+  point(6,8);  
+  point(7,8);  
+
+  // Linkerkant hoofd
+  point(1,2);  
+  point(1,3);  
+  point(1,4);  
+  point(1,5);  
+  point(1,6);  
+  point(1,7);  
+
+  // Ogen
+  point(3,3);
+  point(6,3);
+
+  // Mond
+  point(3,6);
+  point(4,5);
+  point(5,5);
+  point(6,6);
+
+  // Punkhaar
+  point(2,0);  
+  point(4,0);  
+  point(7,0);  
+
+  // Sik
+  point(9,4);
+}
+```
+
+## Eindopdracht
+
+![Point Eindopdracht](PointEindopdracht.png)
+
+Hier zie je een uitvergroot plaatje. Maak deze in het klein na met pixels.
