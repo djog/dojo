@@ -15,27 +15,17 @@ if [ ! -d $build_folder ]; then
   exit 1
 fi
 
-
-
 cd ..
 cd LessenProcessing
-cd Voorwoord                        ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_40.md; cd ..
-cd ProcessingOpstartenOpCursusLaptop; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_41.md; cd ..
-cd FunctiesTekening                 ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_42.md; cd ..
-cd FunctiesSchaapkleur              ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_43.md; cd ..
-cd FunctiesPoten                    ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_44.md; cd ..
+cd FunctiesTekening                 ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_00.md; cd ..
+cd FunctiesSchaapkleur              ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_01.md; cd ..
+cd FunctiesPoten                    ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_02.md; cd ..
 
 cd $build_folder
-sed -e '$s/$/\n/' -s *.md > README.md
 
-# sed -e '$s/$/\n/' -s *.md > all_content.md
-# if [ ! -e gh-md-toc ]; then
-#   wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc
-#   chmod a+x gh-md-toc
-# fi
-# ./gh-md-toc all_content.md > toc.md
-# cat toc.md > README.md
-# cat all_content.md >> README.md
+cat README_00.md >> README.md; echo " " >> README.md
+cat README_01.md >> README.md; echo " " >> README.md
+cat README_02.md >> README.md; echo " " >> README.md
 
 pandoc README.md -o boek.pdf
 cp boek.pdf ../../Boek/Boek_structuur.pdf
