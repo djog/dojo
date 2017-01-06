@@ -58,3 +58,7 @@ Hier zie je een plaatje waarop staat waar de bestanden moeten staan:
 
  * Krijg bovenstaand voorbeeld werkend
  * Maak een eigen programma met een ander plaatje
+
+## Eindopdracht
+
+ * Maak een programma dat twee verschillende plaatjes gebruikt
