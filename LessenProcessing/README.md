@@ -33,7 +33,7 @@ Dit zijn de Processing lessen
 
 ### Input
  * Muis les 1: Positie
- * Muis les 2: Knoppen
+ * [Muis les 2: Knoppen](./MuisKnoppen/README.md)
  * Muis les 3: Scrollen
  * Toetsen les 1: Indrukken
  * Toetsen les 2: Loslaten
