@@ -117,4 +117,4 @@ void draw()
 
 
 ## Eindopdracht
-Maak de achtergrond thijs zijn favoriete kleur.
+Maak de achtergrond Thijs zijn favoriete kleur.
