@@ -40,7 +40,7 @@ Wanneer er een muisknop wordt ingedrukt, wordt de functie `mouseReleased()` aang
 ## Opdracht
 Maak een programma wat van achtergrondkleur verandert wanneer een muisknop ingedrukt wordt en een cirkel tekent wanneer een muisknop losgelaten wordt.
 
-## Opdracht
+## Oplossing
 ```
 void setup() {
   size(256, 256);
