@@ -97,3 +97,5 @@ void draw()
   rect(40,70,10,10);
 }
 ```
+##Eindopdracht
+Maak een cirkel van rectangles. 

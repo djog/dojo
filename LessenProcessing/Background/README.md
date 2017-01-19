@@ -114,3 +114,7 @@ void draw()
  * 10. background(128,128,128), maar andere getallen tussen 0 en 255 zijn ook goed. Als ze maar alledrie gelijk zijn
  * 11. background(128,0,0), maar het eerste getal mag ook een ander getal tussen de 0 en 255 zijn
  * 12. background(255,128,0), maar het tweede getal mag ook een ander getal in de buurt van 128 zijn
+
+
+## Eindopdracht
+Maak de achtergrond Thijs zijn favoriete kleur.

@@ -101,3 +101,6 @@ void draw()
   line(11,0,11,100);
 }
 ```
+
+##Eindopdracht
+maak nog 4 kleuren bij het voorbeeld hier boven.
