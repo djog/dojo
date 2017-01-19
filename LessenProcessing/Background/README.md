@@ -116,5 +116,5 @@ void draw()
  * 12. background(255,128,0), maar het tweede getal mag ook een ander getal in de buurt van 128 zijn
 
 
-## eindopdracht
-ontdek wat thijs zjn favoriete kleur is.
+## Eindopdracht
+Maak de achtergrond thijs zijn favoriete kleur.
