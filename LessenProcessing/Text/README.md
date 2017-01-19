@@ -5,7 +5,7 @@ Tekst wordt veel gebruikt, ook in games, voor bijvoorbeeld een score.
 Hier zie je 'Zork, the underground empire`, een van de beroemdste
 tekstavonturen ooit:
 
-![Zork](Zork.png)
+![Zork](ZorkKleiner.png)
 
 In deze les gaan we leren 
 
@@ -13,10 +13,6 @@ In deze les gaan we leren
  * hoe je berekeningen op het scherm zet
  * hoe je tekst vergroot
  * hoe je tekst een kleur geeft
-
-Zo gaat het eruit zien:
-
-![Text](Text.png)
 
 Kun je nog geen puntjes tekenen? Ga dan 
 [naar de les waarin je puntjes leert tekenen](../Point/README.md)
@@ -70,8 +66,106 @@ fill(255, 0, 0);
 
 Zet de tekst `I love you 4 ever` op het scherm, waarbij:
 
+ * de coordinaat is (10, 30)
+ * de tekst heeft de normale kleur, dit is wit
+ * de tekst heeft de normale grootte, dit is 8 pixels
+
+## Oplossing
+
+```
+void setup()
+{
+  size(300,300);
+}
+
+void draw()
+{
+  text("I love you 4 ever", 10, 30);
+}
+```
+
+## Opdracht
+
+Zet de tekst `I love you 4 ever` op het scherm, waarbij:
+
+ * de coordinaat is (10, 30)
+ * de tekst zwart is (tip: gebruik `fill`)
+ * de tekst heeft de normale grootte, dit is 8 pixels
+
+## Oplossing
+
+```
+void setup()
+{
+  size(300,300);
+}
+
+void draw()
+{
+  fill(0, 0, 0);
+  text("I love you 4 ever", 10, 30);
+}
+```
+
+## Opdracht
+
+Zet de tekst `I love you 4 ever` op het scherm, waarbij:
+
+ * de coordinaat is (10, 30)
+ * de tekst zwart is
+ * de tekst is 32 pixels groot (tip: gebruik `textSize`)
+
+## Oplossing
+
+```
+void setup()
+{
+  size(300,300);
+  textSize(32);
+}
+
+void draw()
+{
+  fill(0, 0, 0);
+  text("I love you 4 ever", 10, 30);
+}
+```
+
+## Opdracht
+
+Zet de tekst `I love you 4 ever` op het scherm, waarbij:
+
+ * de tekst is 32 pixels groot (tip: gebruik `textSize`)
  * alle woorden zwart zijn, behalve `love`, die rood is
  * de `4` is de uitkomst van een berekening, bijvoorbeeld `2 + 2` (maar hoe moeilijker de berekening, hoe stoerder)
 
 ![Text](Text.png)
+
+## Oplossing
+
+```
+void setup()
+{
+  size(300,300);
+  textSize(32);
+}
+
+void draw()
+{
+  fill(0, 0, 0);
+  text("I", 10, 30);
+  fill(255, 0, 0);
+  text("love", 40, 30);
+  fill(0, 0, 0);
+  text("you", 120, 30);
+  text(256 / 64, 20, 60);
+  text("ever", 50, 60);
+}
+```
+
+## Eindopdracht
+
+Zet je eigen naam mooi op het scherm. Een voorbeeld:
+
+![Eindopdacht text](TextEindopdrachtVoorbeeld.png)
 
