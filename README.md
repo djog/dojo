@@ -5,12 +5,6 @@
 [![IRC Network](https://img.shields.io/badge/irc-%23DojoGroningen-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=DojoGroningen)
 [![IRC Network](https://img.shields.io/badge/irc-%23PwcGroningen-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=PwcGroningen)
 
-![Kerstvakantie2016](Publiciteit/Kerstvakantie2016.png)
-
- * 22 december: geen les
- * 29 december: geen les
- * 5 januari: wel les!
-
 [Processing](LessenProcessing/README.md) | [SFML](https://github.com/janderkkotlarski/Cplusplus-with-SFML-course) | Urho3D
 --- | --- | ---
 ![Easy](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Easy.png) | ![Medium](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Medium.png) | ![Difficulty Hard](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Hard.png)
