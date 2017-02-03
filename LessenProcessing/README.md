@@ -2,16 +2,21 @@
 
 Dit zijn de Processing lessen
 
+## Programmeren
+
 ## Processing installeren en starten
+
+![rode balk](Rood.png)
 
  * [Processing opstarten op cursus laptop](./ProcessingOpstartenOpCursusLaptop/README.md)
  * [Processing installeren op Linux](./ProcessingInstallerenOpLinux/README.md)
  * [Processing installeren op Windows](./ProcessingInstallerenOpWindows/README.md)
-
-## Programmeren
+ * [Een mooi programma](./EenMooiProgramma/README.md)
 
 ### Tekenen
- * [Een mooi programma](./EenMooiProgramma/README.md)
+
+![oranje balk](Oranje.png)
+
  * [point](./Point/README.md)
  * [line](./Line/README.md)
  * [background](./Background/README.md)
@@ -22,6 +27,9 @@ Dit zijn de Processing lessen
  * [Tekst](./Text/README.md)
 
 ### Variabelen
+
+![gele balk](Geel.png)
+
  * [Bal naar rechts](./BalNaarRechts/README.md)
  * [Bal die eeuwig naar rechts gaat](./BalEeuwigNaarRechts/README.md)
  * [Bal die horizontaal stuitert](./BalDieHorizontaalStuitert/README.md)
@@ -32,6 +40,9 @@ Dit zijn de Processing lessen
  * [PImage les 1](./PImage1/README.md)
 
 ### Input
+
+![groene balk](Groen.png)
+
  * Muis les 1: Positie
  * [Muis les 2: Knoppen](./MuisKnoppen/README.md)
  * Muis les 3: Scrollen
@@ -39,6 +50,9 @@ Dit zijn de Processing lessen
  * Toetsen les 2: Loslaten
 
 ### Structuur
+
+![cyane balk](Cyaan.png)
+
  * for loops 1: geheel getal dat telt van 0 tot een waarde
  * for loops les 2: andere soorten for-loops, continue, break
  * [Functies les 1: Tekening](./FunctiesTekening/README.md)
@@ -48,6 +62,8 @@ Dit zijn de Processing lessen
 
 ## GitHub
 
+![blauwe balk](Blauw.png)
+
  * [GitHub #1: account aannmaken](./GitHub/README.md)
  * [GitHub #2: homepage maken](./GitHubPages/README.md)
  * [GitHub #3: Processing sketch op je homepage zetten](./ProcessingJS/README.md)
@@ -56,11 +72,12 @@ Dit zijn de Processing lessen
 
 ## Code
 
+![magenta balk](Magenta.png)
+
  * For loop spelen
  * Accolade spelen
 
 ## Andere dingen
 
  * [Tekenen](./Tekenen/README.md)
- * [Boek](./Boek/README.md)
  * [Scorebord](../Leerlingen/README.md)
