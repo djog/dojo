@@ -76,8 +76,3 @@ Dit zijn de Processing lessen
 
  * For loop spelen
  * Accolade spelen
-
-## Andere dingen
-
- * [Tekenen](./Tekenen/README.md)
- * [Scorebord](../Leerlingen/README.md)
