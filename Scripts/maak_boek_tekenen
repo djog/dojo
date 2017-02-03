@@ -43,5 +43,5 @@ pandoc README.md -o boek.pdf
 cp boek.pdf ../../Boek/Boek_tekenen_zonder_voorpagina.pdf
 
 cd ../../Boek
-pdfunite Boek_voorpagina.pdf Boek_tekenen_zonder_voorpagina.pdf Boek_tekenen.pdf
+pdfunite Boek_voorpagina_tekenen.pdf Boek_tekenen_zonder_voorpagina.pdf Boek_tekenen.pdf
 rm Boek_tekenen_zonder_voorpagina.pdf

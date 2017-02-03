@@ -33,5 +33,5 @@ pandoc README.md -o boek.pdf
 cp boek.pdf ../../Boek/Boek_structuur_zonder_voorpagina.pdf
 
 cd ../../Boek
-pdfunite Boek_voorpagina.pdf Boek_structuur_zonder_voorpagina.pdf Boek_structuur.pdf
+pdfunite Boek_voorpagina_structuur.pdf Boek_structuur_zonder_voorpagina.pdf Boek_structuur.pdf
 rm Boek_structuur_zonder_voorpagina.pdf

@@ -31,5 +31,5 @@ pandoc README.md -o boek.pdf
 cp boek.pdf ../../Boek/Boek_introductie_zonder_voorpagina.pdf
 
 cd ../../Boek
-pdfunite Boek_voorpagina.pdf Boek_introductie_zonder_voorpagina.pdf Boek_introductie.pdf
+pdfunite Boek_voorpagina_intro.pdf Boek_introductie_zonder_voorpagina.pdf Boek_introductie.pdf
 rm Boek_introductie_zonder_voorpagina.pdf
