@@ -1,0 +1,1 @@
+![Variabelen](VoorpaginaVariabelen.png)

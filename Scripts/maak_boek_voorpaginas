@@ -1,0 +1,33 @@
+#!/bin/bash
+
+# Concatenate all Markdown files first, convert those to one PDF
+
+my_script_path=`realpath $0`
+my_folder_path=`dirname $my_script_path`
+build_folder=$my_folder_path/build
+#echo $build_folder
+
+rm -rf build
+mkdir build
+
+if [ ! -d $build_folder ]; then 
+  echo "Error: failed to create build folder"
+  exit 1
+fi
+
+cd ..
+cd LessenProcessing
+cd Voorpagina
+cp *.* $build_folder
+cd ..
+cd $build_folder
+
+pandoc VoorpaginaCode.md -o ../../Boek/Boek_voorpagina_code.pdf
+pandoc VoorpaginaGitHub.md -o ../../Boek/Boek_voorpagina_github.pdf
+pandoc VoorpaginaInput.md -o ../../Boek/Boek_voorpagina_input.pdf
+pandoc VoorpaginaIntro.md -o ../../Boek/Boek_voorpagina_intro.pdf
+pandoc VoorpaginaStructuur.md -o ../../Boek/Boek_voorpagina_structuur.pdf
+pandoc VoorpaginaTekenen.md -o ../../Boek/Boek_voorpagina_tekenen.pdf
+pandoc VoorpaginaVariabelen.md -o ../../Boek/Boek_voorpagina_variabelen.pdf
+
+
