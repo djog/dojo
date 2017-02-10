@@ -116,6 +116,138 @@ void draw()
 
 Het lijkt al een beetje op [Lonelier Pong](https://github.com/richelbilderbeek/LonelierPong). Dit is geen toeval :-)
 
+## Bal die eeuwig naar links gaat
+
+Gefopt! Ook al het de les 'Bal die eeuwig naar rechts gaat', we gaan toch de bal ook andere
+kanten op laten gaan.
+
+We gaan nu een bal programmeren die eeuwig naar links gaat.
+
+Wat je nu moet weten is het `if` statement om te zeggen wanneer de `x` te klein is:
+
+```
+if (x < 100)
+{
+  x = 500;
+}
+```
+
+Hiermee zeg je: 'Lieve computer, als `x` kleiner (`<`, hier kun je een `k` van maken) is dan honderd,
+zet dan `x` op vijfhonderd.
+
+## Opdracht
+
+Maak een bal die eeuwig naar links gaat:
+
+ * De bal begint buiten het beeld
+ * De bal gaat helemaal het beeld uit
+ * Als de bal net uit het beeld uit, komt 'ie meteen de andere kant weer binnen
+
+## Antwoord
+
+Dit is een eeuwig naar links gaande bal:
+
+```
+float x = 650;
+
+void setup()
+{
+  size(600, 100);
+}
+
+void draw()
+{
+  ellipse(x,50,100,100);
+  x = x - 1;
+  if (x < -50)
+  {
+    x = 650;
+  }
+}
+```
+
+## Bal die eeuwig omlaag gaat
+
+We hebben een bal naar rechts en naar links laten bewegen door de `x` coordinaat
+te veranderen. De bal kan ook naar omlaag en omhoog gaan door de `y` coordinaat
+te veranderen.
+
+## Opdracht
+
+Schrijf een programma waarin een bal eeuwig omlaag gaat:
+
+ * maak het scherm 300 pixels breed en 200 pixels hoog
+ * gebruik een variable met naam `y`
+ * vervang de code `ellipse(x,50,100,00)` door `elllipse(50,y,100,100)`
+ * als de bal omlaag uit het scherm gaat, moet de bal weer bovenin komen
+
+## Oplossing
+
+```
+float y = -50;
+
+void setup()
+{
+  size(300, 200);
+}
+
+void draw()
+{
+  ellipse(50,y,100,100);
+  y = y + 1;
+  if (y > 250)
+  {
+    y = -50;
+  }
+}
+```
+
+## Bal die schuin gaat
+
+Hoppa, nu we een variabele `x` of een `y` hebben gemaakt, gaan we beiden doen!
+
+Als we code samenvoegen, gelden de volgende regels:
+
+ * alles wat boven de `setup` functie staat, moet daar blijven
+ * alles wat binnen de `setup` functie staat, moet binnen de `setup` functie blijven
+ * alles wat binnen de `draw` functie staat, moet binnen de `draw` functie blijven
+
+## Opdracht 
+
+ * Voeg de code van 'Bal die eeuwig naar rechts gaat' samen met 'Bal die eeuwig omlaag gaat'
+ * Verander de code zo dat de bal schuin gaat
+
+## Oplossing
+
+```
+float x = -50;
+float y = -50;
+
+void setup()
+{
+  size(300, 200);
+}
+
+void draw()
+{
+  ellipse(x,y,100,100);
+  x = x + 1;
+  y = y + 1;
+  if (x > 350)
+  {
+    x = -50;
+  }
+  if (y > 250)
+  {
+    y = -50;
+  }
+}
+```
+
+## Eindopdracht
+
+Laat de bal nu schuin naar linksonder gaan.
+
 ## Verder
 
 Je zou nu kunnen doen:

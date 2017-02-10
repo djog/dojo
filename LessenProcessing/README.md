@@ -35,6 +35,7 @@ Dit zijn de Processing lessen
  * [Bal die horizontaal stuitert](./BalDieHorizontaalStuitert/README.md)
  * [Zwaartekracht](./Zwaartekracht/README.md)
  * [`width` en `height`](./WidthHeight/README.md)
+ * [fullScreen](./FullScreen/README.md)
  * [Arrays les 1](./Arrays1/README.md)
  * [Arrays les 2](./Arrays2/README.md)
  * [PImage les 1](./PImage1/README.md)
