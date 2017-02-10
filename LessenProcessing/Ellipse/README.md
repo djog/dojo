@@ -127,3 +127,7 @@ void draw()
   ellipse(55, 75, 20, 20);  
 }
 ```
+
+## Eindopdracht
+
+Maak een cirkel die door twaalf kleinere cirkels volledig omringd en afgesloten is.
