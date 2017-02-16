@@ -29,3 +29,7 @@ void setup() {
 Maar nu past de ovaal nog steeds als we de getallin in `size` veranderen!
 
 ![ovaal](ellipse0.png)![ovaal](ellipse1.png)![ovaal](ellipse2.png)![ovaal](ellipse3.png)![ovaal](ellipse4.png)![ovaal](ellipse5.png)![ovaal](ellipse6.png)![ovaal](ellipse7.png)![ovaal](ellipse8.png)![ovaal](ellipse9.png)
+
+# EINDOPDRACHT
+
+Teken vier ellipsen met breedte `width` en lengte `heigth`, in de vier hoeken in het scherm. 
