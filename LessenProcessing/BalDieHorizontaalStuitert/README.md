@@ -131,7 +131,7 @@ dx = -dx;
 Hiermee zeg je 'Lieve computer, de nieuwe waarde van `dx` is min de oude waarde'. Als de oude waarde van `dx` `2` is, dan wordt deze nu `-2`.
 Als de oude waarde van `dx` `-2` is, dan wordt deze nu `--2` (jawel, min min twee) en dat mag je schrijven als `2` (omdat min keer min is plus).
 
-## Opdracht
+## Eindopdracht
 
  * Gebruik nu de slimme manier om een bal te laten stuiteren.
 
