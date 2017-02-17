@@ -246,7 +246,7 @@ void draw()
 
 ## Eindopdracht
 
-Laat de bal nu schuin naar linksonder gaan.
+Laat de bal nu eeuwig schuin naar linksonder gaan.
 
 ## Verder
 
