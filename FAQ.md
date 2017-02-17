@@ -73,7 +73,15 @@ kunnen volgen :-)
 
 ## Welke vrijwilligers zijn er?
 
+### Dagmar
+
+`[Hier een foto van Dagmar]`
+
+Dagmar is een volwassen vrijwilliger. Hij helpt Jorn met Godot.
+
 ### [Jan](https://github.com/janderkkotlarski)
+
+`[Hier een foto van Jan]`
 
 [Jan geeft les in SFML](https://github.com/janderkkotlarski/Cplusplus-with-SFML-course) en is ook handig
 met GameMaker.
@@ -82,7 +90,11 @@ met GameMaker.
 
 `[Hier een foto van Jorn]`
 
-Jorn is een leerling en ook gastheer. Hij vangt de nieuwe leerlingen op
+Jorn is een leerling, gastheer en leraar. 
+
+Jorn vangt de nieuwe leerlingen op.
+
+Jorn geeft ook les in de game engine Godot.
 
 ### [Richel](https://github.com/richelbilderbeek)
 
@@ -94,7 +106,23 @@ Hij coordineert de Dojo en zal gastlessen geven bij elk van de andere docenten.
 
 Zijn werk is te zien op [zijn website met meer dan 3900 pagina's](http://richelbilderbeek.nl) en [meer dan 300 GitHub repositories](https://github.com/richelbilderbeek?tab=repositories).
 
+### Ruben
+
+`[Hier een foto van Ruben]`
+
+Ruben is een vrijwilliger en helpt nieuwe leerlingen opstarten. 
+
+Ruben is ook leerlingvertegenwoordiger: vind je dat iets aan
+de cursus beter kan, dan kun je dit Ruben zeggen. Ruben vertelt
+dit dan anoniem (zonder je naam erbij te zeggen) aan de volwassenen.
+
+Vindt je het leuk om leerlingen te helpen opstarten? Laat het
+Ruben weten, want hij zal je dan vragen. Wil je liever aan je
+eigen werk verder, laat dat Ruben weten.
+
 ### [Thijs](https://github.com/thijsvb)
+
+`[Hier een foto van Thijs]`
 
 Thijs geeft les in Processing. Ook is Thijs handig met Arduino, te zien aan [de GitHub van de Arduino cursus](https://github.com/richelbilderbeek/ArduinoCourse).
 
