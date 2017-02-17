@@ -372,7 +372,7 @@ void draw()
  * gebruik een variabele `t` (van tijd)
  * de bal moet snel omlaag en naar rechts gaan
  * de bal moet groter worden in de breedte en hoogte
- * de bal moet groter worden in de breedte en hoogte
+ * de bal moet van kleur veranderen
 
 ## Verder
 
