@@ -347,7 +347,7 @@ Nu gaan we de bal een kleur geven met `fill`
  * Gebruik als variabele naam `t` (van tijd) in plaats van `x` of `y`
  * Laat een bal aan de linker van het scherm beginnen
  * De bal moet in een rechte lijn naar rechts gaan
- * De kleur moet veranderen van zwart naar wit
+ * De kleur moet van zwart naar wit veranderen
 
 ## Oplossing
 
@@ -372,7 +372,7 @@ void draw()
  * gebruik een variabele `t` (van tijd)
  * de bal moet snel omlaag en naar rechts gaan
  * de bal moet groter worden in de breedte en hoogte
- * de bal moet van kleur veranderen
+ * de kleur moet van zwart naar wit veranderen
 
 ## Verder
 
