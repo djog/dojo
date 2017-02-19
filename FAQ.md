@@ -73,7 +73,7 @@ kunnen volgen :-)
 
 ## Welke vrijwilligers zijn er?
 
-### Dagmar
+### [Dagmar](https://github.com/dagmarhofman)
 
 `[Hier een foto van Dagmar]`
 
@@ -86,7 +86,7 @@ Dagmar is een volwassen vrijwilliger. Hij helpt Jorn met Godot.
 [Jan geeft les in SFML](https://github.com/janderkkotlarski/Cplusplus-with-SFML-course) en is ook handig
 met GameMaker.
 
-### Jorn
+### [Jorn](https://github.com/jorn600)
 
 `[Hier een foto van Jorn]`
 
@@ -106,7 +106,7 @@ Hij coordineert de Dojo en zal gastlessen geven bij elk van de andere docenten.
 
 Zijn werk is te zien op [zijn website met meer dan 3900 pagina's](http://richelbilderbeek.nl) en [meer dan 300 GitHub repositories](https://github.com/richelbilderbeek?tab=repositories).
 
-### Ruben
+### [Ruben](https://github.com/ruben-bouman)
 
 `[Hier een foto van Ruben]`
 
