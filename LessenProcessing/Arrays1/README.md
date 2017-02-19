@@ -11,7 +11,7 @@ In deze les gaan we leren
 
 Zo gaat het eruit zien:
 
-![Arrays1](Arrays1.png)
+![Honderd rookdeeltjes](Arrays1_honderd_rookdeeltjes.png)
 
 ## Twee ballen die eeuwig naar rechts gaan
 
@@ -273,17 +273,17 @@ void draw()
   xs[0] = xs[0] + 1;
   xs[1] = xs[1] + 1;
   xs[2] = xs[2] + 1;
-  if (x[0] > 625)
+  if (xs[0] > 625)
   {
-    x[0] = -25
+    xs[0] = -25;
   }
-  if (x[1] > 625)
+  if (xs[1] > 625)
   {
-    x[1] = -25;
+    xs[1] = -25;
   }
-  if (x[2] > 625)
+  if (xs[2] > 625)
   {
-    x[2] = -25;
+    xs[2] = -25;
   }
 }
 ```
@@ -316,30 +316,65 @@ void draw()
   {
     ellipse(xs[i],25,50,50);
     xs[i] = xs[i] + 1;
-    if (x[i] > 625)
+    if (xs[i] > 625)
     {
-      x[i] = -25
+      xs[i] = -25;
     }
   }
 }
 ```
 
+## Vier ballen
 
+Om nu een vier bal erbij te maken, pak je de code van 'Drie ballen'
+en maakt van de `3` een `4`
 
+## Opdracht
+
+ * 1. Pak de code van 'Drie ballen' en maakt van de `3` een `4`
+ * 2. Op hoeveel plekken moest je een `3` in een `4` veranderen?
+
+## Oplossing
+
+ * 1. Dat ziet er zo uit:
+
+![Vier ballen](Arrays1_vier_ballen.png)
 
 ```
-HIERO
-HIERO
-HIERO
+float[] xs;
+
+void setup()
+{
+  size(600, 50);
+  xs = new float[4];
+  for (int i=0; i<4; ++i)
+  {
+    xs[i] = i * 100;
+  }
+}
+
+void draw()
+{
+  for (int i=0; i<4; ++i)
+  {
+    ellipse(xs[i],25,50,50);
+    xs[i] = xs[i] + 1;
+    if (xs[i] > 625)
+    {
+      xs[i] = -25;
+    }
+  }
+}
 ```
 
+ * 2. Op drie plekken
 
-
-
-## Rooksimulator met een deeltje
+## Een rookdeeltje
 
 Je bent bezig een simulatie te maken: je wilt allemaal 
 rookdeeltjes laten bewegen op het scherm.
+
+![Een rookdeeltje](Arrays1_een_rookdeeltje.png)
 
 Dit is je code:
 
@@ -373,16 +408,14 @@ Dit is wat de code betekent:
 
 ## Vragen
 
- * Run deze code
- * Zorg dat er een tweede rookdeeltje bijkomt
- * Hoeveel regels code kost het ongeveer om honderd rookdeeltjes te programmeren?
+ * 1. Zorg dat er een tweede rookdeeltje bijkomt
+ * 2. Hoeveel regels code kost het ongeveer om honderd rookdeeltjes te programmeren?
 
-## Rooksimulator met twee deeltjes
+## Oplossing
 
-Je bent bezig een simulatie te maken: je wilt allemaal 
-rookdeeltjes laten bewegen op het scherm.
+ * 1. Dit ziet er zo uit:
 
-Dit is je code:
+![Twee rookdeeltjes](Arrays1_twee_rookdeeltjes.png)
 
 ```
 float x1 = 160;
@@ -406,74 +439,10 @@ void draw()
 }
 ```
 
-Dit is wat de code betekent:
+ * 2. Dit kostte vijf regels
 
- * `float x1 = 160`: 'Lieve computer, onthoudt een gebroken getal met de naam `x1`, met als beginwaarde 160'. Dit wordt de x coordinaat van het eerste rookdeeltje
- * `float y1 = 100`: 'Lieve computer, onthoudt een gebroken getal met de naam `y1`, met als beginwaarde 100'. Dit wordt de y coordinaat van het eerste rookdeeltje
- * `float x2 = 160`: 'Lieve computer, onthoudt een gebroken getal met de naam `x2`, met als beginwaarde 160'. Dit wordt de x coordinaat van het tweede rookdeeltje
- * `float y2 = 100`: 'Lieve computer, onthoudt een gebroken getal met de naam `y2`, met als beginwaarde 100'. Dit wordt de y coordinaat van het tweede rookdeeltje
- * `void setup() {}`: de klaarzet functie. Bij het opstarten wordt de code tussen de accolates een keer uitgevoerd
- * `size(320, 200)`: maak een venster van 320 pixels breed en 200 pixels hoog
- * `void draw() {}`: de teken functie. De code tussen de accolates wordt oneindig vaak uitgevoerd
- * `x1 += random(-1,1)`: verander de waarde van `x1` met een willekeurige waarden van -1 tot 1. Dit laat rookdeeltje 1 willekeurig horizontaal bewegen
- * `y1 += random(-1,1)`: verander de waarde van `y1` met een willekeurige waarden van -1 tot 1. Dit laat rookdeeltje 1 willekeurig verticaal bewegen
- * `ellipse(x1, y1, 10, 10)`: teken een ovaal met als middelpunt (`x1`, `y1`) met breedte 10 en hoogte 10. Teken het eerste rookdeeltje
- * `x2 += random(-1,1)`: verander de waarde van `x2` met een willekeurige waarden van -1 tot 1. Dit laat rookdeeltje 2 willekeurig horizontaal bewegen
- * `y2 += random(-1,1)`: verander de waarde van `y2` met een willekeurige waarden van -1 tot 1. Dit laat rookdeeltje 2 willekeurig verticaal bewegen
- * `ellipse(x2, y2, 10, 10)`: teken een ovaal met als middelpunt (`x2`, `y2`) met breedte 10 en hoogte 10. Teken het tweede rookdeeltje
+## Eindopdracht
 
-## Vragen
+Maak nu de code zo dat er honderd rookdeeltjes komen
 
- * Run deze code
- * Zorg dat er een derde rookdeeltje bijkomt
- * Hoeveel regels code kost het ongeveer om honderd rookdeeltjes te programmeren?
-
-## Waarom arrays?
-
-Dit is de code met drie rookdeeltjes:
-
-```
-float x1 = 160;
-float y1 = 100;
-float x2 = 160;
-float y2 = 100;
-float x3 = 160;
-float y3 = 100;
-
-void setup() 
-{
-  size(320, 200);
-  x1 = 160;
-  y1 = 100;
-  x2 = 160;
-  y2 = 100;
-  x3 = 160;
-  y3 = 100;
-}
-
-void draw()
-{
-  x1 += random(-1,1);
-  y1 += random(-1,1);
-  ellipse(x1, y1, 10, 10);
-  x2 += random(-1,1);
-  y2 += random(-1,1);
-  ellipse(x2, y2, 10, 10);
-  x3 += random(-1,1);
-  y3 += random(-1,1);
-  ellipse(x3, y3, 10, 10);
-}
-```
-
-Het valt op dat er veel herhaling in zit.
-Dit komt omdat we de computer steeds een getal tegelijk laten onthouden:
-`float x1 = 160` betekent 'Lieve computer, onthoudt een gebroken getal met de naam `x1`, met als beginwaarde 160'.
-Wat we willen kunnen zeggen is 'Lieve computer, onthoud keiveel gebroken getallen'.
-Dit is precies wat een array kan doen.
-
-
-## Verder
-
-Je zou nu kunnen doen:
-
- * [Arrays 2](../Arrays2/README.md)
+![Honderd rookdeeltjes](Arrays1_honderd_rookdeeltjes.png)
