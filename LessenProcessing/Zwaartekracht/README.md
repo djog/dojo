@@ -102,6 +102,8 @@ void draw()
 
 ## Vragen
 
+![Gas geven](Zwaartekracht_gas_geven.png)
+
  * 1. Wat zie je gebeuren?
  * 2. Waarom staat er `float dx = 0`?
  * 3. In het `if` statement staat `x = 50`. Wat doet dit?
