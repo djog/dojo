@@ -123,6 +123,9 @@ Nu gaan we de bal iets extra's laten doen: van zwart naar rood laten verkleuren.
 
 ## Opdracht
 
+![Opdracht 'Kleur veranderen'](Zwaartekracht_kleur_veranderen.png)
+
+
  * Laat de bal nog steeds stuiteren tegen de rechterkant van het scherm
  * Maak een extra variabele aan met naam `r` (van `rood`)
  * `r` begint op nul en wordt steeds een hoger
@@ -130,6 +133,35 @@ Nu gaan we de bal iets extra's laten doen: van zwart naar rood laten verkleuren.
  * `r` bepaalt de kleur van de bal: 
     * als `r` nul is, is de bal zwart
     * als `r` 255 is, is de bal rood
+
+## Oplossing
+
+```
+float x = 50; 
+float dx = 1; //Snelheid in de x richting
+float r = 0; //Roodheid
+
+void setup()
+{
+  size(600, 100);
+}
+
+void draw()
+{
+  fill(r, 0, 0);
+  ellipse(x,50,100,100);
+  x = x + dx;
+  if (x > 650)
+  {
+    x = 50;
+  }
+  r = r + 1;
+  if (r > 255)
+  {
+    r = 0;
+  }
+}
+```
 
 ## Zwaartekracht
 
