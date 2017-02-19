@@ -242,6 +242,8 @@ Deze gaan we nu in een array stoppen
 
 ## Opdracht
 
+![Array voor 'Drie ballen met een array'](Arrays1_kast_drie_ballen.png)
+
  * 1. Verander de code van 'Drie ballen die eeuwig naar rechts gaan' met een array:
    * Het programma moet precies hetzelfde doen
    * Gebruik in plaats van de variabelen `x1`, `x2` en `x3` de naam `xs` (meerdere `x`-en)
@@ -325,6 +327,8 @@ void draw()
 ```
 
 ## Vier ballen
+
+![Array met vier laatjes](Arrays1_kast_vier_ballen.png)
 
 Om nu een vier bal erbij te maken, pak je de code van 'Drie ballen'
 en maakt van de `3` een `4`
