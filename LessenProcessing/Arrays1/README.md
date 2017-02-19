@@ -373,80 +373,9 @@ void draw()
 
  * 2. Op drie plekken
 
-## Een rookdeeltje
-
-Je bent bezig een simulatie te maken: je wilt allemaal 
-rookdeeltjes laten bewegen op het scherm.
-
-![Een rookdeeltje](Arrays1_een_rookdeeltje.png)
-
-Dit is je code:
-
-```
-float x = 160;
-float y = 100;
-
-void setup() 
-{
-  size(320, 200);
-}
-
-void draw()
-{
-  x += random(-1,1);
-  y += random(-1,1);
-  ellipse(x, y, 10, 10);
-}
-```
-
-Dit is wat de code betekent:
-
- * `float x = 160`: 'Lieve computer, onthoudt een gebroken getal met de naam `x`, met als beginwaarde 160'. Dit wordt de x coordinaat van het eerste rookdeeltje
- * `float y = 100`: 'Lieve computer, onthoudt een gebroken getal met de naam `y`, met als beginwaarde 100'. Dit wordt de y coordinaat van het eerste rookdeeltje
- * `void setup() {}`: de klaarzet functie. Bij het opstarten wordt de code tussen de accolates een keer uitgevoerd
- * `size(320, 200)`: maak een venster van 320 pixels breed en 200 pixels hoog
- * `void draw() {}`: de teken functie. De code tussen de accolates wordt oneindig vaak uitgevoerd
- * `x += random(-1,1)`: verander de waarde van `x` met een willekeurige waarden van -1 tot 1. Dit laat rookdeeltje 1 willekeurig horizontaal bewegen
- * `y += random(-1,1)`: verander de waarde van `y` met een willekeurige waarden van -1 tot 1. Dit laat rookdeeltje 1 willekeurig verticaal bewegen
- * `ellipse(x, y, 10, 10)`: teken een ovaal met als middelpunt (`x`, `y`) met breedte 10 en hoogte 10. Teken het eerste rookdeeltje
-
-## Vragen
-
- * 1. Zorg dat er een tweede rookdeeltje bijkomt
- * 2. Hoeveel regels code kost het ongeveer om honderd rookdeeltjes te programmeren?
-
-## Oplossing
-
- * 1. Dit ziet er zo uit:
-
-![Twee rookdeeltjes](Arrays1_twee_rookdeeltjes.png)
-
-```
-float x1 = 160;
-float y1 = 100;
-float x2 = 160;
-float y2 = 100;
-
-void setup() 
-{
-  size(320, 200);
-}
-
-void draw()
-{
-  x1 += random(-1,1);
-  y1 += random(-1,1);
-  ellipse(x1, y1, 10, 10);
-  x2 += random(-1,1);
-  y2 += random(-1,1);
-  ellipse(x2, y2, 10, 10);
-}
-```
-
- * 2. Dit kostte vijf regels
-
 ## Eindopdracht
 
-Maak nu de code zo dat er honderd rookdeeltjes komen
+Maak de code nu zo dat:
 
-![Honderd rookdeeltjes](Arrays1_honderd_rookdeeltjes.png)
+ * Er zes ballen zijn
+ * De ballen eeuwig naar links gaan
