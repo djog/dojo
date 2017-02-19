@@ -75,20 +75,20 @@ kunnen volgen :-)
 
 ### [Dagmar](https://github.com/dagmarhofman)
 
-`[Hier een foto van Dagmar]`
+![dagmarhofman](Images/dagmarhofman.jpg)
 
 Dagmar is een volwassen vrijwilliger. Hij helpt Jorn met Godot.
 
 ### [Jan](https://github.com/janderkkotlarski)
 
-`[Hier een foto van Jan]`
+![janderkkotlarski](Images/janderkkotlarski.png)
 
 [Jan geeft les in SFML](https://github.com/janderkkotlarski/Cplusplus-with-SFML-course) en is ook handig
 met GameMaker.
 
 ### [Jorn](https://github.com/jorn600)
 
-`[Hier een foto van Jorn]`
+![jorn600](Images/jorn600.jpg)
 
 Jorn is een leerling, gastheer en leraar. 
 
@@ -108,7 +108,7 @@ Zijn werk is te zien op [zijn website met meer dan 3900 pagina's](http://richelb
 
 ### [Ruben](https://github.com/ruben-bouman)
 
-`[Hier een foto van Ruben]`
+![ruben-bouman](Images/ruben-bouman.png)
 
 Ruben is een vrijwilliger en helpt nieuwe leerlingen opstarten. 
 
@@ -122,7 +122,7 @@ eigen werk verder, laat dat Ruben weten.
 
 ### [Thijs](https://github.com/thijsvb)
 
-`[Hier een foto van Thijs]`
+![thijsvb](Images/thijsvb.jpg)
 
 Thijs geeft les in Processing. Ook is Thijs handig met Arduino, te zien aan [de GitHub van de Arduino cursus](https://github.com/richelbilderbeek/ArduinoCourse).
 
