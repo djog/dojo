@@ -1,51 +1,115 @@
 # Processing opstarten op cursuslaptop
 
-Met een terminal kun je veel dingen doen,
-die soms niet met een normaal programma gedaan kunnen worden.
-Op de cursus start je Processing vanuit de terminal.
+We programmeren in Processing.
+Processing is een programma.
+Dit programma moeten we dus eerst opstarten.
 
-![Hackers werken met een terminal](HackerMetTerminal.jpg)
+## Terminal starten
+
+Eerst moeten we een terminal starten.
+
+![Hackers werken met een terminal](ProcessingOpstartenOpCursusLaptopHackerMetTerminal.jpg)
+
+Wij hebben twee soorten laptops:
+
+  * Debian (spreek uit 'Debie-jen')
+  * Lubuntu (spreek uit 'Loe-boen-toe')
+
+![Debian: druk op WIN](ProcessingOpstartenOpCursusLaptopDebian.png)
+
+Start een Terminal:
+
+ * Debian: druk op de `WIN` toets (deze zit linskonder, tussen CTRL en ALT). Type dan 'terminal' en dan ENTER 
+ * Lubuntu: druk op `CTRL + ALT + T`
+
+![De WIN toets zit tussen CTRL en ALT](ProcessingOpstartenOpCursusLaptopCtrlWindowsAlt.jpg)
+
+![Debian: druk op WIN en type dan 'terminal'](ProcessingOpstartenOpCursusLaptopIntypen.png)
+
+![Debian: een terminal](ProcessingOpstartenOpCursusLaptopDebianTerminal.png)
+
+![Lubuntu: een terminal](ProcessingOpstartenOpCursusLaptopLubuntuTerminal.png)
 
 ## Processing starten
 
-Start een Terminal. Dit kan soms met `Win+T`, `CTRL+ALT+T`, of deze te vinden in de menuutjes, of te zoeken op het woord `Terminal`
+In de terminal, type:
 
-![Een terminal](Terminal.png)
-
-Ga naar de folder waar Processing in staat. Hiervoor is het commando `cd`. De afkorting `cd` staat voor 'Change Directory'. "Change Directory' is Engels voor 'Verander van folder'.
-
-Zo ga je naar de folder waar Processing instaat:
 
 ```
-cd Programs/processing-3.1.1
+cd Programs/processing-3.2.1
 ```
 
-Dit hoef je niet zo te typen! Een terminal kan je woorden aanvullen als je op Tab drukt. Vaak is het volgende typen voldoende:
-
-```
-cd Progr[TAB]/pr[TAB]
-```
-
-Dit werkt ook als een andere versie van Processing op de computer staat :-)
-
-Nu je in de juiste folder bent, start Processing:
+En type dan:
 
 ```
 ./processing
 ```
 
-De `./` betekent 'Start hier'
+Klaar!
 
-Ook hier is Tab nuttig:
-
-```
-./p[TAB]
-```
-
-Je mag de terminal nu sluiten.
-
-## Opdrachten
+## Processing slimmer starten
  
- * Start Processing
+Je hoeft niet alles helemaal te typen.
+Een terminal kan je ook helpen.
+Als je in een terminal op Tab drukt, maakt deze het woord af.
 
-![Processing zonder code](Processing.png)
+In de terminal, type:
+
+```
+cd Progr
+```
+
+en druk dan op 'Tab'.
+
+Nu wordt staat er op je scherm:
+
+```
+cd Programs/
+```
+
+Maak ervan
+
+```
+cd Programs/pr
+```
+
+en druk dan op 'Tab'.
+
+Nu staat er:
+
+```
+cd Programs/processing-3.2.1
+```
+
+druk dan op `Enter`.
+
+Doe nu:
+
+```
+./p
+```
+
+en druk dan op `Tab`. Nu staat er:
+
+```
+./processing
+```
+
+Druk op `Enter`.
+
+Klaar!
+
+
+## Updaten
+
+Het kan gebeuren dat er een venster komt met een Update. Het venster vraagt
+of je een nieuwe versie van Processing wilt installeren. Klik op 'No'. 'No' 
+is Engels voor 'nee'.
+
+![Processing Update venster, klik op 'No'](ProcessingOpstartenOpCursusLaptopNewVersionDialog.png)
+
+## Eindppdracht
+ 
+ * Start Processing helemaal zonder hulp
+
+![Processing zonder code](ProcessingOpstartenOpCursusLaptopProcessing.png)
