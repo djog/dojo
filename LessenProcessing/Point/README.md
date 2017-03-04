@@ -16,33 +16,73 @@ Zo gaat het eruit zien:
 ## Pixels
 
 Pixels zijn de vierkantjes waaruit je beeldscherm is opgebouwd.
-Je schermresolutie is het aantal pixels dat je scherm breed en hoog is.
-Hoe meer pixels je scherm heeft, hoe scherper je beeldscherm eruit ziet
-
-Vroeger hadden computers een lage resolutie. Daarom zien oude
-spellen er wat blokkiger uit:
+Hoe meer pixels je scherm heeft, hoe scherper het beeld eruit ziet.
+Dat zie je goed bij oude games: die hebben minder pixels:
 
 <img src="NES_Super_Mario_Bros.png" width=500 height=500></img>
 
-## Vragen
-
- * Wat is de resolutie van jouw beeldscherm?
- * Als een beeldscherm een resolutie heeft van 320 bij 200 pixels, hoeveel pixels heeft deze dan?
-
 ## Hoe zitten pixels op je beeldscherm
 
-Elke pixel op je beeldscherm heeft een soort postcode. Deze
-postcode noemen we een coordinaat. Een coordinaat bestaat uit
-twee getallen. Dit zijn de coordinaten van alle pixels
-van een beelscherm van vijf bij vijf pixels:
+Elke pixel op je beeldscherm heeft een soort adres. Dit
+adres noemen we een coordinaat. Een coordinaat bestaat uit
+twee getallen. 
 
-![Pixel coordinaat](PixelCoordinaten.png) 
+De pixel linksbovenin heeft als coordinaat `(0,0)`.
+`(0,0)` spreek je uit als `nul komma nul`.
 
-Je ziet dat de laagste coordinaat `(0,0)` (zeg: 'nul komma nul') is.
-`(0,0)` zit in de linkerbovenhoek van je beeldscherm. Dan zie je dat
-het eerste getal is hoeveel pixels naar recht hiervan is. Zo zit `(1,0)` 
-rechts van `(0,0)`. Het tweede getal is hoeveel pixels je onder `(0,0)`
-zit. Zo zit `(0,1)` onder `(0,0)`. 
+## Een puntje tekenen
+
+Hier zie je code om een puntje te tekenen:
+
+
+```
+void setup()
+{
+  size(200,160);
+}
+
+void draw()
+{
+  point(0,0);
+}
+```
+
+Op het scherm ziet dit er zo uit:
+
+![Een puntje](PointEenPuntje.png)
+
+Als je goed kijkt zie je linksbovenin een zwart puntje.
+Als we inzoomen, zien we het beter:
+
+![](PointEenPuntjeZoom.png)
+
+De zwarte stip is de pixel die we hebben getekent!
+
+## Opdrachten
+
+ * 1. Wat doet `size(200,160)` ook alweer?
+ * 2. Verander `point(0,0)` naar `point(1,0)` en run het programma. Wat zie je?
+ * 3. Verander `point(0,0)` naar `point(0,1)` en run het programma. Wat zie je?
+ * 4. Wat betekent het eerste getal van een coordinaat?
+ * 5. Wat betekent het tweede getal van een coordinaat?
+
+## Oplossing
+
+ * 1. Daarmee maak je het venster 200 pixels breed en 160 pixels hoog
+ * 2. Het puntje verschuift een pixel naar rechts
+ * 3. Het puntje verschuift een pixel omlaag
+ * 4. Het eerste getal van een coordinaat bepaalt hoeveel pixels naar *rechts* het puntje wordt getekent
+ * 5. Het tweede getal van een coordinaat bepaalt hoeveel pixels naar *onder* het puntje wordt getekent
+
+## Coordinaten
+
+Een beeldscherm heeft veel coordinaten.
+In dit plaatje zie je de coordinaten van de pixels linksbovenin het scherm:
+
+![Pixel coordinaat](PointPixelCoordinaten.png) 
+
+Dan zie je dat het eerste getal is hoeveel pixels naar recht hiervan is. Zo zit `(1,0)` 
+rechts van `(0,0)`. Het tweede getal is hoeveel pixels je onder `(0,0)` zit. Zo zit `(0,1)` onder `(0,0)`. 
 
 Op deze manier kun je elke pixel op je beeldscherm vinden.
 
