@@ -172,7 +172,7 @@ Iets dat omhoog gaat, gaat eerst steeds langzamer omhoog, en gaat daarna ook val
 In de natuukunde gebruiken ze `g` (van 'gravity', dit is Engels voor zwaartekracht)
 voor de zwaartekracht.
 
-## Opdacht
+## Opdracht
 
  * Laat de bal nu als een stuiterbal vallen en stuiteren
  * Gebruik de variabele naam `g` inplaats van `a`
