@@ -1,31 +1,39 @@
 # `fullScreen`
 
-`fullScreen` is een functie waarmee je het  .
+`fullScreen` is een functie waarmee je het venster van je programma net zo groot maakt als het beeldscherm van je computer.
 
-Stel dat je een programma maakt wat een ovaal tekent die het scherm opvult, deze zou er zo uit kunnen zien:
+Een normaal programma kan er misschien zo uit zien:
 ```
 void setup() {
-  size(256, 256);
-  ellipse(128, 128, 256, 256);
+  size(200, 200);
+  rect(100, 100, 50, 25);
+}
+
+void draw() {
 }
 ```
-Dit programma tekent dit:
+Dit programma tekent een rechthoek van met de linkerbovenhoek in het midden van het scherm. De breedte van de rechthoek is een kwart van de breedte van het venster en de hoogte van de rechthoek is een achtste van de hoogte van het venster.
 
-![circle 256](circle256.png)
-
-Maar dit programma werkt alleen voor een scherm wat 256 bij 256 pixels is. Dat is natuurlijk onhandig, want elke keer als je een nieuwe grootte kiest moet je een heleboel code opnieuw typen!
-
-Als we de breedte en hoogte van het scherm weten, weten we ook welke getallen in `ellipse` moeten. De x cordinaat van de ellipse is namelijk de helft van de breedte, de y cordinaat de helft van de hoogte. En de breedte en hoogte van de `ellipse` zijn hetzelfde als die van het scherm.
-
-Gelukkig weet Processing de breedte en hoogte van het scherm. De breedte van het scherm heet in Processing `width` en de hoogte heet `height`. Deze getallen worden bepaald zodra je size gebruikt om de grootte van je scherm te defineren.
-
-Het programma wat een ovaal tekent die het scherm opvult, ziet er dan zo uit:
+Stel dat we dit meesterwerk op het volledige beeldscherm willen laten zien, dan kunnen we `fullScreen()` gebruiken. `size()` is dan niet meer nodig. Dat ziet er zo uit:
 ```
 void setup() {
-  size(256, 256);
-  ellipse(width/2, height/2, width, height);
+  fullScreen();
+  rect(100, 100, 50, 25);
+}
+
+void draw() {
 }
 ```
-Maar nu past de ovaal nog steeds als we de getallin in `size` veranderen!
+Maar nu is de rechthoek nog steeds op de coördinaten `(100, 100)` terwijl dat niet het midden van het scherm is. Als we dezelfde relatieve plaats willen houden kunnen we `width` en `height` gebruiken. Het wordt dan:
+```
+void setup() {
+  fullScreen();
+  rect(width/2, height/2, 50, 25);
+}
 
-![ovaal](ellipse0.png)![ovaal](ellipse1.png)![ovaal](ellipse2.png)![ovaal](ellipse3.png)![ovaal](ellipse4.png)![ovaal](ellipse5.png)![ovaal](ellipse6.png)![ovaal](ellipse7.png)![ovaal](ellipse8.png)![ovaal](ellipse9.png)
+void draw() {
+}
+```
+# Eindopdracht
+
+Maak de breedte van de rechthoek nu altijd een kwart van de breedte van je venster, ook als je `fullScreen()` gebruikt.
