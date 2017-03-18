@@ -66,6 +66,22 @@ void draw()
 }
 ```
 
+Het commando `size` werkt als volgt:
+
+```
+size(4, 3);
+eerste getal: hoeveel pixels breed
+tweede getal: hoeveel pixels hoog
+```
+
+Het commando `point` werkt als volgt:
+
+```
+point(2, 1);
+eerste getal: hoeveel pixels naar rechts
+tweede getal: hoeveel pixels omlaag
+```
+
 ## Opdrachten
 
  1. Type de code over en run het programma. Zie je de pixel zitten?

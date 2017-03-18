@@ -13,10 +13,6 @@ In deze les gaan we leren
 
  * hoe je lijnen tekent
 
-Zo gaat het eruit zien:
-
-![Line](Line.png)
-
 Kun je nog geen puntjes tekenen? Ga dan 
 [naar de les waarin je puntjes leert tekenen](../Point/README.md)
 
@@ -27,74 +23,125 @@ Om een lijn te tekenen,
 moet je een beginpixel en eindpixel kiezen.
 Processing tekent dan zelf de pixels ertussenin.
 
-Om in Processing een lijn te tekenen, gebruik je de functie `line`.
-De functie `line` heeft vier getallen nodig.
-Deze vier getallen zijn twee coordinaten achter elkaar.
-De eerste twee getallen zijn de coordinaat van het eene eind van de lijn.
-De laatste twee getallen zijn de coordinaat van het ander eind van de lijn.
+## Een lijn tekenen
 
-Hier zie je een lijn die gaat van coordinaat 
-(1,2) naar (3,2):
+Op het plaatje staat een lijn die van (1,2) naar (3,0) gaat:
 
-![Lijn 1](Lijn1.png)
+![Lijn van (1,2) naar (3,0)](LinePixelCoordinaten_1_2_3_2.png)
 
-In Processing teken je deze lijn met:
+In Processing programmer je dat zo:
 
-```
-line(1,2,3,2);
-```
+```c++
+void setup()
+{
+  size(5,4);
+}
 
-De volgorde van de twee coordinaten maakt niet uit.
-
-Lijnen kunnen ook schuin gaan.
-
-Hier zie je een lijn die gaat van coordinaat (2,4) naar (1,1):
-
-![Lijn 2](Lijn2.png)
-
-In Processing teken je deze lijn met:
-
-```
-line(2,4,1,1);
+void draw()
+{
+  line(1,2,3,0);
+}
 ```
 
-## Vragen
+## Opdracht 
 
-![Lijn 3](Lijn3.png)
-
- * 1. Hierboven staat een lijn. Wat zijn de begin- en eindcoordinaat van die lijn?
-
-![Lijn 4](Lijn4.png)
-
- * 2. Hierboven staat een lijn. Wat zijn de begin- en eindcoordinaat van die lijn?
-
-![Lijn 5](Lijn5.png)
-
- * 3. Hierboven staat een lijn. Wat zijn de begin- en eindcoordinaat van die lijn?
- * 4. Een lijn gaat van coordinaat (0,0) naar (10,0). In welke richting gaat de lijn? Wat is het Processing commando?
- * 5. Een lijn gaat van coordinaat (0,0) naar (0,10). In welke richting gaat de lijn? Wat is het Processing commando?
- * 6. Een lijn gaat van coordinaat (0,0) naar (10,10). In welke richting gaat de lijn? Wat is het Processing commando?
- * 7. Een lijn gaat van coordinaat (30,20) naar (20,20). In welke richting gaat de lijn? Wat is het Processing commando?
- * 8. Een lijn gaat van coordinaat (10,20) 20 pixels naar rechts. Welke coordinaat heeft het eindpunt? Wat is het Processing commando?
- * 9. Een lijn gaat van coordinaat (10,30) 10 pixels naar rechtsomhoog. Welke coordinaat heeft het eindpunt? Wat is het Processing commando?
+ 1. Type de code over. Kun je de lijn zien?
+ 2. Laat de lijn nu gaan van (1,2) naar (3,2). Wat zie je?
+ 3. Draai de eerste lijn nu om: van (3,0) naar (1,2). Wat zie je?
 
 ## Oplossing
 
- * 1. (0,0) en (0,3)
- * 2. (3,1) en (3,4)
- * 3. (2,1) en (0,3)
- * 4. Van links naar rechts/horizontaal. `line(0,0,10,0)`
- * 5. Van onder naar boven/verticaal. `line(0,0,0,10)`
- * 6. Schuin/diagonaal. `line(0,0,0,10)`
- * 7. Van rechts naar links/horizontaal. `line(30,20,20,20)`
- * 8. (30,20). `line(10,20,30,20)`
- * 9. (20,20). `line(10,30,20,20)`
+ 1. De lijn kun je wel zien. Hij is dikker dan drie puntjes
+ 2. De lijn moet worden getekent met `line(1,2,3,2)`. De lijn is nu wel mooi dun
+ 3. De lijn moet worden getekent met `line(3,0,1,2)`. De lijn is weer dik
+
+
+## Een kruis tekenen
+
+Op het plaatje staat een kruis:
+
+![Een kruis](LinePixelCoordinatenKruis.png.png)
+
+In Processing programmer je dat zo *ongeveer* zo:
+
+```c++
+void setup()
+{
+  size(30,20);
+}
+
+void draw()
+{
+  line(0,4,20,4);
+  line(4,1,3,8);
+}
+```
+
+## Opdracht 
+
+ 1. Type de code over. Welke `line` tekent het liggende streepje? Welke `line` tekent het neergaande streepje?
+ 2. Maak het kruis mooi. Maak het scherm net zo groot als op het plaatje
+
+## Oplossing
+
+ 1. De eerste lijn is het liggende streepje. 
+ 2. 
+
+```c++
+void setup()
+{
+  size(8,9);
+}
+
+void draw()
+{
+  line(0,4,6,4);
+  line(3,1,3,7);
+}
+```
+
+## Een driehoek tekenen
+
+Lijnen kunnen ook samen vorm worden.
+
+Plaatje `Een driehoek` laat een driehoek zien:
+
+![Een driehoek](LinePixelCoordinatenDriehoek.png)
+
+De driehoek heeft drie hoeken met drie coordinaten.
+
+## Opdrachten
+
+ 1. Wat zijn de drie coordinaten van de punten van de driehoek?
+ 2. Teken de driehoek na. Maak het scherm de juiste grootte
+
+
+## Oplossing
+
+ 1. (1,1), (9,1) en (1,9)
+ 2. Hier de code:
+
+
+```c++
+void setup()
+{
+  size(8,9);
+}
+
+void draw()
+{
+  line(1,1,9,1);
+  line(1,1,1,9);
+  line(1,9,9,1);
+}
+```
 
 ## Eindopdracht
  
-![Line](Line.png)
+![Line eindopdracht](LineEindopdracht.png)
 
-Hierboven staat een tekening. 
-Maak deze tekening zo goed mogelijk na in Processing.
+Hierboven staat een tekening van een huisje. 
+Maak deze tekening na in Processing. Je hebt acht lijnen nodig!
+Hij wordt niet zo mooi als op het plaatje, omdat de schuine lijnen niet mooi zijn.
 
 
