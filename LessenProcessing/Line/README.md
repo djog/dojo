@@ -27,7 +27,7 @@ Processing tekent dan zelf de pixels ertussenin.
 
 Op het plaatje staat een lijn die van (1,2) naar (3,0) gaat:
 
-![Lijn van (1,2) naar (3,0)](LinePixelCoordinaten_1_2_3_2.png)
+![Lijn van (1,2) naar (3,0)](LinePixelCoordinaten_1_2_3_0.png)
 
 In Processing programmer je dat zo:
 
@@ -60,7 +60,7 @@ void draw()
 
 Op het plaatje staat een kruis:
 
-![Een kruis](LinePixelCoordinatenKruis.png.png)
+![Een kruis](LinePixelCoordinatenKruis.png)
 
 In Processing programmer je dat zo *ongeveer* zo:
 
@@ -85,7 +85,7 @@ void draw()
 ## Oplossing
 
  1. De eerste lijn is het liggende streepje. 
- 2. 
+ 2. Hier is de code:
 
 ```c++
 void setup()
