@@ -47,5 +47,5 @@ pandoc README.md -o boek.pdf --toc --highlight-style=tango
 cp boek.pdf ../../Boek/Boek_tekenen_zonder_voorpagina.pdf
 
 cd ../../Boek
-pdfunite Boek_voorpagina_tekenen.pdf Boek_tekenen_zonder_voorpagina.pdf Boek_1_tekenen.pdf
+pdfunite Boek_voorpagina_1_tekenen.pdf Boek_tekenen_zonder_voorpagina.pdf Boek_1_tekenen.pdf
 rm Boek_tekenen_zonder_voorpagina.pdf
