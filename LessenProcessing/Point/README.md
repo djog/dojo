@@ -9,10 +9,6 @@ In deze les gaan we leren
  * hoe de pixels op een beeldscherm zitten
  * hoe je puntjes tekent
 
-Zo gaat het eruit zien:
-
-![Point](Point.png)
-
 ## Pixels
 
 ```
@@ -45,7 +41,7 @@ Dat klopt: je gaat nul naar rechts, dan nul naar onder!
 
 Plaatje `Keiveel coordinaten` laat keiveel coordinaten zien.
 
-[Keiveel coordinaten](PointPixelCoordinaten.png)
+![Keiveel coordinaten](PointPixelCoordinaten.png)
 
 ## Een puntje tekenen
 
@@ -72,19 +68,19 @@ void draw()
 
 ## Opdrachten
 
- * 1. Type de code over en run het programma. Zie je de pixel zitten?
- * 2. Wat is de coodinaat boven (2,1)?
- * 3. Wat is de coodinaat rechts van (2,1)?
- * 4. Wat is de coodinaat onder (2,1)?
- * 5. Wat is de coodinaat links van (2,1)?
+ 1. Type de code over en run het programma. Zie je de pixel zitten?
+ 2. Wat is de coodinaat boven (2,1)?
+ 3. Wat is de coodinaat rechts van (2,1)?
+ 4. Wat is de coodinaat onder (2,1)?
+ 5. Wat is de coodinaat links van (2,1)?
 
 ## Oplossingen
 
- * 1. Je kunt een heel klein zwart puntje zien
- * 2. (2,0)
- * 3. (3,1)
- * 4. (2,2)
- * 5. (1,1)
+ 1. Je kunt een heel klein zwart puntje zien
+ 2. (2,0)
+ 3. (3,1)
+ 4. (2,2)
+ 5. (1,1)
 
 ## Twee puntje tekenen
 
