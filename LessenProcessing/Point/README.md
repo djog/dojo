@@ -108,14 +108,13 @@ void draw()
 
 ## Opdrachten
 
- * 1. Type de code over en run het programma. Zie je de pixels zitten?
- * 2. Maak de lijn af door twee nieuwe pixels te tekenen
+ 1. Type de code over en run het programma. Zie je de pixels zitten?
+ 2. Maak de lijn af door twee nieuwe pixels te tekenen
 
 ## Oplossingen
 
- * 1. Je kunt twee hele kleine zwart puntjes zien
-
- * 2. Hier de code:
+ 1. Je kunt twee hele kleine zwart puntjes zien
+ 2. Hier de code:
 
 ```c++
 void setup()
