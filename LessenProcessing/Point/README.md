@@ -1,4 +1,4 @@
-# Point
+# `point`
 
 Processing is een programmeertaal ontwikkeld voor kunstenaars
 en erg geschikt om games en mooie dingen mee te maken.

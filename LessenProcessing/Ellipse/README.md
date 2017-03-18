@@ -1,4 +1,4 @@
-# Ellipse
+# `ellipse`
 
 Cirkels en ovalen worden veel gebruikt in games.
 
@@ -10,9 +10,7 @@ dat veel met cirkels werkt:
 Je kunt een ovaal tekenen met heel veel puntjes,
 maar de `ellipse` functie werkt gemakkelijker.
 
-In deze les gaan we leren 
-
- * hoe je ovalen tekent
+In deze les gaan we leren hoe je ovalen tekent.
 
 Zo gaat het eruit zien:
 
@@ -39,7 +37,7 @@ Hier zie je een ovaal met middelpunt (3,2), een breedte van vijf pixels en hoogt
 
 In Processing teken je deze ovaal met:
 
-```
+```c++
 ellipse(3,2,5,3);
 ```
 
@@ -53,50 +51,55 @@ Het middelpunt heeft coordinaat (2,4), hij is vijf pixels breed en negen pixels 
 
 ![Ovaal 3](Ellipse3.png)
 
- * 1. Je wilt bovenstaande plaatje namaken. Het venster is 100 pixels breed en 100 pixels hoog. Wat is het middelpunt van de cirkel? Hoe breed is de cirkel? En hoe hoog? Hoe maak je dit in Processing?
+  1. Je wilt bovenstaande plaatje namaken. Het venster is 100 pixels breed en 100 pixels hoog. Wat is het middelpunt van de cirkel? Hoe breed is de cirkel? En hoe hoog? Hoe maak je dit in Processing?
  
 ![Ovaal 4](Ellipse4.png)
 
- * 2. Je wilt bovenstaande plaatje namaken. Het venster is 200 pixels breed en 100 pixels hoog. Wat is het middelpunt van de cirkel? Hoe breed is de cirkel? En hoe hoog? Hoe maak je dit in Processing?
+  2. Je wilt bovenstaande plaatje namaken. Het venster is 200 pixels breed en 100 pixels hoog. Wat is het middelpunt van de cirkel? Hoe breed is de cirkel? En hoe hoog? Hoe maak je dit in Processing?
 
 ![Ovaal 5](Ellipse5.png)
 
- * 3. Je wilt bovenstaande plaatje namaken. Het venster is 200 pixels breed en 100 pixels hoog. Wat zijn de middelpunten van de cirkels? Hoe breed zijn de cirkels? En hoe hoog? Hoe maak je dit in Processing?
+  3. Je wilt bovenstaande plaatje namaken. Het venster is 200 pixels breed en 100 pixels hoog. Wat zijn de middelpunten van de cirkels? Hoe breed zijn de cirkels? En hoe hoog? Hoe maak je dit in Processing?
  
 ![Ellipse](Ellipse.png)
 
- * 4. Hierboven staat een tekening. Maak deze tekening na in Processing
+  4. Hierboven staat een tekening. Maak deze tekening na in Processing
 
 ## Oplossing
 
- * 1. Zie hieronder:
+  1. Zie hieronder:
 
-```
-void setup() {
+```c++
+void setup() 
+{
   size(100, 100);
 }
 
-void draw() {
+void draw() 
+{
   ellipse(50, 50, 100, 100);  
 }
 ```
 
- * 2. Zie hieronder:
+  2. Zie hieronder:
 
-```
-void setup() {
+```c++
+void setup() 
+{
   size(200, 100);
 }
 
-void draw() {
+void draw() 
+{
   ellipse(100, 50, 200, 100);  
 }
 ```
 
- * 3. Zie hieronder:
+  3. Zie hieronder:
 
-```
-void setup() {
+```c++
+void setup() 
+{
   size(200, 100);
 }
 
@@ -106,9 +109,9 @@ void draw() {
 }
 ```
 
- * 4. Zie hieronder:
+  4. Zie hieronder:
 
-```
+```c++
 void setup()
 {
   size(100, 100);
