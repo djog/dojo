@@ -1,4 +1,4 @@
-# text
+# `text`
 
 Tekst wordt veel gebruikt, ook in games, voor bijvoorbeeld een score.
 
@@ -24,7 +24,7 @@ Kun je nog geen vlakken inkleuren? Ga dan
 
 Hier zie je de tekst 'Hallo' laat zetten op coordinaat (10,20):
 
-```
+```c++
 text("Hallo", 10, 20);
 ```
 Let op dat de tekst tussen dubbele apostroffen (`"`) moet.
@@ -33,32 +33,32 @@ Let op dat de tekst tussen dubbele apostroffen (`"`) moet.
 
 Hier plus en min:
 
-```
+```c++
 text(128 + 64, 10, 20);
 text(128 - 64, 10, 20);
 ```
 
 Hier een keersom: 
 
-```
+```c++
 text(16 * 16, 10, 20);
 ```
 
 Hier een deelsom:
 
-```
+```c++
 text(256 / 16, 10, 20);
 ```
 
 Tekstgrootte kun je aanpassen met
 
-```
+```c++
 textSize(32);
 ```
 
 Tekstkleur kun je aanpassen met `fill`:
 
-```
+```c++
 fill(255, 0, 0);
 ```
 
@@ -72,7 +72,7 @@ Zet de tekst `I love you 4 ever` op het scherm, waarbij:
 
 ## Oplossing
 
-```
+```c++
 void setup()
 {
   size(300,300);
@@ -94,7 +94,7 @@ Zet de tekst `I love you 4 ever` op het scherm, waarbij:
 
 ## Oplossing
 
-```
+```c++
 void setup()
 {
   size(300,300);
@@ -117,7 +117,7 @@ Zet de tekst `I love you 4 ever` op het scherm, waarbij:
 
 ## Oplossing
 
-```
+```c++
 void setup()
 {
   size(300,300);
@@ -143,7 +143,7 @@ Zet de tekst `I love you 4 ever` op het scherm, waarbij:
 
 ## Oplossing
 
-```
+```c++
 void setup()
 {
   size(300,300);
