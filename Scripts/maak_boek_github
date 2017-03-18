@@ -30,16 +30,7 @@ cd GitHubSamenwerken                ; cp *.* $build_folder; mv $build_folder/REA
 cd $build_folder
 sed -e '$s/$/\n/' -s *.md > README.md
 
-# sed -e '$s/$/\n/' -s *.md > all_content.md
-# if [ ! -e gh-md-toc ]; then
-#   wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc
-#   chmod a+x gh-md-toc
-# fi
-# ./gh-md-toc all_content.md > toc.md
-# cat toc.md > README.md
-# cat all_content.md >> README.md
-
-pandoc README.md -o boek.pdf
+pandoc README.md -o boek.pdf --toc
 cp boek.pdf ../../Boek/Boek_github_zonder_voorpagina.pdf
 
 cd ../../Boek

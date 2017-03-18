@@ -39,7 +39,7 @@ cat README_06.md >> README.md; echo " " >> README.md
 cat README_07.md >> README.md; echo " " >> README.md
 cat README_08.md >> README.md; echo " " >> README.md
 
-pandoc README.md -o boek.pdf
+pandoc README.md -o boek.pdf --toc
 cp boek.pdf ../../Boek/Boek_tekenen_zonder_voorpagina.pdf
 
 cd ../../Boek
