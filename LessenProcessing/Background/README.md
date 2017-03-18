@@ -1,4 +1,4 @@
-# backGround
+# `backGround`
 
 Zonder kleur zien games er minder mooi uit.
 
@@ -39,25 +39,25 @@ Om wit te krijgen, heb je alledrie de kleuren nodig.
 
 ## Vragen
 
- * 1. Welke drie kleuren lampjes heeft een pixel?
- * 2. Met welke lampjes samen maak je geel?
- * 3. Met welke lampjes samen maak je cyaan/lichtblauw?
- * 4. Met welke lampjes samen maak je magenta/paars?
- * 5. Met welke lampjes samen maak je wit?
- * 6. Met welke lampjes samen maak je zwart?
- * 7. Met welke lampjes samen maak je grijs?
- * 8. Met welke lampjes samen maak je oranje?
+  1. Welke drie kleuren lampjes heeft een pixel?
+  2. Met welke lampjes samen maak je geel?
+  3. Met welke lampjes samen maak je cyaan/lichtblauw?
+  4. Met welke lampjes samen maak je magenta/paars?
+  5. Met welke lampjes samen maak je wit?
+  6. Met welke lampjes samen maak je zwart?
+  7. Met welke lampjes samen maak je grijs?
+  8. Met welke lampjes samen maak je oranje?
 
 ## Antwoorden
 
- * 1. Rood, groen en blauw
- * 2. Rood en groen
- * 3. Groen en blauw
- * 4. Rood en blauw
- * 5. Rood en groen en blauw
- * 6. Met geen lampjes: als alle lampjes uit zijn, is het zwart
- * 7. Met rood en groen en blauw, maar dan moeten ze niet op hun hardst branden
- * 8. Met rood op z'n hardst en groen op halve kracht
+  1. Rood, groen en blauw
+  2. Rood en groen
+  3. Groen en blauw
+  4. Rood en blauw
+  5. Rood en groen en blauw
+  6. Met geen lampjes: als alle lampjes uit zijn, is het zwart
+  7. Met rood en groen en blauw, maar dan moeten ze niet op hun hardst branden
+  8. Met rood op z'n hardst en groen op halve kracht
 
 ## `background`
 
@@ -73,7 +73,7 @@ Met getallen tussen nul en 255 kun je het lampje ertussenin laten branden.
  
 Met deze Processing code krijg je een rode achtergrond:
 
-```
+```c++
 void setup()
 {
   size(100,100);
@@ -87,34 +87,35 @@ void draw()
 
 ## Opdracht
 
- * 1. Kopieer deze code in Processing en start de code
- * 2. Wat is een RGB waarde?
- * 3. Wat is de RGB waarde van groen? Maak in Processing een groene achtergrond
- * 4. Wat is de RGB waarde van blauw? Maak in Processing een blauwe achtergrond
- * 5. Wat is de RGB waarde van geel? Maak in Processing een gele achtergrond
- * 6. Wat is de RGB waarde van cyaan/lichtblauw? Maak in Processing een cyane/lichtblauwe achtergrond
- * 7. Wat is de RGB waarde van magenta/paars? Maak in Processing een magenta/paarse achtergrond
- * 8. Wat is de RGB waarde van wit? Maak in Processing een witte achtergrond
- * 9. Wat is de RGB waarde van zwart? Maak in Processing een zwart achtergrond
- * 10. Wat is de RGB waarde van grijs? Maak in Processing een grijze achtergrond
- * 11. Wat is de RGB waarde van donkerrood? Maak in Processing een donkerrode achtergrond
- * 12. Wat is de RGB waarde van oranje? Maak in Processing een oranje achtergrond
+  1. Kopieer deze code in Processing en start de code
+  2. Wat is een RGB waarde?
+  3. Wat is de RGB waarde van groen? Maak in Processing een groene achtergrond
+  4. Wat is de RGB waarde van blauw? Maak in Processing een blauwe achtergrond
+  5. Wat is de RGB waarde van geel? Maak in Processing een gele achtergrond
+  6. Wat is de RGB waarde van cyaan/lichtblauw? Maak in Processing een cyane/lichtblauwe achtergrond
+  7. Wat is de RGB waarde van magenta/paars? Maak in Processing een magenta/paarse achtergrond
+  8. Wat is de RGB waarde van wit? Maak in Processing een witte achtergrond
+  9. Wat is de RGB waarde van zwart? Maak in Processing een zwart achtergrond
+  10. Wat is de RGB waarde van grijs? Maak in Processing een grijze achtergrond
+  11. Wat is de RGB waarde van donkerrood? Maak in Processing een donkerrode achtergrond
+  12. Wat is de RGB waarde van oranje? Maak in Processing een oranje achtergrond
 
 ## Oplossingen
 
- * 1. OK
- * 2. De Rood-Groen-Blauw waarde. Dit zijn drie getallen van nul tot en met 255 die bepalen hoe hard de drie kleurenlampjes branden
- * 3. background(0,255,0)
- * 4. background(0,0,255)
- * 5. background(255,255,0)
- * 6. background(0,255,255)
- * 7. background(255,255,0)
- * 8. background(255,255,255)
- * 9. background(0,0,0)
- * 10. background(128,128,128), maar andere getallen tussen 0 en 255 zijn ook goed. Als ze maar alledrie gelijk zijn
- * 11. background(128,0,0), maar het eerste getal mag ook een ander getal tussen de 0 en 255 zijn
- * 12. background(255,128,0), maar het tweede getal mag ook een ander getal in de buurt van 128 zijn
+  1. OK
+  2. De Rood-Groen-Blauw waarde. Dit zijn drie getallen van nul tot en met 255 die bepalen hoe hard de drie kleurenlampjes branden
+  3. background(0,255,0)
+  4. background(0,0,255)
+  5. background(255,255,0)
+  6. background(0,255,255)
+  7. background(255,255,0)
+  8. background(255,255,255)
+  9. background(0,0,0)
+  10. background(128,128,128), maar andere getallen tussen 0 en 255 zijn ook goed. Als ze maar alledrie gelijk zijn
+  11. background(128,0,0), maar het eerste getal mag ook een ander getal tussen de 0 en 255 zijn
+  12. background(255,128,0), maar het tweede getal mag ook een ander getal in de buurt van 128 zijn
 
 
 ## Eindopdracht
+
 Maak de achtergrond Thijs zijn favoriete kleur.

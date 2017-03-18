@@ -1,4 +1,4 @@
-# stroke
+# `stroke`
 
 Zonder kleur zien games er minder mooi uit.
 
@@ -18,8 +18,7 @@ Weet je nog niet hoe kleuren werken,
 ga dan naar de les 
 [background](../Background/README.md)
 
-
-## `stroke`
+## Een lijnkleur instellen
 
 ![Kleurencirkel](AdditiveColor.png)
 
@@ -31,7 +30,7 @@ Deze drie getallen zijn de RGB waarden.
 
 Met deze Processing code krijg je een rode lijn:
 
-```
+```c++
 void setup()
 {
   size(100,100);
@@ -47,7 +46,7 @@ void draw()
 Met `stroke` zeg je: 'vanaf nu wil ik deze lijnkleur'.
 Hieronder zie je hoe je twee groene en een blauwe lijn tekent:
 
-```
+```c++
 void setup()
 {
   size(100,100);
@@ -73,7 +72,7 @@ void draw()
 
 ## Oplossing
 
-```
+```c++
 void setup()
 {
   size(100,100);
@@ -103,4 +102,5 @@ void draw()
 ```
 
 ##Eindopdracht
-maak nog 4 kleuren bij het voorbeeld hier boven.
+
+Maak nog vier kleuren bij het voorbeeld hierboven.
