@@ -30,7 +30,7 @@ cd GitHubSamenwerken                ; cp *.* $build_folder; mv $build_folder/REA
 cd $build_folder
 sed -e '$s/$/\n/' -s *.md > README.md
 
-pandoc README.md -o boek.pdf --toc
+pandoc README.md -o boek.pdf --toc --highlight-style=tango
 cp boek.pdf ../../Boek/Boek_github_zonder_voorpagina.pdf
 
 cd ../../Boek
