@@ -38,7 +38,7 @@ Hier zie je een rechthoek met coordinaat (1,2), een breedte van drie pixels en h
 
 In Processing teken je deze rechthoek met:
 
-```
+```c++
 rect(1,2,3,4);
 ```
 
@@ -52,28 +52,28 @@ De linkerbovenhoek heeft coordinaat (2,1), hij is vier pixels breed en drie pixe
 
 ![Rechthoek 3](Rechthoek3.png)
 
- * 1. Hierboven staat een rechthoek. Wat is de coordinaat van de linkerbovenhoek? Hoe breed is de rechthoek? Hoe hoog is de rechthoek?
+  1. Hierboven staat een rechthoek. Wat is de coordinaat van de linkerbovenhoek? Hoe breed is de rechthoek? Hoe hoog is de rechthoek?
 
 ![Rechthoek 4](Rechthoek4.png)
 
- * 2. Hierboven staat een rechthoek. Wat is de coordinaat van de linkerbovenhoek? Hoe breed is de rechthoek? Hoe hoog is de rechthoek?
+  2. Hierboven staat een rechthoek. Wat is de coordinaat van de linkerbovenhoek? Hoe breed is de rechthoek? Hoe hoog is de rechthoek?
 
 ![Rechthoek 5](Rechthoek5.png)
 
- * 3. Hierboven staat een rechthoek. Wat is de coordinaat van de linkerbovenhoek? Hoe breed is de rechthoek? Hoe hoog is de rechthoek?
- * 4. Een rechthoek heeft als coordinaat (0,0), is twee pixels breed en drie pixels hoog. Wat is het Processing commando?
- * 5. Een rechthoek heeft als coordinaat (1,2), is drie pixels breed en vier pixels hoog. Wat is het Processing commando?
- * 6. Een rechthoek heeft als coordinaat (10,20), is dertig pixels breed en veertig pixels hoog. Wat is het Processing commando?
+  3. Hierboven staat een rechthoek. Wat is de coordinaat van de linkerbovenhoek? Hoe breed is de rechthoek? Hoe hoog is de rechthoek?
+  4. Een rechthoek heeft als coordinaat (0,0), is twee pixels breed en drie pixels hoog. Wat is het Processing commando?
+  5. Een rechthoek heeft als coordinaat (1,2), is drie pixels breed en vier pixels hoog. Wat is het Processing commando?
+  6. Een rechthoek heeft als coordinaat (10,20), is dertig pixels breed en veertig pixels hoog. Wat is het Processing commando?
  
 ![Rect](Rect.png)
 
- * 10.Hierboven staat een tekening. Maak deze tekening na in Processing
+  10.Hierboven staat een tekening. Maak deze tekening na in Processing
 
 ## Oplossing
 
- * 10. Zie hieronder:
+  10. Zie hieronder:
 
-```
+```c++
 void setup()
 {
   size(100,100);
@@ -98,4 +98,7 @@ void draw()
 }
 ```
 ##Eindopdracht
-Maak een cirkel van rectangles. 
+
+Maak een cirkel van vierkanten. Dit *mag* zoals op het plaatje, maar je mag ook zelf iets verzinnen.
+
+![Een cirkel van vierkanten](RectEindopdracht.png)
