@@ -1,1 +1,1 @@
-![Tekenen](VoorpaginaTekenen.png)
+![1: Tekenen](VoorpaginaTekenen.png)

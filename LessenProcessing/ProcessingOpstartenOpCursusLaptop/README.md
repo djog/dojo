@@ -19,7 +19,7 @@ Wij hebben twee soorten laptops:
 
 Start een Terminal:
 
- * Debian: druk op de `WIN` toets (deze zit linskonder, tussen CTRL en ALT). Type dan 'terminal' en dan ENTER 
+ * Debian: druk op de `WIN` toets (deze zit linksonder, tussen CTRL en ALT). Type dan 'terminal' en dan ENTER 
  * Lubuntu: druk op `CTRL + ALT + T`
 
 ![De WIN toets zit tussen CTRL en ALT](ProcessingOpstartenOpCursusLaptopCtrlWindowsAlt.jpg)
@@ -33,7 +33,6 @@ Start een Terminal:
 ## Processing starten
 
 In de terminal, type:
-
 
 ```
 cd Programs/processing-3.2.1

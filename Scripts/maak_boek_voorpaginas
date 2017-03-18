@@ -24,10 +24,5 @@ cd $build_folder
 
 pandoc VoorpaginaCode.md -o ../../Boek/Boek_voorpagina_code.pdf
 pandoc VoorpaginaGitHub.md -o ../../Boek/Boek_voorpagina_github.pdf
-pandoc VoorpaginaInput.md -o ../../Boek/Boek_voorpagina_input.pdf
-pandoc VoorpaginaIntro.md -o ../../Boek/Boek_voorpagina_intro.pdf
-pandoc VoorpaginaStructuur.md -o ../../Boek/Boek_voorpagina_structuur.pdf
-pandoc VoorpaginaTekenen.md -o ../../Boek/Boek_voorpagina_tekenen.pdf
-pandoc VoorpaginaVariabelen.md -o ../../Boek/Boek_voorpagina_variabelen.pdf
-
-
+pandoc VoorpaginaTekenen.md -o ../../Boek/Boek_voorpagina_1_tekenen.pdf
+pandoc VoorpaginaStructuur.md -o ../../Boek/Boek_voorpagina_2_flow_input_structuur.pdf
