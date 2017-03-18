@@ -1,4 +1,4 @@
-# Rect
+# `rect`
 
 Vierkanten worden veel gebruikt in games.
 
