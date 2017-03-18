@@ -167,7 +167,7 @@ Teken deze 'i' na. Maak ook het scherm groot genoeg
 
 Plaatje `I hartje` laat de pixels zien van de letter 'i' en een hartje:
  
-[I hartje](PointPixelCoordinatenIhartje.png)
+![I hartje](PointPixelCoordinatenIhartje.png)
 
 Teken deze 'i' en het hartje. Maak ook het scherm groot genoeg
 
@@ -175,4 +175,4 @@ Teken deze 'i' en het hartje. Maak ook het scherm groot genoeg
 
 Schrijf in pixels de tekst 'I hartje P':
 
-[Point eindopdracht](PointPixelCoordinatenIhartjeP.png)
+![Point eindopdracht](PointPixelCoordinatenIhartjeP.png)
