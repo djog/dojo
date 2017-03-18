@@ -15,261 +15,169 @@ Zo gaat het eruit zien:
 
 ## Pixels
 
+```
+Pixel = een vierkantje op je beeldscherm
+```
+
 Pixels zijn de vierkantjes waaruit je beeldscherm is opgebouwd.
 Hoe meer pixels je scherm heeft, hoe scherper het beeld eruit ziet.
 Dat zie je goed bij oude games: die hebben minder pixels:
 
 <img src="NES_Super_Mario_Bros.png" width=500 height=500></img>
 
-## Hoe zitten pixels op je beeldscherm
+## Coordinaten
 
 Elke pixel op je beeldscherm heeft een soort adres. Dit
 adres noemen we een coordinaat. Een coordinaat bestaat uit
 twee getallen. 
 
-De pixel linksbovenin heeft als coordinaat `(0,0)`.
-`(0,0)` spreek je uit als `nul komma nul`.
+```
+Coordinaat = een plek
+```
 
-Hier zie de coordinaten van veel pixels:
+Van een coordinaat zijn de twee getallen:
 
-![Pixel coordinaten](PointPixelCoordinaten.png)
+ * eerste getal: hoeveel pixels naar rechts
+ * tweede getal: hoeveel pixels naar onder
+
+De pixel linksbovenin heeft als coordinaat `(0,0)` (spreek uit 'nul komma nul').
+Dat klopt: je gaat nul naar rechts, dan nul naar onder!
+
+Plaatje `Keiveel coordinaten` laat keiveel coordinaten zien.
+
+[Keiveel coordinaten](PointPixelCoordinaten.png)
 
 ## Een puntje tekenen
 
-Hier zie je code om een puntje te tekenen:
+We gaan een puntje tekenen op (2,1). We maken het scherm 4 pixels breed en 3 pixels hoog.
+
+Dat ziet er als tekening zo uit:
+
+![Een puntje op (2,1)](PointPixelCoordinaten_2_1.png)
+
+Hier zie je de code:
 
 
 ```c++
 void setup()
 {
-  size(200,160);
+  size(4, 3);
 }
 
 void draw()
 {
-  point(0,0);
+  point(2, 1);
 }
 ```
-
-Op het scherm ziet dit er zo uit:
-
-![Een puntje](PointEenPuntje.png)
-
-Als je goed kijkt zie je linksbovenin een zwart puntje.
-Als we inzoomen, zien we het beter:
-
-![](PointEenPuntjeZoom.png)
-
-De zwarte stip is de pixel die we hebben getekent!
 
 ## Opdrachten
 
- * 1. Wat doet `size(200,160)` ook alweer?
- * 2. Verander `point(0,0)` naar `point(1,0)` en run het programma. Wat zie je?
- * 3. Verander `point(0,0)` naar `point(0,1)` en run het programma. Wat zie je?
- * 4. Wat betekent het eerste getal van een coordinaat?
- * 5. Wat betekent het tweede getal van een coordinaat?
+ * 1. Type de code over en run het programma. Zie je de pixel zitten?
+ * 2. Wat is de coodinaat boven (2,1)?
+ * 3. Wat is de coodinaat rechts van (2,1)?
+ * 4. Wat is de coodinaat onder (2,1)?
+ * 5. Wat is de coodinaat links van (2,1)?
+
+## Oplossingen
+
+ * 1. Je kunt een heel klein zwart puntje zien
+ * 2. (2,0)
+ * 3. (3,1)
+ * 4. (2,2)
+ * 5. (1,1)
+
+## Twee puntje tekenen
+
+We gaan een puntje tekenen op (0,3) en (1,2). We maken het scherm 5 pixels breed en 4 pixels hoog.
+
+Dat ziet er als tekening zo uit:
+
+![Een puntje op (0,3) en (1,2)](PointPixelCoordinaten_0_3_1_2.png)
+
+Hier zie je de code:
+
+
+```c++
+void setup()
+{
+  size(5, 4);
+}
+
+void draw()
+{
+  point(0, 3);
+  point(1, 2);
+}
+```
+
+## Opdrachten
+
+ * 1. Type de code over en run het programma. Zie je de pixels zitten?
+ * 2. Maak de lijn af door twee nieuwe pixels te tekenen
+
+## Oplossingen
+
+ * 1. Je kunt twee hele kleine zwart puntjes zien
+
+ * 2. Hier de code:
+
+```c++
+void setup()
+{
+  size(5, 4);
+}
+
+void draw()
+{
+  point(0, 3);
+  point(1, 2);
+  point(2, 1);
+  point(3, 0);
+}
+```
+
+## Een korte lijn tekenen
+
+![Een korte lijn](PointPixelCoordinatenKorteLijn.png)
+
+Op de tekening `Een korte lijn` zie je drie pixels die rood zijn gekleurd.
+
+Programmeer deze lijn na. Maak ook het scherm net zo groot als op de tekenening.
 
 ## Oplossing
 
- * 1. Daarmee maak je het venster 200 pixels breed en 160 pixels hoog
- * 2. Het puntje verschuift een pixel naar rechts
- * 3. Het puntje verschuift een pixel omlaag
- * 4. Het eerste getal van een coordinaat bepaalt hoeveel pixels naar *rechts* het puntje wordt getekent
- * 5. Het tweede getal van een coordinaat bepaalt hoeveel pixels naar *onder* het puntje wordt getekent
-
-## Coordinaten
-
-Een beeldscherm heeft veel coordinaten.
-In dit plaatje zie je de coordinaten van de pixels linksbovenin het scherm:
-
-![Pixel coordinaat](PointPixelCoordinaten.png) 
-
-Dan zie je dat het eerste getal is hoeveel pixels naar recht hiervan is. Zo zit `(1,0)` 
-rechts van `(0,0)`. Het tweede getal is hoeveel pixels je onder `(0,0)` zit. Zo zit `(0,1)` onder `(0,0)`. 
-
-Op deze manier kun je elke pixel op je beeldscherm vinden.
-
-## Vragen
-
- * Welke coordinaten heb je nodig om een horizontale lijn te tekenen, die
-   door `(0,0)` gaat en drie pixels lang is?
- * Welke coordinaten heb je nodig om een vertical lijn te tekenen, die
-   door `(1,0)` gaat en drie pixels hoog is?
- * Welke coordinaten heb je nodig om een diagonale lijn te tekenen, die
-   door `(0,0)` gaat en drie pixels lang is?
- * Welke coordinaten heb je nodig om een vierkantje te tekenen, die
-   door `(0,0)` gaat, twee pixels breed en twee pixels breed is?
-
-## Puntjes tekenen
-
-Dit is de programmeercode die je nodig hebt:
-
-```
+```c++
 void setup()
 {
-  size(10,10);  
+  size(4, 4);
 }
 
-void draw() 
+void draw()
 {
-  //   0123456789
-  // 0 ..........
-  // 1 ..XXXXXX..
-  // 2 .X......X.
-  // 3 .X.X..X.X.
-  // 4 .X......X.
-  // 5 .X.X.X..X.
-  // 6 .X..X...X.
-  // 7 .X......X.
-  // 8 ..XXXXXX..
-  // 9 ..........
-
-  
-  // Bovenkant hoofd
-  point(2,1);  
-  point(3,1);  
-  point(4,1);  
-  point(5,1);  
-  point(6,1);  
-  point(7,1);  
-
-  // Rechterkant hoofd
-  point(8,2);  
-  point(8,3);  
-  point(8,4);  
-  point(8,5);  
-  point(8,6);  
-  point(8,7);  
-
-  // Onderkant hoofd
-  point(2,8);  
-  point(3,8);  
-  point(4,8);  
-  point(5,8);  
-  point(6,8);  
-  point(7,8);  
-
-  // Linkerkant hoofd
-  point(1,2);  
-  point(1,3);  
-  point(1,4);  
-  point(1,5);  
-  point(1,6);  
-  point(1,7);  
-
-  // Ogen
-  point(3,3);
-  point(6,3);
-
-  // Mond
-  point(3,5);
-  point(4,6);
-  point(5,5);
-
+  point(3, 0);
+  point(3, 1);
+  point(3, 2);
 }
 ```
 
-Dit is wat de code doet:
+## Een 'i' tekenen
 
- * `void setup() {}`: de setup functie, de computer voert een keer alles tussen de accolades uit
- * `size(10, 10)`: maak een scherm van 10 pixels breed en 10 pixels hoog
- * `;`: de puntkomma geeft in Processing het einde aan van een zin. Dit is
-   ongeveer hetzelfde met een punt in schrijftaal.
- * `void draw() {}`: de draw functie, de computer voert steeds alles tussen de accolades uit
- * `//`: commentaar: de rest van de regel wordt niet gelezen door de 
-   computer. Hier kun je dingen neerzetten die speciaal bedoelt zijn 
-   voor mensen, zoals jezelf. In dit programma zie je dat het poppetje is
-   getekent in commentaar, met de coordinaten aan de zijkant. Ook zie je
-   dat de programmeur zegt wat er getekend wordt: zo kun je de fouten sneller
-   vinden  
- * `point(2,1)`: teken een puntje op coordinaat (2,1).
+Plaatje `Een i` laat de pixels zien van een letter 'i':
 
-## Vragen
+![Een i](PointPixelCoordinatenI.png)
 
- * Start Processing. Kopieer deze code en run het programma
- * Laat de smiley een pixel breeder lachen
- * Draai de lach verticaal om, zodat de smiley sip gaat kijken
- * Geef de smiley punk haar door drie pixels bovenop het hoofd erbij te tekenen
- * Geef de smiley een sik van een pixel
+Teken deze 'i' na. Maak ook het scherm groot genoeg
 
-## Oplossing
+## Een hartje tekenen
 
-```
-void setup()
-{
-  size(10,10);  
-}
+Plaatje `I hartje` laat de pixels zien van de letter 'i' en een hartje:
+ 
+[I hartje](PointPixelCoordinatenIhartje.png)
 
-void draw() 
-{
-  //   0123456789
-  // 0 ..X.X..X..
-  // 1 ..XXXXXX..
-  // 2 .X......X.
-  // 3 .X.X..X.X.
-  // 4 .X......X.
-  // 5 .X..XX..X.
-  // 6 .X.X..X.X.
-  // 7 .X......X.
-  // 8 ..XXXXXX..
-  // 9 ....X.....
-
-
-  // Bovenkant hoofd
-  point(2,1);  
-  point(3,1);  
-  point(4,1);  
-  point(5,1);  
-  point(6,1);  
-  point(7,1);  
-
-  // Rechterkant hoofd
-  point(8,2);  
-  point(8,3);  
-  point(8,4);  
-  point(8,5);  
-  point(8,6);  
-  point(8,7);  
-
-  // Onderkant hoofd
-  point(2,8);  
-  point(3,8);  
-  point(4,8);  
-  point(5,8);  
-  point(6,8);  
-  point(7,8);  
-
-  // Linkerkant hoofd
-  point(1,2);  
-  point(1,3);  
-  point(1,4);  
-  point(1,5);  
-  point(1,6);  
-  point(1,7);  
-
-  // Ogen
-  point(3,3);
-  point(6,3);
-
-  // Mond
-  point(3,6);
-  point(4,5);
-  point(5,5);
-  point(6,6);
-
-  // Punkhaar
-  point(2,0);  
-  point(4,0);  
-  point(7,0);  
-
-  // Sik
-  point(9,4);
-}
-```
+Teken deze 'i' en het hartje. Maak ook het scherm groot genoeg
 
 ## Eindopdracht
 
-![Point Eindopdracht](PointEindopdracht.png)
+Schrijf in pixels de tekst 'I hartje P':
 
-Hier zie je een uitvergroot plaatje. Maak deze in het klein na met pixels.
+[Point eindopdracht](PointPixelCoordinatenIhartjeP.png)
