@@ -30,12 +30,16 @@ twee getallen.
 De pixel linksbovenin heeft als coordinaat `(0,0)`.
 `(0,0)` spreek je uit als `nul komma nul`.
 
+Hier zie de coordinaten van veel pixels:
+
+![Pixel coordinaten](PointPixelCoordinaten.png)
+
 ## Een puntje tekenen
 
 Hier zie je code om een puntje te tekenen:
 
 
-```
+```c++
 void setup()
 {
   size(200,160);
