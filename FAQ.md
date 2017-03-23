@@ -81,7 +81,7 @@ Dagmar is een volwassen vrijwilliger. Hij helpt Jorn met Godot.
 
 ### [Jan](https://github.com/janderkkotlarski)
 
-![janderkkotlarski](Images/janderkkotlarski.png)
+![janderkkotlarski](Images/Photo_March_2017_Small.png)
 
 [Jan geeft les in SFML](https://github.com/janderkkotlarski/Cplusplus-with-SFML-course) en is ook handig
 met GameMaker.
