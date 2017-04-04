@@ -38,3 +38,7 @@ De eerste les van het seizoen is op 8 september. Je bent ook altijd welkom om la
  * Het [boek](Boek/Boek.pdf) staat [hier](Boek/Boek.pdf)
  
 Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
+
+## Eindpresentatie
+
+ * Donderdag 20 juli
