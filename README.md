@@ -1,5 +1,7 @@
 # Dojo
 
+## LET OP: 27 April is het Koningsdag en zijn wij dicht
+
 ![DJOG logo](DjogKleiner.png) ![Codestarter logo](CodestarterWebsite.png)
 
 [![IRC Network](https://img.shields.io/badge/irc-%23DojoGroningen-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=DojoGroningen)
