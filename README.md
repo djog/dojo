@@ -1,6 +1,6 @@
 # Dojo
 
-## LET OP: 27 April is het Koningsdag en zijn wij dicht
+## LET OP: donderdag 27 April en 4 mei zijn wij dicht, wegens Koningsdag en Dodenherdenking
 
 ![DJOG logo](DjogKleiner.png) ![Codestarter logo](CodestarterWebsite.png)
 
