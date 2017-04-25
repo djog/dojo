@@ -4,9 +4,6 @@
 
 ![DJOG logo](DjogKleiner.png) ![Codestarter logo](CodestarterWebsite.png)
 
-[![IRC Network](https://img.shields.io/badge/irc-%23DojoGroningen-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=DojoGroningen)
-[![IRC Network](https://img.shields.io/badge/irc-%23PwcGroningen-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=PwcGroningen)
-
 [Processing](LessenProcessing/README.md) | [SFML](https://github.com/janderkkotlarski/Cplusplus-with-SFML-course) | Urho3D
 --- | --- | ---
 ![Easy](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Easy.png) | ![Medium](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Medium.png) | ![Difficulty Hard](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Hard.png)
@@ -15,7 +12,7 @@
 Aan computers vertellen wat ze moeten doen is de kern van programmeren. Wil jij dit ook kunnen? Elke donderdagavond kun je bij de DOJO leren hoe je je eigen interactieve programma's maakt, zoals een échte game! Je kunt programma's leren maken voor PC, maar uiteindelijk ook smartphone of Nintendo DS. Voorkennis is niet nodig.
 
 Deze avond is een cursusavond, waarin samen leren programmeren voorop staat. 
-Je zult aan de slag gaan met Processing, SFML of Urho3D, 
+Je zult aan de slag gaan met Scratch, Processing of SFML, 
 maar je bent ook vrij je eigen weg te kiezen.
 
  * Dag: Elke donderdagavond, behalve op feestdagen en in de kerstvakantie
@@ -30,17 +27,20 @@ maar je bent ook vrij je eigen weg te kiezen.
    * September t/m december: 20 euro
    * Januari tot en met mei: 20 euro
    * Juni en juli: 10 euro
- * Leeftijd: 8-25 jaar
- * Benodigdheden: Laptop met WiFi
+ * Leeftijd: 6-25 jaar
+ * Benodigdheden: Het zou fijn zijn als je een laptop met WiFi meeneemt. Maar wij hebben ook wel wat laptops te leen
 
-De eerste les van het seizoen is op 8 september. Je bent ook altijd welkom om later in te stromen.
+Je eerste (proef)les kan elke avond zijn. Ook zonder opgave.
 
- * Het [rooster](Rooster.md) staat [hier](Rooster.md)
  * De [lessen](LessenProcessing/README.md) staan [hier](LessenProcessing/README.md)
  * Het [boek](Boek/Boek.pdf) staat [hier](Boek/Boek.pdf)
  
 Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
 
-## Eindpresentatie
+## Agenda
 
- * Donderdag 20 juli
+ * Donderdag 27 April: geen les wegens Koningsdag
+ * Donderdag 4 mei: geen les, wegens Dodenherdenking
+ * Zaterdag 19 mei 10:00-17:00: [Maakfestival](https://github.com/richelbilderbeek/maakfestival_2017)
+ * Zondag 11 juni 12:00-16:00: [Science en Hi-Tech dag](https://github.com/richelbilderbeek/science_en_hi-tech_dag_2017)
+ * Donderdag 13 juli 18:30-20:30: Leerlingpresentaties en evaluatie
