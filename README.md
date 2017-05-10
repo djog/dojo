@@ -1,13 +1,13 @@
 # Dojo
 
-## LET OP: donderdag 27 April en 4 mei zijn wij dicht, wegens Koningsdag en Dodenherdenking
+## LET OP: donderdag 25 mei zijn wij dicht, wegens Hemelvaart
 
 ![DJOG logo](DjogKleiner.png) ![Codestarter logo](CodestarterWebsite.png)
 
-[Processing](LessenProcessing/README.md) | [SFML](https://github.com/janderkkotlarski/Cplusplus-with-SFML-course) | Urho3D
+Scratch | [Processing](LessenProcessing/README.md) | [SFML](https://github.com/janderkkotlarski/Cplusplus-with-SFML-course)
 --- | --- | ---
 ![Easy](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Easy.png) | ![Medium](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Medium.png) | ![Difficulty Hard](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Hard.png)
- ![SuperBar](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/superBar.png)|![Dark Hypersquare](https://cloud.githubusercontent.com/assets/13890380/9529429/7f52a582-4cfa-11e5-9265-51b4eed9e597.png) | ![heXon](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/heXon.png)
+? | ![SuperBar](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/superBar.png)|![Dark Hypersquare](https://cloud.githubusercontent.com/assets/13890380/9529429/7f52a582-4cfa-11e5-9265-51b4eed9e597.png)
 
 Aan computers vertellen wat ze moeten doen is de kern van programmeren. Wil jij dit ook kunnen? Elke donderdagavond kun je bij de DOJO leren hoe je je eigen interactieve programma's maakt, zoals een échte game! Je kunt programma's leren maken voor PC, maar uiteindelijk ook smartphone of Nintendo DS. Voorkennis is niet nodig.
 
@@ -39,8 +39,7 @@ Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
 
 ## Agenda
 
- * Donderdag 27 April: geen les wegens Koningsdag
- * Donderdag 4 mei: geen les, wegens Dodenherdenking
- * Zaterdag 19 mei 10:00-17:00: [Maakfestival](https://github.com/richelbilderbeek/maakfestival_2017)
+ * Zaterdag 20 mei 10:00-17:00: [Maakfestival](https://github.com/richelbilderbeek/maakfestival_2017), Oude Boteringestraat 18 (Openbare bieb), Groningen
+ * Donderdag 25 mei: geen les, wegens Hemelvaart
  * Zondag 11 juni 12:00-16:00: [Science en Hi-Tech dag](https://github.com/richelbilderbeek/science_en_hi-tech_dag_2017)
  * Donderdag 13 juli 18:30-20:30: Leerlingpresentaties en evaluatie
