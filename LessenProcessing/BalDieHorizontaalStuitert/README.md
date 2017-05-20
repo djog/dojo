@@ -12,7 +12,7 @@ We gaan in deze les twee variabelen en twee `if`-statements gebruiken.
 
 Dit is een eeuwig naar rechts gaande bal:
 
-```
+```c++
 float x = 300;
 
 void setup()
@@ -50,7 +50,7 @@ van 'delta x' en dat is weer wiskundetaal voor 'de verandering van x'.
 
 ## Vragen
 
-```
+```c++
 float x = 300;
 float dx = 2;
 
@@ -86,7 +86,7 @@ Andersom is dat ook zo.
 
 Hier is een manier om de bal te laten stuiteren:
 
-```
+```c++
 float x = 300;
 float dx = 2;
 
@@ -124,7 +124,7 @@ Er is een slimmere manier om `dx` te veranderen. We hebben gezien dat als `dx` g
 We hebben gezien dat als `dx` gelijk was aan `-2`, deze `2` wordt bij bij een stuiter. Er komt een minnetje voor, of er komt een minnetje bij.
 Dit is gemakkelijk op dezelfde manier te doen:
 
-```
+```c++
 dx = -dx;
 ```
 

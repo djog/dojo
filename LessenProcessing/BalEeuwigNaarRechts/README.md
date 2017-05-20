@@ -16,7 +16,7 @@ Je kunt (bijna) niet programmeren zonder `if`-statements.
 Als je de vorige lessen hebt gedaan, weet
 je wat deze code doet:
 
-```
+```c++
 float x = 50;
 
 void setup()
@@ -44,7 +44,7 @@ We willen kunnen zeggen: 'Lieve computer, *als* de bal te ver naar rechts is, da
 
 Zo zou dit kunnen:
 
-```
+```c++
 if (x > 200)
 {
   x = 100;
@@ -68,7 +68,7 @@ Preciezer zeg je: 'Lieve computer, *als* x meer is dan 200, zet x dat op 100'. `
 
 Als het kopieren niet is gelukt, gebruik dan deze code:
 
-```
+```c++
 float x = 50;
 
 void setup()
@@ -95,7 +95,7 @@ void draw()
 
 Dit is een eeuwig naar rechts gaande bal:
 
-```
+```c++
 float x = -50;
 
 void setup()
@@ -125,7 +125,7 @@ We gaan nu een bal programmeren die eeuwig naar links gaat.
 
 Wat je nu moet weten is het `if` statement om te zeggen wanneer de `x` te klein is:
 
-```
+```c++
 if (x < 100)
 {
   x = 500;
@@ -147,7 +147,7 @@ Maak een bal die eeuwig naar links gaat:
 
 Dit is een eeuwig naar links gaande bal:
 
-```
+```c++
 float x = 650;
 
 void setup()
@@ -183,7 +183,7 @@ Schrijf een programma waarin een bal eeuwig omlaag gaat:
 
 ## Oplossing
 
-```
+```c++
 float y = -50;
 
 void setup()
@@ -219,7 +219,7 @@ Als we code samenvoegen, gelden de volgende regels:
 
 ## Oplossing
 
-```
+```c++
 float x = -50;
 float y = -50;
 
@@ -247,9 +247,3 @@ void draw()
 ## Eindopdracht
 
 Laat de bal nu eeuwig schuin naar linksonder gaan.
-
-## Verder
-
-Je zou nu kunnen doen:
-
- * [Bal die horizontaal stuitert](../BalDieHorizontaalStuitert/README.md)
