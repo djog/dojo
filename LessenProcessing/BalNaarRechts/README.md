@@ -14,7 +14,7 @@ Je kunt (bijna) niet programmeren zonder variabelen.
 Als je de vorige lessen hebt gedaan, weet
 je wat deze code doet:
 
-```
+```c++
 void setup()
 {
   size(600, 400);
@@ -44,7 +44,7 @@ void draw()
 
 We gaan de code aanpassen:
 
-```
+```c++
 float x = 50;
 
 void setup()
@@ -75,7 +75,7 @@ void draw()
 
 De eerste nieuwe regel is:
 
-```
+```c++
 float x = 50;
 ```
 
@@ -93,7 +93,7 @@ Het getal `50` is de beginwaarde.
 
 De tweede veranderde regel is:
 
-```
+```c++
 ellipse(x,50,50,50);
 ```
 
@@ -139,7 +139,7 @@ In mensentaal is dit: 'Lieve computer, teken een ovaal die:
 
 Nu gaan we de cirkel laten bewegen:
 
-```
+```c++
 float x = 50;
 
 void setup()
@@ -161,7 +161,7 @@ void draw()
 
 De nieuwe regel is:
 
-```
+```c++
 x = x + 1;
 ```
 
@@ -177,7 +177,7 @@ In mensentaal is dit: 'Lieve computer, x is vanaf nu x plus een'. Of: 'Maak x ee
 
 Nu kunnen we snappen wat het programma doet. Hier staat het programma weer:
 
-```
+```c++
 float x = 50;
 
 void setup()
@@ -240,7 +240,7 @@ Haha, deze les heet 'Bal naar rechts', toch gaan we ook een bal naar links laten
 
 ## Oplossing
 
-```
+```c++
 float x = 500;
 
 void setup()
@@ -267,7 +267,7 @@ Haha, deze les heet 'Bal naar rechts', toch gaan we ook een bal naar onder laten
 
 ## Oplossing
 
-```
+```c++
 float y = 50;
 
 void setup()
@@ -294,7 +294,7 @@ Nu gaan we de bal sneller laten bewegen
 
 ## Oplossing
 
-```
+```c++
 float y = 50;
 
 void setup()
@@ -322,7 +322,7 @@ Nu gaan we de bal sneller bewegen en groter maken
 
 ## Oplossing
 
-```
+```c++
 float x = 50;
 
 void setup()
@@ -351,7 +351,7 @@ Nu gaan we de bal een kleur geven met `fill`
 
 ## Oplossing
 
-```
+```c++
 float t = 50;
 
 void setup()
@@ -373,9 +373,3 @@ void draw()
  * de bal moet snel omlaag en naar rechts gaan
  * de bal moet groter worden in de breedte en hoogte
  * de kleur moet van zwart naar wit veranderen
-
-## Verder
-
-Je zou nu kunnen doen:
-
- * [Bal die eeuwig naar rechts gaat](../BalEeuwigNaarRechts/README.md)
