@@ -43,3 +43,4 @@ Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
  * Zondag 11 juni 12:00-16:00: [Science en Hi-Tech dag](https://github.com/richelbilderbeek/science_en_hi-tech_dag_2017)
  * Donderdag 13 juli 18:30-20:30: Leerlingpresentaties en evaluatie
  * Donderdag 3 augustus 10:00-16:00: Zomerschool voor 35-40 leerlingen van 9-11 jaar
+ * ?18 t/m 22 augustus: Noorderzon
