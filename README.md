@@ -39,7 +39,7 @@ Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
 
 ## Agenda
 
- * Zaterdag 20 mei 10:00-17:00: [Maakfestival](https://github.com/richelbilderbeek/maakfestival_2017), Oude Boteringestraat 18 (Openbare bieb), Groningen
  * Donderdag 25 mei: geen les, wegens Hemelvaart
  * Zondag 11 juni 12:00-16:00: [Science en Hi-Tech dag](https://github.com/richelbilderbeek/science_en_hi-tech_dag_2017)
  * Donderdag 13 juli 18:30-20:30: Leerlingpresentaties en evaluatie
+ * Donderdag 3 augustus 10:00-16:00: Zomerschool voor 35-40 leerlingen van 9-11 jaar
