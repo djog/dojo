@@ -44,9 +44,9 @@ Dit zijn de Processing lessen
 
 ![groene balk](Groen.png)
 
- * Muis les 1: Positie
+ * [Muis les 1: Positie](./MuisPositie/README.md)
  * [Muis les 2: Knoppen](./MuisKnoppen/README.md)
- * Muis les 3: Scrollen
+ * [Muis les 3: Scrollen](./MuisScroll/README.md)
  * Toetsen les 1: Indrukken
  * Toetsen les 2: Loslaten
 
