@@ -26,9 +26,6 @@ cd WidthHeight                      ; cp *.* $build_folder; mv $build_folder/REA
 cd Arrays1                          ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_06.md; cd ..
 cd Arrays2                          ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_07.md; cd ..
 cd PImage1                          ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_08.md; cd ..
-cd FunctiesTekening                 ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_09.md; cd ..
-cd FunctiesSchaapkleur              ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_10.md; cd ..
-cd FunctiesPoten                    ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_11.md; cd ..
 
 cd $build_folder
 
@@ -41,9 +38,6 @@ cat README_05.md >> README.md; echo " " >> README.md
 cat README_06.md >> README.md; echo " " >> README.md
 cat README_07.md >> README.md; echo " " >> README.md
 cat README_08.md >> README.md; echo " " >> README.md
-cat README_09.md >> README.md; echo " " >> README.md
-cat README_10.md >> README.md; echo " " >> README.md
-cat README_11.md >> README.md; echo " " >> README.md
 
 pandoc README.md -o boek.pdf --toc --toc-depth=1 --highlight-style=tango -V geometry:margin=0.5in
 

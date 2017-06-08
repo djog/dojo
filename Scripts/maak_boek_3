@@ -1,0 +1,62 @@
+#!/bin/bash
+
+# Concatenate all Markdown files first, convert those to one PDF
+
+my_script_path=`realpath $0`
+my_folder_path=`dirname $my_script_path`
+build_folder=$my_folder_path/build
+#echo $build_folder
+
+rm -rf build
+mkdir build
+
+if [ ! -d $build_folder ]; then 
+  echo "Error: failed to create build folder"
+  exit 1
+fi
+
+cd ..
+cd LessenProcessing
+cd Voorwoord                        ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_00.md; cd ..
+cd MuisPositie                      ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_01.md; cd ..
+cd MuisKnoppen                      ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_02.md; cd ..
+cd MuisScroll                       ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_03.md; cd ..
+#3 	Toetsen les 1: Indrukken
+#4 	Toetsen les 2: Loslaten
+#5 	Toetsen les 3: Toetscombinaties
+#6 	for loops 1: Geheel getal dat telt van 0 tot een waarde
+#7 	for loops les 2: Andere soorten for-loops, continue, break
+cd FunctiesTekening                 ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_04.md; cd ..
+cd FunctiesSchaapkleur              ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_05.md; cd ..
+cd FunctiesPoten                    ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_06.md; cd ..
+#11 	Functies les 4: Botsing meten
+#12 	Functies les 5: Sinus en cosinus
+#13 	Klassen les 1: Een pixel
+#14 	Klassen les 2: Een kogel
+#15 	Klassen les 3: Een speler
+#16 	3D les 1
+#17 	3D les 2
+#18 	3D les 3
+
+cd $build_folder
+
+cat README_00.md >> README.md; echo " " >> README.md
+cat README_01.md >> README.md; echo " " >> README.md
+cat README_02.md >> README.md; echo " " >> README.md
+cat README_03.md >> README.md; echo " " >> README.md
+cat README_04.md >> README.md; echo " " >> README.md
+cat README_05.md >> README.md; echo " " >> README.md
+cat README_06.md >> README.md; echo " " >> README.md
+cat README_07.md >> README.md; echo " " >> README.md
+cat README_08.md >> README.md; echo " " >> README.md
+cat README_09.md >> README.md; echo " " >> README.md
+cat README_10.md >> README.md; echo " " >> README.md
+cat README_11.md >> README.md; echo " " >> README.md
+
+pandoc README.md -o boek.pdf --toc --toc-depth=1 --highlight-style=tango -V geometry:margin=0.5in
+
+cp boek.pdf ../../Boek/Boek_structuur_zonder_voorpagina.pdf
+
+cd ../../Boek
+pdfunite Boek_voorpagina_2_flow_input_structuur.pdf Boek_structuur_zonder_voorpagina.pdf Boek_2_flow_input_structuur.pdf
+rm Boek_structuur_zonder_voorpagina.pdf
