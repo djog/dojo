@@ -1,7 +1,5 @@
 # Dojo
 
-## LET OP: donderdag 25 mei zijn wij dicht, wegens Hemelvaart
-
 ![DJOG logo](DjogKleiner.png) ![Codestarter logo](CodestarterWebsite.png)
 
 Scratch | [Processing](LessenProcessing/README.md) | [SFML](https://github.com/janderkkotlarski/Cplusplus-with-SFML-course)
@@ -26,7 +24,7 @@ maar je bent ook vrij je eigen weg te kiezen.
  * Kosten per leerling:
    * September t/m december: 20 euro
    * Januari tot en met mei: 20 euro
-   * Juni en juli: 10 euro
+   * Juni en juli: 10 euro (lessen zijn dan op de vrijdag!)
  * Leeftijd: 6-25 jaar
  * Benodigdheden: Het zou fijn zijn als je een laptop met WiFi meeneemt. Maar wij hebben ook wel wat laptops te leen
 
@@ -39,7 +37,6 @@ Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
 
 ## Agenda
 
- * Donderdag 25 mei: geen les, wegens Hemelvaart
  * Zondag 11 juni 12:00-16:00: [Science en Hi-Tech dag](https://github.com/richelbilderbeek/science_en_hi-tech_dag_2017)
  * Donderdag 13 juli 18:30-20:30: Leerlingpresentaties en evaluatie
  * Donderdag 3 augustus 10:00-16:00: Zomerschool voor 35-40 leerlingen van 9-11 jaar
