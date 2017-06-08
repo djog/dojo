@@ -4,7 +4,7 @@ In deze les gaan we een bal naar rechts laten bewegen.
 
 Het ziet er zo uit:
 
-![Bal naar rechts](BalNaarRechts.png)
+![Bal naar rechts](1_bal_naar_rechts_eind.png)
 
 We leren in deze les wat een variabele is.
 Je kunt bijna niet programmeren zonder variabelen.
@@ -151,6 +151,27 @@ void draw()
   x = x - 1;
 }
 ```
+
+## Wat is een variabele?
+
+In de eerste regel gebruiken we een variable:
+
+```c++
+float x = 50;
+```
+
+In mensentaal is dit: 'Lieve computer, onthoud het getal `x`. `x` heeft een beginwaarde van vijftig.'.
+
+Een variabele is iets dat onthouden moet worden. Een kassa onthoudt bijvoorbeeld de hoeveelheid geld
+die alle boodschappen bij elkaar zijn. Variabelen die jij weet, zijn: je naam, je leeftijd, je
+geboortedatum, je adres, je telefoonnummer, je emailadres, en nog veel meer. Als iemand je je leeftijd
+vraagt, dan weet je welk getal je moet zeggen.
+
+Het woord `x` is de naam van een variable. In dit geval van hoe ver de cirkel naar rechts staat.
+Het woord `float` betekent dat 'x' een getal is.
+Het symbool `=` betekent 'wordt vanaf nu'.
+Het getal `50` is de beginwaarde.
+De puntkomma (`;`) geeft het einde van een zin aan (zoals de punt in een Nederlandse tekst).
 
 ## Bal naar onder
 
