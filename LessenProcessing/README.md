@@ -77,3 +77,8 @@ Dit zijn de Processing lessen
 
  * For loop spelen
  * Accolade spelen
+
+## Wat zijn die andere lessen?
+
+ * Lessen die beginnen met `[getal]_` zijn het volgende boek
+   
