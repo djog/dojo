@@ -181,7 +181,8 @@ Haha, deze les heet 'Bal naar rechts', toch gaan we ook een bal naar onder laten
 
  * Verander de naam van de variabele `x` in `y`
  * Laat een bal aan de bovenkant van het scherm beginnen
- * De bal moet in een rechte lijn naar onder gaan
+ * De bal moet 60 pixels naar rechts komen te staan
+ * De bal moet in een rechte lijn naar onder gaan. Tip: de bal staat nu op 50 pixels omlaag
 
 ## Oplossing
 
@@ -195,7 +196,7 @@ void setup()
 
 void draw()
 {
-  ellipse(50,y,50,50);
+  ellipse(60,y,40,40);
   y = y + 1;
 }
 ```
@@ -227,67 +228,9 @@ void draw()
 }
 ```
 
-## Bal groter
-
-Nu gaan we de bal sneller bewegen en groter maken
-
-## Opdracht
-
- * Gebruik als variabele naam `x`
- * Laat een bal aan de linker van het scherm beginnen
- * De bal moet in een rechte lijn naar rechts gaan
- * De bal moet even groot blijven
-
-## Oplossing
-
-```c++
-float x = 50;
-
-void setup()
-{
-  size(600, 400);
-}
-
-void draw()
-{
-  fill(x,x,x);
-  ellipse(x,50,50,50);
-  x = x + 1;
-}
-```
-
-## Bal veranderd van kleur
-
-Nu gaan we de bal een kleur geven met `fill`
-
-## Opdracht
-
- * Gebruik als variabele naam `t` (van tijd) in plaats van `x` of `y`
- * Laat een bal aan de linker van het scherm beginnen
- * De bal moet in een rechte lijn naar rechts gaan
- * De kleur moet van zwart naar wit veranderen
-
-## Oplossing
-
-```c++
-float t = 50;
-
-void setup()
-{
-  size(600, 400);
-}
-
-void draw()
-{
-  fill(t,t,t);
-  ellipse(50,t,50,t);
-  t = t + 1;
-}
-```
-
 ## Eindopdracht
 
  * gebruik een variabele `t` (van tijd)
- * de bal moet snel omlaag en naar rechts gaan
+ * de bal moet schuin naar rechts-omlaag gaan
  * de bal moet groter worden in de breedte en hoogte
- * de kleur moet van zwart naar wit veranderen
+
