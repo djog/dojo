@@ -1,13 +1,11 @@
 # Dojo
 
-## LET OP: donderdag 25 mei zijn wij dicht, wegens Hemelvaart
-
 ![DJOG logo](DjogKleiner.png) ![Codestarter logo](CodestarterWebsite.png)
 
 Scratch | [Processing](LessenProcessing/README.md) | [SFML](https://github.com/janderkkotlarski/Cplusplus-with-SFML-course)
 --- | --- | ---
-![Easy](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Easy.png) | ![Medium](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Medium.png) | ![Difficulty Hard](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Hard.png)
-? | ![SuperBar](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/superBar.png)|![Dark Hypersquare](https://cloud.githubusercontent.com/assets/13890380/9529429/7f52a582-4cfa-11e5-9265-51b4eed9e597.png)
+![Easy](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Easy.png) | ![Medium](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Medium.png) | ![Difficulty Hard](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Hard.png)|
+![scratch](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Scratch.png) | ![SuperBar](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/superBar.png)|![Dark Hypersquare](https://cloud.githubusercontent.com/assets/13890380/9529429/7f52a582-4cfa-11e5-9265-51b4eed9e597.png)
 
 Aan computers vertellen wat ze moeten doen is de kern van programmeren. Wil jij dit ook kunnen? Elke donderdagavond kun je bij de DOJO leren hoe je je eigen interactieve programma's maakt, zoals een échte game! Je kunt programma's leren maken voor PC, maar uiteindelijk ook smartphone of Nintendo DS. Voorkennis is niet nodig.
 
@@ -26,7 +24,7 @@ maar je bent ook vrij je eigen weg te kiezen.
  * Kosten per leerling:
    * September t/m december: 20 euro
    * Januari tot en met mei: 20 euro
-   * Juni en juli: 10 euro
+   * Juni en juli: 10 euro (lessen zijn dan op de vrijdag!)
  * Leeftijd: 6-25 jaar
  * Benodigdheden: Het zou fijn zijn als je een laptop met WiFi meeneemt. Maar wij hebben ook wel wat laptops te leen
 
@@ -39,7 +37,6 @@ Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
 
 ## Agenda
 
- * Donderdag 25 mei: geen les, wegens Hemelvaart
  * Zondag 11 juni 12:00-16:00: [Science en Hi-Tech dag](https://github.com/richelbilderbeek/science_en_hi-tech_dag_2017)
  * Donderdag 13 juli 18:30-20:30: Leerlingpresentaties en evaluatie
  * Donderdag 3 augustus 10:00-16:00: Zomerschool voor 35-40 leerlingen van 9-11 jaar

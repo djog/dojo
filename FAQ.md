@@ -73,11 +73,21 @@ kunnen volgen :-)
 
 ## Welke vrijwilligers zijn er?
 
+### Anton
+
+Anton is een volwassen vrijwilliger. Hij zit met Dagmar in de kantine, waar ze vooral Scratch en Processing geven.
+
 ### [Dagmar](https://github.com/dagmarhofman)
 
 ![dagmarhofman](Images/dagmarhofman.jpg)
 
-Dagmar is een volwassen vrijwilliger. Hij helpt Jorn met Godot.
+Dagmar is een volwassen vrijwilliger. Hij zit met Anton in de kantine, waar ze vooral Scratch en Processing geven.
+
+### [Frode](https://github.com/Modanung)
+
+Frode is een volwassen vrijwilliger. Hij zit met Thijs in het houtlokaal, waar ze vooral Processing en Inkscape geven.
+
+Frode is ook erg handig met 3D tekenen in Blender en 3D games maken in C++ met Urho3D.
 
 ### [Jan](https://github.com/janderkkotlarski)
 
@@ -94,15 +104,15 @@ Jorn is een leerling, gastheer en leraar.
 
 Jorn vangt de nieuwe leerlingen op.
 
-Jorn geeft ook les in de game engine Godot.
-
 ### [Richel](https://github.com/richelbilderbeek)
 
 ![Richel](Images/Richel.png)
 
+Richel is een volwassen vrijwilliger. Hij heeft geen vast lokaal, maar helpt waar het nodig is.
+
 Richel programmeert sinds zijn achtste. Hij is de meest ervaren en belezen programmeur, vooral in C++.
 Richel is vooral geinteresseerd in onderwijs en heeft de lerarenopleiding aan de universiteit afgerond.
-Hij coordineert de Dojo en zal gastlessen geven bij elk van de andere docenten. 
+Hij coordineert de Dojo.
 
 Zijn werk is te zien op [zijn website met meer dan 3900 pagina's](http://richelbilderbeek.nl) en [meer dan 300 GitHub repositories](https://github.com/richelbilderbeek?tab=repositories).
 
@@ -124,7 +134,9 @@ eigen werk verder, laat dat Ruben weten.
 
 ![thijsvb](Images/thijsvb.jpg)
 
-Thijs geeft les in Processing. Ook is Thijs handig met Arduino, te zien aan [de GitHub van de Arduino cursus](https://github.com/richelbilderbeek/ArduinoCourse).
+Thijs is een volwassen vrijwilliger. Hij zit met Frode in het houtlokaal, waar ze vooral Processing en Inkscape geven.
+
+Thijs is ook handig met Arduino, te zien aan [de GitHub van de Arduino cursus](https://github.com/richelbilderbeek/ArduinoCourse). 
 
 # Wat is de missie van de cursus?
 
