@@ -41,3 +41,4 @@ Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
  * Donderdag 13 juli 18:30-20:30: Leerlingpresentaties en evaluatie
  * Donderdag 3 augustus 10:00-16:00: Zomerschool voor 35-40 leerlingen van 9-11 jaar
  * ?18 t/m 22 augustus: Noorderzon
+ * 22 juli 2017 t/m 3 sep 2017: Geen les op donderdag, wel zomervakantielessen op [de Arduinocursus op vrijdag](https://github.com/richelbilderbeek/ArduinoCourse)
