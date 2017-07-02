@@ -4,8 +4,8 @@
 -------------------------------------------------------------------------
 
 Wie: leerlingen van de Dojo
-Wanneer: 15 december 2016
-Hoe laat: 18:30-20:30
+Wanneer: Donderdag 13 juli 2017
+Hoe laat: 18:30-20:15
 Waar: De Jonge Onderzoekers, Dirk Huizingastraat 13
 
 -------------------------------------------------------------------------
@@ -13,15 +13,14 @@ Waar: De Jonge Onderzoekers, Dirk Huizingastraat 13
 -------------------------------------------------------------------------
 18:15-18:30: Inloop (met koffie voor de ouders) (eerder mag ook!)
 18:30-19:00: Voorbereiding && Inleiding
- * deelnemers: @ houtlokaal om presentaties op een computer te zetten
- * ouders: @ kantine, waar Dojo begeleiders vertellen 
-           wat de leerlingen hebben gedaan
-19:00-20:00: Deelnemers laten hun werk zien 
-20:00-20:15: Pauze
-20:15-20:30: Evaluatie 
- * deelnemers: @ houtlokaal met Mr/Mrs X 
- * ouders: @ kantine met begeleiders
-20:30 Klaar!
+ * deelnemers: @ kantine, programma's klaarzetten
+ * ouders: @ houtlokaal, prelude van vrijwilligers
+19:00-19:30: Deelnemers laten hun werk zien 
+19:30-19:45: Pauze
+19:45-20:15: Evaluatie 
+ * deelnemers: @ kantine met Mr/Mrs X 
+ * ouders: @ houtlokaal met begeleiders
+20:15 Klaar!
 -------------------------------------------------------------------------
                                 FAQ
 -------------------------------------------------------------------------
