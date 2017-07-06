@@ -4,7 +4,7 @@
 
 Volgorde | Wie | Wat
 ---|---|---
-0|Carmen|Amino Acid Fighter
+0|Carmen & Jorik|Amino Acid Fighter
 1|Jeroen|Multiplayergame
 2|Jasper & Guus|[Er Is Geen Spel](https://scratch.mit.edu/projects/167684369/)
 3|Daan|[bommenman op de kermis](https://scratch.mid.edu/projects/159529802/)
