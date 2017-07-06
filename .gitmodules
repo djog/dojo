@@ -10,3 +10,6 @@
 [submodule "Leerlingen/Presentatie20170713/Cowboyspel"]
 	path = Leerlingen/Presentatie20170713/Cowboyspel
 	url = https://github.com/suppermannetjejob/Cowboyspel
+[submodule "Leerlingen/Presentatie20170713/eindpresentatie"]
+	path = Leerlingen/Presentatie20170713/eindpresentatie
+	url = https://github.com/bastiansverre/eindpresentatie
