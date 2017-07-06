@@ -1,3 +1,9 @@
 [submodule "Leerlingen/Presentatie20170713/SnoepjesLand"]
 	path = Leerlingen/Presentatie20170713/SnoepjesLand
 	url = https://github.com/modanung/SnoepjesLand
+[submodule "Leerlingen/Presentatie20170713/fidget-spinner"]
+	path = Leerlingen/Presentatie20170713/fidget-spinner
+	url = https://github.com/ruben-bouman/fidget-spinner
+[submodule "Leerlingen/Presentatie20170713/OurGuitarHero"]
+	path = Leerlingen/Presentatie20170713/OurGuitarHero
+	url = https://github.com/jorn600/OurGuitarHero
