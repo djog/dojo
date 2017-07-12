@@ -1,45 +1,33 @@
-/*
-Evaluatie Dojo
-
-Ik kom vooral bij de Dojo om iets te leren 
-[ ] mee eens
-[ ] geen mening
-[ ] niet mee eens
-
-Ik zou willen dat we serieuzer werkten 
-[ ] mee eens
-[ ] geen mening
-[ ] niet mee eens
-
-Op een Dojo avond vind ik de sfeer
-[ ] gezellig
-[ ] gaat wel
-[ ] vervelend
-
-Ik vind dat ik dit seizoen
-[ ] veel geleerd heb
-[ ] een beetje geleerd
-[ ] weinig geleerd heb
-
-Ik vind dat Jan ...
-
-
-
-Ik vind dat Richel ...
-
-
-
-Ik vind dat Thijs ...
-
-
-
-Ik vind goed aan de cursus, dat ...
-
-
-
-Als ik iets aan de cursus mocht veranderen, dan zou ik ...
-
-
-
+/* Evaluatie Dojo 14 juli 2017
+----------------------------------------+---------------------------------------
+Ik vind, dat in de cursus goed gaat ... | Ik vind, dat de cursus beter zou ...
+                                        |                                        
+                                        |                                       
+                                        |                                       
+                                        |                                       
+                                        |                                       
+                                        |                                       
+                                        |                                       
+----------------------------------------+---------------------------------------
+Ik vind, dat Dagmar goed ...            | Ik vind, dat Dagmar beter zou ...
+                                        |                                      
+                                        |                                      
+----------------------------------------+---------------------------------------
+Ik vind, dat Frode goed ...             | Ik vind, dat Frode beter zou ...
+                                        |                                      
+                                        |                                      
+----------------------------------------+---------------------------------------
+Ik vind, dat Jan goed ...               | Ik vind, dat Jan beter zou ...
+                                        |                                      
+                                        |                                      
+----------------------------------------+---------------------------------------
+Ik vind, dat Richel goed ...            | Ik vind, dat Richel beter zou ...
+                                        |                                      
+                                        |                                      
+----------------------------------------+---------------------------------------
+Ik vind, dat Thijs goed ...             | Ik vind, dat Thijs beter zou ...
+                                        |                                      
+                                        |                                      
+----------------------------------------+---------------------------------------
 Ik geef de Dojo dit cijfer (van 1 tot en met 10): 
-*/
+----------------------------------------+-------------------------------------*/
