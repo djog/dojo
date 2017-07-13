@@ -10,6 +10,6 @@ Volgorde | Wie | Wat
 3|Daan|[bommenman op de kermis](https://scratch.mid.edu/projects/159529802/)
 4|Jorn|[Guitar Hero](https://github.com/jorn600/OurGuitarHero)
 5|Bastian|[Spel](https://github.com/bastiansverre/eindpresentatie)
-6|Anastacia, Annika, Anouk, Priscilla, Sharissa & Sharona|[SnoepjesLand](https://github.com/modanung/SnoepjesLand)
+6|Anastacia, Annika, Anouk, Priscilla, Charissa & Sharona|[SnoepjesLand](https://github.com/modanung/SnoepjesLand)
 7|Aik & Job|[Cowboyspel](https://github.com/suppermannetjejob/Cowboyspel)
 8|Ruben|[Fidget Spinner](https://github.com/ruben-bouman/fidget-spinner)
