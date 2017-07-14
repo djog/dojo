@@ -165,6 +165,9 @@ float x = 50;
 
 In mensentaal is dit: 'Lieve computer, onthoud het getal `x`. `x` heeft een beginwaarde van vijftig.'.
 
+:computer: `float x = 50;`
+:smiley: 'Lieve computer, onthoud het getal `x`. `x` heeft een beginwaarde van vijftig.'
+
 Een variabele is iets dat onthouden moet worden. Een kassa onthoudt bijvoorbeeld de hoeveelheid geld
 die alle boodschappen bij elkaar zijn. Variabelen die jij weet, zijn: je naam, je leeftijd, je
 geboortedatum, je adres, je telefoonnummer, je emailadres, en nog veel meer. Als iemand je je leeftijd
