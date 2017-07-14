@@ -169,13 +169,29 @@ In mensentaal is dit: 'Lieve computer, onthoud het getal `x` met een beginwaarde
 :-------------:|:----------------------------------------: 
 `float x = 50;`|'Lieve computer, onthoud het getal `x` met een beginwaarde van vijftig.'
 
-Een variabele is iets dat onthouden moet worden. Een kassa onthoudt bijvoorbeeld de hoeveelheid geld
-die alle boodschappen bij elkaar zijn. Variabelen die jij weet, zijn: je naam, je leeftijd, je
-geboortedatum, je adres, je telefoonnummer, je emailadres, en nog veel meer. Als iemand je je leeftijd
-vraagt, dan weet je welk getal je moet zeggen.
+Een variabele is een stukje computergeheugen met een naam. 
+De computer kan aan die naam bepalen waar in het geheugen hij moet kijken.
+Dit lijkt een beetje zoals jouw achternaam in het telefoonboek staat.
+
+![Het geheugen van een computer](BalNaarRechtsGeheugen.jpg)
+  
+Variabelen die jij weet, zijn: je naam, je leeftijd, je
+geboortedatum, je adres, je telefoonnummer, je emailadres, en nog veel meer. 
+Als iemand je je leeftijd vraagt, dan weet je welk getal je moet zeggen.
+
+![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
+:-------------:|:----------------------------------------: 
+`geld`|'Lieve computer, zeg hoeveel geld ik op de bank heb.'
+`1000000`|
+
+Terug naar de eerste regel van onze code:
+
+```c++
+float x = 50;
+```
 
 Het woord `x` is de naam van een variable. In dit geval van hoe ver de cirkel naar rechts staat.
-Het woord `float` betekent dat 'x' een getal is.
+Het woord `float` betekent dat 'x' een (komma)getal is.
 Het symbool `=` betekent 'wordt vanaf nu'.
 Het getal `50` is de beginwaarde.
 De puntkomma (`;`) geeft het einde van een zin aan (zoals de punt in een Nederlandse tekst).
@@ -185,7 +201,7 @@ De puntkomma (`;`) geeft het einde van een zin aan (zoals de punt in een Nederla
 ![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
 :-------------:|:----------------------------------------: 
 `float`|'Een komma getal'
-`=`|'wordt vanaf nu'
+`=`|'is vanaf nu'
 `;`|'.'
 
 ## Bal naar onder
