@@ -2,19 +2,14 @@
 
 In deze les gaan we een bal eeuwig naar rechts laten gaan.
 
-Het ziet er zo uit:
-
-![Bal die eeuwig naar rechts gaat 1](BalEeuwigNaarRechts1.png)
-
-![Bal die eeuwig naar rechts gaat 2](BalEeuwigNaarRechts2.png)
-
 We leren in deze les wat `if`-statement is.
 Je kunt (bijna) niet programmeren zonder `if`-statements.
 
-## Wat weten we al?
+## Een `if`-statement
 
-Als je de vorige lessen hebt gedaan, weet
-je wat deze code doet:
+![Verkleurende bal naar rechts](BalEeuwigNaarRechtsIntro.png)
+
+Dit is een verkleurende bal die naar rechts gaat:
 
 ```c++
 float x = 50;
@@ -26,19 +21,13 @@ void setup()
 
 void draw()
 {
-  ellipse(x,50,50,50);
+  ellipse(x, 50, 50, 50);
+  fill(x, 255, 255);
   x = x + 1;
 }
 ```
 
-## Vragen 
-
- * Wat doet dit programma?
- * In welke richting beweegt de ovaal
- * Blijft de ovaal zichtbaar op het scherm?
- * Kopieer de code en bekijk het programma. Klopt wat je dacht?
-
-## Een `if`-statement
+Nadeel: de bal komt nooit meer terug in het scherm.
 
 We willen kunnen zeggen: 'Lieve computer, *als* de bal te ver naar rechts is, dan teleporteer je de bal naar rechts'. `if` is Engels voor 'als'.
 
@@ -51,22 +40,22 @@ if (x > 200)
 }
 ```
 
-Dit betekent:
+Het tekentje `>` betekent 'groter dan'. Preciezer zeg je: 'Lieve computer, *als* x meer is dan 200, zet x dat op 100'. `if` is Engels voor 'als'.
 
- * `if`: begin van een if statement. Een if-statement heeft dan twee gedeeltes:
-   * `()`: tussen de ronde haken staat een test; iets wat waar of niet waar is
-   * `{}`: tussen de accolades staat wat de computer moet doen als de test waar is
- * `x > 200`: dit staat tussen de ronde haken. Dit is de test 'x is groter dan 200'. Het `>` tekentje betekent 'groter dan'
- * `x = 100`: dit staat tussen de accolades. Als 'x is groter dan 200' waar is, dan krijgt `x` de waarde 100
+![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
+:-------------:|:----------------------------------------: 
+`if (x > 200) { }`|'Lieve computer, als `x` groter is dan 200, doe dan wat tussen accolades staat.'
+`x = 100;`|'Lieve computer, stop het getal `100` in `x`.'
 
-Preciezer zeg je: 'Lieve computer, *als* x meer is dan 200, zet x dat op 100'. `if` is Engels voor 'als'.
+## Opdracht 1
 
-## Vragen
+![Opdracht 1](BalEeuwigNaarRechts1.png)
 
- * Kopieer het `if`-statement tussen de accolades van de `draw` functie
- * Wat doet het programma?
+Zet de `if` tussen de code van het programma. Zet de `if` aan het eind van `draw`, voor de accolade sluiten (`}`).
 
-Als het kopieren niet is gelukt, gebruik dan deze code:
+## Oplossing 1
+
+De code wordt dan:
 
 ```c++
 float x = 50;
@@ -87,20 +76,52 @@ void draw()
 }
 ```
 
- * Kun je ervoor zorgen dat de ovaal helemaal naar de linkerkant van het scherm springt?
- * Kun je ervoor zorgen dat de ovaal helemaal naar rechst beweegt, voordat deze naar de linkerkant van het scherm springt?
+## Opdracht 2
 
+![Opdracht 2](BalEeuwigNaarRechts2.png)
 
-## Antwoord
+Zorg ervoor dat de ovaal helemaal naar de linkerkant van het scherm springt
 
-Dit is een eeuwig naar rechts gaande bal:
+## Oplossing 2
+
+ * Verander `float x = 50` naar `float x = 0` of `float x = -50`: allebei is goed.
+ * Verander `x = 100` naar `x = 0` of `x = -50`: allebei is goed.
+
+```c++
+float x = 50;
+
+void setup()
+{
+  size(600, 400);
+}
+
+void draw()
+{
+  ellipse(x,100,100,100);
+  x = x + 1;
+  if (x > 200)
+  {
+    x = 0;
+  }
+}
+```
+
+## Opdracht 3
+
+![Opdracht 3](BalEeuwigNaarRechts3.png)
+
+Zorg ervoor dat de ovaal helemaal naar rechts beweegt, voordat deze naar de linkerkant van het scherm springt
+
+## Oplossing 3
+
+Verander `if (x > 200)` naar `if (x > 650)`.
 
 ```c++
 float x = -50;
 
 void setup()
 {
-  size(600, 100);
+  size(600, 400);
 }
 
 void draw()
@@ -109,12 +130,10 @@ void draw()
   x = x + 1;
   if (x > 650)
   {
-    x = -50;
+    x = 0;
   }
 }
 ```
-
-Het lijkt al een beetje op [Lonelier Pong](https://github.com/richelbilderbeek/LonelierPong). Dit is geen toeval :-)
 
 ## Bal die eeuwig naar links gaat
 
@@ -135,7 +154,13 @@ if (x < 100)
 Hiermee zeg je: 'Lieve computer, als `x` kleiner (`<`, hier kun je een `k` van maken) is dan honderd,
 zet dan `x` op vijfhonderd.
 
-## Opdracht
+![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
+:-------------:|:----------------------------------------: 
+`if (x < 100) { }`|'Lieve computer, als `x` kleiner is dan 100, doe dan wat tussen accolades staat.'
+
+## Opdracht 4
+
+![Opdracht 4](BalEeuwigNaarRechts4.png)
 
 Maak een bal die eeuwig naar links gaat:
 
@@ -143,7 +168,7 @@ Maak een bal die eeuwig naar links gaat:
  * De bal gaat helemaal het beeld uit
  * Als de bal net uit het beeld uit, komt 'ie meteen de andere kant weer binnen
 
-## Antwoord
+## Antwoord 4
 
 Dit is een eeuwig naar links gaande bal:
 
@@ -152,7 +177,7 @@ float x = 650;
 
 void setup()
 {
-  size(600, 100);
+  size(600, 400);
 }
 
 void draw()
@@ -166,13 +191,18 @@ void draw()
 }
 ```
 
+![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
+:-------------:|:----------------------------------------: 
+`x = x - 1`|'Lieve computer, maak `x` een lager.'
+
+
 ## Bal die eeuwig omlaag gaat
 
 We hebben een bal naar rechts en naar links laten bewegen door de `x` coordinaat
 te veranderen. De bal kan ook naar omlaag en omhoog gaan door de `y` coordinaat
 te veranderen.
 
-## Opdracht
+## Opdracht 5
 
 Schrijf een programma waarin een bal eeuwig omlaag gaat:
 
@@ -181,7 +211,7 @@ Schrijf een programma waarin een bal eeuwig omlaag gaat:
  * vervang de code `ellipse(x,50,100,00)` door `elllipse(50,y,100,100)`
  * als de bal omlaag uit het scherm gaat, moet de bal weer bovenin komen
 
-## Oplossing
+## Oplossing 5
 
 ```c++
 float y = -50;

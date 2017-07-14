@@ -60,6 +60,10 @@ void draw()
 }
 ```
 
+![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
+:-------------:|:----------------------------------------: 
+`size(800, 400);`|'Lieve computer, maak een venster van 800 pixels wijd en 400 pixels hoog.'
+
 ### Opdracht 2
 
 ![Opdracht 2](BalNaarRechtsRondeBal.png)
@@ -84,6 +88,10 @@ void draw()
   x = x + 1;
 }
 ```
+
+![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
+:-------------:|:----------------------------------------: 
+`ellipse(x,50,40,30);`|'Lieve computer, teken een ovaal `x` pixels naar rechts, 50 pixels omlaag, die 40 pixels wijd en 30 pixels hoog is.'
 
 ## Opdracht 3
 
@@ -110,6 +118,9 @@ void draw()
 }
 ```
 
+![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
+:-------------:|:----------------------------------------: 
+`x = x + 1;`|'Lieve computer, maak `x` een hoger.'
 
 ## Opdracht 4
 
@@ -135,6 +146,10 @@ void draw()
   x = x + 2;
 }
 ```
+
+![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
+:-------------:|:----------------------------------------: 
+`void setup() { }`|'Lieve computer, doe wat tussen accolades staat een keer.'
 
 ## Bal naar links
 
@@ -165,6 +180,10 @@ void draw()
   x = x - 1;
 }
 ```
+
+![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
+:-------------:|:----------------------------------------: 
+`void draw() { }`|'Lieve computer, doe de hele tijd wat tussen accolades staat.'
 
 ## Wat is een variabele?
 

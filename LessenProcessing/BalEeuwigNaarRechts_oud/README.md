@@ -1,4 +1,4 @@
-# Verkleurende bal die eeuwig naar rechts gaat
+# Bal die eeuwig naar rechts gaat
 
 In deze les gaan we een bal eeuwig naar rechts laten gaan.
 
@@ -11,9 +11,10 @@ Het ziet er zo uit:
 We leren in deze les wat `if`-statement is.
 Je kunt (bijna) niet programmeren zonder `if`-statements.
 
-## Een `if`-statement
+## Wat weten we al?
 
-Dit is een verkleurende bal die naar rechts gaat:
+Als je de vorige lessen hebt gedaan, weet
+je wat deze code doet:
 
 ```c++
 float x = 50;
@@ -26,12 +27,18 @@ void setup()
 void draw()
 {
   ellipse(x,50,50,50);
-  fill(x, 255, 255);
   x = x + 1;
 }
 ```
 
-Nadeel: de bal komt nooit meer terug in het scherm.
+## Vragen 
+
+ * Wat doet dit programma?
+ * In welke richting beweegt de ovaal
+ * Blijft de ovaal zichtbaar op het scherm?
+ * Kopieer de code en bekijk het programma. Klopt wat je dacht?
+
+## Een `if`-statement
 
 We willen kunnen zeggen: 'Lieve computer, *als* de bal te ver naar rechts is, dan teleporteer je de bal naar rechts'. `if` is Engels voor 'als'.
 
@@ -44,15 +51,22 @@ if (x > 200)
 }
 ```
 
-Het tekentje `>` betekent 'groter dan'. Preciezer zeg je: 'Lieve computer, *als* x meer is dan 200, zet x dat op 100'. `if` is Engels voor 'als'.
+Dit betekent:
 
-## Opdracht
+ * `if`: begin van een if statement. Een if-statement heeft dan twee gedeeltes:
+   * `()`: tussen de ronde haken staat een test; iets wat waar of niet waar is
+   * `{}`: tussen de accolades staat wat de computer moet doen als de test waar is
+ * `x > 200`: dit staat tussen de ronde haken. Dit is de test 'x is groter dan 200'. Het `>` tekentje betekent 'groter dan'
+ * `x = 100`: dit staat tussen de accolades. Als 'x is groter dan 200' waar is, dan krijgt `x` de waarde 100
 
-Zet de `if` tussen de code van het programma. Ze de `if` aan het eind van `draw`, voor de accolade sluiten (`}`).
+Preciezer zeg je: 'Lieve computer, *als* x meer is dan 200, zet x dat op 100'. `if` is Engels voor 'als'.
 
-## Oplossing
+## Vragen
 
-De code wordt dan:
+ * Kopieer het `if`-statement tussen de accolades van de `draw` functie
+ * Wat doet het programma?
+
+Als het kopieren niet is gelukt, gebruik dan deze code:
 
 ```c++
 float x = 50;
@@ -73,48 +87,20 @@ void draw()
 }
 ```
 
-## Opdracht
+ * Kun je ervoor zorgen dat de ovaal helemaal naar de linkerkant van het scherm springt?
+ * Kun je ervoor zorgen dat de ovaal helemaal naar rechst beweegt, voordat deze naar de linkerkant van het scherm springt?
 
-Zorg ervoor dat de ovaal helemaal naar de linkerkant van het scherm springt
 
-## Oplossing
+## Antwoord
 
- * Verander `float x = 50` naar `float x = 0` of `float x = -50`: allebei is goed.
- * Verander `x = 100` naar `x = 0` of `x = -50`: allebei is goed.
-
-```c++
-float x = 50;
-
-void setup()
-{
-  size(600, 400);
-}
-
-void draw()
-{
-  ellipse(x,100,100,100);
-  x = x + 1;
-  if (x > 200)
-  {
-    x = 0;
-  }
-}
-```
-
-## Opdracht
-
-Zorg ervoor dat de ovaal helemaal naar rechts beweegt, voordat deze naar de linkerkant van het scherm springt
-
-## Oplossing
-
-Verander `if (x > 200)` naar `if (x > 650)`.
+Dit is een eeuwig naar rechts gaande bal:
 
 ```c++
 float x = -50;
 
 void setup()
 {
-  size(600, 400);
+  size(600, 100);
 }
 
 void draw()
@@ -123,10 +109,12 @@ void draw()
   x = x + 1;
   if (x > 650)
   {
-    x = 0;
+    x = -50;
   }
 }
 ```
+
+Het lijkt al een beetje op [Lonelier Pong](https://github.com/richelbilderbeek/LonelierPong). Dit is geen toeval :-)
 
 ## Bal die eeuwig naar links gaat
 
@@ -164,7 +152,7 @@ float x = 650;
 
 void setup()
 {
-  size(600, 400);
+  size(600, 100);
 }
 
 void draw()
