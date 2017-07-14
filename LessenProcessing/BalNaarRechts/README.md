@@ -35,13 +35,15 @@ Als alles goed gaat, zie je een bal die naar rechts beweegt (zie figuur `Een bal
 
 ![Een bal die naar rechts beweegt](BalNaarRechtsRun.png)
 
-### Opdracht
+### Opdracht 1
 
- 1. Het scherm is nu 600 pixels breed. Kun je deze 800 pixels breed krijgen? Verander de code en druk op 'Run'
+![Opdracht 1](BalNaarRechts800PixelsBreed.png)
 
-### Oplossing
+Het scherm is nu 600 pixels breed. Kun je deze 800 pixels breed krijgen? Verander de code en druk op 'Run'.
 
- 1. Er zit een `600` in de code. Deze naar `800` veranderen is genoeg:
+### Oplossing 1
+
+Er zit een `600` in de code. Deze naar `800` veranderen is genoeg:
 
 ```c++
 float x = 60;
@@ -58,13 +60,15 @@ void draw()
 }
 ```
 
-### Opdracht
+### Opdracht 2
 
- 1. De bal is nu een ellips- is niet rond, maar ovaal. Maak deze rond. Hint: de bal is nu 40 pixels breed en 30 pixels hoog
+![Opdracht 2](BalNaarRechtsRondeBal.png)
 
-### Oplossing
+De bal is nu een ellips- is niet rond, maar ovaal. Maak deze rond. Hint: de bal is nu 40 pixels breed en 30 pixels hoog
 
- 1. `ellipse(x,50,40,30);` tekent de bal. De `40,30` zorgt ervoor dat de bal niet rond is. Door dit `40,40` of `30,30` te maken, wordt de bal rond:
+### Oplossing 2
+
+`ellipse(x,50,40,30);` tekent de bal. De `40,30` zorgt ervoor dat de bal niet rond is. Door dit `40,40` of `30,30` te maken, wordt de bal rond:
 
 ```c++
 float x = 60;
@@ -81,13 +85,15 @@ void draw()
 }
 ```
 
-## Opdracht
+## Opdracht 3
 
- 1. De bal gaat nu met een snelheid van 1 pixel per keer naar rechts. Laat de bal twee keer zo snel naar rechts gaan
+![Opdracht 3](BalNaarRechtsSnel.png)
 
-## Oplossing
+De bal gaat nu met een snelheid van 1 pixel per keer naar rechts. Laat de bal twee keer zo snel naar rechts gaan
 
- 1. `x = x + 1;` beweegt de bal. Verander dit naar `x = x + 2;`. De code wordt dan:
+## Oplossing 3
+
+`x = x + 1;` beweegt de bal. Verander dit naar `x = x + 2;`. De code wordt dan:
 
 ```c++
 float x = 60;
@@ -104,13 +110,16 @@ void draw()
 }
 ```
 
-## Opdracht
 
- 1. In het begin zit het midden van de bal 60 pixels naar rechts. Kun je de cirkel ook 0 pixels naar rechts laten beginnen?
+## Opdracht 4
 
-## Oplossing
+![Opdracht 4](BalNaarRechtsVanafRechts.png)
 
- 1. `float x = 60;` bepaalt dit. Verander dit naar `float x = 0;`. De code wordt dan:
+In het begin zit het midden van de bal 60 pixels naar rechts. Kun je de cirkel ook 0 pixels naar rechts laten beginnen?
+
+## Oplossing 4
+
+`float x = 60;` bepaalt dit. Verander dit naar `float x = 0;`. De code wordt dan:
 
 ```c++
 float x = 0;
@@ -131,14 +140,16 @@ void draw()
 
 Haha, deze les heet 'Bal naar rechts', toch gaan we ook een bal naar links laten bewegen!
 
-## Opdracht
+## Opdracht 5
 
- 1. Laat de bal nu aan de rechterkant van het scherm beginnen en naar links gaan
+![Opdracht 5](BalNaarRechtsNaarLinks.png)
 
-## Oplossing
+Laat de bal nu aan de rechterkant van het scherm beginnen en naar links gaan
 
- 1. Om de bal aan de rechtkant te krijgen moet je `float x = 500;` gebruiken (of een ander hoog getal).
-    Om de bal naar links te laten bewegen, moet je `x = x - 1;` gebruiken. De code wordt dan:
+## Oplossing 5
+
+Om de bal aan de rechtkant te krijgen moet je `float x = 500;` gebruiken (of een ander hoog getal).
+Om de bal naar links te laten bewegen, moet je `x = x - 1;` gebruiken. De code wordt dan:
 
 ```c++
 float x = 500;
@@ -208,14 +219,16 @@ De puntkomma (`;`) geeft het einde van een zin aan (zoals de punt in een Nederla
 
 Haha, deze les heet 'Bal naar rechts', toch gaan we ook een bal naar onder laten bewegen!
 
-## Opdracht
+## Opdracht 6
+
+![Opdracht 6](BalNaarRechtsOmlaag.png)
 
  * Verander de naam van de variabele `x` in `y`
  * Laat een bal aan de bovenkant van het scherm beginnen
  * De bal moet 60 pixels naar rechts komen te staan
  * De bal moet in een rechte lijn naar onder gaan. Tip: de bal staat nu op 50 pixels omlaag
 
-## Oplossing
+## Oplossing 6
 
 ```c++
 float y = 50;
@@ -236,16 +249,18 @@ void draw()
 
 Nu gaan we de bal sneller en omhoog laten bewegen
 
-## Opdracht
+## Opdracht 7
+
+![Opdracht 7](BalNaarRechtsOmhoog.png)
 
  * Laat een bal aan de onderkant van het scherm beginnen
  * De bal moet in een rechte lijn naar boven gaan
  * De bal moet twee keer zo snel gaan
 
-## Oplossing
+## Oplossing 7
 
 ```c++
-float y = 50;
+float y = 300;
 
 void setup()
 {
@@ -261,9 +276,9 @@ void draw()
 
 ## Eindopdracht
 
+![Eindopdracht 'Bal naar rechts'](BalNaarRechtsEind.png)
+
  * gebruik een variabele `t` (van tijd)
  * de bal moet schuin naar rechts-omlaag gaan
  * de bal moet groter worden in de breedte en hoogte
  * zie ook figuur `Eindopdracht 'Bal naar rechts'`
-
-![Eindopdracht 'Bal naar rechts'](BalNaarRechtsEind.png)
