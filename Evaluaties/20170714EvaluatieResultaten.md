@@ -1,5 +1,7 @@
 # Evaluatie 14 juni 2017
 
+## Papieren evaluatie
+
 Ik vind dat in de cursus goed gaat ...
  * 3x ja
  * 3x les geven
@@ -192,3 +194,30 @@ Ik geef de Dojo dit cijfer (van 1 tot en met 10):
  * 9
 
 Gemiddeld: 8.80714214285714
+
+## Gesproken evaluatie
+
+Jongste groep:
+
+ * Graag 1 club
+ * Niet iedereen gebruikt het boek
+ * Boek is makkelijk 
+ * Liever wat anders dan fruit, bijvoorbeeld snoep
+ * Stilteklas geen goed idee: graag 1 club
+
+Oudere groep:
+ * Kinderen die dat rustig kunnen mogen hier komen werken
+ * Stilteklas is niet nodig voor deze groep
+
+## Ideeen Richel
+
+Deze ideeen moeten nog besproken worden met de rest van het team.
+
+ * Het zou misschien goed zijn de groep een groep te maken: de kantine voor gezellig samen werken, het aquarium voor rustig werken 
+ * De kids willen snoep, terwijl ze waarschijnlijk niet zien waarom we dit hebben afgeschaft. Een reden: het werd een wedstrijd om als eerste de meeste snoep te kopen. Ik hoop dat we met fruitmanden blijven werken
+ * De kids zijn het tevreden over de vrijwilligers, vooral over hen die er langer zijn
+ * De kids hebben er last van als de WiFi het niet doet. Hier is volgens mij niks aan te doen
+ * Misschien wat herformuleringen en of nieuwe regels: 
+    * Koptelefoon op betekent 'Ik wil even niet gestoord worden'
+    * Kinderen mogen altijd op het schoolplein gaan spelen. Dit is een manier om te zien welke leerlingen voor programmeren en welke voor de gezelligheid komen
+
