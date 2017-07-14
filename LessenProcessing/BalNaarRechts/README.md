@@ -163,11 +163,11 @@ In de eerste regel gebruiken we een variable:
 float x = 50;
 ```
 
-In mensentaal is dit: 'Lieve computer, onthoud het getal `x`. `x` heeft een beginwaarde van vijftig.'.
+In mensentaal is dit: 'Lieve computer, onthoud het getal `x` met een beginwaarde van vijftig.'.
 
 ![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
 :-------------:|:----------------------------------------: 
-`float x = 50;`|'Lieve computer, onthoud het getal `x`. `x` heeft een beginwaarde van vijftig.'
+`float x = 50;`|'Lieve computer, onthoud het getal `x` met een beginwaarde van vijftig.'
 
 Een variabele is iets dat onthouden moet worden. Een kassa onthoudt bijvoorbeeld de hoeveelheid geld
 die alle boodschappen bij elkaar zijn. Variabelen die jij weet, zijn: je naam, je leeftijd, je
@@ -179,6 +179,14 @@ Het woord `float` betekent dat 'x' een getal is.
 Het symbool `=` betekent 'wordt vanaf nu'.
 Het getal `50` is de beginwaarde.
 De puntkomma (`;`) geeft het einde van een zin aan (zoals de punt in een Nederlandse tekst).
+
+![Uitleg van `float x = 50;`](BalNaarRechtsVariabele.png)
+
+![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
+:-------------:|:----------------------------------------: 
+`float`|'Een komma getal'
+`=`|'wordt vanaf nu'
+`;`|'.'
 
 ## Bal naar onder
 
