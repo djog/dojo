@@ -165,8 +165,8 @@ float x = 50;
 
 In mensentaal is dit: 'Lieve computer, onthoud het getal `x`. `x` heeft een beginwaarde van vijftig.'.
 
-![Computer](EmojiComputer.png)|![Smiley](EmojiSmiley.png)
----------------|------------------------------------------------------------------------------- 
+![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
+:-------------:|:----------------------------------------: 
 `float x = 50;`|'Lieve computer, onthoud het getal `x`. `x` heeft een beginwaarde van vijftig.'
 
 Een variabele is iets dat onthouden moet worden. Een kassa onthoudt bijvoorbeeld de hoeveelheid geld
