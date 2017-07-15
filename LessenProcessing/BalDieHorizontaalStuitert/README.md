@@ -2,18 +2,13 @@
 
 In deze les gaan we een bal horizontaal laten stuiteren.
 
-Het ziet er zo uit:
+We gaan in deze les een ingewikkeldere beweging doen. 
 
-![Bal die horizontaal stuitert (zie 'dojo/Images/BalDieHorizontaalStuitertGif')](BalDieHorizontaalStuitert.png)
-
-We gaan in deze les twee variabelen en twee `if`-statements gebruiken. 
-
-## Wat weten we al?
-
-Dit is een eeuwig naar rechts gaande bal:
+## Een bal met een snelheid
 
 ```c++
 float x = 300;
+float snelheid = 2;
 
 void setup()
 {
@@ -23,7 +18,7 @@ void setup()
 void draw()
 {
   ellipse(x,50,100,100);
-  x = x + 1;
+  x = x + snelheid;
   if (x > 650)
   {
     x = -50;
@@ -31,28 +26,19 @@ void draw()
 }
 ```
 
-## Vragen 
+## Opdracht 1
 
- * Wat doet dit programma?
- * In welke richting beweegt de ovaal?
- * Blijft de ovaal zichtbaar op het scherm?
- * Kopieer de code en bekijk het programma. Klopt wat je dacht?
- * Verander het programma: laat de bal nu eeuwig naar links gaan
+Type de code van `Een bal met een snelheid` over. 
+Zet de waarde van `snelheid` op `1`. Wat zie je?
 
-## Twee variabelen
+## Antwoord
 
-Nu onthoudt de computer een variabele: de x-coordinaat van de ovaal.
-Om een bal te laten stuiteren, moet er ook een richting onthouden worden:
-de bal gaat immers of naar links of naar rechts.
-
-In deze code wordt de richting van de bal `dx` genoemd. Dit is een afkorting
-van 'delta x' en dat is weer wiskundetaal voor 'de verandering van x'.
-
-## Vragen
+Je ziet dat de bal rusig naar rechts beweegt. Als de bal
+rechts het beeld uit gaat, komt deze vanaf links weer in het beeldscherm.
 
 ```c++
 float x = 300;
-float dx = 2;
+float snelheid = 1;
 
 void setup()
 {
@@ -62,7 +48,7 @@ void setup()
 void draw()
 {
   ellipse(x,50,100,100);
-  x = x + dx;
+  x = x + snelheid;
   if (x > 650)
   {
     x = -50;
@@ -70,12 +56,81 @@ void draw()
 }
 ```
 
- * In welke richting beweegt de bal? 
- * Hoeveel pixels beweegt de bal per keer?
- * Zet de waarde van `dx` op `1`. Wat zie je?
- * Zet de waarde van `dx` op `0`. Wat zie je?
- * Zet de waarde van `dx` op `-1`. Wat zie je?
- * Bij sommige waarden van `dx` gaat de bal links het beeld uit. Maak een tweede if-statement, die ervoor zorgt dat de bal eeuwig links kan gaan. 
+![Oplossing 1](BalDieHorizontaalStuitert1.png)
+
+## Opdracht 2
+
+Zet de waarde van `snelheid` op `0`. Wat zie je?
+
+## Antwoord 2
+
+De bal staat nu stil
+
+```c++
+float x = 300;
+float snelheid = 0;
+
+void setup()
+{
+  size(600, 100);
+}
+
+void draw()
+{
+  ellipse(x,50,100,100);
+  x = x + snelheid;
+  if (x > 650)
+  {
+    x = -50;
+  }
+}
+```
+
+![Oplossing 2](BalDieHorizontaalStuitert2.png)
+
+## Opdracht 3
+
+Zet de waarde van `snelheid` op `-1`. Wat zie je?
+
+:sunglasses:
+
+![Sunglasses](EmojiSunglasses.png) | Het getal `-1` spreek je uit als 'min een'. Het is het getal een lager dan nul
+
+
+## Antwoord 3
+
+De bal gaat nu naar links en komt niet meer in beeld.
+
+```c++
+float x = 300;
+float snelheid = -1;
+
+void setup()
+{
+  size(600, 100);
+}
+
+void draw()
+{
+  ellipse(x,50,100,100);
+  x = x + snelheid;
+  if (x > 650)
+  {
+    x = -50;
+  }
+}
+```
+
+![Oplossing 2](BalDieHorizontaalStuitert2.png)
+
+
+
+
+
+
+ * Zet de waarde van `snelheid` op `0`. Wat zie je?
+ * Zet de waarde van `snelheid` op `-1`. Wat zie je?
+ * Bij sommige waarden van `snelheid` gaat de bal links het beeld uit. Maak een tweede if-statement, die ervoor zorgt dat de bal eeuwig links kan gaan. 
    Test dit bij een `dx` van `2`, `0` en `-2`.
  * Wat moet er met de `dx` gebeuren om de bal te laten stuiteren? Probeer dit!
 
