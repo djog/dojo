@@ -9,7 +9,7 @@ Je kunt (bijna) niet programmeren zonder `if`-statements.
 
 ![Verkleurende bal naar rechts](BalEeuwigNaarRechtsIntro.png)
 
-Dit is een verkleurende bal die naar rechts gaat:
+Dit is een bal die naar rechts gaat:
 
 ```c++
 float x = 50;
@@ -22,14 +22,14 @@ void setup()
 void draw()
 {
   ellipse(x, 50, 50, 50);
-  fill(x, 255, 255);
   x = x + 1;
 }
 ```
 
 Nadeel: de bal komt nooit meer terug in het scherm.
 
-We willen kunnen zeggen: 'Lieve computer, *als* de bal te ver naar rechts is, dan teleporteer je de bal naar rechts'. `if` is Engels voor 'als'.
+We willen kunnen zeggen: 'Lieve computer, *als* de bal te ver naar rechts is, 
+dan teleporteer je de bal naar rechts'. `if` is Engels voor 'als'.
 
 Zo zou dit kunnen:
 
@@ -41,6 +41,8 @@ if (x > 200)
 ```
 
 Het tekentje `>` betekent 'groter dan'. Preciezer zeg je: 'Lieve computer, *als* x meer is dan 200, zet x dat op 100'. `if` is Engels voor 'als'.
+
+![Een `if`](BalEeuwigNaarRechtsIf.png)
 
 ![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
 :-------------:|:----------------------------------------: 
@@ -182,7 +184,7 @@ void setup()
 
 void draw()
 {
-  ellipse(x,50,100,100);
+  ellipse(x, 50, 100, 100);
   x = x - 1;
   if (x < -50)
   {
@@ -194,6 +196,9 @@ void draw()
 ![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
 :-------------:|:----------------------------------------: 
 `x = x - 1`|'Lieve computer, maak `x` een lager.'
+`x -= 1`|'Lieve computer, maak `x` een lager.'
+`x--`|'Lieve computer, maak `x` een lager.'
+`--x`|'Lieve computer, maak `x` een lager.'
 
 
 ## Bal die eeuwig omlaag gaat
@@ -204,11 +209,13 @@ te veranderen.
 
 ## Opdracht 5
 
+![Opdracht 5](BalEeuwigNaarRechts5.png)
+
 Schrijf een programma waarin een bal eeuwig omlaag gaat:
 
  * maak het scherm 300 pixels breed en 200 pixels hoog
  * gebruik een variable met naam `y`
- * vervang de code `ellipse(x,50,100,00)` door `elllipse(50,y,100,100)`
+ * vervang de code `ellipse(x, 50, 100, 100)` door `elllipse(50, y, 100, 100)`
  * als de bal omlaag uit het scherm gaat, moet de bal weer bovenin komen
 
 ## Oplossing 5
@@ -242,12 +249,14 @@ Als we code samenvoegen, gelden de volgende regels:
  * alles wat binnen de `setup` functie staat, moet binnen de `setup` functie blijven
  * alles wat binnen de `draw` functie staat, moet binnen de `draw` functie blijven
 
-## Opdracht 
+## Opdracht 6
+
+![Opdracht 6](BalEeuwigNaarRechts6.png)
 
  * Voeg de code van 'Bal die eeuwig naar rechts gaat' samen met 'Bal die eeuwig omlaag gaat'
  * Verander de code zo dat de bal schuin gaat
 
-## Oplossing
+## Oplossing 6
 
 ```c++
 float x = -50;
@@ -275,5 +284,7 @@ void draw()
 ```
 
 ## Eindopdracht
+
+![Eindopdracht `Bal Eeuwig Naar Rechts`](BalEeuwigNaarRechtsEindopdracht.png)
 
 Laat de bal nu eeuwig schuin naar linksonder gaan.

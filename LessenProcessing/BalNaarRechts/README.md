@@ -121,6 +121,9 @@ void draw()
 ![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
 :-------------:|:----------------------------------------: 
 `x = x + 1;`|'Lieve computer, maak `x` een hoger.'
+`x += 1;`|'Lieve computer, maak `x` een hoger.'
+`x++;`|'Lieve computer, maak `x` een hoger.'
+`++x;`|'Lieve computer, maak `x` een hoger.'
 
 ## Opdracht 4
 
