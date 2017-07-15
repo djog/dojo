@@ -11,13 +11,19 @@ Dit zijn de Processing lessen
  * [Processing opstarten op cursus laptop](./ProcessingOpstartenOpCursusLaptop/README.md)
  * [Processing installeren op Linux](./ProcessingInstallerenOpLinux/README.md)
  * [Processing installeren op Windows](./ProcessingInstallerenOpWindows/README.md)
- * [Een mooi programma](./EenMooiProgramma/README.md)
 
-### Tekenen
+### Leskaart 1
 
-![oranje balk](Oranje.png)
+ 0. [Een mooi programma](./EenMooiProgramma/README.md)
+ 1. [Bal naar rechts](./BalNaarRechts/README.md)
+ 2. [Bal die eeuwig rechts gaat](./BalEeuwigNaarRechts/README.md)
+ 3. [Bal die horizontaal stuitert](./BalDieHorizontaalStuitert/README.md)
+ 4. [Bal die schuin stuitert](./BalDieSchuinStuitert/README.md)
+ 5. [`width` en `height`](./WidthHeight/README.md)
+ 6. [`point` en `random`](./PointRandom/README.md)
 
- * [point](./Point/README.md)
+### Rood
+
  * [line](./Line/README.md)
  * [background](./Background/README.md)
  * [stroke](./Stroke/README.md)
