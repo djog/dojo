@@ -1,8 +1,8 @@
 # Bal die horizontaal stuitert
 
-In deze les gaan we een bal horizontaal laten stuiteren.
+![Eindopdracht `Bal Die Horizontaal Stuitert`](BalDieHorizontaalStuitertEindopdracht.png)
 
-We gaan in deze les een ingewikkeldere beweging doen. 
+In deze les gaan we een bal horizontaal laten stuiteren.
 
 ## Een bal met een snelheid
 
