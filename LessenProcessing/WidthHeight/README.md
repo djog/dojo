@@ -17,7 +17,7 @@ void draw()
 ```
 
 ![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
-:-------------:|:----------------------------------------: 
+:---------------------:|:----------------------------------------: 
 `size(800, 400);`|'Lieve computer, maak een venster van 800 pixels wijd en 400 pixels hoog.'
 `ellipse(60,50,40,30);`|'Lieve computer, teken een ovaal `60` pixels naar rechts, 50 pixels omlaag, die 40 pixels wijd en 30 pixels hoog is.'
 
@@ -59,6 +59,7 @@ Nu werken onze programma's alleen voor een scherm van een bepaalde grootte.
 Dan moet je elke keer als je een nieuwe grootte kiest, een heleboel code opnieuw typen!
 
 Als we de breedte en hoogte van het scherm weten, weten we ook welke getallen in `ellipse` moeten:
+
  * de x coordinaat van de ovaal is de helft van de breedte 
  * de y coordinaat van de ovaal is de helft van de hoogte
  * de breedte van de ovaal is de breedte van het scherm
