@@ -1,5 +1,7 @@
 # `point`
 
+![Eindopdracht](PointEindopdracht.png)
+
 In deze les gaan we leren 
 
  * wat pixels zijn
@@ -16,9 +18,7 @@ Pixels zijn de vierkantjes waaruit je beeldscherm is opgebouwd.
 Hoe meer pixels je scherm heeft, hoe scherper het beeld eruit ziet.
 Dat zie je goed bij oude games: die hebben minder pixels:
 
-<img src="NES_Super_Mario_Bros.png" width=500 height=500></img>
-
-## Opdracht 1
+![Super Mario Bros 1](NES_Super_Mario_Bros.png)
 
 ## Opdracht 1
 
@@ -37,7 +37,7 @@ void draw()
 ```
 
 ![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
-:-------------:|:----------------------------------------: 
+:----------------:|:----------------------------------------: 
 `point(150, 100);`|'Lieve computer, teken een puntje op de pixel die tweehonderd pixels naar rechts en honderdvijftig pixels omlaag is'
 `point(150, 100);`|'Lieve computer, teken een puntje op coordinaat `(150, 100)`'
 
