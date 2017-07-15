@@ -1,8 +1,5 @@
 # `point`
 
-Processing is een programmeertaal ontwikkeld voor kunstenaars
-en erg geschikt om games en mooie dingen mee te maken.
-
 In deze les gaan we leren 
 
  * wat pixels zijn
@@ -11,184 +8,244 @@ In deze les gaan we leren
 
 ## Pixels
 
-```
-Pixel = een vierkantje op je beeldscherm
-```
-
 Pixels zijn de vierkantjes waaruit je beeldscherm is opgebouwd.
+
+![Sunglasses](EmojiSunglasses.png) | Pixel = een vierkantje op je beeldscherm
+:-------------:|:----------------------------------------: 
+
 Hoe meer pixels je scherm heeft, hoe scherper het beeld eruit ziet.
 Dat zie je goed bij oude games: die hebben minder pixels:
 
 <img src="NES_Super_Mario_Bros.png" width=500 height=500></img>
 
-## Coordinaten
+## Opdracht 1
 
-Elke pixel op je beeldscherm heeft een soort adres. Dit
-adres noemen we een coordinaat. Een coordinaat bestaat uit
-twee getallen. 
+## Opdracht 1
 
-```
-Coordinaat = een plek
-```
-
-Van een coordinaat zijn de twee getallen:
-
- * eerste getal: hoeveel pixels naar rechts
- * tweede getal: hoeveel pixels naar onder
-
-De pixel linksbovenin heeft als coordinaat `(0,0)` (spreek uit 'nul komma nul').
-Dat klopt: je gaat nul naar rechts, dan nul naar onder!
-
-Plaatje `Keiveel coordinaten` laat keiveel coordinaten zien.
-
-![Keiveel coordinaten](PointPixelCoordinaten.png)
-
-## Een puntje tekenen
-
-We gaan een puntje tekenen op (2,1). We maken het scherm 4 pixels breed en 3 pixels hoog.
-
-Dat ziet er als tekening zo uit:
-
-![Een puntje op (2,1)](PointPixelCoordinaten_2_1.png)
-
-Hier zie je de code:
-
+Run de volgende code:
 
 ```c++
 void setup()
 {
-  size(4, 3);
+  size(300, 200);
 }
 
 void draw()
 {
-  point(2, 1);
+  point(150, 100);
 }
 ```
 
-Het commando `size` werkt als volgt:
+![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
+:-------------:|:----------------------------------------: 
+`point(150, 100);`|'Lieve computer, teken een puntje op de pixel die tweehonderd pixels naar rechts en honderdvijftig pixels omlaag is'
+`point(150, 100);`|'Lieve computer, teken een puntje op coordinaat `(150, 100)`'
 
-```
-size(4, 3);
-eerste getal: hoeveel pixels breed
-tweede getal: hoeveel pixels hoog
-```
+# Oplossing 1
 
-Het commando `point` werkt als volgt:
+![Oplossing 1](Point1.png)
 
-```
-point(2, 1);
-eerste getal: hoeveel pixels naar rechts
-tweede getal: hoeveel pixels omlaag
-```
+## Opdracht 2
 
-## Opdrachten
+![Opdracht 2](Point2.png)
 
- 1. Type de code over en run het programma. Zie je de pixel zitten?
- 2. Wat is de coodinaat boven (2,1)?
- 3. Wat is de coodinaat rechts van (2,1)?
- 4. Wat is de coodinaat onder (2,1)?
- 5. Wat is de coodinaat links van (2,1)?
+Teken een tweede puntje tussen de eerste en de bovenkant van het venster.
 
-## Oplossingen
-
- 1. Je kunt een heel klein zwart puntje zien
- 2. (2,0)
- 3. (3,1)
- 4. (2,2)
- 5. (1,1)
-
-## Twee puntje tekenen
-
-We gaan een puntje tekenen op (0,3) en (1,2). We maken het scherm 5 pixels breed en 4 pixels hoog.
-
-Dat ziet er als tekening zo uit:
-
-![Een puntje op (0,3) en (1,2)](PointPixelCoordinaten_0_3_1_2.png)
-
-Hier zie je de code:
-
+## Oplossing 2
 
 ```c++
 void setup()
 {
-  size(5, 4);
+  size(300, 200);
 }
 
 void draw()
 {
-  point(0, 3);
-  point(1, 2);
+  point(150, 100);
+  point(150, 50);
 }
 ```
 
-## Opdrachten
+## Opdracht 3
 
- 1. Type de code over en run het programma. Zie je de pixels zitten?
- 2. Maak de lijn af door twee nieuwe pixels te tekenen
+De eerste pixel zit precies in het midden. Oftewel op de helft van de breedte van het venster en
+op de helft van de hoogte van het scherm. Verander `point(150,100);` naar iets met `width` en `height`.
 
-## Oplossingen
-
- 1. Je kunt twee hele kleine zwart puntjes zien
- 2. Hier de code:
+## Oplossing 3
 
 ```c++
 void setup()
 {
-  size(5, 4);
+  size(300, 200);
 }
 
 void draw()
 {
-  point(0, 3);
-  point(1, 2);
-  point(2, 1);
-  point(3, 0);
+  point(width / 2, height / 2);
+  point(150, 50);
 }
 ```
 
-## Een korte lijn tekenen
+![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
+:-------------:|:----------------------------------------: 
+`width / 2`|'Lieve computer, vul hier de breedte van het venster in, gedeeld door twee'
 
-![Een korte lijn](PointPixelCoordinatenKorteLijn.png)
+## Opdracht 4
 
-Op de tekening `Een korte lijn` zie je drie pixels die rood zijn gekleurd.
+De tweede pixel zit 
 
-Programmeer deze lijn na. Maak ook het scherm net zo groot als op de tekenening.
+  * op de helft van de breedte van het venster
+  * op een kwart van de hoogte van het scherm
 
-## Oplossing
+Verander `point(150, 50);` naar iets met `width` en `height`.
+
+## Oplossing 3
 
 ```c++
 void setup()
 {
-  size(4, 4);
+  size(300, 200);
 }
 
 void draw()
 {
-  point(3, 0);
-  point(3, 1);
-  point(3, 2);
+  point(width / 2, height / 2);
+  point(width / 2, height / 4);
 }
 ```
 
-## Een 'i' tekenen
+![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
+:-------------:|:----------------------------------------: 
+`height / 4`|'Lieve computer, vul hier de hoogte van het venster in, gedeeld door vier'
 
-Plaatje `Een i` laat de pixels zien van een letter 'i':
 
-![Een i](PointPixelCoordinatenI.png)
+## Opdracht 4
 
-Teken deze 'i' na. Maak ook het scherm groot genoeg
+![Opdracht 4](Point4.png)
 
-## Een hartje tekenen
+Teken een nieuwe pixel, in de linkerbovenhoek van het scherm. 
 
-Plaatje `I hartje` laat de pixels zien van de letter 'i' en een hartje:
- 
-![I hartje](PointPixelCoordinatenIhartje.png)
+## Oplossing 4
 
-Teken deze 'i' en het hartje. Maak ook het scherm groot genoeg
+```
+void setup()
+{
+  size(300, 200);
+}
+
+void draw()
+{
+  point(width / 2, height / 2);
+  point(width / 2, height / 4);
+  point(0, 0);
+}
+```
+
+![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
+:-------------:|:----------------------------------------: 
+`point(0,0);`|'Lieve computer, teken een puntje in de linkerbovenhoek'
+`point(0,0);`|'Lieve computer, teken een puntje op coordinaat `(0, 0)`'
+
+## Opdracht 5
+
+![Opdracht 5](Point5.png)
+
+Teken een nieuwe pixel, in de rechtbovenhoek van het scherm. 
+Gebruik `width - 1` als eerste getal binnen de ronde haakjes van `point`.
+
+## Oplossing 5
+
+```c++
+void setup()
+{
+  size(300, 200);
+}
+
+void draw()
+{
+  point(width / 2, height / 2);
+  point(width / 2, height / 4);
+  point(0, 0);
+  point(width - 1, 0);
+}
+``` 
+
+## Opdracht 6
+
+![Opdracht 6](Point6.png)
+
+Teken twee pixels erbij, in de onderste twee hoeken. Gebruik `width - 1` en `height - 1` op de juiste plekken.
+
+## Oplossing 6
+
+```c++
+void setup()
+{
+  size(300, 200);
+}
+
+void draw()
+{
+  point(width / 2, height / 2);
+  point(width / 2, height / 4);
+  point(0, 0);
+  point(width - 1, 0);
+  point(0, height - 1);
+  point(width - 1, height - 1);
+}
+```
+
+## Opdracht 7
+
+Run deze code:
+
+```c++
+void setup()
+{
+  size(300, 200);
+}
+
+void draw()
+{
+  point(random(300), 100);
+}
+```
+
+Wat zie je?
+
+## Oplossing 7
+
+![Oplossing 7](Point7.png)
+
+Je ziet dat er puntjes op willekeurige plekken worden getekend, maar wel altijd op dezelfde hoogte.
+
+![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
+:-------------:|:----------------------------------------: 
+`random(300)`|'Lieve computer, kies een willekeurig getal van nul tot driehonderd'
+
+## Opdracht 8
+
+![Opdracht 8](Point8.png)
+
+Maak het venster 400 pixels breed en 100 pixels hoog. Gebruik in plaats van `random(300)` iets met `random` en `width`.
+Zorg dat de lijn van puntjes op de halve hoogte van het scherm blijft.
+
+## Oplossing 8
+
+```c++
+void setup()
+{
+  size(400, 100);
+}
+
+void draw()
+{
+  point(random(width), height / 2);
+}
+```
 
 ## Eindopdracht
 
-Schrijf in pixels de tekst 'I hartje P':
+![Eindopdracht](PointEindopdracht.png)
 
-![Point eindopdracht](PointPixelCoordinatenIhartjeP.png)
+Laat de computer willekeurig puntjes tekenen in het hele venster.
