@@ -93,7 +93,7 @@ void draw()
 Zet de waarde van `snelheid` op `-1`. Wat zie je?
 
 ![Sunglasses](EmojiSunglasses.png) | Het getal `-1` spreek je uit als 'min een'. Het is het getal een lager dan nul
-
+:-------------:|:----------------------------------------: 
 
 ## Antwoord 3
 
