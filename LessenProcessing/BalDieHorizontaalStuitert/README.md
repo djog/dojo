@@ -169,7 +169,7 @@ Als tegen de linkerkant komt, moet de bal de bal naar rechts gaan. Als tegen de 
 ![Bal aan linkerkant](BalDieHorizontaalStuitertLinks.png)|aan de linkerkant komt|naar rechts gaan
 ![Bal aan rechterkant](BalDieHorizontaalStuitertRechts.png)|aan de rechtkant komt|naar links gaan
 
-!![Computer](EmojiComputer.png)|`if (...)` | `{ }`
+![Computer](EmojiComputer.png)|`if (...)` | `{ }`
 :---:|:---:|:---:
 ![Bal aan linkerkant](BalDieHorizontaalStuitertLinks.png)|`x < 50`|`snelheid = 1;`
 ![Bal aan rechterkant](BalDieHorizontaalStuitertRechts.png)|`x > 550`|`snelheid = -1;`
