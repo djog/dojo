@@ -14,158 +14,304 @@ In deze les gaan we leren
  * hoe je tekst vergroot
  * hoe je tekst een kleur geeft
 
-Kun je nog geen puntjes tekenen? Ga dan 
-[naar de les waarin je puntjes leert tekenen](../Point/README.md)
+## Opdracht 1
 
-Kun je nog geen vlakken inkleuren? Ga dan 
-[naar de les 'fill'](../Fill/README.md)
+Run deze code:
 
-## Tekst
-
-Hier zie je de tekst 'Hallo' laat zetten op coordinaat (10,20):
 
 ```c++
-text("Hallo", 10, 20);
-```
-Let op dat de tekst tussen dubbele apostroffen (`"`) moet.
+float x = 150;
+float y = 100;
+float snelheid_naar_rechts = 1;
 
-`text` kan ook rekenen!
-
-Hier plus en min:
-
-```c++
-text(128 + 64, 10, 20);
-text(128 - 64, 10, 20);
-```
-
-Hier een keersom: 
-
-```c++
-text(16 * 16, 10, 20);
-```
-
-Hier een deelsom:
-
-```c++
-text(256 / 16, 10, 20);
-```
-
-Tekstgrootte kun je aanpassen met
-
-```c++
-textSize(32);
-```
-
-Tekstkleur kun je aanpassen met `fill`:
-
-```c++
-fill(255, 0, 0);
-```
-
-## Opdracht
-
-Zet de tekst `I love you 4 ever` op het scherm, waarbij:
-
- * de coordinaat is (10, 30)
- * de tekst heeft de normale kleur, dit is wit
- * de tekst heeft de normale grootte, dit is 8 pixels
-
-## Oplossing
-
-```c++
 void setup()
 {
-  size(300,300);
+  size(300, 200);
 }
 
 void draw()
 {
-  text("I love you 4 ever", 10, 30);
-}
-```
-
-## Opdracht
-
-Zet de tekst `I love you 4 ever` op het scherm, waarbij:
-
- * de coordinaat is (10, 30)
- * de tekst zwart is (tip: gebruik `fill`)
- * de tekst heeft de normale grootte, dit is 8 pixels
-
-## Oplossing
-
-```c++
-void setup()
-{
-  size(300,300);
-}
-
-void draw()
-{
-  fill(0, 0, 0);
-  text("I love you 4 ever", 10, 30);
-}
-```
-
-## Opdracht
-
-Zet de tekst `I love you 4 ever` op het scherm, waarbij:
-
- * de coordinaat is (10, 30)
- * de tekst zwart is
- * de tekst is 32 pixels groot (tip: gebruik `textSize`)
-
-## Oplossing
-
-```c++
-void setup()
-{
-  size(300,300);
-  textSize(32);
-}
-
-void draw()
-{
-  fill(0, 0, 0);
-  text("I love you 4 ever", 10, 30);
-}
-```
-
-## Opdracht
-
-Zet de tekst `I love you 4 ever` op het scherm, waarbij:
-
- * de tekst is 32 pixels groot (tip: gebruik `textSize`)
- * alle woorden zwart zijn, behalve `love`, die rood is
- * de `4` is de uitkomst van een berekening, bijvoorbeeld `2 + 2` (maar hoe moeilijker de berekening, hoe stoerder)
-
-![Text](Text.png)
-
-## Oplossing
-
-```c++
-void setup()
-{
-  size(300,300);
-  textSize(32);
-}
-
-void draw()
-{
-  fill(0, 0, 0);
-  text("I", 10, 30);
+  background(0, 0, 0);
+  stroke(128, 0, 0);
   fill(255, 0, 0);
-  text("love", 40, 30);
-  fill(0, 0, 0);
-  text("you", 120, 30);
-  text(256 / 64, 20, 60);
-  text("ever", 50, 60);
+  ellipse(x, y, 50, 50);
+  x = x + snelheid_naar_rechts;
+  if (x > 275)
+  {
+    snelheid_naar_rechts = -snelheid_naar_rechts;
+  }
+  if (x < 25)
+  {
+    snelheid_naar_rechts = -snelheid_naar_rechts;
+  }
+}
+```
+
+## Oplossing 1
+
+![Oplossing 1](Text1.png)
+
+## Opdracht 2
+
+Voeg na `ellipse` de volgende regel toe:
+
+```c++
+text(x, 10, 20);
+```
+
+## Oplossing 2
+
+![Oplossing 2](Text2.png)
+
+```c++
+float x = 150;
+float y = 100;
+float snelheid_naar_rechts = 1;
+
+void setup()
+{
+  size(300, 200);
+}
+
+void draw()
+{
+  background(0, 0, 0);
+  stroke(128, 0, 0);
+  fill(255, 0, 0);
+  ellipse(x, y, 50, 50);
+  text(x, 10, 20);
+  x = x + snelheid_naar_rechts;
+  if (x > 275)
+  {
+    snelheid_naar_rechts = -snelheid_naar_rechts;
+  }
+  if (x < 25)
+  {
+    snelheid_naar_rechts = -snelheid_naar_rechts;
+  }
+}
+```
+
+![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
+:-------------:|:----------------------------------------: 
+`text(100, 200, 300);`|'Lieve computer, zet de tekst `100` op het scherm met als linkerbovenhoek `(200, 300)`
+`text("Hallo", 100, 200);`|'Lieve computer, zet de tekst `Hallo` op het scherm met als linkerbovenhoek `(100, 200)`
+
+## Opdracht 3
+
+![Opdracht 3](Text3.png)
+
+Het programma laat nu de `x` zien. Laat eronder nu ook de `y` coordinaat op het scherm zien.
+
+## Oplossing 3
+
+```c++
+float x = 150;
+float y = 100;
+float snelheid_naar_rechts = 1;
+
+void setup()
+{
+  size(300, 200);
+}
+
+void draw()
+{
+  background(0, 0, 0);
+  stroke(128, 0, 0);
+  fill(255, 0, 0);
+  ellipse(x, y, 50, 50);
+  text(x, 10, 20);
+  text(y, 10, 40);
+  x = x + snelheid_naar_rechts;
+  if (x > 275)
+  {
+    snelheid_naar_rechts = -snelheid_naar_rechts;
+  }
+  if (x < 25)
+  {
+    snelheid_naar_rechts = -snelheid_naar_rechts;
+  }
+}
+```
+
+## Opdracht 4
+
+![Opdracht 4](Text4.png)
+
+Met `fill` kun je de kleur van je tekst bepalen. 
+Na de eerste `text`, zet de fill op groen.
+
+## Oplossing 4
+
+```c++
+float x = 150;
+float y = 100;
+float snelheid_naar_rechts = 1;
+
+void setup()
+{
+  size(300, 200);
+}
+
+void draw()
+{
+  background(0, 0, 0);
+  stroke(128, 0, 0);
+  fill(255, 0, 0);
+  ellipse(x, y, 50, 50);
+  text(x, 10, 20);
+  fill(0, 255, 0);
+  text(y, 10, 40);
+  x = x + snelheid_naar_rechts;
+  if (x > 275)
+  {
+    snelheid_naar_rechts = -snelheid_naar_rechts;
+  }
+  if (x < 25)
+  {
+    snelheid_naar_rechts = -snelheid_naar_rechts;
+  }
+}
+```
+
+## Opdracht 5
+
+![Opdracht 5](Text5.png)
+
+Zet de tekst `PONG` bovenin en midden op het scherm.
+De tekst moet een willekeurige kleur krijgen.
+Gebruik `width` om het midden te bepalen.
+
+```c++
+float x = 150;
+float y = 100;
+float snelheid_naar_rechts = 1;
+
+void setup()
+{
+  size(300, 200);
+}
+
+void draw()
+{
+  background(0, 0, 0);
+  stroke(128, 0, 0);
+  fill(255, 0, 0);
+  ellipse(x, y, 50, 50);
+  text(x, 10, 20);
+  fill(0, 255, 0);
+  text(y, 10, 40);
+  fill(random(255), random(255), random(255));
+  text("PONG", width / 2, height / 2);
+  x = x + snelheid_naar_rechts;
+  if (x > 275)
+  {
+    snelheid_naar_rechts = -snelheid_naar_rechts;
+  }
+  if (x < 25)
+  {
+    snelheid_naar_rechts = -snelheid_naar_rechts;
+  }
+}
+```
+
+## Opdracht 6
+
+![Opdracht 6](Text6.png)
+
+Maak een variabele erbij: `aantal_botsingen`.
+`aantal_botsingen` heeft als beginwaarde nul.
+Zet deze waarde op het scherm, in het wit.ex
+
+## Oplossing 6
+
+```c++
+float x = 150;
+float y = 100;
+float snelheid_naar_rechts = 1;
+float botsingen = 0;
+
+void setup()
+{
+  size(300, 200);
+}
+
+void draw()
+{
+  background(0, 0, 0);
+  stroke(128, 0, 0);
+  fill(255, 0, 0);
+  ellipse(x, y, 50, 50);
+  text(x, 10, 20);
+  fill(0, 255, 0);
+  text(y, 10, 40);
+  fill(0, 0, 255);
+  text(botsingen, 10, 60);
+  fill(random(255), random(255), random(255));
+  text("PONG", width / 2, height / 2);
+  x = x + snelheid_naar_rechts;
+  if (x > 275)
+  {
+    snelheid_naar_rechts = -snelheid_naar_rechts;
+  }
+  if (x < 25)
+  {
+    snelheid_naar_rechts = -snelheid_naar_rechts;
+  }
+}
+```
+
+## Opdracht 7
+
+![Opdracht 7](Text7.png)
+
+Maak `botsingen` hoger als de bal teken de rechter muur komt.
+
+## Oplossing 7
+
+```c++
+float x = 150;
+float y = 100;
+float snelheid_naar_rechts = 1;
+float botsingen = 0;
+
+void setup()
+{
+  size(300, 200);
+}
+
+void draw()
+{
+  background(0, 0, 0);
+  stroke(128, 0, 0);
+  fill(255, 0, 0);
+  ellipse(x, y, 50, 50);
+  text(x, 10, 20);
+  fill(0, 255, 0);
+  text(y, 10, 40);
+  fill(0, 0, 255);
+  text(botsingen, 10, 60);
+  fill(random(255), random(255), random(255));
+  text("PONG", width / 2, height / 2);
+  x = x + snelheid_naar_rechts;
+  if (x > 275)
+  {
+    snelheid_naar_rechts = -snelheid_naar_rechts;
+    botsingen = botsingen + 1;
+  }
+  if (x < 25)
+  {
+    snelheid_naar_rechts = -snelheid_naar_rechts;
+  }
 }
 ```
 
 ## Eindopdracht
 
-Zet je eigen naam mooi op het scherm. Een voorbeeld:
+![Eindopdracht `text`](TextEindopdracht.png)
 
-![Eindopdacht text](TextEindopdrachtVoorbeeld.png)
-
+Zet linksboven de tekst: `aantal botsingen:` in het wit.
+Zet daaronder de waarde van `botsingen` in het wit.
+Haal de rest van de tekst weg.
+Het aantal botsingen moet ook hoger worden als je links botst.

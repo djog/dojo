@@ -15,6 +15,7 @@ Les|Omschrijving|Klaar?
 ?|Bal die horizontaal stuitert|.
 ?|`ellipse` en `background`|.
 ?|Bal die schuin stuitert|.
-?|`text` en `PImage`|.
+?|`text`|.
+?|`PImage`|.
 ?|arrays 1|.
-?|`text` en arrays 2|.
+?|arrays 2|.

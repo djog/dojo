@@ -58,11 +58,11 @@ void draw()
   x = x + snelheid_naar_rechts;
   if (x > 275)
   {
-    snelheid = -snelheid_naar_rechts;
+    snelheid_naar_rechts = -snelheid_naar_rechts;
   }
   if (x < 25)
   {
-    snelheid = -snelheid_naar_rechts;
+    snelheid_naar_rechts = -snelheid_naar_rechts;
   }
 }
 ```
