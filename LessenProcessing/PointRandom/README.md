@@ -1,4 +1,4 @@
-# `point`
+# `point` en `random`
 
 ![Eindopdracht](PointEindopdracht.png)
 
@@ -7,6 +7,7 @@ In deze les gaan we leren
  * wat pixels zijn
  * hoe de pixels op een beeldscherm zitten
  * hoe je puntjes tekent
+ * hoe je willekeurige dingen doet
 
 ## Pixels
 

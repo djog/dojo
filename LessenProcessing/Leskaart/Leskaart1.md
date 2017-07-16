@@ -1,23 +1,19 @@
-Van:
+# Dojo leskaart 1
 
-Dojo leskaart 1
+Van|...
+:---:|:-------------------------------------------------:|
 
 Les|Omschrijving|Klaar?
-:---:|---------------|:---:
-0|Een mooi programma|.
-1|Bal naar rechts|.
-2|Bal die eeuwig rechts gaat|.
-3|Bal die horizontaal stuitert|.
-4|Bal die schuin stuitert|.
-5|`width` en `height`|.
-6|`point` en `random`|.
+:---:|-------------------------------------|:---:
+?|Een mooi programma|.
+?|Bal naar rechts|.
+?|`width` en `height`|.
+?|`point` en `random`|.
 ?|`line` en `stroke`|.
-?|`background`|.
-?|`stroke`|.
-?|`rect`|.
-?|`ellipse`|.
-?|`fill`|.
-?|`text`|.
-?|Arrays 1|.
-?|Arrays 2|.
-?|PImage 1|.
+?|Bal die eeuwig rechts gaat|.
+?|`rect` en `fill`|.
+?|Bal die horizontaal stuitert|.
+?|Bal die schuin stuitert|.
+?|`background` en `PImage`|.
+?|`ellipse` en arrays 1|.
+?|`text` en arrays 2|.

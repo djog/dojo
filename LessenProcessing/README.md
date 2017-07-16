@@ -25,27 +25,23 @@ Dit zijn de Processing lessen
 
 ### Rood
 
- * [line](./Line/README.md)
  * [background](./Background/README.md)
- * [stroke](./Stroke/README.md)
  * [rect](./Rect/README.md)
  * [ellipse](./Ellipse/README.md)
  * [fill](./Fill/README.md)
  * [Tekst](./Text/README.md)
+ * [fullScreen](./FullScreen/README.md)
 
 ### Variabelen
 
 ![gele balk](Geel.png)
 
- * [Bal naar rechts](./BalNaarRechts/README.md)
- * [Bal die eeuwig naar rechts gaat](./BalEeuwigNaarRechts/README.md)
- * [Bal die horizontaal stuitert](./BalDieHorizontaalStuitert/README.md)
  * [Zwaartekracht](./Zwaartekracht/README.md)
- * [`width` en `height`](./WidthHeight/README.md)
- * [fullScreen](./FullScreen/README.md)
  * [Arrays les 1](./Arrays1/README.md)
  * [Arrays les 2](./Arrays2/README.md)
  * [PImage les 1](./PImage1/README.md)
+
+### Leskaart 2
 
 ### Input
 
