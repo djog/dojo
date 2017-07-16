@@ -29,7 +29,7 @@ void draw()
 
 ## Oplossing 1
 
-![Oplossing 1](LineStroke1.png)
+![Oplossing 1](LineStroke1Uitleg.png)
 
 ## Opdracht 2
 
