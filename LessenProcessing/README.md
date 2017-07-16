@@ -16,20 +16,19 @@ Dit zijn de Processing lessen
 
  0. [Een mooi programma](./EenMooiProgramma/README.md)
  1. [Bal naar rechts](./BalNaarRechts/README.md)
- 2. [Bal die eeuwig rechts gaat](./BalEeuwigNaarRechts/README.md)
- 3. [Bal die horizontaal stuitert](./BalDieHorizontaalStuitert/README.md)
- 4. [Bal die schuin stuitert](./BalDieSchuinStuitert/README.md)
- 5. [`width` en `height`](./WidthHeight/README.md)
- 6. [`point` en `random`](./PointRandom/README.md)
- 7. [`line` en `stroke`](./LineStroke/README.md)
+ 2. [`width` en `height`](./WidthHeight/README.md)
+ 3. [`point` en `random`](./PointRandom/README.md)
+ 4. [`line` en `stroke`](./LineStroke/README.md)
+ 5. [Bal die eeuwig rechts gaat](./BalEeuwigNaarRechts/README.md)
+ 6. [`rect` en `fill`](./RectFill/README.md)
+ 7. [Bal die horizontaal stuitert](./BalDieHorizontaalStuitert/README.md)
+ 8. [`ellipse` en `background`](./EllipseBackground/README.md)
+ 9. [Bal die schuin stuitert](./BalDieSchuinStuitert/README.md)
+ 10. [Tekst](./Text/README.md)
 
 ### Rood
 
- * [background](./Background/README.md)
- * [rect](./Rect/README.md)
- * [ellipse](./Ellipse/README.md)
- * [fill](./Fill/README.md)
- * [Tekst](./Text/README.md)
+ * [PImage 1](./PImage1/README.md)
  * [fullScreen](./FullScreen/README.md)
 
 ### Variabelen
