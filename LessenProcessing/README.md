@@ -21,6 +21,7 @@ Dit zijn de Processing lessen
  4. [Bal die schuin stuitert](./BalDieSchuinStuitert/README.md)
  5. [`width` en `height`](./WidthHeight/README.md)
  6. [`point` en `random`](./PointRandom/README.md)
+ 7. [`line` en `stroke`](./LineStroke/README.md)
 
 ### Rood
 
