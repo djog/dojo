@@ -22,8 +22,8 @@ cp *.* $build_folder
 cd ..
 cd $build_folder
 
-pandoc VoorpaginaCode.md -o ../../Boek/Boek_voorpagina_code.pdf
-pandoc VoorpaginaGitHub.md -o ../../Boek/Boek_voorpagina_github.pdf
-pandoc VoorpaginaTekenen.md -o ../../Boek/Boek_voorpagina_1_tekenen.pdf
-pandoc VoorpaginaStructuur.md -o ../../Boek/Boek_voorpagina_2_flow_input_structuur.pdf
-pandoc VoorpaginaOpenDag.md -o ../../Boek/Boek_voorpagina_open_dag.pdf
+#pandoc VoorpaginaCode.md -o ../../Boek/Boek_voorpagina_code.pdf
+#pandoc VoorpaginaGitHub.md -o ../../Boek/Boek_voorpagina_github.pdf
+pandoc Voorpagina1.md -o ../../Boek/Boek_voorpagina_1.pdf
+#pandoc VoorpaginaStructuur.md -o ../../Boek/Boek_voorpagina_2_flow_input_structuur.pdf
+#pandoc VoorpaginaOpenDag.md -o ../../Boek/Boek_voorpagina_open_dag.pdf

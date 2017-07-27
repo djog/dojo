@@ -77,6 +77,8 @@ De breedte van het scherm heet `width` en de hoogte heet `height`
 
 Deze getallen worden bepaald zodra je size gebruikt om de grootte van je scherm te defineren.
 
+\pagebreak
+
 ## Opdracht 3
 
 ![Opdracht 3](WidthHeight3.png)
@@ -92,7 +94,7 @@ Maak een programma wat een ovaal tekent die het scherm opvult:
 :-------------:|:----------------------------------------: 
 `/`|'gedeeld door', een deelstreep zoals je ook bij breuken hebt, `:`
 
-## Oplossing
+## Oplossing 3
 
 
 ```c++
@@ -112,6 +114,8 @@ void draw()
 ![Opdracht 4](WidthHeight4.png)
 
 Zet het middelpunt van de cirkel op coordinaat `(0, 0)`.
+
+\pagebreak
 
 ## Oplossing 4
 
@@ -133,6 +137,8 @@ void draw()
 
 Maak een tweede cirkel die als middelpunt de rechterbovenhoek heeft.
 Gebruik `width` en/of `height`.
+
+\pagebreak
 
 ## Oplossing 5
 
@@ -171,6 +177,8 @@ void draw()
   ellipse(0, height, width, height);  
 }
 ```
+
+\pagebreak
 
 ## Eindopdracht
 

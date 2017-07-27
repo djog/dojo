@@ -22,6 +22,8 @@ Hoe dat moet, hangt af van het besturingssysteem:
  * Processing installeren op eigen laptop met GNU/Linux
  * Processing installeren op eigen laptop met Windows
 
+\pagebreak
+
 ## Code kopieeren
 
 Processing begint met een leeg programma zonder code:
@@ -48,28 +50,15 @@ void draw()
 Wat de code precies doet, leggen we later uit.
 Voor nu is het genoeg te weten dat het iets moois doet. 
 
-Om code te kopieeren gebruik je sneltoetsen:
-
- * `SHIFT + pijltjes`: selecteren
- * `CTRL + A`: alles selecteren
- * `CTRL + C`: kopieren van selectie
- * `CTRL + X`: knippen van selectie
- * `CTRL + V`: plakken van selectie
-
-
- * Start Processing
- * Kopieer deze code naar Processing
-
 ![Processing met code](ProcessingMetCode.png)
-
-## Programma uitvoeren
-
- * Klik op de 'Run' knop
 
 ![De Run knop](ProcessingRun.png)
 
-Als het goed is, zie je nu het programma!
+## Eindopdracht
 
-## Sneltoetsen oefenen
 
- * Werk met iemand samen. Hussel de code van de andere door de war, door deze te knippen/kopieren en te plakken. Repareer dan de code op je eigen computer
+ * Start Processing
+ * Run deze code, door op de 'Run' knop te klikken
+
+![Sunglasses](EmojiSunglasses.png) | Gelukt? Laat dit zien aan een volwassene voor een sticker!
+:-------------:|:----------------------------------------: 

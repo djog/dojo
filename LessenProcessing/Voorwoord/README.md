@@ -14,7 +14,7 @@ Dit boek heeft een CC-BY-NC-SA licensie.
 
 ![De licensie van dit boek](CC-BY-NC-SA.png)
 
-(C) Dojo Groningen 2016
+(C) Dojo Groningen 2016-2017
 
 Het is nog een beetje een slordig boek.
 Zo staat bijvoorbeeld het plaatje

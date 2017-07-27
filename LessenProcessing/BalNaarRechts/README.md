@@ -25,11 +25,7 @@ void draw()
 
 Druk dan op 'Run' (zie figuur `Druk op 'Run'`). 
 
-![Druk op 'Run'](BalNaarRechtsCode.png)
-
-Als er rode letters komen, heb je een typefout gemaakt (zie figuur `Een error`). Kijk goed en verbeter de typefouten.
-
-![Een error](BalNaarRechtsError.png)
+Als er rode letters komen, heb je een typefout gemaakt. Kijk goed en verbeter de typefouten.
 
 Als alles goed gaat, zie je een bal die naar rechts beweegt (zie figuur `Een bal die naar rechts beweegt`).
 
@@ -250,6 +246,8 @@ Haha, deze les heet 'Bal naar rechts', toch gaan we ook een bal naar onder laten
  * De bal moet 60 pixels naar rechts komen te staan
  * De bal moet in een rechte lijn naar onder gaan. Tip: de bal staat nu op 50 pixels omlaag
 
+\pagebreak
+
 ## Oplossing 6
 
 ```c++
@@ -267,11 +265,9 @@ void draw()
 }
 ```
 
-## Bal snel omhoog
+## Opdracht 7
 
 Nu gaan we de bal sneller en omhoog laten bewegen
-
-## Opdracht 7
 
 ![Opdracht 7](BalNaarRechtsOmhoog.png)
 

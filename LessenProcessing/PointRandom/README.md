@@ -42,9 +42,11 @@ void draw()
 `point(150, 100);`|'Lieve computer, teken een puntje op de pixel die tweehonderd pixels naar rechts en honderdvijftig pixels omlaag is'
 `point(150, 100);`|'Lieve computer, teken een puntje op coordinaat `(150, 100)`'
 
-# Oplossing 1
+## Oplossing 1
 
 ![Oplossing 1](Point1.png)
+
+\pagebreak
 
 ## Opdracht 2
 
@@ -91,7 +93,7 @@ void draw()
 :-------------:|:----------------------------------------: 
 `width / 2`|'Lieve computer, vul hier de breedte van het venster in, gedeeld door twee'
 
-## Opdracht 4
+## Opdracht 3.14
 
 De tweede pixel zit 
 
@@ -100,7 +102,7 @@ De tweede pixel zit
 
 Verander `point(150, 50);` naar iets met `width` en `height`.
 
-## Oplossing 3
+## Oplossing 3.14
 
 ```c++
 void setup()
@@ -126,9 +128,11 @@ void draw()
 
 Teken een nieuwe pixel, in de linkerbovenhoek van het scherm. 
 
+\pagebreak
+
 ## Oplossing 4
 
-```
+```c++
 void setup()
 {
   size(300, 200);
@@ -146,6 +150,8 @@ void draw()
 :-------------:|:----------------------------------------: 
 `point(0,0);`|'Lieve computer, teken een puntje in de linkerbovenhoek'
 `point(0,0);`|'Lieve computer, teken een puntje op coordinaat `(0, 0)`'
+
+\pagebreak
 
 ## Opdracht 5
 
@@ -176,6 +182,8 @@ void draw()
 ![Opdracht 6](Point6.png)
 
 Teken twee pixels erbij, in de onderste twee hoeken. Gebruik `width - 1` en `height - 1` op de juiste plekken.
+
+\pagebreak
 
 ## Oplossing 6
 
@@ -213,6 +221,8 @@ void draw()
 ```
 
 Wat zie je?
+
+\pagebreak
 
 ## Oplossing 7
 
