@@ -50,4 +50,8 @@ cp boek.pdf ../../Boek/Boek_1_zonder_voorpagina.pdf
 
 cd ../../Boek
 pdfunite Boek_voorpagina_1.pdf Boek_1_zonder_voorpagina.pdf Boek_1.pdf
+
+# Make booklet
+bookletimposer -a Boek_1.pdf -o Boekje_1.pdf
+
 rm Boek_1_zonder_voorpagina.pdf
