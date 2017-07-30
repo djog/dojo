@@ -214,7 +214,8 @@ Oudere groep:
 Deze ideeen moeten nog besproken worden met de rest van het team.
 
  * Het zou misschien goed zijn de groep een groep te maken: de kantine voor gezellig samen werken, het aquarium voor rustig werken 
- * De kids willen snoep, terwijl ze waarschijnlijk niet zien waarom we dit hebben afgeschaft. Een reden: het werd een wedstrijd om als eerste de meeste snoep te kopen. Ik hoop dat we met fruitmanden blijven werken
+ * De kids willen snoep, terwijl ze waarschijnlijk niet zien waarom we dit hebben afgeschaft. 
+   Een reden: het werd een wedstrijd om als eerste de meeste snoep te kopen. Ik hoop dat we met fruitmanden blijven werken
  * De kids zijn het tevreden over de vrijwilligers, vooral over hen die er langer zijn
  * De kids hebben er last van als de WiFi het niet doet. Hier is volgens mij niks aan te doen
  * Misschien wat herformuleringen en of nieuwe regels: 
