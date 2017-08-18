@@ -10,7 +10,7 @@ Scratch | [Processing](LessenProcessing/README.md) | [SFML](https://github.com/j
 Aan computers vertellen wat ze moeten doen is de kern van programmeren. Wil jij dit ook kunnen? Elke donderdagavond kun je bij de DOJO leren hoe je je eigen interactieve programma's maakt, zoals een échte game! Je kunt programma's leren maken voor PC, maar uiteindelijk ook smartphone of Nintendo DS. Voorkennis is niet nodig.
 
 Deze avond is een cursusavond, waarin samen leren programmeren voorop staat. 
-Je zult aan de slag gaan met Scratch, Processing of SFML, 
+Je zult aan de slag gaan met Scratch, Processing of C++ met Qt, SFML en/of Urho3D, 
 maar je bent ook vrij je eigen weg te kiezen.
 
  * Dag: Elke donderdagavond, behalve op feestdagen en in de kerstvakantie
@@ -37,8 +37,5 @@ Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
 
 ## Agenda
 
- * Zondag 11 juni 12:00-16:00: [Science en Hi-Tech dag](https://github.com/richelbilderbeek/science_en_hi-tech_dag_2017)
- * Donderdag 13 juli 18:30-20:30: Leerlingpresentaties en evaluatie
- * Donderdag 3 augustus 10:00-16:00: Zomerschool voor 35-40 leerlingen van 9-11 jaar
- * ?18 t/m 22 augustus: Noorderzon
  * 22 juli 2017 t/m 3 sep 2017: Geen les op donderdag, wel zomervakantielessen op [de Arduinocursus op vrijdag](https://github.com/richelbilderbeek/ArduinoCourse)
+ * Donderdag 7 september: start nieuw seizoen
