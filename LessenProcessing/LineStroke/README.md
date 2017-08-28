@@ -4,6 +4,8 @@
 
 In deze les gaan we leren hoe je gekleurde lijnen tekent.
 
+\pagebreak
+
 ## Opdracht 1
 
 Run deze code:
@@ -27,15 +29,21 @@ void draw()
 ![Sunglasses](EmojiSunglasses.png) | `(100, 200)` is de pixel die 100 pixels naar links en 200 pixels onder de linkerbovenhoek van het scherm zit 
 :-------------:|:----------------------------------------: 
 
+\pagebreak
+
 ## Oplossing 1
 
 ![Oplossing 1](LineStroke1Uitleg.png)
+
+\pagebreak
 
 ## Opdracht 2
 
 ![Opdracht 2](LineStroke2.png)
 
 Laat de lijn niet naar de rechteronderhoek, maar naar de rechterbovenhoek gaan.
+
+\pagebreak
 
 ## Oplossing 2
 
@@ -57,6 +65,8 @@ Laat de lijn niet links in het midden, maar linksonder beginnen
 
 ![Opdracht 3](LineStroke3.png)
 
+\pagebreak
+
 ## Oplossing 3
 
 ```c++
@@ -74,6 +84,10 @@ void draw()
 ## Opdracht 4
 
 Laat de lijn van linksonder naar rechtsboven gaan, maar gebruik nu `width` en `height`
+
+![Opdracht 4](LineStroke3.png)
+
+\pagebreak
 
 ## Oplossing 4
 
@@ -95,6 +109,8 @@ void draw()
 
 Laat de lijn links op een willekeurige hoogte beginnen. Dit doe je met `random`
 
+\pagebreak
+
 ## Oplossing 5
 
 ```c++
@@ -115,6 +131,8 @@ void draw()
 
 Laat de lijn nu ook rechts op een willekeurige hoogte eindigen.
 
+\pagebreak
+
 ## Oplossing 6
 
 ```c++
@@ -134,6 +152,8 @@ void draw()
 ![Opdracht 7](LineStroke7.png)
 
 Zet voor `line` de regel `stroke(255, 0, 0);`
+
+\pagebreak
 
 ## Oplossing
 
@@ -159,9 +179,13 @@ void draw()
 
 ![Opdracht 8](LineStroke8.png)
 
+Maak de lijnen nu cyaan. Kijk naar figuur `Kleurencirkel` (op de volgende bladzijde) hoe je die maakt
+
+\pagebreak
+
 ![Kleurencirkel](AdditiveColor3.png)
 
-Maak de lijnen nu cyaan. Kijk naar figuur `Kleurencirkel` hoe je die maakt
+\pagebreak
 
 ## Oplossing
 
@@ -189,6 +213,8 @@ void draw()
 ![Opdracht 9](LineStroke9.png)
 
 Laat nu de roodwaarde een willeukeurig getal van 0 tot 256 worden.
+
+\pagebreak
 
 
 ## Oplossing 9

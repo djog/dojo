@@ -18,9 +18,10 @@ fi
 cd ..
 cd LessenProcessing
 cd Voorwoord                ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_00.md; cd ..
-cd LineStroke               ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_01.md; cd ..
-cd BalEeuwigNaarRechts      ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_02.md; cd ..
-cd RectFill                 ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_03.md; cd ..
+cd BalDieHorizontaalStuitert; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_01.md; cd ..
+cd EllipseBackground        ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_02.md; cd ..
+cd BalDieSchuinStuitert     ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_03.md; cd ..
+cd Text                     ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_04.md; cd ..
 
 cd $build_folder
 
@@ -28,14 +29,15 @@ cat README_00.md >> README.md; echo " " >> README.md; echo "\pagebreak" >> READM
 cat README_01.md >> README.md; echo " " >> README.md; echo "\pagebreak" >> README.md; echo " " >> README.md
 cat README_02.md >> README.md; echo " " >> README.md; echo "\pagebreak" >> README.md; echo " " >> README.md
 cat README_03.md >> README.md; echo " " >> README.md; echo "\pagebreak" >> README.md; echo " " >> README.md
+cat README_04.md >> README.md; echo " " >> README.md; echo "\pagebreak" >> README.md; echo " " >> README.md
 
-pandoc README.md -o Boek_2.pdf --toc --toc-depth=1 --highlight-style=tango -V geometry:margin=0.5in
-mv Boek_2.pdf ../../Boek/Boek_2_zonder_voorpagina.pdf
+pandoc README.md -o Boek_3.pdf --toc --toc-depth=1 --highlight-style=tango -V geometry:margin=0.5in
+mv Boek_3.pdf ../../Boek/Boek_3_zonder_voorpagina.pdf
 
 cd ../../Boek
-pdfunite Boek_voorpagina_2.pdf Boek_2_zonder_voorpagina.pdf Boek_2.pdf
+pdfunite Boek_voorpagina_3.pdf Boek_3_zonder_voorpagina.pdf Boek_3.pdf
 
 # Make booklet
-bookletimposer -a Boek_2.pdf -o Boekje_2.pdf
+bookletimposer -a Boek_3.pdf -o Boekje_3.pdf
 
-rm Boek_2_zonder_voorpagina.pdf
+rm Boek_3_zonder_voorpagina.pdf

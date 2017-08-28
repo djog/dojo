@@ -49,11 +49,15 @@ Het tekentje `>` betekent 'groter dan'. Preciezer zeg je: 'Lieve computer, *als*
 `if (x > 200) { }`|'Lieve computer, als `x` groter is dan 200, doe dan wat tussen accolades staat.'
 `x = 100;`|'Lieve computer, stop het getal `100` in `x`.'
 
+\pagebreak
+
 ## Opdracht 1
 
 ![Opdracht 1](BalEeuwigNaarRechts1.png)
 
 Zet de `if` tussen de code van het programma. Zet de `if` aan het eind van `draw`, voor de accolade sluiten (`}`).
+
+\pagebreak
 
 ## Oplossing 1
 
@@ -83,6 +87,8 @@ void draw()
 ![Opdracht 2](BalEeuwigNaarRechts2.png)
 
 Zorg ervoor dat de ovaal helemaal naar de linkerkant van het scherm springt
+
+\pagebreak
 
 ## Oplossing 2
 
@@ -114,6 +120,8 @@ void draw()
 
 Zorg ervoor dat de ovaal helemaal naar rechts beweegt, voordat deze naar de linkerkant van het scherm springt
 
+\pagebreak
+
 ## Oplossing 3
 
 Verander `if (x > 200)` naar `if (x > 650)`.
@@ -136,6 +144,8 @@ void draw()
   }
 }
 ```
+
+\pagebreak
 
 ## Bal die eeuwig naar links gaat
 
@@ -170,6 +180,8 @@ Maak een bal die eeuwig naar links gaat:
  * De bal gaat helemaal het beeld uit
  * Als de bal net uit het beeld uit, komt 'ie meteen de andere kant weer binnen
 
+\pagebreak
+
 ## Antwoord 4
 
 Dit is een eeuwig naar links gaande bal:
@@ -200,6 +212,7 @@ void draw()
 `x--`|'Lieve computer, maak `x` een lager.'
 `--x`|'Lieve computer, maak `x` een lager.'
 
+\pagebreak
 
 ## Bal die eeuwig omlaag gaat
 
@@ -217,6 +230,8 @@ Schrijf een programma waarin een bal eeuwig omlaag gaat:
  * gebruik een variable met naam `y`
  * vervang de code `ellipse(x, 50, 100, 100)` door `elllipse(50, y, 100, 100)`
  * als de bal omlaag uit het scherm gaat, moet de bal weer bovenin komen
+
+\pagebreak
 
 ## Oplossing 5
 

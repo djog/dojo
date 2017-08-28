@@ -14,10 +14,15 @@ Dit zijn de Processing lessen
 
 ### Leskaart 1
 
+Boekje 1:
+
  0. [Een mooi programma](./EenMooiProgramma/README.md)
  1. [Bal naar rechts](./BalNaarRechts/README.md)
  2. [`width` en `height`](./WidthHeight/README.md)
  3. [`point` en `random`](./PointRandom/README.md)
+
+Boekje 2:
+
  4. [`line` en `stroke`](./LineStroke/README.md)
  5. [Bal die eeuwig rechts gaat](./BalEeuwigNaarRechts/README.md)
  6. [`rect` en `fill`](./RectFill/README.md)

@@ -26,5 +26,6 @@ cd $build_folder
 #pandoc VoorpaginaGitHub.md -o ../../Boek/Boek_voorpagina_github.pdf
 pandoc Voorpagina1.md -o ../../Boek/Boek_voorpagina_1.pdf
 pandoc Voorpagina2.md -o ../../Boek/Boek_voorpagina_2.pdf
+pandoc Voorpagina3.md -o ../../Boek/Boek_voorpagina_3.pdf
 #pandoc VoorpaginaStructuur.md -o ../../Boek/Boek_voorpagina_2_flow_input_structuur.pdf
 #pandoc VoorpaginaOpenDag.md -o ../../Boek/Boek_voorpagina_open_dag.pdf

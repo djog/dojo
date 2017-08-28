@@ -1,4 +1,4 @@
-# `rect`
+# `rect` en `fill`
 
 Vierkanten worden veel gebruikt in games.
 
@@ -13,7 +13,7 @@ maar de `rect` functie werkt gemakkelijker.
 
 Run deze code
 
-```
+```c++
 float x = -50;
 
 void setup()
@@ -31,6 +31,8 @@ void draw()
   }
 }
 ```
+
+\pagebreak
 
 ## Oplossing 1
 
@@ -44,11 +46,17 @@ Voeg de volgende extra regel toe, na `ellipse(x, height / 2, 100, 100);`:
   rect(x, height / 2, 100, 100);
 ```
 
+![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
+:------------------------:|:---------------------------------------------------: 
+`rect(100, 200, 300, 400)`|'Lieve computer, teken een rechthoek met `(100, 200)` als linkerbovenhoek, 300 pixels breed en 400 pixels hoog is.'
+
+\pagebreak
+
 ## Oplossing 2
 
 ![Oplossing 2](RectFill2.png)
 
-```
+```c++
 float x = -50;
 
 void setup()
@@ -68,9 +76,6 @@ void draw()
 }
 ```
 
-![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
-:------------------------:|:---------------------------------------------------: 
-`rect(100, 200, 300, 400)`|'Lieve computer, teken een rechthoek met `(100, 200)` als linkerbovenhoek, 300 pixels breed en 400 pixels hoog is.'
 
 ## Opdracht 3
 
@@ -109,6 +114,8 @@ kun je zien in figuur `Kleurencirkel`.
 
 ![Kleurencirkel](AdditiveColor3.png)
 
+\pagebreak
+
 ## Oplossing 4
 
 ```c++
@@ -139,7 +146,9 @@ Voeg de volgende regel toe na `stroke(255, 255, 0);`:
 fill(x, 0, 255);
 ```
 
-## Oplossing
+\pagebreak
+
+## Oplossing 5
 
 ![Opdracht 5](RectFill5.png)
 
@@ -174,6 +183,8 @@ Maak een nieuwe variable aan, `groen` met een beginwaarde van nul.
 `groen` wordt gebruikt als het tweede getal van `fill` (inplaats van de nul).
 Elke keer wordt `groen` twee hoger.
 
+\pagebreak
+
 ### Oplossing 6
 
 ```c++
@@ -205,6 +216,8 @@ void draw()
 
 De variabele `groen` mag niet hoger worden dan `255`. Maak een `if` erbij,
 dat als `groen` meer is dan 255, dat groen dan nul wordt
+
+\pagebreak
 
 ## Oplossing 7
 
@@ -240,6 +253,8 @@ void draw()
 ![Opdracht 8](RectFill8.png)
 
 Maak de blauwheid van de invulkleur een willekeurig getal van nul tot 256.
+
+\pagebreak
 
 ## Oplossing 8
 
