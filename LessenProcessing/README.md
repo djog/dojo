@@ -26,24 +26,20 @@ Boekje 2:
  4. [`line` en `stroke`](./LineStroke/README.md)
  5. [Bal die eeuwig rechts gaat](./BalEeuwigNaarRechts/README.md)
  6. [`rect` en `fill`](./RectFill/README.md)
+
+Boekje 3:
+
  7. [Bal die horizontaal stuitert](./BalDieHorizontaalStuitert/README.md)
  8. [`ellipse` en `background`](./EllipseBackground/README.md)
  9. [Bal die schuin stuitert](./BalDieSchuinStuitert/README.md)
  10. [Tekst](./Text/README.md)
 
-### Rood
+Boekje 4:
 
- * [PImage 1](./PImage1/README.md)
- * [fullScreen](./FullScreen/README.md)
-
-### Variabelen
-
-![gele balk](Geel.png)
-
- * [Zwaartekracht](./Zwaartekracht/README.md)
- * [Arrays les 1](./Arrays1/README.md)
- * [Arrays les 2](./Arrays2/README.md)
- * [PImage les 1](./PImage1/README.md)
+ 11. [`fullScreen` en `PImage`](./FullScreenPImage/README.md)
+ 12. [Zwaartekracht](./Zwaartekracht/README.md)
+ 13. [Arrays les 1](./Arrays1/README.md)
+ 14. [Arrays les 2](./Arrays2/README.md)
 
 ### Leskaart 2
 
