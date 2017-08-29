@@ -7,13 +7,6 @@ tekstavonturen ooit:
 
 ![Zork](ZorkKleiner.png)
 
-In deze les gaan we leren 
-
- * hoe je tekst op het scherm zet
- * hoe je berekeningen op het scherm zet
- * hoe je tekst vergroot
- * hoe je tekst een kleur geeft
-
 ## Opdracht 1
 
 Run deze code:
@@ -47,6 +40,8 @@ void draw()
 }
 ```
 
+\pagebreak
+
 ## Oplossing 1
 
 ![Oplossing 1](Text1.png)
@@ -58,6 +53,8 @@ Voeg na `ellipse` de volgende regel toe:
 ```c++
 text(x, 10, 20);
 ```
+
+\pagebreak
 
 ## Oplossing 2
 
@@ -103,6 +100,8 @@ void draw()
 
 Het programma laat nu de `x` zien. Laat eronder nu ook de `y` coordinaat op het scherm zien.
 
+\pagebreak
+
 ## Oplossing 3
 
 ```c++
@@ -141,6 +140,8 @@ void draw()
 
 Met `fill` kun je de kleur van je tekst bepalen. 
 Na de eerste `text`, zet de fill op groen.
+
+\pagebreak
 
 ## Oplossing 4
 
@@ -183,6 +184,10 @@ Zet de tekst `PONG` bovenin en midden op het scherm.
 De tekst moet een willekeurige kleur krijgen.
 Gebruik `width` om het midden te bepalen.
 
+\pagebreak
+
+## Oplossing 5
+
 ```c++
 float x = 150;
 float y = 100;
@@ -223,6 +228,8 @@ void draw()
 Maak een variabele erbij: `aantal_botsingen`.
 `aantal_botsingen` heeft als beginwaarde nul.
 Zet deze waarde op het scherm, in het wit.ex
+
+\pagebreak
 
 ## Oplossing 6
 
@@ -267,6 +274,8 @@ void draw()
 ![Opdracht 7](Text7.png)
 
 Maak `botsingen` hoger als de bal teken de rechter muur komt.
+
+\pagebreak
 
 ## Oplossing 7
 

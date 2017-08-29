@@ -33,6 +33,8 @@ void draw()
 }
 ```
 
+\pagebreak
+
 ## Oplossing 1
 
 ![Oplossing 1](EllipseBackground1.png)
@@ -43,6 +45,8 @@ void draw()
 
 Verander het derde en vierde getal van `ellipse` (de `100`s), 
 zodat de ovaal twee keer zo hoog wordt.
+
+\pagebreak
 
 ## Oplossing 2
 
@@ -78,6 +82,8 @@ Voeg als eerste regel van `draw` toe:
 background(255, 0, 0);
 ```
 
+\pagebreak
+
 ## Oplossing 3
 
 ```c++
@@ -110,6 +116,8 @@ void draw()
 Maak de achtergrond nu magenta.
 Maak de rand van de cirkel zwart
 
+\pagebreak
+
 ## Oplossing 4
 
 ```
@@ -138,6 +146,8 @@ void draw()
 ## Opdracht 5
 
 Zet de regel met `background` nu na `size` (binnen `setup`).
+
+\pagebreak
 
 ## Oplossing 5
 
@@ -172,6 +182,8 @@ void draw()
 
 Maak de lijnkleur van de ovaal een willekeurige kleur: de rood, groen en
 blauw waarde moeten alledrie willekeurig zijn.
+
+\pagebreak
 
 ## Oplossing 6
 

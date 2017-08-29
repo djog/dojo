@@ -40,6 +40,8 @@ Zorg dat de code hetzelfde blijft doen
 :-------------:|:----------------------------------------: 
 `float y = 50;`|'Lieve computer, onthoud het getal `y` met een beginwaarde van vijftig.'
 
+\pagebreak
+
 ## Oplossing 1
 
 ```c++
@@ -74,6 +76,8 @@ void draw()
 Maak een nieuwe variable aan met de naam `snelheid_omlaag`. 
 Geef deze de beginwaarde van `1`. De bal hoeft nog niet te bewegen.
 
+\pagebreak
+
 ## Oplossing 2
 
 ```c++
@@ -107,6 +111,8 @@ void draw()
 ![Opdracht 3](BalDieSchuinStuitert3.png)
 
 Laat de bal nu ook naar onder bewegen. Hij hoeft nog niet te stuiteren.
+
+\pagebreak
 
 ## Oplossing 3
 
@@ -143,6 +149,8 @@ void draw()
 
 Laat de bal nu omhoog stuiteren als de bal de onderkant van het scherm raakt.
 
+\pagebreak
+
 ## Oplossing 4
 
 ```c++
@@ -175,6 +183,8 @@ void draw()
   }
 }
 ```
+
+\pagebreak
 
 ## Eindopdracht
 

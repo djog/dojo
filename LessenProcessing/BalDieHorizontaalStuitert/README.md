@@ -31,7 +31,9 @@ void draw()
 Type de code van `Een bal met een snelheid` over. 
 Zet de waarde van `snelheid` op `1`. Wat zie je?
 
-## Antwoord
+\pagebreak
+
+## Antwoord 1
 
 Je ziet dat de bal rusig naar rechts beweegt. Als de bal
 rechts het beeld uit gaat, komt deze vanaf links weer in het beeldscherm.
@@ -61,6 +63,8 @@ void draw()
 ## Opdracht 2
 
 Zet de waarde van `snelheid` op `0`. Wat zie je?
+
+\pagebreak
 
 ## Antwoord 2
 
@@ -95,6 +99,8 @@ Zet de waarde van `snelheid` op `-1`. Wat zie je?
 ![Sunglasses](EmojiSunglasses.png) | Het getal `-1` spreek je uit als 'min een'. Het is het getal een lager dan nul.
 :-------------:|:----------------------------------------: 
 
+\pagebreak
+
 ## Antwoord 3
 
 De bal gaat nu naar links en komt niet meer in beeld.
@@ -128,6 +134,8 @@ void draw()
 Zorg dat als de bal links uit beeld gaat, deze weer rechts verschijnt.
 Doe dit door een tweede `if` te maken
 
+\pagebreak
+
 ## Oplossing 4
 
 ```c++
@@ -160,25 +168,29 @@ Denk na: wat moet er met de `snelheid` gebeuren om de bal te laten stuiteren (va
 
 Als je durft: probeer dit zonder verder te lezen!
 
+\pagebreak
+
 ## Oplossing 5
 
 Als tegen de linkerkant komt, moet de bal de bal naar rechts gaan. Als tegen de rechterkant komt, moet de bal de bal naar links gaan.
 
 ![Smiley](EmojiSmiley.png)|Als de bal ...|dan moet deze ...
-:---:|:---:|:---:
-![Bal aan linkerkant](BalDieHorizontaalStuitertLinks.png)|aan de linkerkant komt|naar rechts gaan
-![Bal aan rechterkant](BalDieHorizontaalStuitertRechts.png)|aan de rechtkant komt|naar links gaan
+:---:|:------:|:------:
+![Bal aan linkerkant](BalDieHorizontaalStuitertLinksKlein.png)|aan de linkerkant komt|naar rechts gaan
+![Bal aan rechterkant](BalDieHorizontaalStuitertRechtsKlein.png)|aan de rechtkant komt|naar links gaan
 
 ![Computer](EmojiComputer.png)|`if (...)` | `{ }`
-:---:|:---:|:---:
-![Bal aan linkerkant](BalDieHorizontaalStuitertLinks.png)|`x < 50`|`snelheid = 1;`
-![Bal aan rechterkant](BalDieHorizontaalStuitertRechts.png)|`x > 550`|`snelheid = -1;`
+:---:|:------:|:------:
+![Bal aan linkerkant](BalDieHorizontaalStuitertLinksKlein.png)|`x < 50`|`snelheid = 1;`
+![Bal aan rechterkant](BalDieHorizontaalStuitertRechtsKlein.png)|`x > 550`|`snelheid = -1;`
 
 ## Opdracht 6
 
 ![Opdracht 6](BalDieHorizontaalStuitert6.png)
 
 Laat de bal nu van links naar rechts stuiteren
+
+\pagebreak
 
 ## Oplossing 6
 
@@ -212,6 +224,8 @@ void draw()
 
 Laat de bal nu met een snelheid van 2 pixels per keer bewegen.
 
+\pagebreak
+
 ## Oplossing 7
 
 ```c++
@@ -240,7 +254,6 @@ void draw()
 
 ## Opdracht 8
 
-
 Verander in de code:
 
 van|naar
@@ -254,6 +267,8 @@ van|naar
 
 ![Sunglasses](EmojiSunglasses.png) | Het getal `-1` heeft een minteken. Het getal `1` (ook goed: `+1`) heeft een plusteken.
 :-------------:|:----------------------------------------: 
+
+\pagebreak
 
 ## Oplossing 8
 
@@ -282,6 +297,8 @@ void draw()
   }
 }
 ```
+
+\pagebreak
 
 ## Eindopdracht
 
