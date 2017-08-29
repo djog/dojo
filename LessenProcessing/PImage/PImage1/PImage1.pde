@@ -1,11 +1,13 @@
 PImage plaatje;
 
-void setup() {
-  size(640, 360);
+void setup() 
+{
+  fullScreen();
   plaatje = loadImage("mario.png");
 }
 
-void draw() {
-  background(0);
-  image(plaatje, mouseX, mouseY);
+void draw() 
+{
+  background(255, 255, 255);
+  image(plaatje, width / 2, height / 2);
 }
