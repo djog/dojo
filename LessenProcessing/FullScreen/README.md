@@ -26,14 +26,14 @@ void draw()
 
 ## Oplossing 1
 
-![Oplossing 1](FullscreenPImage1.png)
+![Oplossing 1](Fullscreen1.png)
 
 ## Opdracht 2
 
 Maak een rechthoek met de linkerbovenhoek in het midden, 
 met een breedte van 200 en een hoogte van 100 pixels.
 
-![Opdracht 2](FullscreenPImage2.png)
+![Opdracht 2](Fullscreen2.png)
 
 ## Oplossing 2
 
@@ -53,7 +53,7 @@ void draw()
 
 Zet nu de rechthoek in het midden van het scherm. 
 
-![Opdracht 3](FullscreenPImage3.png)
+![Opdracht 3](Fullscreen3.png)
 
 ![Sunglasses](EmojiSunglasses.png) | De rechthoek moet 100 naar links en 50 omhoog
 :-------------:|:----------------------------------------: 
@@ -77,7 +77,7 @@ void draw()
 Zet een rechthoek in het midden van het scherm, met een breedte van 300 pixels
 en een hoogte van 400 pixels.
 
-![Opdracht 4](FullscreenPImage4.png)
+![Opdracht 4](Fullscreen4.png)
 
 ## Oplossing 4
 
@@ -98,7 +98,7 @@ void draw()
 Zet een rechthoek in het midden van het scherm, die half zo breed is als het scherm,
 en 500 pixels hoog is.
 
-![Opdracht 5](FullscreenPImage5.png)
+![Opdracht 5](Fullscreen5.png)
 
 ## Oplossing 5
 

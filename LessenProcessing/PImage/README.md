@@ -44,7 +44,7 @@ Stop dit plaatje in een subfolder van waar je code staat.
 
 Hier zie je een plaatje waarop staat waar de bestanden moeten staan:
 
-![Folderstructuur.png](Folderstructuur.png)
+![Folder structuur](PImageFolderstructuur.png)
 
  * De sketch heet `PImage1.pde`. Daarom staat deze in de map `PImage1`. Deze kan je in Processing vinden onder `Schets` -> `Toon Schets Map`
  * De sketch heeft een folder `data`. Hierin staat het plaatje, `mario.png`
