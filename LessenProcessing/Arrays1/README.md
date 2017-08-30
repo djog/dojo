@@ -3,21 +3,11 @@
 Met arrays kun je de computer veel waardes laten onthouden:
 de coordinaten van kogels, meteorieten, vijanden.
 
-In deze les gaan we leren 
+## Opdracht 1
 
- * waarom je arrays nodig hebt
- * wat arrays zijn
- * hoe je een array met een element gebruikt
+Run deze code. Wat doet het?
 
-Zo gaat het eruit zien:
-
-![Honderd rookdeeltjes](Arrays1_honderd_rookdeeltjes.png)
-
-## Twee ballen die eeuwig naar rechts gaan
-
-Je hebt een bal euuwig horizontaal laten bewegen:
-
-```
+```c++
 float x = 0;
 
 void setup()
@@ -36,22 +26,28 @@ void draw()
 }
 ```
 
-## Vragen
+## Oplossing 1
 
- * 1. Run deze code. Wat zie je?
- * 2. Zorg dat er een tweede bal bijkomt. Tips: 
-    * verander de naam `x` naar `x1`
-    * maak een nieuwe variabele met de naam `x2`
- * 3. Hoeveel regels code kost het ongeveer om een extra bal te programmeren?
+Een bal die eeuwig naar rechts gaat!
 
-## Oplossing
+![Oplossing 1](Arrays1_1.png)
+
+## Opdracht 2
+
+Zorg dat er een tweede bal bijkomt.
 
 ![Twee ballen die eeuwig naar rechts gaan](Arrays1_twee_ballen.png)
 
- * 1. Een bal die horizontaal heen en weer beweegt
- * 2. Zo doe je dat:
+![Sunglasses](EmojiSunglasses.png) | Tip: verander de naam `x` naar `x1`
+:-------------:|:----------------------------------------: 
 
-```
+![Bowtie](EmojiBowtie.png) | Maak dan een nieuwe variabele met de naam `x2`
+:-------------:|:----------------------------------------: 
+
+
+## Oplossing 2
+
+```c++
 float x1 = 0;
 float x2 = 100;
 
@@ -77,21 +73,18 @@ void draw()
 }
 ```
 
- * 3. zeven regels
+![Sunglasses](EmojiSunglasses.png) | Dit was zeven regels extra werk
+:-------------:|:----------------------------------------: 
 
-## Vragen: drie ballen
+## Opdracht 3
 
- * 1. Zorg dat er een derde bal bijkomt
- * 2. Hoeveel regels code kost het ongeveer om een extra bal te programmeren?
- * 3. Hoeveel extra regels kost het om nog eens tien ballen erbij te programmeren? 
-
-## Oplossing
+Zorg dat er een derde bal bijkomt.
 
 ![Drie ballen](Arrays1_drie_ballen.png)
 
- * 1. Zo doe je dat:
+## Oplossing 3
 
-```
+```c++
 float x1 = 0;
 float x2 = 100;
 float x3 = 200;
@@ -124,23 +117,15 @@ void draw()
 }
 ```
 
- * 3. weer zeven regels
- * 4. tien keer zeven is zeventig regels
+![Sunglasses](EmojiSunglasses.png) | Dit was weer zeven regels extra werk
+:-------------:|:----------------------------------------: 
 
-## Waarom arrays?
-
-Je hebt de code gezien met de drie ballen die eeuwig naar rechts gaan.
-
-Het valt op dat er veel herhaling in zit.
-Dit komt omdat we de computer steeds een getal tegelijk laten onthouden:
-`float x1 = 300` betekent: 'Lieve computer, onthoudt een gebroken getal met de naam `x1`, met als beginwaarde 300'.
-Wat we willen kunnen zeggen is 'Lieve computer, onthoud keiveel gebroken getallen'.
-Dit is precies wat een array kan doen!
+![Bowtie](EmojiBowtie.png) | Dit kan slimmer, met arrays!
+:-------------:|:----------------------------------------: 
 
 ## Wat is een array?
 
-Een array kun je zien als een kast met laatjes.
-In deze les beginnen we met een kast met een laatje:
+Een array is als een kast met laatjes.
 
 ![Kast met laatje](KastMetLaatje.png)
 
@@ -150,20 +135,16 @@ Hier zie je het nummer van het laatje, en het getal wat erin zit:
 
 ![Kast met genummerde laatjes](KastMetGenummerdLaatjeEnGetal.png)
 
+![Sunglasses](EmojiSunglasses.png) | Het eerste laatje van een array heeft nummer nul
+:-------------:|:----------------------------------------: 
+
 Het laatje heeft nummer *nul* (links) en in het laatje zit het
 getal tweeenveertig.
 
-Het valt op dat het laatje nummer *nul* heeft.
-Je zegt: 'Het eerste laatje heeft index nul'. 
-Als je normaal telt, begin je bij een.
-Bij indices (het meervoud van index) begin je te tellen bij nul.
-De kast heeft een laatje, met index nul.
+![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
+:-------------:|:----------------------------------------: 
+`plek in array met index nul`|'het eerste plekje in de array'
 
-## Vragen
-
- * Wat is een array?
- * Wat is een index?
- * Wat is de laagste index?
 
 ## Werken met een array met een laatje
 
@@ -176,7 +157,12 @@ dan moeten we boven de `setup` het volgende typen:
 float[] geheime_getallen;
 ```
 
-Hiermee zeg je: 'Lieve computer, onthoud keiveel gebroken getallen met de naam `geheime_getallen`'.
+Met deze regel maak je array met de naam `geheime_getallen`
+
+![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
+:-------------:|:----------------------------------------: 
+`float[] geheime_getallen`|'Lieve computer, onthoud keiveel gebroken getallen met de naam `geheime_getallen`'
+
 
 Er is nog niet gezegd *hoeveel* gebroken getallen dat zijn.
 Vaak wordt de `setup` functie gebruikt om te zeggen hoeveel getallen er onthouden moeten worden:
@@ -185,32 +171,42 @@ Vaak wordt de `setup` functie gebruikt om te zeggen hoeveel getallen er onthoude
 geheime_getallen = new float[1];
 ```
 
-Hiermee zeg je: 'Lieve computer, maak `geheime_getallen` groot genoeg om 
-een gebroken getal (`float`s) te onthouden'.
+Hiermee maak je de array `geheime_getallen` 1 laatje groot.
+
+
+![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
+:-------------:|:----------------------------------------: 
+`geheime_getallen = new float[1]`|'Lieve computer, maak `geheime_getallen` 1 laatje groot`'
+
 
 Om de kast met de laatjes na te maken, kun je de volgende code gebruiken:
 
 ```
-geheime_getallen[0] =  42;
+geheime_getallen[0] = 42;
 ```
 
-Hiermee zeg je, in de derde regel: 'Lieve computer, stop in laatje met index nul het getal 
-tweeenveertig'. Deze code zou prima in de `setup` functie gedaan kunnen worden.
+Hierdoor stop je het getal 42 op het eerste plekje in de array.
+
+![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
+:-------------:|:----------------------------------------: 
+`geheime_getallen[0] = 42`|'Lieve computer, stop het getal `42` in het eerste plekje van de array `geheime_getallen`'
 
 Je zou ook de waarde in de laatjes kunnen lezen:
 
 ```
 float x = geheime_getallen[0];
-ellipse(x,200,300,400);
 ```
 
-Hiermee zeg je: 'Lieve computer, kijk wat er in laatje met index nul zit en onthoud dat als `x`. 
-Teken dan een ovaal die `x` pixels naar rechts is, 
-200 pixels omlaag is, 300 pixels breed is, en 400 pixels hoog is.'.
+Hiermee lees je het eerste plekje (het laatje met index nul) en stop je dat in `x`.
+
+![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
+:-------------:|:----------------------------------------: 
+`float x = geheime_getallen[0]`|'Lieve computer, kijk wat er in laatje met index nul zit en onthoud dat als `x`'
+
 
 Alles bij elkaar krijg je dit programma:
 
-```
+```c++
 float[] geheime_getallen;
 
 void setup()
@@ -226,6 +222,37 @@ void draw()
   ellipse(x,200,300,400);
 }
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Dit programma ziet er niet erg mooi uit. Het is bedoeld om je te laten hoe je arrays maakt, vult en leest.
 
