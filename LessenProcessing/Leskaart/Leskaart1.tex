@@ -1,27 +1,34 @@
 \documentclass{article}
 \usepackage{graphicx}
 \usepackage{draftwatermark}
+\usepackage{tabularx}
+
 \SetWatermarkText{\includegraphics{processing3-logo-witter.png}}
 \begin{document}
 
-\section{Dojo leskaart 1}
+\section*{
+  \Huge
+  Dojo leskaart 1
+}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{table}
+\begin{table}[!htbp]
+  \Huge
   \centering 
-  \begin{tabular}{l l}
+  \begin{tabularx}{\textwidth}{ | l | p{9.85cm} | }
     \hline
     Van &  \\
     \hline
-  \end{tabular}
+  \end{tabularx}
 \end{table}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{table}
+\begin{table}[!htbp]
+  \LARGE
   \centering 
-  \begin{tabular}{l l l}
+  \begin{tabularx}{\textwidth}{ | l | l | l | }
     \hline
     Les & Omschrijving & Klaar? \\
     \hline
@@ -40,7 +47,7 @@
     ? & arrays 1 & \\
     ? & arrays 2 & \\
     \hline
-  \end{tabular}
+  \end{tabularx}
 \end{table}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
