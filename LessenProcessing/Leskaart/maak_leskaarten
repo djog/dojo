@@ -1,0 +1,3 @@
+#!/bin/bash
+
+pdflatex Leskaart1.tex --shell-escape

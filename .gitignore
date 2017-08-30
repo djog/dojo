@@ -4,3 +4,5 @@ build/
 .Rhistory
 tmp.*
 .~lock.*
+LessenProcessing/Leskaart/*.aux
+LessenProcessing/Leskaart/*.log
