@@ -3,6 +3,9 @@
 Met arrays kun je de computer veel waardes laten onthouden:
 de coordinaten van kogels, meteorieten, vijanden.
 
+![Bowtie](EmojiBowtie.png) | Sla niet de eerste opdrachten over. Dit helpt je om arrays beter te snappen.
+:-------------:|:----------------------------------------: 
+
 ## Opdracht 1
 
 Run deze code. Wat doet het?
@@ -222,67 +225,13 @@ void draw()
   ellipse(x,200,300,400);
 }
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Dit programma ziet er niet erg mooi uit. Het is bedoeld om je te laten hoe je arrays maakt, vult en leest.
 
-## Vragen
+## Opdracht 4 
 
- * Welke foutmelding krijg je als je `float[] geheime_getallen;` in de `setup` functie zet?
- * Welke foutmelding krijg je als je `float geheime_getallen;` (dus zonder blokhaken) gebruikt?
- * Je wilt een array maken van gebroken getallen met de naam `snelheden`. Hoe zeg je dat in code?
+Run onderstaande code
 
-## Drie ballen met een array
- 
-We hebben al de code van drie ballen die eeuwig naar rechts gaan.
-Deze gaan we nu in een array stoppen
-
-## Opdracht
-
-![Array voor 'Drie ballen met een array'](Arrays1_kast_drie_ballen.png)
-
- * 1. Verander de code van 'Drie ballen die eeuwig naar rechts gaan' met een array:
-   * Het programma moet precies hetzelfde doen
-   * Gebruik in plaats van de variabelen `x1`, `x2` en `x3` de naam `xs` (meerdere `x`-en)
-   * De array `xs` wordt dus drie groot
- * 2. Hoeveel regels wordt je code korter?
-
-
-## Oplossing 
-
- * 1. Zo doe je dat:
-
-```
+```c++
 float[] xs;
 
 void setup()
@@ -317,16 +266,17 @@ void draw()
 }
 ```
 
- * 2. Je code wordt juist langer!
+## Oplossing 4
 
-## Opdracht
+Hee, hetzelfde als net!
 
- * 1. Maak de code korter door for-loops te gebruiken
- * 2. Wordt de code nu langer of korter?
+![Oplossing 4](Arrays1_drie_ballen.png)
 
-## Oplossing
+## Opdracht 5
 
-```
+Run deze code:
+
+```c++
 float[] xs;
 
 void setup()
@@ -353,25 +303,46 @@ void draw()
 }
 ```
 
-## Vier ballen
+![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
+:-------------:|:----------------------------------------: 
+`for (int i=0; i<3; ++i) {}`|'Lieve computer, doe wat tussen accolades staat met waarden van `i` van `0` tot `3` in stapjes van `1`'
 
-![Array met vier laatjes](Arrays1_kast_vier_ballen.png)
+![Computer](EmojiComputer.png) | Ik ben een domme computer
+:-------------:|:----------------------------------------: 
+ |`xs[0] =   0;`
+ |`xs[1] = 100;`
+ |`xs[2] = 200;`
 
-Om nu een vier bal erbij te maken, pak je de code van 'Drie ballen'
-en maakt van de `3` een `4`
+![Computer](EmojiComputer.png) | Ik ben een slimme computer
+:--------------|:----------------------------------------- 
+ |`for (int i=0; i<3; ++i)`
+ |`{`
+ |  `  xs[i] = i * 100;`
+ |`}`
 
-## Opdracht
 
- * 1. Pak de code van 'Drie ballen' en maakt van de `3` een `4`
- * 2. Op hoeveel plekken moest je een `3` in een `4` veranderen?
+![Sunglasses](EmojiSunglasses.png) | Goede programmeur gebruiken liever `for` loops dan dom te knippen en plakken
+:-------------:|:----------------------------------------: 
 
-## Oplossing
 
- * 1. Dat ziet er zo uit:
+
+## Oplossing 5
+
+Hee, hetzelfde als net!
+
+## Opdracht 6
 
 ![Vier ballen](Arrays1_vier_ballen.png)
 
-```
+Maak nu een vierde bal erbij.
+
+![Bowtie](EmojiBowtie.png) | Tip: maak van een `3` een `4`
+:-------------:|:----------------------------------------: 
+
+## Oplossing 6
+
+
+```c++
 float[] xs;
 
 void setup()
@@ -388,7 +359,7 @@ void draw()
 {
   for (int i=0; i<4; ++i)
   {
-    ellipse(xs[i],25,50,50);
+    ellipse(xs[i], 25, 50, 50);
     xs[i] = xs[i] + 1;
     if (xs[i] > 625)
     {
@@ -398,9 +369,44 @@ void draw()
 }
 ```
 
- * 2. Op drie plekken
+## Opdracht 7
+
+Maak nu het programma full-screen. Laat de ballen als ze rechts het scherm uitgaan, weer links beginnen. Gebruik hiervoor `width`
+
+![Opdracht 7](Arrays1_7.png)
+
+## Oplossing 7
+
+```c++
+float[] xs;
+
+void setup()
+{
+  fullScreen();
+  xs = new float[4];
+  for (int i=0; i<4; ++i)
+  {
+    xs[i] = i * 100;
+  }
+}
+
+void draw()
+{
+  for (int i=0; i<4; ++i)
+  {
+    ellipse(xs[i], 25, 50, 50);
+    xs[i] = xs[i] + 1;
+    if (xs[i] > width + 25)
+    {
+      xs[i] = -25;
+    }
+  }
+}
+```
 
 ## Eindopdracht
+
+![Eindopdracht](Arrays1_eindopdracht.png)
 
 Maak de code nu zo dat:
 
