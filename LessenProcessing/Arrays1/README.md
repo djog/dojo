@@ -3,9 +3,6 @@
 Met arrays kun je de computer veel waardes laten onthouden:
 de coordinaten van kogels, meteorieten, vijanden.
 
-![Bowtie](EmojiBowtie.png) | Sla niet de eerste opdrachten over. Dit helpt je om arrays beter te snappen.
-:-------------:|:----------------------------------------: 
-
 ## Opdracht 1
 
 Run deze code. Wat doet het?
@@ -47,6 +44,7 @@ Zorg dat er een tweede bal bijkomt.
 ![Bowtie](EmojiBowtie.png) | Maak dan een nieuwe variabele met de naam `x2`
 :-------------:|:----------------------------------------: 
 
+\pagebreak
 
 ## Oplossing 2
 
@@ -84,6 +82,8 @@ void draw()
 Zorg dat er een derde bal bijkomt.
 
 ![Drie ballen](Arrays1_drie_ballen.png)
+
+\pagebreak
 
 ## Oplossing 3
 
@@ -266,6 +266,8 @@ void draw()
 }
 ```
 
+\pagebreak
+
 ## Oplossing 4
 
 Hee, hetzelfde als net!
@@ -324,7 +326,7 @@ void draw()
 ![Sunglasses](EmojiSunglasses.png) | Goede programmeur gebruiken liever `for` loops dan dom te knippen en plakken
 :-------------:|:----------------------------------------: 
 
-
+\pagebreak
 
 ## Oplossing 5
 
@@ -338,6 +340,8 @@ Maak nu een vierde bal erbij.
 
 ![Bowtie](EmojiBowtie.png) | Tip: maak van een `3` een `4`
 :-------------:|:----------------------------------------: 
+
+\pagebreak
 
 ## Oplossing 6
 
@@ -374,6 +378,8 @@ void draw()
 Maak nu het programma full-screen. Laat de ballen als ze rechts het scherm uitgaan, weer links beginnen. Gebruik hiervoor `width`
 
 ![Opdracht 7](Arrays1_7.png)
+
+\pagebreak
 
 ## Oplossing 7
 

@@ -2,10 +2,6 @@
 
 In deze les gaan we zwaartekracht programmeren.
 
-Het ziet er zo uit:
-
-![Zwaartekracht](Zwaartekracht.png)
-
 We gaan in deze les twee variabelen en twee `if`-statements gebruiken. 
 
 ## Opdracht 1
@@ -43,6 +39,8 @@ void draw()
 }
 ```
 
+\pagebreak
+
 ## Oplossing 1
 
 ![Zwaartekracht oplossing 1](Zwaartekracht1.png)
@@ -52,6 +50,8 @@ void draw()
 Zorg dat het programma full-screen wordt
 
 ![Zwaartekracht opdracht 2](Zwaartekracht2.png)
+
+\pagebreak
 
 ## Oplossing 2
 
@@ -95,6 +95,8 @@ Zorg dat de bal goed aan de onderkant stuitert.
 ![Sunglasses](EmojiSunglasses.png) | Tip: vervang `175` door `height - 25`
 :-------------:|:----------------------------------------: 
 
+\pagebreak
+
 ## Oplossing 3
 
 ```c++
@@ -134,6 +136,8 @@ Zorg dat de bal goed aan de rechterkant stuitert.
 
 ![Zwaartekracht opdracht 4](Zwaartekracht4.png)
 
+\pagebreak
+
 ## Oplossing 4
 
 ```c++
@@ -166,6 +170,8 @@ void draw()
   }
 }
 ```
+
+\pagebreak
 
 ## Eindopdracht
 

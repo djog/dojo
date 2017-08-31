@@ -1,30 +1,16 @@
 # Arrays2
 
-Met arrays kun je de computer veel waardes laten onthouden:
-de coordinaten van kogels, meteorieten, vijanden.
-
-In deze les gaan we leren 
-
- * waarom je arrays nodig hebt
- * wat arrays zijn
- * hoe je een array met een element gebruikt
-
-Zo gaat het eruit zien:
+We gaan honderd rookdeeltjes nadoen op de computer!
 
 ![Honderd rookdeeltjes](Arrays2_honderd_rookdeeltjes.png)
 
-## Een rookdeeltje
+## Opdracht 1
 
-Je bent bezig een simulatie te maken: je wilt allemaal 
-rookdeeltjes laten bewegen op het scherm.
+Run deze code:
 
-![Een rookdeeltje](Arrays2_een_rookdeeltje.png)
-
-Dit is je code:
-
-```
-float x = 160;
-float y = 100;
+```c++
+float x1 = 160;
+float y1 = 100;
 
 void setup() 
 {
@@ -33,35 +19,28 @@ void setup()
 
 void draw()
 {
-  x += random(-1,1);
-  y += random(-1,1);
-  ellipse(x, y, 10, 10);
+  x1 += random(-1,1);
+  y1 += random(-1,1);
+  ellipse(x1, y1, 10, 10);
 }
 ```
 
-Dit is wat de code betekent:
+## Oplossing 1
 
- * `float x = 160`: 'Lieve computer, onthoudt een gebroken getal met de naam `x`, met als beginwaarde 160'. Dit wordt de x coordinaat van het eerste rookdeeltje
- * `float y = 100`: 'Lieve computer, onthoudt een gebroken getal met de naam `y`, met als beginwaarde 100'. Dit wordt de y coordinaat van het eerste rookdeeltje
- * `void setup() {}`: de klaarzet functie. Bij het opstarten wordt de code tussen de accolates een keer uitgevoerd
- * `size(320, 200)`: maak een venster van 320 pixels breed en 200 pixels hoog
- * `void draw() {}`: de teken functie. De code tussen de accolates wordt oneindig vaak uitgevoerd
- * `x += random(-1,1)`: verander de waarde van `x` met een willekeurige waarden van -1 tot 1. Dit laat rookdeeltje 1 willekeurig horizontaal bewegen
- * `y += random(-1,1)`: verander de waarde van `y` met een willekeurige waarden van -1 tot 1. Dit laat rookdeeltje 1 willekeurig verticaal bewegen
- * `ellipse(x, y, 10, 10)`: teken een ovaal met als middelpunt (`x`, `y`) met breedte 10 en hoogte 10. Teken het eerste rookdeeltje
+![Een rookdeeltje](Arrays2_een_rookdeeltje.png)
 
-## Vragen
+Ha, een rookdeeltje.
 
- * 1. Zorg dat er een tweede rookdeeltje bijkomt
- * 2. Hoeveel regels code kost het ongeveer om honderd rookdeeltjes te programmeren?
 
-## Oplossing
-
- * 1. Dit ziet er zo uit:
+## Opdracht 2
 
 ![Twee rookdeeltjes](Arrays2_twee_rookdeeltjes.png)
 
-```
+Maak een tweede rookdeeltje. Maak h
+
+## Oplossing 2
+
+```c++
 float x1 = 160;
 float y1 = 100;
 float x2 = 160;
@@ -83,29 +62,25 @@ void draw()
 }
 ```
 
- * 2. Dit kostte vijf regels
+## Opdracht 3
 
-## Twee rookdeeltjes met een array, zonder for loop
+Gebruik nu een array, zonder for loop.
 
-Om naar honderd rookdeeltjes te komen, gaan we eerst de code omschrijven.
+![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
+:-------------:|:----------------------------------------: 
+`float[] xs`|'Lieve computer, onthoud keiveel gebroken getallen met de naam `xs`'
 
-## Opdracht
+![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
+:-------------:|:----------------------------------------: 
+`xs = new float[2]`|'Lieve computer, maak `xs` 2 laatjes groot`'
 
-![Array van 'Twee rookdeeltjes met een array, zonder for loop'](Arrays2_kast_xs_en_ys.png)
+![Bowtie](EmojiBowtie.png) | Tip: gebruik `xs[0]` inplaats van `x1` en `xs[1]` inplaats van `x2` 
+:-------------:|:----------------------------------------: 
 
-Verander de code van 'Twee rookdeeltjes':
 
- * gebruik een array `xs`, in plaats van `x1` en `x2`
- * array `xs` is twee laatjes groot
- * gebruik een array `ys`, in plaats van `y1` en `y2`
- * array `ys` is twee laatjes groot
- * In arrays `xs` zit een `160` in het eerste en tweede laatje
- * In arrays `ys` zit een `100` in het eerste en tweede laatje
- * gebruik nog geen for loop
+## Oplossing 3
 
-## Oplossing
-
-```
+```c++
 float[] xs;
 float[] ys;
 
@@ -131,22 +106,19 @@ void draw()
 }
 ```
 
-## Drie rookdeeltjes
-
-Nu laten we de code een for loop gebruiken.
-
-## Opdracht
+## Opdracht 4
 
 ![Drie rookdeeltjes](Arrays2_drie_rookdeeltjes.png)
 
-Verander de code van 'Twee rookdeeltjes met een array, zonder for loop':
+Gebruik nu for loops. Maak zowel array `xs` en `ys` drie laatjes groot.
 
- * Gebruik een for-loop
- * Maak er drie rookdeeltjes van
+![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
+:-------------:|:----------------------------------------: 
+`for (int i=0; i<3; ++i) {}`|'Lieve computer, doe wat tussen accolades staat met waarden van `i` van `0` tot `3` in stapjes van `1`'
 
 ## Oplossing
 
-```
+```c++
 float[] xs;
 float[] ys;
 
@@ -173,26 +145,23 @@ void draw()
 }
 ```
 
-## Vier rookdeeltjes
-
-We gaan weer een stapje verder: nu geven we de randen van de rookdeeltjes een rode kleur
+## Opdracht 5
 
 ![Vier rookdeeltjes](Arrays2_vier_rookdeeltjes.png)
 
-## Opdracht
+Elk rookdeeltje krijgt nu een eigen rode randkleur:
 
-![Arrays bij opdracht 'Vier rookdeeltjes'](Arrays2_kast_xs_en_ys_en_rs.png)
-
- * Gebruik nu vier rookdeeltjes
- * Maak een derde array genaamd `rs`
- * In `rs` zit de roodheid van de rookdeeltjes
- * In `rs` moeten de getallen `0`, `64`, `128` en `196` komen. Tip: dit is de tafel van `64`. Om te vermenigvuldigen, gebruik een sterretje (`*`)
+ * Maak een derde array genaamd `rs`, voor de roodheid van de rookdeeltjes
+ * In `rs` moeten de getallen `0`, `64`, `128` en `196` komen
  * De roodheid moet ook steeds een meer of minder worden
  * De rand van het eerste rookdeeltje, moet de eerste roodheid krijgen. Tip: gebruik `stroke`
 
-## Oplossing
+![Bowtie](EmojiBowtie.png) | Tip: gebruik `stroke` voor de randkleur
+:-------------:|:----------------------------------------: 
 
-```
+## Oplossing 5
+
+```c++
 float[] xs;
 float[] ys;
 float[] rs; //Roodwaarden
@@ -233,5 +202,7 @@ Maak nu de code zo dat:
  * er 256 rookdeeltjes komen.
  * elk rookdeeltje heeft en eigen *blauw*waarde
  * het eerste rookdeeltje heeft een blauwwaarde van nul. Het tweede rookdeeltje heeft een blauwwaarde van een. Het derde rookdeeltje heeft een blauwwaarde van twee. Enzovoorts
- * noem de array waarin de blauwwaarden staan `bs`
- * niet de rand, maar de vulkleur is blauw (tip: `fill`)
+ * niet de rand, maar de vulkleur is blauw
+
+![Bowtie](EmojiBowtie.png) | Tip: gebruik `fill` voor de vulkleur
+:-------------:|:----------------------------------------: 

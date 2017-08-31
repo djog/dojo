@@ -2,7 +2,7 @@
 
 In deze les gaan we met plaatjes werken!
 
-![PImage1.png](PImage1.png)
+![EmojiSunglasses.png](EmojiSunglasses.png)
 
 ## Opdracht 1
 
@@ -24,6 +24,8 @@ void draw()
 }
 ```
 
+\pagebreak
+
 ## Oplossing 1
 
 Je krijgt een error!
@@ -32,6 +34,8 @@ Je krijgt een error!
 
 ![Sunglasses](EmojiSunglasses.png) | De computer zegt dat hij het plaatje niet kan vinden!
 :-------------:|:----------------------------------------: 
+
+\pagebreak
 
 ## Opdracht 2
 
@@ -48,6 +52,8 @@ Hier zie je een plaatje waarop staat waar de bestanden moeten staan:
 
  * De sketch heet `PImage1.pde`. Daarom staat deze in de map `PImage1`. Deze kan je in Processing vinden onder `Schets` -> `Toon Schets Map`
  * De sketch heeft een folder `data`. Hierin staat het plaatje, `mario.png`
+
+\pagebreak
 
 ## Eindopdracht
 

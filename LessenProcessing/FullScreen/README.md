@@ -24,6 +24,8 @@ void draw()
 `width / 4`|'Lieve computer, vul hier het aantal pixels dat het scherm breed is, gedeeld door vier'
 `height / 4`|'Lieve computer, vul hier het aantal pixels dat het scherm hoog is, gedeeld door vier'
 
+\pagebreak
+
 ## Oplossing 1
 
 ![Oplossing 1](Fullscreen1.png)
@@ -34,6 +36,8 @@ Maak een rechthoek met de linkerbovenhoek in het midden,
 met een breedte van 200 en een hoogte van 100 pixels.
 
 ![Opdracht 2](Fullscreen2.png)
+
+\pagebreak
 
 ## Oplossing 2
 
@@ -58,6 +62,8 @@ Zet nu de rechthoek in het midden van het scherm.
 ![Sunglasses](EmojiSunglasses.png) | De rechthoek moet 100 naar links en 50 omhoog
 :-------------:|:----------------------------------------: 
 
+\pagebreak
+
 ## Oplossing 3
 
 ```c++
@@ -78,6 +84,8 @@ Zet een rechthoek in het midden van het scherm, met een breedte van 300 pixels
 en een hoogte van 400 pixels.
 
 ![Opdracht 4](Fullscreen4.png)
+
+\pagebreak
 
 ## Oplossing 4
 
@@ -100,6 +108,8 @@ en 500 pixels hoog is.
 
 ![Opdracht 5](Fullscreen5.png)
 
+\pagebreak
+
 ## Oplossing 5
 
 ```c++
@@ -115,6 +125,8 @@ void draw()
 ```
 
 ## Eindopdracht
+
+![Eindopdracht](Fullscreen6.png)
 
 Zet een rechthoek in het midden van het scherm, die half zo breed en hoog is als het scherm.
 
