@@ -1,8 +1,8 @@
 # Arrays2
 
-We gaan honderd rookdeeltjes nadoen op de computer!
+Nog meer arrays!
 
-![Honderd rookdeeltjes](Arrays2_honderd_rookdeeltjes.png)
+![Robotron](Robotron.png)
 
 ## Opdracht 1
 
@@ -25,6 +25,8 @@ void draw()
 }
 ```
 
+\pagebreak
+
 ## Oplossing 1
 
 ![Een rookdeeltje](Arrays2_een_rookdeeltje.png)
@@ -36,7 +38,9 @@ Ha, een rookdeeltje.
 
 ![Twee rookdeeltjes](Arrays2_twee_rookdeeltjes.png)
 
-Maak een tweede rookdeeltje. Maak h
+Maak een tweede rookdeeltje.
+
+\pagebreak
 
 ## Oplossing 2
 
@@ -77,6 +81,7 @@ Gebruik nu een array, zonder for loop.
 ![Bowtie](EmojiBowtie.png) | Tip: gebruik `xs[0]` inplaats van `x1` en `xs[1]` inplaats van `x2` 
 :-------------:|:----------------------------------------: 
 
+\pagebreak
 
 ## Oplossing 3
 
@@ -116,7 +121,9 @@ Gebruik nu for loops. Maak zowel array `xs` en `ys` drie laatjes groot.
 :-------------:|:----------------------------------------: 
 `for (int i=0; i<3; ++i) {}`|'Lieve computer, doe wat tussen accolades staat met waarden van `i` van `0` tot `3` in stapjes van `1`'
 
-## Oplossing
+\pagebreak
+
+## Oplossing 4
 
 ```c++
 float[] xs;
@@ -159,6 +166,8 @@ Elk rookdeeltje krijgt nu een eigen rode randkleur:
 ![Bowtie](EmojiBowtie.png) | Tip: gebruik `stroke` voor de randkleur
 :-------------:|:----------------------------------------: 
 
+\pagebreak
+
 ## Oplossing 5
 
 ```c++
@@ -192,6 +201,8 @@ void draw()
   }
 }
 ```
+
+\pagebreak
 
 ## Eindopdracht
 

@@ -3,6 +3,8 @@
 Met arrays kun je de computer veel waardes laten onthouden:
 de coordinaten van kogels, meteorieten, vijanden.
 
+![Galaga is een beroemde game met veel vijanden en kogels](Galaga.png)
+
 ## Opdracht 1
 
 Run deze code. Wat doet het?
@@ -25,6 +27,8 @@ void draw()
   }
 }
 ```
+
+\pagebreak
 
 ## Oplossing 1
 
@@ -126,6 +130,8 @@ void draw()
 ![Bowtie](EmojiBowtie.png) | Dit kan slimmer, met arrays!
 :-------------:|:----------------------------------------: 
 
+\pagebreak
+
 ## Wat is een array?
 
 Een array is als een kast met laatjes.
@@ -148,6 +154,7 @@ getal tweeenveertig.
 :-------------:|:----------------------------------------: 
 `plek in array met index nul`|'het eerste plekje in de array'
 
+\pagebreak
 
 ## Werken met een array met een laatje
 
@@ -160,7 +167,7 @@ dan moeten we boven de `setup` het volgende typen:
 float[] geheime_getallen;
 ```
 
-Met deze regel maak je array met de naam `geheime_getallen`
+Met deze regel maak je array met de naam `geheime_getallen`.
 
 ![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
 :-------------:|:----------------------------------------: 
@@ -182,7 +189,9 @@ Hiermee maak je de array `geheime_getallen` 1 laatje groot.
 `geheime_getallen = new float[1]`|'Lieve computer, maak `geheime_getallen` 1 laatje groot`'
 
 
-Om de kast met de laatjes na te maken, kun je de volgende code gebruiken:
+\pagebreak
+
+Om de kast met de laatjes precies na te maken, kun je de volgende code gebruiken:
 
 ```
 geheime_getallen[0] = 42;
@@ -214,7 +223,7 @@ float[] geheime_getallen;
 
 void setup()
 {
-  size(400,400);
+  size(400, 400);
   geheime_getallen = new float[1];
   geheime_getallen[0] = 42;
 }
@@ -222,14 +231,16 @@ void setup()
 void draw() 
 {
   float x = geheime_getallen[0];
-  ellipse(x,200,300,400);
+  ellipse(x, 200, 300, 400);
 }
 ```
 Dit programma ziet er niet erg mooi uit. Het is bedoeld om je te laten hoe je arrays maakt, vult en leest.
 
+\pagebreak
+
 ## Opdracht 4 
 
-Run onderstaande code
+Run onderstaande code.
 
 ```c++
 float[] xs;
@@ -305,6 +316,15 @@ void draw()
 }
 ```
 
+![Sunglasses](EmojiSunglasses.png) | Goede programmeur gebruiken liever `for` loops dan dom te knippen en plakken
+:-------------:|:----------------------------------------: 
+
+\pagebreak
+
+## Oplossing 5
+
+Hee, hetzelfde als net!
+
 ![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
 :-------------:|:----------------------------------------: 
 `for (int i=0; i<3; ++i) {}`|'Lieve computer, doe wat tussen accolades staat met waarden van `i` van `0` tot `3` in stapjes van `1`'
@@ -321,16 +341,6 @@ void draw()
  |`{`
  |  `  xs[i] = i * 100;`
  |`}`
-
-
-![Sunglasses](EmojiSunglasses.png) | Goede programmeur gebruiken liever `for` loops dan dom te knippen en plakken
-:-------------:|:----------------------------------------: 
-
-\pagebreak
-
-## Oplossing 5
-
-Hee, hetzelfde als net!
 
 ## Opdracht 6
 
