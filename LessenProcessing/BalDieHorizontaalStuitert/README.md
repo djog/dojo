@@ -35,7 +35,7 @@ Zet de waarde van `snelheid` op `1`. Wat zie je?
 
 ## Antwoord 1
 
-Je ziet dat de bal rusig naar rechts beweegt. Als de bal
+Je ziet dat de bal rustig naar rechts beweegt. Als de bal
 rechts het beeld uit gaat, komt deze vanaf links weer in het beeldscherm.
 
 ```c++
