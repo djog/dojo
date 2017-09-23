@@ -18,7 +18,7 @@ Kom in het WiFi instellingen menu (zie plaatje `WiFi router instellingen menu`).
 
 ## Eindopdracht
 
-![WiFi router communicatieprotocol](login_wifi_router_2_protocol.png)
+| ![WiFi router communicatieprotocol](login_wifi_router_2_protocol.png) |
 
  1. Stel het WiFi communicatieprotocol in op `WEP`.
 
