@@ -5,7 +5,7 @@ zwak communicatieprotocol en met een 'onbekend' wachtwoord.
 
 Je werkt met deze WiFi router:
 
-![WiFi router](login_wifi_router_1.jpg)
+![WiFi router](login_wifi_router_2.jpg)
 
 ## Opdracht 1
 
