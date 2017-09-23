@@ -25,6 +25,16 @@ echo "Hallo" > data.txt
 
 ## Opdracht 3
 
+Vind uit, hoe je van de command-line, de tekst in bestand `data.txt` laat zien.
+
+## Oplossing 3
+
+```
+cat data.txt
+```
+
+## Opdracht 4
+
 Vind uit, hoe je met `egrep` kunt zoeken op de tekst in jouw bestand `data.txt`. 
 Zoek op `Hallo` en `Doei`. Output moet zijn regels met de zoektermen:
 
@@ -35,14 +45,14 @@ Hallo
 >
 ```
 
-## Oplossing 3
+## Oplossing 4
 
 ```
 egrep "Hallo" data.txt
 egrep "Doei" data.txt
 ```
 
-## Opdracht 4
+## Opdracht 5
 
 Start `tcpdump` als `root` en ga naar de website [https://slashdot.org/](https://slashdot.org/). 
 
@@ -54,7 +64,7 @@ Start `tcpdump` als `root` en ga naar de website [https://slashdot.org/](https:/
 
 Wat zie je?
 
-## Oplossing 4
+## Oplossing 5
 
 Je ziet een heleboel tekst verschijnen.
 

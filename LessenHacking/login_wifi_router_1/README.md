@@ -4,7 +4,7 @@ In deze les gaan we inloggen in een WiFi router die fysiek in het bezit is.
 
 Je werkt met deze WiFi router:
 
-[WiFi router](login_wifi_router_1.jpg)
+![WiFi router](login_wifi_router_1.jpg)
 
 ## Eindopdracht
 
