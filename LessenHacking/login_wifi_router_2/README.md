@@ -30,4 +30,10 @@ Kom in het WiFi instellingen menu (zie plaatje `WiFi router instellingen menu`).
  3. Kom achter dit wachtwoord
  4. Vertel de docent wat zijn/haar wachtwoord was
 
+[Thumbsup](EmojiThumbsup.png) | Doen: doorgeven als een WiFi met WEP is ingesteld
+[Thumbsup](EmojiThumbsdown.png) | Niet doen: de WiFi met WEP kraken zonder schriftelijke toestemming
+:-------------:|:----------------------------------------: 
 
+:thumbsup:
+
+:thumbsdown:
