@@ -13,7 +13,7 @@ Kom in het WiFi instellingen menu (zie plaatje `WiFi router instellingen menu`).
 
 ![WiFi router login](login_wifi_router_2_admin.png)
 
-![Sunglasses](EmojiSunglasses.png) | Dit heb je al gedaan in les `Login router #1`
+![Bowtie](EmojiBowtie.png) | Dit heb je al gedaan in les `Login router #1`
 :-------------:|:----------------------------------------: 
 
 ## Eindopdracht

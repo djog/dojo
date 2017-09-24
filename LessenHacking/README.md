@@ -7,7 +7,11 @@ Dit zijn de lessen over (ethisch) hacken.
  * [Login WiFi router 2: WEP protocol](login_wifi_router_2/README.md)
 
 
-## Lesideeen
+## Overige
 
+ * Bootable Kali Linux USB stick maken
  * Openen geencrypt bestand met rainbow table
- * Code game aanpassen (oneindig leven, oneindig geld, etc)
+ * Code Airfart compilen
+ * Code [Meritous](http://richelbilderbeek.nl/GameMeritous.htm) aanpassen
+ * Raspian image voor Raspberry Pi maken
+ * Raspberry Pi inloggen via router en ethernet
