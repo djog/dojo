@@ -15,3 +15,4 @@ Dit zijn de lessen over (ethisch) hacken.
  * Code [Meritous](http://richelbilderbeek.nl/GameMeritous.htm) aanpassen
  * Raspian image voor Raspberry Pi maken
  * Raspberry Pi inloggen via router en ethernet
+ * Email met PGP
