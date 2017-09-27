@@ -124,7 +124,6 @@ eigen werk verder, laat dat Ruben weten.
 
 De missie van De Jonge Onderzoekers is: '[Het] exploiteren van een activiteitencentrum met als doel kinderen op een uitdagende en creatieve manier met techniek en wetenschap in aanraking te laten komen'. De missie van de DOJO heeft veel overlap hiermee. We vinden het belangrijk dat de kinderen iets leren, uitgedaagd worden en hun creativiteit gebruiken om iets te maken. Om dit te bereiken laten we de leerlingen games maken en presenteren, maar het spelen van niet-zelfgemaakte games vinden we niet goed.
 
-
 ## Ik wil niet dat Processing in `Update` scherm laat zien
 
 ![Update scherm](Images/Update.png)

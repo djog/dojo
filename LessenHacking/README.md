@@ -7,6 +7,7 @@ Dit zijn de lessen over (ethisch) hacken.
  * [`tcpdump`](tcpdump/README.md)
  * [Login WiFi router 2: WEP protocol](login_wifi_router_2/README.md)
 
+Voor vragen zie [veelgestelde vragen](FAQ.md)
 
 ## Overige
 
