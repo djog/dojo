@@ -37,5 +37,6 @@ Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
 
 ## Agenda
 
- * 22 juli 2017 t/m 3 sep 2017: Geen les op donderdag, wel zomervakantielessen op [de Arduinocursus op vrijdag](https://github.com/richelbilderbeek/ArduinoCourse)
- * Donderdag 7 september: start nieuw seizoen
+ * Zpannend Zernike
+ * Let's Go
+ * Codeweek

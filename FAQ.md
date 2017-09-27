@@ -73,21 +73,11 @@ kunnen volgen :-)
 
 ## Welke vrijwilligers zijn er?
 
-### Anton
-
-Anton is een volwassen vrijwilliger. Hij zit met Dagmar in de kantine, waar ze vooral Scratch en Processing geven.
-
 ### [Dagmar](https://github.com/dagmarhofman)
 
 ![dagmarhofman](Images/dagmarhofman.jpg)
 
 Dagmar is een volwassen vrijwilliger. Hij zit met Anton in de kantine, waar ze vooral Scratch en Processing geven.
-
-### [Frode](https://github.com/Modanung)
-
-Frode is een volwassen vrijwilliger. Hij zit met Thijs in het houtlokaal, waar ze vooral Processing en Inkscape geven.
-
-Frode is ook erg handig met 3D tekenen in Blender en 3D games maken in C++ met Urho3D.
 
 ### [Jan](https://github.com/janderkkotlarski)
 
@@ -129,14 +119,6 @@ dit dan anoniem (zonder je naam erbij te zeggen) aan de volwassenen.
 Vindt je het leuk om leerlingen te helpen opstarten? Laat het
 Ruben weten, want hij zal je dan vragen. Wil je liever aan je
 eigen werk verder, laat dat Ruben weten.
-
-### [Thijs](https://github.com/thijsvb)
-
-![thijsvb](Images/thijsvb.jpg)
-
-Thijs is een volwassen vrijwilliger. Hij zit met Frode in het houtlokaal, waar ze vooral Processing en Inkscape geven.
-
-Thijs is ook handig met Arduino, te zien aan [de GitHub van de Arduino cursus](https://github.com/richelbilderbeek/ArduinoCourse). 
 
 # Wat is de missie van de cursus?
 
