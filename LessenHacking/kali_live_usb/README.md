@@ -12,3 +12,4 @@ Maak een Kali Live USB. Start Kali vanaf deze USB.
 ![Sunglasses](EmojiSunglasses.png) | Misschien moet je de boot volgorde in je BIOS veranderen
 :-------------:|:----------------------------------------: 
 
+![Kali login](kali_live_usb_kali.png)
