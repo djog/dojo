@@ -2,6 +2,8 @@
 
 In deze les gaan we inloggen in een Raspberry Pi (vanaf nu: 'Raspberry').
 
+![Raspberry zonder casing](login_raspberry_raspberry.jpg)
+
 ## Eindopdracht
 
 Kom met SSH in een Raspberry Pi.
