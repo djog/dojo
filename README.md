@@ -37,8 +37,6 @@ Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
 
 ## Agenda
 
-## Agenda
-
  * Donderdag 12 oktober Codeweek: open les
  * Zaterdag 14 oktober 11:30-17:00 Zpannend Zernike @ DJO
  * Donderdag 19 oktober Codeweek: open les
