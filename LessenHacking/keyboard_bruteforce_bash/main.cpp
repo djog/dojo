@@ -3,7 +3,7 @@
 
 int main()
 {
-  int password = rand() % 10000 + 1000;
+  int password = (rand() % 9000) + 1000;
 
   std::cout << "Enter password: \n";
 
