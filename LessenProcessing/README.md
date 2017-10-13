@@ -36,10 +36,11 @@ Boekje 3:
 
 Boekje 4:
 
- 11. [`fullScreen` en `PImage`](./FullScreenPImage/README.md)
- 12. [Zwaartekracht](./Zwaartekracht/README.md)
- 13. [Arrays les 1](./Arrays1/README.md)
- 14. [Arrays les 2](./Arrays2/README.md)
+ 11. [`fullScreen`](./FullScreen/README.md)
+ 12. [`PImage`](./PImage/README.md)
+ 13. [Zwaartekracht](./Zwaartekracht/README.md)
+ 14. [Arrays les 1](./Arrays1/README.md)
+ 15. [Arrays les 2](./Arrays2/README.md)
 
 ### Leskaart 2
 
