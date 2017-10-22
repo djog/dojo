@@ -16,6 +16,7 @@ Les|Omschrijving|Klaar?
 8|`ellipse` en `background`|.
 9|Bal die schuin stuitert|.
 10|`text`|.
-?|`fullscreen` en `PImage`|.
-?|arrays 1|.
-?|arrays 2|.
+11|`fullscreen`|.
+12|`PImage`|.
+13|arrays 1|.
+14|arrays 2|.
