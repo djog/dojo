@@ -5,18 +5,19 @@ Van|...
 
 Les|Omschrijving|Klaar?
 :---:|-------------------------------------|:---:
-0|Een mooi programma|.
-1|Bal naar rechts|.
-2|`width` en `height`|.
-3|`point` en `random`|.
-4|`line` en `stroke`|.
-5|Bal die eeuwig rechts gaat|.
-6|`rect` en `fill`|.
-7|Bal die horizontaal stuitert|.
-8|`ellipse` en `background`|.
-9|Bal die schuin stuitert|.
-10|`text`|.
-11|`fullscreen`|.
-12|`PImage`|.
-13|arrays 1|.
-14|arrays 2|.
+1|Een mooi programma|.
+2|Bal naar rechts|.
+3|`width` en `height`|.
+4|`point` en `random`|.
+5|`line` en `stroke`|.
+6|Bal die eeuwig rechts gaat|.
+7|`rect` en `fill`|.
+8|Bal die horizontaal stuitert|.
+9|`ellipse` en `background`|.
+10|Bal die schuin stuitert|.
+11|`text`|.
+12|`fullscreen`|.
+13|`PImage`|.
+14|Zwaartekracht
+15|arrays 1|.
+16|arrays 2|.
