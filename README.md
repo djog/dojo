@@ -37,8 +37,5 @@ Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
 
 ## Agenda
 
- * Donderdag 12 oktober Codeweek: open les
- * Zaterdag 14 oktober 11:30-17:00 Zpannend Zernike @ DJO
- * Donderdag 19 oktober Codeweek: open les
- * Zaterdag 4 november 11:00-16:00 Let's Gro @ Grote Markt Groningen
- * Donderdag 26 oktober Anton's neefje: programmeren in Minecraft
+ * ?Zaterdag 9 december: [Maak en Innovatiefestival Midden Groningen](http://www.mifmig.nl/)
+ * Donderdag 14 december 18:30-(ongeveer)20:00: Leerlingpresentaties
