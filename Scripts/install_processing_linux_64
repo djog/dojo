@@ -1,0 +1,9 @@
+#!/bin/bash
+
+cd ~
+mkdir Programs
+cd Programs
+wget http://download.processing.org/processing-3.3.6-linux64.tgz
+tar -xvzf processing-3.3.6-linux64.tgz
+cd ..
+ln -s Programs/processing-3.3.6/processing
