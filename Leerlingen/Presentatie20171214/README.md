@@ -1,6 +1,6 @@
 # Presentatie 14 December 2017
 
-Volgorde|Naam/namen|Titel
+Volgorde| Wie| Titel
 ---|---|---
 1| Mart| Pong
 2| Annika & Priscilla | Party
