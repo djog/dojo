@@ -18,13 +18,14 @@ Volgorde| Wie| Titel
 
 ## Richtlijnen tijdschema
 
- * 18:00 deur open
- * 18:15 kids en ouders binnen, kids naar kantine, ouders bij hout
+ * 18:30 deur open
+ * 18:45 kids en ouders binnen, kids naar kantine, ouders bij hout
   * Jan @ kantine voor techniek
   * Dagmar haalt en brengt leerlingen
   * Richel @ hout voor verzorgen ouders
- * 18:45 presentaties
- * 19:00 pauze
- * 19:15 evaluatie
+ * 19:15 presentaties
+ * 19:30 pauze
+    * Richel brieft evaluator Frank
+ * 19:45 evaluatie
     * Frank met leerlingen @ hout 
     * Docenten met ouders @ kantine 
