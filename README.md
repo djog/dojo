@@ -22,9 +22,9 @@ maar je bent ook vrij je eigen weg te kiezen.
     * 20:30: einde les
  * Locatie: De Jonge Onderzoekers Groningen, www.djog.nl, Dirk Huizingastraat 13
  * Kosten per leerling:
-   * September t/m december: 20 euro
-   * Januari tot en met mei: 20 euro
-   * Juni en juli: 10 euro (lessen zijn dan op de vrijdag!)
+   * September t/m december: 25 euro
+   * Januari tot en met mei: 25 euro
+   * Juni en juli: gratis, de lessen zijn dan op de vrijdag!
  * Leeftijd: 6-25 jaar
  * Benodigdheden: Het zou fijn zijn als je een laptop met WiFi meeneemt. Maar wij hebben ook wel wat laptops te leen
 
@@ -37,5 +37,7 @@ Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
 
 ## Agenda
 
- * ?Zaterdag 9 december: [Maak en Innovatiefestival Midden Groningen](http://www.mifmig.nl/)
  * Donderdag 14 december 18:30-(ongeveer)20:00: Leerlingpresentaties
+ * Donderdag 21 december: laatste les voor kerst
+ * Donderdag 28 december: geen les
+ * Donderdag 4 januari: eerste les voor kerst
