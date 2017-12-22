@@ -601,8 +601,8 @@ void teken_richel_2()
 
 void draw()
 {
-    /*
-  teken_richel_1();
+  teken_jeroen();
+  pushMatrix(); translate(600, 600); teken_richel_1(); popMatrix();
   pushMatrix(); translate(600, 200); teken_richel_2(); popMatrix();
   textSize(12);
   pushMatrix(); translate(200, 0); teken_bastian(); popMatrix();
@@ -620,7 +620,4 @@ void draw()
   teken_jorik_2();
   
   pushMatrix(); translate(400, -400); teken_jorik_3(); popMatrix();
-  */
-  //pushMatrix(); translate(600, 600); teken_jeroen(); popMatrix();
-  teken_jeroen();
 }
