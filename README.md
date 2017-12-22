@@ -42,3 +42,5 @@ Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
 ## Kerstkaart
 
 ![Kerstkaart 2017](Leerlingen/Kerstkaart2017/Kerstkaart2017.png)
+
+Code in folder [Leerlingen/Kerstkaart2017](Leerlingen/Kerstkaart2017/README.md).
