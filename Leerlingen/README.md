@@ -1,6 +1,18 @@
 # Leerlingen
 
+## Presentaties
+
+Nieuwste eerst!
+
+ * [Presentaties 15 december 2017](Presentatie20171215/README.md)
+ * [Presentaties 13 juli 2016](Presentatie20170713/README.md)
+ * [Presentaties 15 december 2016](Presentatie20161215/README.md)
+ * [Presentaties 30 juni 2016](Presentatie20160630/README.md)
+ * [Presentaties 11 december 2015](Presentatie20151211/README.md)
+
 ## Scorebord
+
+Van de Processing Weekly Challenge.
 
 |**Plek**|**Naam**|**Punten** (totaal)|**Punten** (per inzending)|**Quote**|**Link**|**Gewonnen**|
 |:---:|:---|:---:|:---:|---:|---:|:---:|
@@ -13,10 +25,3 @@
 |**6**|Raymon|3|1,5| |[PWC25](https://redd.it/506b19), [PWC35](https://redd.it/5bliok)||
 |**7**|Emre|1|1,0|*"It's a little quiet"* ~ TazakiTsukuru| [PWC17](https://redd.it/4rq1k6)||
 
-## Presentaties
-
-Nieuwste eerst!
-
- * [Presentaties 15 december 2016](Presentatie20161215/README.md)
- * [Presentaties 30 juni 2016](Presentatie20160630/README.md)
- * [Presentaties 11 december 2015](Presentatie20151211/README.md)
