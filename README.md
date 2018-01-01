@@ -13,13 +13,18 @@ Deze avond is een cursusavond, waarin samen leren programmeren voorop staat.
 Je zult aan de slag gaan met Scratch, Processing of C++ met Qt, SFML en/of Urho3D, 
 maar je bent ook vrij je eigen weg te kiezen.
 
+
  * Dag: Elke donderdagavond, behalve op feestdagen en in de kerstvakantie
- * Tijd: 
-    * 18:15: inloop
-    * 18:30: start les
-    * 19:15: pauze
-    * 19:30: start les
-    * 20:00: einde les
+
+Groep | A | B | C
+---|---|---|---
+Leeftijd | 8-12 | 12-18 | 18+
+Inloop | 18:15 | 19:15 | 20:15
+Start les | 18:30 | 19:30 | 20:30
+Pauze les | 19:15 | 20:15 | 21:15
+Vervolg les | 19:30 | 20:30 | 21:30
+Einde les | 20:00 | 21:15 | 22:00
+
  * Locatie: De Jonge Onderzoekers Groningen, www.djog.nl, Dirk Huizingastraat 13
  * Kosten per leerling:
    * September t/m december: 20 euro
