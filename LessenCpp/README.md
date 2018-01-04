@@ -1,3 +1,3 @@
 # Lessen C++
 
- * [Klassen 1](Klassen1/README.md)
+We volgen het materiaal van [Correct C++](https://github.com/richelbilderbeek/correct_cpp).
