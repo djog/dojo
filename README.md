@@ -40,9 +40,46 @@ Je eerste (proef)les kan elke avond zijn. Ook zonder opgave.
  
 Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
 
-## Agenda
+## Lesplanning
 
- * Donderdag 4 januari: eerste les voor kerst
+Les|Datum|Les A|Les B
+ 1| 4 jan|1|1
+ 2|11 jan|1|1
+ 3|18 jan|2|2
+ 4|25 jan|3|3
+ 5| 1 feb|4|4
+ 6| 8 feb|Herhaling|Herhaling
+ 7|15 feb|5|5
+ 8|22 feb|6|6
+ 9| 1 mrt|7|7
+10| 8 mrt|Herhaling|8
+11|15 mrt|8|Herhaling
+12|22 mrt|9|9
+13|29 mrt|10|10
+14| 5 apr|11|11
+15|12 apr|Herhaling|12
+16|19 apr|12|Herhaling
+17|26 apr|13|13
+18| 3 mei|14|14
+19|10 mei|15|15
+20|17 mei|16|16
+21|24 mei|Herhaling|Herhaling
+22|31 mei|Project|Project
+23| 7 jun|Project|Project
+24|14 jun|Project|Project
+25|21 jun|Project|Project
+26|28 jun|Project|Project
+27| 5 jul|Project|Project
+28|12 jul|Leerlingpresentaties|Leerlingpresentaties
+29|19 jul|Laatste les seizoen|Laatste les seizoen
+
+ * Les A is de les Processing, als op [de leskaart](https://github.com/richelbilderbeek/Dojo/blob/master/LessenProcessing/Leskaart/Leskaart1.pdf)
+ * Les B is het [Correct C++](https://github.com/richelbilderbeek/correct_cpp) hoofdstuk
+
+Na de laatste les:
+
+ * In de zomervakantie zijn er lessen op vrijdag by [de Arduino cursus](https://github.com/richelbilderbeek/ArduinoCourse)
+ * Eerste les na de zomervakantie is op donderdag 6 september
 
 ## Kerstkaart
 
