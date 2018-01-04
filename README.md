@@ -43,6 +43,7 @@ Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
 ## Lesplanning
 
 Les|Datum|Les A|Les B
+---|---|---|---
  1| 4 jan|1|1
  2|11 jan|1|1
  3|18 jan|2|2
