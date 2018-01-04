@@ -21,9 +21,9 @@ Groep | A | B | C
 Leeftijd | 8-12 | 12-18 | 18+
 Inloop | 18:15 | 19:15 | 20:15
 Start les | 18:30 | 19:30 | 20:30
-Pauze les | 19:15 | 20:15 | 21:15
-Vervolg les | 19:30 | 20:30 | 21:30
-Einde les | 20:00 | 21:15 | 22:00
+Pauze les | 19:15 | 20:00 | 21:15
+Vervolg les | 19:30 | 20:15 | 21:30
+Einde les | 20:00 | 21:00 | 22:00
 
  * Locatie: De Jonge Onderzoekers Groningen, www.djog.nl, Dirk Huizingastraat 13
  * Kosten per leerling:
