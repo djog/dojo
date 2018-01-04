@@ -1,2 +1,3 @@
+# Minecraft
 
-hoi later komt de uitleg
+ * Java plugin [pdf](java_plugin.pdf)
