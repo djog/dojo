@@ -14,33 +14,27 @@ Dit zijn de Processing lessen
 
 ### Leskaart 1
 
-Boekje 1:
-
- 0. [Een mooi programma](./EenMooiProgramma/README.md)
- 1. [Bal naar rechts](./BalNaarRechts/README.md)
- 2. [`width` en `height`](./WidthHeight/README.md)
- 3. [`point` en `random`](./PointRandom/README.md)
-
-Boekje 2:
-
- 4. [`line` en `stroke`](./LineStroke/README.md)
- 5. [Bal die eeuwig rechts gaat](./BalEeuwigNaarRechts/README.md)
- 6. [`rect` en `fill`](./RectFill/README.md)
-
-Boekje 3:
-
- 7. [Bal die horizontaal stuitert](./BalDieHorizontaalStuitert/README.md)
- 8. [`ellipse` en `background`](./EllipseBackground/README.md)
- 9. [Bal die schuin stuitert](./BalDieSchuinStuitert/README.md)
- 10. [Tekst](./Text/README.md)
-
-Boekje 4:
-
- 11. [`fullScreen`](./FullScreen/README.md)
- 12. [`PImage`](./PImage/README.md)
- 13. [Zwaartekracht](./Zwaartekracht/README.md)
- 14. [Arrays les 1](./Arrays1/README.md)
- 15. [Arrays les 2](./Arrays2/README.md)
+#|Omschrijving
+---|---
+ 1|[Een mooi programma](./EenMooiProgramma/README.md)
+ 2|[Bal naar rechts](./BalNaarRechts/README.md)
+ 3|[`width` en `height`](./WidthHeight/README.md)
+ 4|[`point` en `random`](./PointRandom/README.md)
+---|---
+ 5|[`line` en `stroke`](./LineStroke/README.md)
+ 6|[Bal die eeuwig rechts gaat](./BalEeuwigNaarRechts/README.md)
+ 7|[`rect` en `fill`](./RectFill/README.md)
+---|---
+ 8|[Bal die horizontaal stuitert](./BalDieHorizontaalStuitert/README.md)
+ 9|[`ellipse` en `background`](./EllipseBackground/README.md)
+10|[Bal die schuin stuitert](./BalDieSchuinStuitert/README.md)
+11| [Tekst](./Text/README.md)
+---|---
+12|[`fullScreen`](./FullScreen/README.md)
+13|[`PImage`](./PImage/README.md)
+14|[Zwaartekracht](./Zwaartekracht/README.md)
+15|[Arrays les 1](./Arrays1/README.md)
+16|[Arrays les 2](./Arrays2/README.md)
 
 ### Leskaart 2
 
