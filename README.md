@@ -81,9 +81,3 @@ Na de laatste les:
 
  * In de zomervakantie zijn er lessen op vrijdag by [de Arduino cursus](https://github.com/richelbilderbeek/ArduinoCourse)
  * Eerste les na de zomervakantie is op donderdag 6 september
-
-## Kerstkaart
-
-![Kerstkaart 2017](Leerlingen/Kerstkaart2017/Kerstkaart2017.png)
-
-Code in folder [Leerlingen/Kerstkaart2017](Leerlingen/Kerstkaart2017/README.md).
