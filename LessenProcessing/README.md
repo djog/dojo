@@ -16,21 +16,21 @@ Dit zijn de Processing lessen
 
 #|Omschrijving
 ---|---
-  | *Boek 1*
+ -| **Boek 1**
  1|[Een mooi programma](./EenMooiProgramma/README.md)
  2|[Bal naar rechts](./BalNaarRechts/README.md)
  3|[`width` en `height`](./WidthHeight/README.md)
  4|[`point` en `random`](./PointRandom/README.md)
-  | *Boek 2*
+ -| **Boek 2**
  5|[`line` en `stroke`](./LineStroke/README.md)
  6|[Bal die eeuwig rechts gaat](./BalEeuwigNaarRechts/README.md)
  7|[`rect` en `fill`](./RectFill/README.md)
-  | *Boek 3*
+ -| **Boek 3**
  8|[Bal die horizontaal stuitert](./BalDieHorizontaalStuitert/README.md)
  9|[`ellipse` en `background`](./EllipseBackground/README.md)
 10|[Bal die schuin stuitert](./BalDieSchuinStuitert/README.md)
 11| [Tekst](./Text/README.md)
-  | *Boek 4*
+ -| **Boek 4**
 12|[`fullScreen`](./FullScreen/README.md)
 13|[`PImage`](./PImage/README.md)
 14|[Zwaartekracht](./Zwaartekracht/README.md)
