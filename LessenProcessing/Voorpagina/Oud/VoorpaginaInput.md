@@ -1,1 +1,0 @@
-![Input](VoorpaginaInput.png)

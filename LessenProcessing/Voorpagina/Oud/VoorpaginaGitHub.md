@@ -1,1 +1,0 @@
-![GitHub](VoorpaginaGitHub.png)

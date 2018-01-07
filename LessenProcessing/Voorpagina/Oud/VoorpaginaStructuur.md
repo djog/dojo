@@ -1,1 +1,0 @@
-![Structuur](VoorpaginaStructuur.png)
