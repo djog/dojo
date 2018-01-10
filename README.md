@@ -41,10 +41,9 @@ Je eerste (proef)les kan elke avond zijn. Ook zonder opgave.
 
  * De [lesplanning](Lesplanning.md) staat [hier](Lesplanning.md)
  * De [lessen](LessenProcessing/README.md) staan [hier](LessenProcessing/README.md)
- * Het [boek](Boek/Boek.pdf) staat [hier](Boek/Boek.pdf)
+ * De [boeken](Boek) zijn [1](Boek/Boek_1.pdf), [2](Boek/Boek_2.pdf), [3](Boek/Boek_3.pdf), [4](Boek/Boek_4.pdf) 
  
 Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
-
 
 Na de laatste les:
 

@@ -64,11 +64,11 @@ Jazeker, maar we geven op de donderdag geen les in Arduino.
 Je zou de [Arduino cursus van de vrijdagavond](https://github.com/richelbilderbeek/ArduinoCourse)
 kunnen volgen :-)
 
-## Ik wil iets met dieren/planten/biologie doen, kan dat?
+## Ik wil iets met natuur en techniek, kan dat?
 
 Jazeker, maar we geven op de donderdag geen les in dieren/planten/biologie.
 
-Je zou de [biologie cursus van de woensdagavond](https://github.com/DIYbioCourse/BioCourse)
+Je zou de [natuur en techniekcursus van de vrijdagavond](https://github.com/dpstruwe/N-T-cursus-DJOG)
 kunnen volgen :-)
 
 ## Welke vrijwilligers zijn er?
