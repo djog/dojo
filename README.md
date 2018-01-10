@@ -1,5 +1,9 @@
 # Dojo
 
+Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
+---|---
+master|[![Build Status](https://travis-ci.org/richelbilderbeek/Dojo.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Dojo)
+
 ![DJOG logo](DjogKleiner.png) ![Codestarter logo](CodestarterWebsite.png)
 
 Scratch | [Processing](LessenProcessing/README.md) | [SFML](https://github.com/janderkkotlarski/Cplusplus-with-SFML-course)
