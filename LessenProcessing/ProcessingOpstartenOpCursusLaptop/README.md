@@ -9,12 +9,18 @@ Wij hebben twee soorten laptops:
   * Debian (spreek uit 'Debie-jen')
   * Lubuntu (spreek uit 'Loe-boen-toe')
 
+## Video's
+
+ * [Processing starten op Lubuntu](http://www.richelbilderbeek/dojo_lubuntu_opstarten.mp4)
+
+## Uitleg
+
 Eerst moeten we een terminal starten.
 
  * Om op Debian een terminal te starten, druk op de `WIN` toets (deze zit linksonder, tussen CTRL en ALT). Type dan 'terminal' en dan ENTER 
  * Om op Lubuntu een terminal te starten, druk op `CTRL + ALT + T`
 
-## Processing starten
+### Processing starten
 
 In de terminal, type:
 
@@ -24,7 +30,7 @@ In de terminal, type:
 
 Klaar!
 
-## Processing slimmer starten
+### Processing slimmer starten
  
 Je hoeft niet alles helemaal te typen.
 Een terminal kan je ook helpen.
@@ -46,7 +52,7 @@ Druk op `Enter`.
 
 Klaar!
 
-## Updaten
+### Updaten
 
 Het kan gebeuren dat er een venster komt met een Update. Het venster vraagt
 of je een nieuwe versie van Processing wilt installeren. Klik op 'No'. 'No' 
