@@ -11,7 +11,7 @@ Wij hebben twee soorten laptops:
 
 ## Video's
 
- * [Processing starten op Lubuntu](http://www.richelbilderbeek/dojo_lubuntu_opstarten.mp4)
+ * [Processing starten op Lubuntu](http://www.richelbilderbeek.nl/dojo_lubuntu_opstarten.mp4)
 
 ## Uitleg
 
