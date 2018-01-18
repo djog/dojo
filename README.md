@@ -6,7 +6,7 @@ master|[![Build Status](https://travis-ci.org/richelbilderbeek/Dojo.svg?branch=m
 
 ![DJOG logo](DjogKleiner.png) ![Codestarter logo](CodestarterWebsite.png)
 
-Scratch | [Processing](LessenProcessing/README.md) | [SFML](https://github.com/janderkkotlarski/Cplusplus-with-SFML-course)
+Scratch | [Processing](LessenProcessing/README.md) | [C++](https://github.com/richelbilderbeek/correct_cpp)
 --- | --- | ---
 ![Easy](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Easy.png) | ![Medium](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Medium.png) | ![Difficulty Hard](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Hard.png)|
 ![scratch](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/Scratch.png) | ![SuperBar](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/superBar.png)|![Dark Hypersquare](https://cloud.githubusercontent.com/assets/13890380/9529429/7f52a582-4cfa-11e5-9265-51b4eed9e597.png)
@@ -16,7 +16,6 @@ Aan computers vertellen wat ze moeten doen is de kern van programmeren. Wil jij 
 Deze avond is een cursusavond, waarin samen leren programmeren voorop staat. 
 Je zult aan de slag gaan met Scratch, Processing of C++ met Qt, SFML en/of Urho3D, 
 maar je bent ook vrij je eigen weg te kiezen.
-
 
  * Dag: Elke donderdagavond, behalve op feestdagen en in de kerstvakantie
 
@@ -41,8 +40,9 @@ Je eerste (proef)les kan elke avond zijn. Ook zonder opgave.
 
  * De [lesplanning](Lesplanning.md) staat [hier](Lesplanning.md)
  * De [lessen](LessenProcessing/README.md) staan [hier](LessenProcessing/README.md)
- * De [boeken](Boek) zijn [1](Boek/Boek_1.pdf), [2](Boek/Boek_2.pdf), [3](Boek/Boek_3.pdf), [4](Boek/Boek_4.pdf) 
- 
+ * De Processing [boeken](Boek) zijn [1](Boek/Boek_1.pdf), [2](Boek/Boek_2.pdf), [3](Boek/Boek_3.pdf), [4](Boek/Boek_4.pdf) 
+ * De C++ lessen staan [hier](https://github.com/richelbilderbeek/correct_cpp)
+
 Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
 
 Na de laatste les:

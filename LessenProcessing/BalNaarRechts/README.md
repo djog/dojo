@@ -186,7 +186,7 @@ void draw()
 
 ## Wat is een variabele?
 
-In de eerste regel gebruiken we een variable:
+In de eerste regel gebruiken we een variabele:
 
 ```c++
 float x = 50;
@@ -200,12 +200,11 @@ In mensentaal is dit: 'Lieve computer, onthoud het getal `x` met een beginwaarde
 
 Een variabele is een stukje computergeheugen met een naam. 
 De computer kan aan die naam bepalen waar in het geheugen hij moet kijken.
-Dit lijkt een beetje zoals jouw achternaam in het telefoonboek staat.
 
 ![Het geheugen van een computer](BalNaarRechtsGeheugen.jpg)
   
-Variabelen die jij weet, zijn: je naam, je leeftijd, je
-geboortedatum, je adres, je telefoonnummer, je emailadres, en nog veel meer. 
+Variabelen die bij jou (en bijna elk mens) horen, zijn: naam, leeftijd, 
+geboortedatum, adres, telefoonnummer, emailadres, en nog veel meer. 
 Als iemand je je leeftijd vraagt, dan weet je welk getal je moet zeggen.
 
 ![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
@@ -296,7 +295,7 @@ void draw()
 
 ![Eindopdracht 'Bal naar rechts'](BalNaarRechtsEind.png)
 
- * gebruik een variabele `t` (van tijd)
  * de bal moet schuin naar rechts-omlaag gaan
  * de bal moet groter worden in de breedte en hoogte
  * zie ook figuur `Eindopdracht 'Bal naar rechts'`
+ * gebruik een variabele `t` (van tijd) (goed idee, maar hoeft niet)
