@@ -4,8 +4,8 @@ Les|Datum|Les A|Les B
 ---|---|---|---
  1| 4 jan|[1](LessenProcessing/EenMooiProgramma/README.md)|[0](https://github.com/richelbilderbeek/correct_cpp_scoreboard)
  2|11 jan|[1](LessenProcessing/EenMooiProgramma/README.md)|[0](https://github.com/richelbilderbeek/correct_cpp_scoreboard)
- 3|18 jan|2|1
- 4|25 jan|3|2
+ 3|18 jan|[2](https://github.com/richelbilderbeek/Dojo/blob/master/LessenProcessing/BalNaarRechts/README.md)|[1](https://github.com/richelbilderbeek/correct_cpp_hello)
+ 4|25 jan|3|[2](https://github.com/richelbilderbeek/correct_cpp_hello_world)
  5| 1 feb|4|3
  6| 8 feb|Herhaling|Herhaling
  7|15 feb|5|4
