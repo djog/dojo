@@ -299,3 +299,9 @@ void draw()
  * de bal moet groter worden in de breedte en hoogte
  * zie ook figuur `Eindopdracht 'Bal naar rechts'`
  * gebruik een variabele `t` (van tijd) (goed idee, maar hoeft niet)
+
+## Links
+
+ * [YouTube, eerste gedeelte](https://www.youtube.com/watch?v=fZDsZgqxBM0)
+ * [YouTube, wat een variabele is](https://youtu.be/3cXH3LrBGrA)
+ * [YouTube, tweede gedeelte](https://youtu.be/KxtQ00ugBvw)

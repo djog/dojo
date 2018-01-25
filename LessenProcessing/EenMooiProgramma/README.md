@@ -62,3 +62,7 @@ Voor nu is het genoeg te weten dat het iets moois doet.
 
 ![Sunglasses](EmojiSunglasses.png) | Gelukt? Laat dit zien aan een volwassene voor een sticker!
 :-------------:|:----------------------------------------: 
+
+## Links
+
+ * [YouTube video](https://www.youtube.com/watch?v=TW6fIxI-Pl4)
