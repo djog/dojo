@@ -187,3 +187,7 @@ void draw()
  * Maak het venster 300 pixels breed en 200 pixels hoog
  * Maak een vierde cirkel die als middelpunt de rechteronderhoek heeft
  * Maak een vijfde cirkel die in het midden staat en twee keer zo klein is
+
+## Links
+
+ * [YouTube video 'Width en Height'](https://youtu.be/pbj0fUn0qVQ)
