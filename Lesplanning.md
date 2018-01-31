@@ -5,14 +5,14 @@ Les|Datum|Les A|Les B
  1| 4 jan|[1](LessenProcessing/EenMooiProgramma/README.md)|[0](https://github.com/richelbilderbeek/correct_cpp_scoreboard)
  2|11 jan|[1](LessenProcessing/EenMooiProgramma/README.md)|[0](https://github.com/richelbilderbeek/correct_cpp_scoreboard)
  3|18 jan|[2](https://github.com/richelbilderbeek/Dojo/blob/master/LessenProcessing/BalNaarRechts/README.md)|[1](https://github.com/richelbilderbeek/correct_cpp_hello)
- 4|25 jan|3|[2](https://github.com/richelbilderbeek/correct_cpp_hello_world)
- 5| 1 feb|4|3
+ 4|25 jan|[3](https://github.com/richelbilderbeek/Dojo/tree/master/LessenProcessing/WidthHeight)|[1](https://github.com/richelbilderbeek/correct_cpp_hello)
+ 5| 1 feb|[4](https://github.com/richelbilderbeek/Dojo/blob/master/LessenProcessing/PointRandom/README.md)|[2](https://github.com/richelbilderbeek/correct_cpp_hello_world)
  6| 8 feb|Herhaling|Herhaling
- 7|15 feb|5|4
- 8|22 feb|6|5
- 9| 1 mrt|7|6
-10| 8 mrt|Herhaling|7
-11|15 mrt|8|Herhaling
+ 7|15 feb|5|3
+ 8|22 feb|6|4
+ 9| 1 mrt|7|5
+10| 8 mrt|Herhaling|6
+11|15 mrt|8|Herhaling|7
 12|22 mrt|9|8
 13|29 mrt|10|9
 14| 5 apr|11|10
