@@ -238,3 +238,8 @@ void draw()
 
 Laat de lijnen nu op willekeurige plekken beginnen en eindigen. De lijnkleur moet
 ook willekeurig zijn.
+
+## Links
+
+ * [YouTube](https://youtu.be/94cuhGWpdjw)
+ * [mp4](http://www.richelbilderbeek/line_en_stroke.mp4)

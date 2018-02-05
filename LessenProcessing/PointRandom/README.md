@@ -260,3 +260,9 @@ void draw()
 ![Eindopdracht](PointEindopdracht.png)
 
 Laat de computer willekeurig puntjes tekenen in het hele venster.
+
+## Links
+
+ * [YouTube](https://youtu.be/5CUNBJWJdpA) 
+ * [mp4](http://www.richelbilderbeek/point_en_random.mp4)
+

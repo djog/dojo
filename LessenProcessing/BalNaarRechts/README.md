@@ -303,5 +303,8 @@ void draw()
 ## Links
 
  * [YouTube, eerste gedeelte](https://www.youtube.com/watch?v=fZDsZgqxBM0)
+ * [mp4, eerste gedeelte](http://www.richelbilderbeek/bal_naar_rechts_1.mp4)
  * [YouTube, wat een variabele is](https://youtu.be/3cXH3LrBGrA)
+ * [mp4, wat een variabele is](http://www.richelbilderbeek/bal_naar_rechts_variabele.mp4)
  * [YouTube, tweede gedeelte](https://youtu.be/KxtQ00ugBvw)
+ * [mp4, tweede gedeelte](http://www.richelbilderbeek/bal_naar_rechts_2.mp4)

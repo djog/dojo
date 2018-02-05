@@ -1,4 +1,5 @@
 # Functies les 1: Tekening
+
 In deze les gaan we leren wat een functie is en waarom het handig is om functies te gebruiken. We doen dat met een mooie tekening van een schaap, bij dag of nacht.
 
 <img alt="SchaapDag" src="SchaapDag.png" width="200"></img> of

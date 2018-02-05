@@ -69,3 +69,4 @@ is Engels voor 'nee'.
 ## Links
 
  * [YouTube](https://www.youtube.com/watch?v=ZFVfnK8i2v0)
+ * [mp4](http://www.richelbilderbeek/dojo_lubuntu_opstarten.mp4)

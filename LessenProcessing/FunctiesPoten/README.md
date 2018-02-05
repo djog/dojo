@@ -1,4 +1,4 @@
-#Functies les 3: Poten
+# Functies les 3: Poten
 
 **Als je nog niet weet wat functies zijn, doe dan eerst [deze les](../FunctiesTekening/README.md)**
 
