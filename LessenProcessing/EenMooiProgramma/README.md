@@ -24,7 +24,7 @@ Hoe dat moet, hangt af van het besturingssysteem:
 
 \pagebreak
 
-## Code kopieeren
+## Code kopiëren
 
 Processing begint met een leeg programma zonder code:
 
