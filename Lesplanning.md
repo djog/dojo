@@ -9,7 +9,7 @@ Les|Datum|Les A|Les B
  5| 1 feb|[4](https://github.com/richelbilderbeek/Dojo/blob/master/LessenProcessing/PointRandom/README.md)|[2](https://github.com/richelbilderbeek/correct_cpp_hello_world)
  6| 8 feb|Herhaling|Herhaling
  7|15 feb|[5](https://github.com/richelbilderbeek/Dojo/blob/master/LessenProcessing/LineStroke/README.md)|[3](https://github.com/richelbilderbeek/correct_cpp_hello_cli)
- 8|22 feb|6|4
+ 8|22 feb|[6](https://github.com/richelbilderbeek/Dojo/blob/master/LessenProcessing/BalEeuwigNaarRechts/README.md)|std::vector
  9| 1 mrt|7|5
 10| 8 mrt|Herhaling|6
 11|15 mrt|8|Herhaling|7
