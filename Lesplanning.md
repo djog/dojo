@@ -10,18 +10,18 @@ Les|Datum|Les A|Les B
  6| 8 feb|Herhaling|Herhaling
  7|15 feb|[5](https://github.com/richelbilderbeek/Dojo/blob/master/LessenProcessing/LineStroke/README.md)|[3](https://github.com/richelbilderbeek/correct_cpp_hello_cli)
  8|22 feb|[6](https://github.com/richelbilderbeek/Dojo/blob/master/LessenProcessing/BalEeuwigNaarRechts/README.md)|std::vector
- 9| 1 mrt|7|5
-10| 8 mrt|Herhaling|6
-11|15 mrt|8|Herhaling|7
-12|22 mrt|9|8
-13|29 mrt|10|9
-14| 5 apr|11|10
+ 9| 1 mrt|[6](https://github.com/richelbilderbeek/Dojo/blob/master/LessenProcessing/BalEeuwigNaarRechts/README.md) en [Atari 2600 - 10 Classic Games](https://www.youtube.com/watch?v=5M1zO2v9ixY)|5
+10| 8 mrt|[6](https://github.com/richelbilderbeek/Dojo/blob/master/LessenProcessing/BalEeuwigNaarRechts/README.md) en [](https://youtu.be/dF0vS5ZrMiI)|6
+11|15 mrt|7|Herhaling|7
+12|22 mrt|8|8
+13|29 mrt|9|9
+14| 5 apr|10|10
 15|12 apr|Herhaling|11
-16|19 apr|12|Herhaling
-17|26 apr|13|12
-18| 3 mei|14|13
+16|19 apr|11|Herhaling
+17|26 apr|12|12
+18| 3 mei|13|13
 19|10 mei|Hemelvaart|Hemelvaart
-20|17 mei|15|14
+20|17 mei|14|14
 21|24 mei|Herhaling|Herhaling
 22|31 mei|Project|Project
 23| 7 jun|Project|Project
