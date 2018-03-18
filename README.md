@@ -4,6 +4,8 @@ Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
 ---|---
 master|[![Build Status](https://travis-ci.org/richelbilderbeek/Dojo.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Dojo)
 
+[![IRC Network](https://img.shields.io/badge/irc-%23Dojo-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=Dojo)
+
 ![DJOG logo](DjogKleiner.png) ![Codestarter logo](CodestarterWebsite.png)
 
 Scratch | [Processing](LessenProcessing/README.md) | [C++](https://github.com/richelbilderbeek/correct_cpp)
