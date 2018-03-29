@@ -6,3 +6,5 @@ tmp.*
 .~lock.*
 LessenProcessing/Leskaart/*.aux
 LessenProcessing/Leskaart/*.log
+build-*/
+*.pro.user
