@@ -1,8 +1,8 @@
 install:
-  # markdown-link-check
-  - sudo apt-get install npm
-  - sudo npm install -g markdown-link-check
+  # markdown-link-check, commented out due to Issue #63
+  #- sudo apt-get install npm
+  #- sudo npm install -g markdown-link-check
 
 script: 
-  # Check dead links
-  - find . -name \*.md -exec markdown-link-check {} \;
+  # Check dead links, commented out due to Issue #63
+  #- find . -name \*.md -exec markdown-link-check {} \;
