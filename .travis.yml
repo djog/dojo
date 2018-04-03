@@ -1,8 +1,10 @@
 install:
+  - echo "Nothing for now"
   # markdown-link-check, commented out due to Issue #63
   #- sudo apt-get install npm
   #- sudo npm install -g markdown-link-check
 
 script: 
+  - echo "Nothing for now"
   # Check dead links, commented out due to Issue #63
   #- find . -name \*.md -exec markdown-link-check {} \;
