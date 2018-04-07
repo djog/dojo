@@ -48,7 +48,7 @@ Dit zijn de Processing lessen
  ?|[Muis les 2: Knoppen](./MuisKnoppen/README.md)
  ?|[Muis les 3: Scrollen](./MuisScroll/README.md)
  ?|[Toetsenbord 1: Qix](./Toetsenbord1/README.md)
- ?|Toetsenbord 2: Tron
+ ?|[Toetsenbord 2: Tron](./Toetsenbord2/README.md)
  ?|Toetsenbord 3: Spacewar!
  ?|for loops 1: geheel getal dat telt van 0 tot een waarde
  ?|for loops les 2: andere soorten for-loops, continue, break
