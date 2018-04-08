@@ -37,3 +37,7 @@ void draw()
   ellipse(x + (width / schaal / 2), y + (height / schaal / 2), 10, 10);
 }
 ```
+
+## Eindopdracht
+
+?
