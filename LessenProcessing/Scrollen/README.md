@@ -2,7 +2,11 @@
 
 ![Defender, een van de eerste games waarin het scherm van links naar rechts scrolls](Defender.jpg)
 
-![Rally X, een van de eerste games waarin het scherm alle kanten op scrollt](rally x.gif)
+![Rally X, een van de eerste games waarin het scherm alle kanten op scrollt](rally_x.gif)
+
+## Intro
+
+![Intro](Scrollen_Intro.png)
 
 ```c++
 PImage plaatje;
