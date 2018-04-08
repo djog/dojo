@@ -41,15 +41,17 @@ Dit zijn de Processing lessen
 
 #|Omschrijving
 ---|---
- 1|[GitHub account aanmaken](./GitHub/README.md)
- 2|[GitHub repository maken](./GitHubPages/README.md)
+ ?|[Toetsenbord 1: Qix](./Toetsenbord1/README.md)
+ ?|[Toetsenbord 2: Tron](./Toetsenbord2/README.md)
+ ?|[Toetsenbord 3: Terminator II](./Toetsenbord3/README.md)
+ ?|[Scrollen: Zelda](./Scrollen/README.md)
+ ?|[Rotate: Contra 3](./Rotate/README.md)
+ ?|[GitHub account aanmaken](./GitHub/README.md)
+ ?|[GitHub repository maken](./GitHubPages/README.md)
  ?|Code op je GitHub zetten
  ?|[Muis les 1: Positie](./MuisPositie/README.md)
  ?|[Muis les 2: Knoppen](./MuisKnoppen/README.md)
  ?|[Muis les 3: Scrollen](./MuisScroll/README.md)
- ?|[Toetsenbord 1: Qix](./Toetsenbord1/README.md)
- ?|[Toetsenbord 2: Tron](./Toetsenbord2/README.md)
- ?|[Toetsenbord 3: Terminator II](./Toetsenbord3/README.md)
  ?|for loops 1: geheel getal dat telt van 0 tot een waarde
  ?|for loops les 2: andere soorten for-loops, continue, break
  ?|[Functies les 1: Tekening](./FunctiesTekening/README.md)
