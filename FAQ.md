@@ -79,21 +79,6 @@ kunnen volgen :-)
 
 Dagmar is een volwassen vrijwilliger. Hij zit met Anton in de kantine, waar ze vooral Scratch en Processing geven.
 
-### [Jan](https://github.com/janderkkotlarski)
-
-![janderkkotlarski](Images/Photo_March_2017_Small.png)
-
-[Jan geeft les in SFML](https://github.com/janderkkotlarski/Cplusplus-with-SFML-course) en is ook handig
-met GameMaker.
-
-### [Jorn](https://github.com/jorn600)
-
-![jorn600](Images/jorn600.jpg)
-
-Jorn is een leerling, gastheer en leraar. 
-
-Jorn vangt de nieuwe leerlingen op.
-
 ### [Richel](https://github.com/richelbilderbeek)
 
 ![Richel](Images/Richel.png)
@@ -105,20 +90,6 @@ Richel is vooral geinteresseerd in onderwijs en heeft de lerarenopleiding aan de
 Hij coordineert de Dojo.
 
 Zijn werk is te zien op [zijn website met meer dan 3900 pagina's](http://richelbilderbeek.nl) en [meer dan 300 GitHub repositories](https://github.com/richelbilderbeek?tab=repositories).
-
-### [Ruben](https://github.com/ruben-bouman)
-
-![ruben-bouman](Images/ruben-bouman.png)
-
-Ruben is een vrijwilliger en helpt nieuwe leerlingen opstarten. 
-
-Ruben is ook leerlingvertegenwoordiger: vind je dat iets aan
-de cursus beter kan, dan kun je dit Ruben zeggen. Ruben vertelt
-dit dan anoniem (zonder je naam erbij te zeggen) aan de volwassenen.
-
-Vindt je het leuk om leerlingen te helpen opstarten? Laat het
-Ruben weten, want hij zal je dan vragen. Wil je liever aan je
-eigen werk verder, laat dat Ruben weten.
 
 # Wat is de missie van de cursus?
 
