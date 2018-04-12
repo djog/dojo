@@ -28,7 +28,9 @@ Start Processing weer op.
 
 Laad je code dan met 'File | Open' (of met `CTRL+O`).
 
-![File | Save As](processing_save_as.png)
+![File | Open](load_lubuntu.png)
+
+![File | Open](load_windows.png)
 
 Als je nu je code weer ziet, is het je gelukt!
 
