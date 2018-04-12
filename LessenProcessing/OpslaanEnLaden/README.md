@@ -30,5 +30,9 @@ Laad je code dan met 'File | Open' (of met `CTRL+O`).
 
 ![File | Open](processing_load.png)
 
+![Windows gebruikt de `/Mijn Documenten/Processing` map](load_windows.png)
+
+![Lubuntu gebruikt de `/sketchbook` map](load_lubuntu.png)
+
 Als je nu je code weer ziet, is het je gelukt!
 
