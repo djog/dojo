@@ -4,11 +4,12 @@ Dit zijn de Processing lessen
 
 ## Programmeren
 
-## Processing installeren en starten
+## Processing
 
  * [Processing opstarten op cursus laptop](./ProcessingOpstartenOpCursusLaptop/README.md)
  * [Processing installeren op Linux](./ProcessingInstallerenOpLinux/README.md)
  * [Processing installeren op Windows](./ProcessingInstallerenOpWindows/README.md)
+ * [Opslaan en laden](./OpslaanEnLaden/README.md)
 
 ### Leskaart 1: Graphics
 
