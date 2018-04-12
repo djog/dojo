@@ -4,14 +4,13 @@ In deze les gaan we een programma opslaan en laden.
 
 ## Opdracht
 
-Type deze code in in Processing:
+ 1. Type deze code in in Processing:
 
 ```c++
 // Hallo
 ```
 
-Save dan je code met 'File | Save As' (of met `CTRL+SHIFT+S`). 
-Geef het programma de naam `mijn_game`.
+ 2. Save je code met 'File | Save As' (of met `CTRL+SHIFT+S`). Geef het programma de naam `mijn_game`.
 
 ![File | Save As](processing_save_as.png)
 
@@ -22,11 +21,11 @@ Geef het programma de naam `mijn_game`.
 
 ![Lubuntu gebruikt de `/sketchbook` map](save_lubuntu_folder_annotated.png)
 
-Sluit nu Processing af.
+ 3. Sluit nu Processing af.
 
-Start Processing weer op. 
+ 4. Start Processing weer op. 
 
-Laad je code dan met 'File | Open' (of met `CTRL+O`).
+ 5. Laad je code dan met 'File | Open' (of met `CTRL+O`).
 
 ![File | Open](processing_load.png)
 
