@@ -3,12 +3,12 @@ PImage plaatje;
 float x = 1150;
 float y = 900;
 float hoek = 0;
-final float schaal = 3; //Hoeveel is de kaart ingezoomd?
+float schaal = 3; //Hoeveel is de kaart ingezoomd?
 final float loopsnelheid = 5;
 final float draaisnelheid = 0.1;
 void setup() 
 {
-  size(600, 400);
+  fullScreen();
   plaatje = loadImage("Contra3Stage2Map.png");
   noSmooth();
   x = 1150;
@@ -39,5 +39,7 @@ void draw()
       y = y + (cos(hoek) * loopsnelheid);
       x = x + (sin(hoek) * loopsnelheid);
     }
+    if (key == '-') schaal = schaal / 1.1;
+    if (key == '+') schaal = schaal * 1.1;
   }
 }
