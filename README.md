@@ -1,5 +1,9 @@
 # Dojo
 
+```
+Donderdag 10 mei zijn we dicht wegens Hemelvaart!
+```
+
 Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
 ---|---
 master|[![Build Status](https://travis-ci.org/richelbilderbeek/Dojo.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Dojo)
