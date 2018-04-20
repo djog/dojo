@@ -4,7 +4,7 @@ In deze les gaan we met plaatjes werken!
 
 ![EmojiSunglasses.png](EmojiSunglasses.png)
 
-## Opdracht 1
+## `PImage`: opdracht 1
 
 Save deze code. Run deze code. Wat zie je?
    
@@ -26,7 +26,7 @@ void draw()
 
 \pagebreak
 
-## Oplossing 1
+## `PImage`: oplossing 1
 
 Je krijgt een error!
 
@@ -37,7 +37,7 @@ Je krijgt een error!
 
 \pagebreak
 
-## Opdracht 2
+## `PImage`: opdracht 2
 
 Ga naar [https://github.com/richelbilderbeek/Dojo/blob/master/LessenProcessing/PImage/mario.png](https://github.com/richelbilderbeek/Dojo/blob/master/LessenProcessing/PImage/mario.png)
 en download dit plaatje van Mario. 
@@ -55,9 +55,9 @@ Hier zie je een plaatje waarop staat waar de bestanden moeten staan:
 
 \pagebreak
 
-## Eindopdracht
+## `PImage`: eindopdracht
 
-![PImage eindopdracht](PImageEindopdracht.png)
+![`PImage`: eindopdracht](PImageEindopdracht.png)
 
 Maak het programma full-screen, maak de achtergrond groen en zet het plaatje in het midden.
 

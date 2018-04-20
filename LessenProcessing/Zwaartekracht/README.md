@@ -4,7 +4,7 @@ In deze les gaan we zwaartekracht programmeren.
 
 We gaan in deze les twee variabelen en twee `if`-statements gebruiken. 
 
-## Opdracht 1
+## Zwaartekracht: opdracht 1
 
 Wat doet deze code?
 
@@ -41,19 +41,19 @@ void draw()
 
 \pagebreak
 
-## Oplossing 1
+## Zwaartekracht: oplossing 1
 
-![Zwaartekracht oplossing 1](Zwaartekracht1.png)
+![Zwaartekracht: oplossing 1](Zwaartekracht1.png)
 
-## Opdracht 2
+## Zwaartekracht: opdracht 2
 
 Zorg dat het programma full-screen wordt
 
-![Zwaartekracht opdracht 2](Zwaartekracht2.png)
+![Zwaartekracht: opdracht 2](Zwaartekracht2.png)
 
 \pagebreak
 
-## Oplossing 2
+## Zwaartekracht: oplossing 2
 
 ```c++
 float x = 150;
@@ -86,9 +86,9 @@ void draw()
 }
 ```
 
-## Opdracht 3
+## Zwaartekracht: opdracht 3
 
-![Zwaartekracht opdracht 3](Zwaartekracht3.png)
+![Zwaartekracht: opdracht 3](Zwaartekracht3.png)
 
 Zorg dat de bal goed aan de onderkant stuitert. 
 
@@ -97,7 +97,7 @@ Zorg dat de bal goed aan de onderkant stuitert.
 
 \pagebreak
 
-## Oplossing 3
+## Zwaartekracht: oplossing 3
 
 ```c++
 float x = 150;
@@ -130,15 +130,15 @@ void draw()
 }
 ```
 
-## Opdracht 4
+## Zwaartekracht: opdracht 4
 
 Zorg dat de bal goed aan de rechterkant stuitert.
 
-![Zwaartekracht opdracht 4](Zwaartekracht4.png)
+![Zwaartekracht: opdracht 4](Zwaartekracht4.png)
 
 \pagebreak
 
-## Oplossing 4
+## Zwaartekracht: oplossing 4
 
 ```c++
 float x = 150;
@@ -173,7 +173,7 @@ void draw()
 
 \pagebreak
 
-## Eindopdracht
+## Zwaartekracht: eindopdracht
 
 Voeg onderaan de `draw` functie toe:
 
@@ -183,7 +183,7 @@ snelheid_omlaag += 0.1;
 
 Maak de bal twee keer zo groot.
 
-![Zwaartekracht eindopdracht](ZwaartekrachtEindopdracht1.png)
+![Zwaartekracht: eindopdracht](ZwaartekrachtEindopdracht1.png)
 
 Als je figuur `Zwaartekracht eindopdracht ook goed` krijgt, krijg je ook
 een sticker.
