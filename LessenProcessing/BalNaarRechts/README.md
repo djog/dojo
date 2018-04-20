@@ -13,12 +13,12 @@ float x = 60;
 
 void setup()
 {
-  size(600, 400);
+  size(250, 200);
 }
 
 void draw()
 {
-  ellipse(x,50,40,30);
+  ellipse(x, 50, 40, 30);
   x = x + 1;
 }
 ```
@@ -29,63 +29,67 @@ Als er rode letters komen, heb je een typefout gemaakt. Kijk goed en verbeter de
 
 Als alles goed gaat, zie je een bal die naar rechts beweegt (zie figuur `Een bal die naar rechts beweegt`).
 
-![Een bal die naar rechts beweegt](BalNaarRechtsRun.png)
+![Bal naar rechts: intro](BalNaarRechts_Intro.png)
 
 ### Bal naar rechts: opdracht 1
 
-![Opdracht 1](BalNaarRechts800PixelsBreed.png)
+![Bal naar rechts: opdracht 1](BalNaarRechts_1.png)
 
-Het scherm is nu 600 pixels breed. Kun je deze 800 pixels breed krijgen? Verander de code en druk op 'Run'.
+Het scherm is nu 250 pixels breed. Maak deze nu 300 pixels breed. 
+
+Verander de code en druk op 'Run'.
 
 ### Bal naar rechts: oplossing 1
 
-Er zit een `600` in de code. Deze naar `800` veranderen is genoeg:
+Er zit een `250` in de code. Deze naar `300` veranderen is genoeg:
 
 ```c++
 float x = 60;
 
 void setup()
 {
-  size(800, 400);
+  size(300, 200);
 }
 
 void draw()
 {
-  ellipse(x,50,40,30);
+  ellipse(x, 50, 40, 30);
   x = x + 1;
 }
 ```
 
 ![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
 :-------------:|:----------------------------------------: 
-`size(800, 400);`|'Lieve computer, maak een venster van 800 pixels wijd en 400 pixels hoog.'
+`size(300, 200);`|'Lieve computer, maak een venster van 300 pixels breed en 200 pixels hoog.'
 
 \pagebreak
 
 ### Bal naar rechts: opdracht 2
 
-![Opdracht 2](BalNaarRechtsRondeBal.png)
+![Bal naar rechts: opdracht 2](BalNaarRechts_2.png)
 
-De bal is nu een ellips- is niet rond, maar ovaal. 
-Maak deze rond. Hint: de bal is nu 40 pixels breed en 30 pixels hoog
+De bal is nu ei-vorming: hij is nu 40 pixels breed en 30 pixels hoog. 
+Maak de bal nu rond: 40 pixels breed en 40 pixels hoog.
 
 \pagebreak
 
 ### Bal naar rechts: oplossing 2
 
-`ellipse(x,50,40,30);` tekent de bal. De `40,30` zorgt ervoor dat de bal niet rond is. Door dit `40,40` of `30,30` te maken, wordt de bal rond:
+`ellipse(x, 50, 40, 30);` tekent de bal. 
+De `40, 30` zorgt ervoor dat de bal eiv-ormig is. 
+Door dit `40, 40` te maken, wordt de bal rond.
 
 ```c++
 float x = 60;
 
 void setup()
 {
-  size(800, 400);
+  size(300, 200);
 }
 
 void draw()
 {
-  ellipse(x,50,40,40);
+  ellipse(x, 50, 40, 40);
   x = x + 1;
 }
 ```
@@ -98,9 +102,10 @@ void draw()
 
 ## Bal naar rechts: opdracht 3
 
-![Opdracht 3](BalNaarRechtsSnel.png)
+![Bal naar rechts: opdracht 3](BalNaarRechts_3.png)
 
-De bal gaat nu met een snelheid van 1 pixel per keer naar rechts. Laat de bal twee keer zo snel naar rechts gaan
+De bal gaat nu met een snelheid van 1 pixel per keer naar rechts. 
+Laat de bal twee keer zo snel naar rechts gaan
 
 ## Bal naar rechts: oplossing 3
 
@@ -111,7 +116,7 @@ float x = 60;
 
 void setup()
 {
-  size(800, 400);
+  size(300, 200);
 }
 
 void draw()
@@ -130,9 +135,10 @@ void draw()
 
 ## Bal naar rechts: opdracht 4
 
-![Opdracht 4](BalNaarRechtsVanafRechts.png)
+![Bal naar rechts: opdracht 4](BalNaarRechts_4.png)
 
-In het begin zit het midden van de bal 60 pixels naar rechts. Kun je de cirkel ook 0 pixels naar rechts laten beginnen?
+In het begin zit het midden van de bal 60 pixels naar rechts. 
+Kun je de cirkel ook 0 pixels naar rechts laten beginnen?
 
 ## Bal naar rechts: oplossing 4
 
@@ -143,7 +149,7 @@ float x = 0;
 
 void setup()
 {
-  size(800, 400);
+  size(300, 200);
 }
 
 void draw()
@@ -162,9 +168,9 @@ void draw()
 
 Haha, deze les heet 'Bal naar rechts', toch gaan we ook een bal naar links laten bewegen!
 
-![Opdracht 5](BalNaarRechtsNaarLinks.png)
+![Bal naar rechts: opdracht 5](BalNaarRechts_5.png)
 
-Laat de bal nu aan de rechterkant van het scherm beginnen en naar links gaan
+Laat de bal nu aan de rechterkant van het scherm beginnen en naar links gaan.
 
 ## Bal naar rechts: oplossing 5
 
@@ -172,16 +178,16 @@ Om de bal aan de rechtkant te krijgen moet je `float x = 500;` gebruiken (of een
 Om de bal naar links te laten bewegen, moet je `x = x - 1;` gebruiken. De code wordt dan:
 
 ```c++
-float x = 500;
+float x = 200;
 
 void setup()
 {
-  size(600, 400);
+  size(300, 200);
 }
 
 void draw()
 {
-  ellipse(x,50,40,40);
+  ellipse(x, 50, 40, 40);
   x = x - 1;
 }
 ```
@@ -190,7 +196,7 @@ void draw()
 :-------------:|:----------------------------------------: 
 `void draw() { }`|'Lieve computer, doe de hele tijd wat tussen accolades staat.'
 
-## Wat is een variabele?
+## Bal naar rechts: wat is een variabele?
 
 In de eerste regel gebruiken we een variabele:
 
@@ -242,11 +248,11 @@ De puntkomma (`;`) geeft het einde van een zin aan (zoals de punt in een Nederla
 
 Haha, deze les heet 'Bal naar rechts', toch gaan we ook een bal naar onder laten bewegen!
 
-![Opdracht 6](BalNaarRechtsOmlaag.png)
+![Bal naar rechts: opdracht 6](BalNaarRechts_6.png)
 
  * Verander de naam van de variabele `x` in `y`
  * Laat een bal aan de bovenkant van het scherm beginnen
- * De bal moet 60 pixels naar rechts komen te staan
+ * De bal moet 150 pixels naar rechts komen te staan
  * De bal moet in een rechte lijn naar onder gaan. Tip: de bal staat nu op 50 pixels omlaag
 
 \pagebreak
@@ -254,25 +260,25 @@ Haha, deze les heet 'Bal naar rechts', toch gaan we ook een bal naar onder laten
 ## Bal naar rechts: oplossing 6
 
 ```c++
-float y = 50;
+float y = 0;
 
 void setup()
 {
-  size(600, 400);
+  size(300, 200);
 }
 
 void draw()
 {
-  ellipse(60,y,40,40);
+  ellipse(150, y, 40, 40);
   y = y + 1;
 }
 ```
 
 ## Bal naar rechts: opdracht 7
 
-Nu gaan we de bal sneller en omhoog laten bewegen
+![Bal naar rechts: opdracht 7](BalNaarRechts_7.png)
 
-![Opdracht 7](BalNaarRechtsOmhoog.png)
+Nu gaan we de bal sneller en omhoog laten bewegen
 
  * Laat een bal aan de onderkant van het scherm beginnen
  * De bal moet in een rechte lijn naar boven gaan
@@ -281,23 +287,23 @@ Nu gaan we de bal sneller en omhoog laten bewegen
 ## Bal naar rechts: oplossing 7
 
 ```c++
-float y = 300;
+float y = 200;
 
 void setup()
 {
-  size(600, 400);
+  size(300, 200);
 }
 
 void draw()
 {
-  ellipse(50, y, 50, 50);
-  y = y - 2;
+  ellipse(150, y, 40, 40);
+  y = y - 1;
 }
 ```
 
 ## Bal naar rechts: eindopdracht
 
-![Eindopdracht 'Bal naar rechts'](BalNaarRechtsEind.png)
+![Bal naar rechts: eindopdracht](BalNaarRechts_Eindopdracht.png)
 
  * de bal moet schuin naar rechts-omlaag gaan
  * de bal moet groter worden in de breedte en hoogte
