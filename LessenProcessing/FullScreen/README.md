@@ -2,7 +2,7 @@
 
 `fullScreen` is een functie waarmee je het venster van je programma net zo groot maakt als het beeldscherm van je computer.
 
-## Opdracht 1
+## `fullScreen`: opdracht 1
 
 Run deze code. Wat zie je?
 
@@ -26,20 +26,20 @@ void draw()
 
 \pagebreak
 
-## Oplossing 1
+## `fullScreen`: oplossing 1
 
-![Oplossing 1](Fullscreen1.png)
+![`fullScreen`: oplossing 1](Fullscreen1.png)
 
-## Opdracht 2
+## `fullScreen`: opdracht 2
 
 Maak een rechthoek met de linkerbovenhoek in het midden, 
 met een breedte van 200 en een hoogte van 100 pixels.
 
-![Opdracht 2](Fullscreen2.png)
+![`fullScreen`: opdracht 2](Fullscreen2.png)
 
 \pagebreak
 
-## Oplossing 2
+## `fullScreen`: oplossing 2
 
 ```c++
 void setup() 
@@ -53,18 +53,18 @@ void draw()
 }
 ```
 
-## Opdracht 3
+## `fullScreen`: opdracht 3
 
 Zet nu de rechthoek in het midden van het scherm. 
 
-![Opdracht 3](Fullscreen3.png)
+![`fullScreen`: opdracht 3](Fullscreen3.png)
 
 ![Sunglasses](EmojiSunglasses.png) | De rechthoek moet 100 naar links en 50 omhoog
 :-------------:|:----------------------------------------: 
 
 \pagebreak
 
-## Oplossing 3
+## `fullScreen`: oplossing 3
 
 ```c++
 void setup() 
@@ -78,16 +78,16 @@ void draw()
 }
 ```
 
-## Opdracht 4
+## `fullScreen`: opdracht 4
 
 Zet een rechthoek in het midden van het scherm, met een breedte van 300 pixels
 en een hoogte van 400 pixels.
 
-![Opdracht 4](Fullscreen4.png)
+![`fullScreen`: opdracht 4](Fullscreen4.png)
 
 \pagebreak
 
-## Oplossing 4
+## `fullScreen`: oplossing 4
 
 ```c++
 void setup() 
@@ -101,16 +101,16 @@ void draw()
 }
 ```
 
-## Opdracht 5
+## `fullScreen`: opdracht 5
 
 Zet een rechthoek in het midden van het scherm, die half zo breed is als het scherm,
 en 500 pixels hoog is.
 
-![Opdracht 5](Fullscreen5.png)
+![`fullScreen`: opdracht 5](Fullscreen5.png)
 
 \pagebreak
 
-## Oplossing 5
+## `fullScreen`: oplossing 5
 
 ```c++
 void setup() 
@@ -124,9 +124,9 @@ void draw()
 }
 ```
 
-## Eindopdracht
+## `fullScreen`: eindopdracht
 
-![Eindopdracht](Fullscreen6.png)
+![`fullScreen`: eindopdracht](Fullscreen6.png)
 
 Zet een rechthoek in het midden van het scherm, die half zo breed en hoog is als het scherm.
 
