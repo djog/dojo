@@ -7,7 +7,7 @@ dat veel met cirkels werkt:
 
 ![Bubble Bobble](BubbleBobble.png)
 
-## Opdracht 1
+## `ellipse` en `background`: opdracht 1
 
 Run deze code
 
@@ -35,11 +35,11 @@ void draw()
 
 \pagebreak
 
-## Oplossing 1
+## `ellipse` en `background`: oplossing 1
 
 ![Oplossing 1](EllipseBackground1.png)
 
-## Opdracht 2
+## `ellipse` en `background`: opdracht 2
 
 ![Opdracht 2](EllipseBackground2.png)
 
@@ -48,7 +48,7 @@ zodat de ovaal twee keer zo hoog wordt.
 
 \pagebreak
 
-## Oplossing 2
+## `ellipse` en `background`: oplossing 2
 
 ```c++
 float x = -50;
@@ -72,7 +72,7 @@ void draw()
 }
 ```
 
-## Opdracht 3
+## `ellipse` en `background`: opdracht 3
 
 ![Opdracht 3](EllipseBackground3.png)
 
@@ -84,7 +84,7 @@ background(255, 0, 0);
 
 \pagebreak
 
-## Oplossing 3
+## `ellipse` en `background`: oplossing 3
 
 ```c++
 float x = -50;
@@ -109,7 +109,7 @@ void draw()
 }
 ```
 
-## Opdracht 4
+## `ellipse` en `background`: opdracht 4
 
 ![Oplossing 4](EllipseBackground4.png)
 
@@ -118,7 +118,7 @@ Maak de rand van de cirkel zwart
 
 \pagebreak
 
-## Oplossing 4
+## `ellipse` en `background`: oplossing 4
 
 ```
 float x = -50;
@@ -143,13 +143,13 @@ void draw()
 }
 ```
 
-## Opdracht 5
+## `ellipse` en `background`: opdracht 5
 
 Zet de regel met `background` nu na `size` (binnen `setup`).
 
 \pagebreak
 
-## Oplossing 5
+## `ellipse` en `background`: oplossing 5
 
 ![Oplossing 5](EllipseBackground5.png)
 
@@ -176,7 +176,7 @@ void draw()
 }
 ```
 
-## Opdracht 6
+## `ellipse` en `background`: opdracht 6
 
 ![Opdracht 6](EllipseBackground6.png)
 
@@ -185,7 +185,7 @@ blauw waarde moeten alledrie willekeurig zijn.
 
 \pagebreak
 
-## Oplossing 6
+## `ellipse` en `background`: oplossing 6
 
 ```c++
 float x = -50;
@@ -210,7 +210,7 @@ void draw()
 }
 ```
 
-## Eindopdracht
+## `ellipse` en `background`: eindopdracht
 
 ![Eindopracht `ellipse` en `background`](EllipseBackgroundEindopdracht.png)
 
