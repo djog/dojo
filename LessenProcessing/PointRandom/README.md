@@ -1,7 +1,5 @@
 # `point` en `random`
 
-![Eindopdracht](PointEindopdracht.png)
-
 In deze les gaan we leren 
 
  * wat pixels zijn
@@ -9,7 +7,10 @@ In deze les gaan we leren
  * hoe je puntjes tekent
  * hoe je willekeurige dingen doet
 
-## Pixels
+![Eindopdracht](PointEindopdracht.png)
+
+
+## `point` en `random`: intro
 
 Pixels zijn de vierkantjes waaruit je beeldscherm is opgebouwd.
 
@@ -21,7 +22,7 @@ Dat zie je goed bij oude games: die hebben minder pixels:
 
 ![Super Mario Bros 1](NES_Super_Mario_Bros.png)
 
-## Opdracht 1
+## `point` en `random`: opdracht 1
 
 Run de volgende code:
 
@@ -42,19 +43,19 @@ void draw()
 `point(150, 100);`|'Lieve computer, teken een puntje op de pixel die tweehonderd pixels naar rechts en honderdvijftig pixels omlaag is'
 `point(150, 100);`|'Lieve computer, teken een puntje op coordinaat `(150, 100)`'
 
-## Oplossing 1
+## `point` en `random`: oplossing 1
 
-![Oplossing 1](Point1.png)
+![`point` en `random`: oplossing 1](Point_1.png)
 
 \pagebreak
 
-## Opdracht 2
+## `point` en `random`: opdracht 2
 
-![Opdracht 2](Point2.png)
+![`point` en `random`: opdracht 2](Point_2.png)
 
 Teken een tweede puntje tussen de eerste en de bovenkant van het venster.
 
-## Oplossing 2
+## `point` en `random`: oplossing 2
 
 ```c++
 void setup()
@@ -69,12 +70,12 @@ void draw()
 }
 ```
 
-## Opdracht 3
+## `point` en `random`: opdracht 3
 
 De eerste pixel zit precies in het midden. Oftewel op de helft van de breedte van het venster en
 op de helft van de hoogte van het scherm. Verander `point(150,100);` naar iets met `width` en `height`.
 
-## Oplossing 3
+## `point` en `random`: oplossing 3
 
 ```c++
 void setup()
@@ -93,7 +94,7 @@ void draw()
 :-------------:|:----------------------------------------: 
 `width / 2`|'Lieve computer, vul hier de breedte van het venster in, gedeeld door twee'
 
-## Opdracht 3.14
+## `point` en `random`: opdracht 4
 
 De tweede pixel zit 
 
@@ -102,7 +103,7 @@ De tweede pixel zit
 
 Verander `point(150, 50);` naar iets met `width` en `height`.
 
-## Oplossing 3.14
+## `point` en `random`: oplossing 4
 
 ```c++
 void setup()
@@ -122,15 +123,15 @@ void draw()
 `height / 4`|'Lieve computer, vul hier de hoogte van het venster in, gedeeld door vier'
 
 
-## Opdracht 4
+## `point` en `random`: opdracht 5
 
-![Opdracht 4](Point4.png)
+![`point` en `random`: opdracht 5](Point_5.png)
 
 Teken een nieuwe pixel, in de linkerbovenhoek van het scherm. 
 
 \pagebreak
 
-## Oplossing 4
+## `point` en `random`: oplossing 5
 
 ```c++
 void setup()
@@ -153,14 +154,14 @@ void draw()
 
 \pagebreak
 
-## Opdracht 5
+## `point` en `random`: opdracht 6
 
-![Opdracht 5](Point5.png)
+![`point` en `random`: opdracht 6](Point_6.png)
 
 Teken een nieuwe pixel, in de rechtbovenhoek van het scherm. 
 Gebruik `width - 1` als eerste getal binnen de ronde haakjes van `point`.
 
-## Oplossing 5
+## `point` en `random`: oplossing 6
 
 ```c++
 void setup()
@@ -177,15 +178,15 @@ void draw()
 }
 ``` 
 
-## Opdracht 6
+## `point` en `random`: opdracht 7
 
-![Opdracht 6](Point6.png)
+![`point` en `random`: opdracht 7](Point_7.png)
 
 Teken twee pixels erbij, in de onderste twee hoeken. Gebruik `width - 1` en `height - 1` op de juiste plekken.
 
 \pagebreak
 
-## Oplossing 6
+## `point` en `random`: oplossing 7
 
 ```c++
 void setup()
@@ -204,7 +205,7 @@ void draw()
 }
 ```
 
-## Opdracht 7
+## `point` en `random`: opdracht 8
 
 Run deze code:
 
@@ -224,9 +225,9 @@ Wat zie je?
 
 \pagebreak
 
-## Oplossing 7
+## `point` en `random`: oplossing 8
 
-![Oplossing 7](Point7.png)
+![`point` en `random`: oplossing 8](Point_8.png)
 
 Je ziet dat er puntjes op willekeurige plekken worden getekend, maar wel altijd op dezelfde hoogte.
 
@@ -234,14 +235,14 @@ Je ziet dat er puntjes op willekeurige plekken worden getekend, maar wel altijd 
 :-------------:|:----------------------------------------: 
 `random(300)`|'Lieve computer, kies een willekeurig getal van nul tot driehonderd'
 
-## Opdracht 8
+## `point` en `random`: opdracht 9
 
-![Opdracht 8](Point8.png)
+![`point` en `random`: opdracht 9](Point_9.png)
 
 Maak het venster 400 pixels breed en 100 pixels hoog. Gebruik in plaats van `random(300)` iets met `random` en `width`.
 Zorg dat de lijn van puntjes op de halve hoogte van het scherm blijft.
 
-## Oplossing 8
+## `point` en `random`: oplossing 9
 
 ```c++
 void setup()
@@ -255,7 +256,7 @@ void draw()
 }
 ```
 
-## Eindopdracht
+## `point` en `random`: eindopdracht
 
 ![Eindopdracht](PointEindopdracht.png)
 
