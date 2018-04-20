@@ -4,7 +4,7 @@ In deze les gaan we een bal naar rechts laten bewegen.
 Ook leren in deze les wat een variabele is.
 Je kunt bijna niet programmeren zonder variabelen.
 
-## Bal naar rechts
+## Bal naar rechts: intro
 
 Type de volgende code over:
 
@@ -31,13 +31,13 @@ Als alles goed gaat, zie je een bal die naar rechts beweegt (zie figuur `Een bal
 
 ![Een bal die naar rechts beweegt](BalNaarRechtsRun.png)
 
-### Opdracht 1
+### Bal naar rechts: opdracht 1
 
 ![Opdracht 1](BalNaarRechts800PixelsBreed.png)
 
 Het scherm is nu 600 pixels breed. Kun je deze 800 pixels breed krijgen? Verander de code en druk op 'Run'.
 
-### Oplossing 1
+### Bal naar rechts: oplossing 1
 
 Er zit een `600` in de code. Deze naar `800` veranderen is genoeg:
 
@@ -60,13 +60,18 @@ void draw()
 :-------------:|:----------------------------------------: 
 `size(800, 400);`|'Lieve computer, maak een venster van 800 pixels wijd en 400 pixels hoog.'
 
-### Opdracht 2
+\pagebreak
+
+### Bal naar rechts: opdracht 2
 
 ![Opdracht 2](BalNaarRechtsRondeBal.png)
 
-De bal is nu een ellips- is niet rond, maar ovaal. Maak deze rond. Hint: de bal is nu 40 pixels breed en 30 pixels hoog
+De bal is nu een ellips- is niet rond, maar ovaal. 
+Maak deze rond. Hint: de bal is nu 40 pixels breed en 30 pixels hoog
 
-### Oplossing 2
+\pagebreak
+
+### Bal naar rechts: oplossing 2
 
 `ellipse(x,50,40,30);` tekent de bal. De `40,30` zorgt ervoor dat de bal niet rond is. Door dit `40,40` of `30,30` te maken, wordt de bal rond:
 
@@ -89,13 +94,15 @@ void draw()
 :-------------:|:----------------------------------------: 
 `ellipse(x,50,40,30);`|'Lieve computer, teken een ovaal `x` pixels naar rechts, 50 pixels omlaag, die 40 pixels wijd en 30 pixels hoog is.'
 
-## Opdracht 3
+\pagebreak
+
+## Bal naar rechts: opdracht 3
 
 ![Opdracht 3](BalNaarRechtsSnel.png)
 
 De bal gaat nu met een snelheid van 1 pixel per keer naar rechts. Laat de bal twee keer zo snel naar rechts gaan
 
-## Oplossing 3
+## Bal naar rechts: oplossing 3
 
 `x = x + 1;` beweegt de bal. Verander dit naar `x = x + 2;`. De code wordt dan:
 
@@ -121,13 +128,13 @@ void draw()
 `x++;`|'Lieve computer, maak `x` een hoger.'
 `++x;`|'Lieve computer, maak `x` een hoger.'
 
-## Opdracht 4
+## Bal naar rechts: opdracht 4
 
 ![Opdracht 4](BalNaarRechtsVanafRechts.png)
 
 In het begin zit het midden van de bal 60 pixels naar rechts. Kun je de cirkel ook 0 pixels naar rechts laten beginnen?
 
-## Oplossing 4
+## Bal naar rechts: oplossing 4
 
 `float x = 60;` bepaalt dit. Verander dit naar `float x = 0;`. De code wordt dan:
 
@@ -150,17 +157,16 @@ void draw()
 :-------------:|:----------------------------------------: 
 `void setup() { }`|'Lieve computer, doe wat tussen accolades staat een keer.'
 
-## Bal naar links
+
+## Bal naar rechts: opdracht 5
 
 Haha, deze les heet 'Bal naar rechts', toch gaan we ook een bal naar links laten bewegen!
-
-## Opdracht 5
 
 ![Opdracht 5](BalNaarRechtsNaarLinks.png)
 
 Laat de bal nu aan de rechterkant van het scherm beginnen en naar links gaan
 
-## Oplossing 5
+## Bal naar rechts: oplossing 5
 
 Om de bal aan de rechtkant te krijgen moet je `float x = 500;` gebruiken (of een ander hoog getal).
 Om de bal naar links te laten bewegen, moet je `x = x - 1;` gebruiken. De code wordt dan:
@@ -232,11 +238,9 @@ De puntkomma (`;`) geeft het einde van een zin aan (zoals de punt in een Nederla
 `=`|'is vanaf nu'
 `;`|'.'
 
-## Bal naar onder
+## Bal naar rechts: opdracht 6
 
 Haha, deze les heet 'Bal naar rechts', toch gaan we ook een bal naar onder laten bewegen!
-
-## Opdracht 6
 
 ![Opdracht 6](BalNaarRechtsOmlaag.png)
 
@@ -247,7 +251,7 @@ Haha, deze les heet 'Bal naar rechts', toch gaan we ook een bal naar onder laten
 
 \pagebreak
 
-## Oplossing 6
+## Bal naar rechts: oplossing 6
 
 ```c++
 float y = 50;
@@ -264,7 +268,7 @@ void draw()
 }
 ```
 
-## Opdracht 7
+## Bal naar rechts: opdracht 7
 
 Nu gaan we de bal sneller en omhoog laten bewegen
 
@@ -274,7 +278,7 @@ Nu gaan we de bal sneller en omhoog laten bewegen
  * De bal moet in een rechte lijn naar boven gaan
  * De bal moet twee keer zo snel gaan
 
-## Oplossing 7
+## Bal naar rechts: oplossing 7
 
 ```c++
 float y = 300;
@@ -291,20 +295,16 @@ void draw()
 }
 ```
 
-## Eindopdracht
+## Bal naar rechts: eindopdracht
 
 ![Eindopdracht 'Bal naar rechts'](BalNaarRechtsEind.png)
 
  * de bal moet schuin naar rechts-omlaag gaan
  * de bal moet groter worden in de breedte en hoogte
  * zie ook figuur `Eindopdracht 'Bal naar rechts'`
- * gebruik een variabele `t` (van tijd) (goed idee, maar hoeft niet)
 
-## Links
+## Bal naar rechts: links
 
- * [YouTube, eerste gedeelte](https://www.youtube.com/watch?v=fZDsZgqxBM0)
- * [mp4, eerste gedeelte](http://www.richelbilderbeek/bal_naar_rechts_1.mp4)
- * [YouTube, wat een variabele is](https://youtu.be/3cXH3LrBGrA)
- * [mp4, wat een variabele is](http://www.richelbilderbeek/bal_naar_rechts_variabele.mp4)
- * [YouTube, tweede gedeelte](https://youtu.be/KxtQ00ugBvw)
- * [mp4, tweede gedeelte](http://www.richelbilderbeek/bal_naar_rechts_2.mp4)
+ * Eerste gedeelte: [YouTube](https://www.youtube.com/watch?v=fZDsZgqxBM0) [mp4](http://www.richelbilderbeek/bal_naar_rechts_1.mp4)
+ * Wat is een variabele: [YouTube](https://youtu.be/3cXH3LrBGrA), [mp4](http://www.richelbilderbeek/bal_naar_rechts_variabele.mp4)
+ * Tweede gedeelte: [YouTube](https://youtu.be/KxtQ00ugBvw), [mp4](http://www.richelbilderbeek/bal_naar_rechts_2.mp4)
