@@ -2,7 +2,7 @@
 
 In deze les gaan we een puntje besturen met het toetsenbord.
 
-![Terminator 2 (arcade game)](Terminator2.png)
+![Terminator 2 (arcade game)](Terminator2.jpg)
 
 ## Intro
 
