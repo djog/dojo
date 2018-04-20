@@ -2,7 +2,7 @@
 
 In deze les leer je hoe handig `width` en `height zijn`
 
-## Intro
+## `width` en `height`: intro
 
 ```c++
 void setup() 
@@ -21,17 +21,13 @@ void draw()
 `size(800, 400);`|'Lieve computer, maak een venster van 800 pixels wijd en 400 pixels hoog.'
 `ellipse(60,50,40,30);`|'Lieve computer, teken een ovaal `60` pixels naar rechts, 50 pixels omlaag, die 40 pixels wijd en 30 pixels hoog is.'
 
-## Opdracht 1
-
 Type bovenstaande code over en run deze.
 
-## Oplossing 1
+![`width` en `height`: intro](WidthHeight_Intro.png)
 
-![Oplossing 1](WidthHeight1.png)
+## `width` en `height`: opdracht 1
 
-## Opdracht 2
-
-![Opdracht 2](WidthHeight2.png)
+![`width` en `height`: opdracht 1](WidthHeight_1.png)
 
 Maak het venster nu 128 bij 128 pixels klein.
 
@@ -79,9 +75,9 @@ Deze getallen worden bepaald zodra je size gebruikt om de grootte van je scherm 
 
 \pagebreak
 
-## Opdracht 3
+## `width` en `height`: opdracht 2
 
-![Opdracht 3](WidthHeight3.png)
+![`width` en `height`: opdracht 2](WidthHeight_2.png)
 
 Maak een programma wat een ovaal tekent die het scherm opvult:
 
@@ -94,7 +90,7 @@ Maak een programma wat een ovaal tekent die het scherm opvult:
 :-------------:|:----------------------------------------: 
 `/`|'gedeeld door', een deelstreep zoals je ook bij breuken hebt, `:`
 
-## Oplossing 3
+## `width` en `height`: oplossing 2
 
 
 ```c++
@@ -109,15 +105,15 @@ void draw()
 }
 ```
 
-## Opdracht 4
+## `width` en `height`: opdracht 3
 
-![Opdracht 4](WidthHeight4.png)
+![`width` en `height`: opdracht 3](WidthHeight_3.png)
 
 Zet het middelpunt van de cirkel op coordinaat `(0, 0)`.
 
 \pagebreak
 
-## Oplossing 4
+## `width` en `height`: oplossing 3
 
 ```c++
 void setup() 
@@ -131,16 +127,16 @@ void draw()
 }
 ```
 
-## Opdracht 5
+## `width` en `height`: opdracht 4
 
-![Opdracht 5](WidthHeight5.png)
+![`width` en `height`: opdracht 4](WidthHeight_4.png)
 
 Maak een tweede cirkel die als middelpunt de rechterbovenhoek heeft.
 Gebruik `width` en/of `height`.
 
 \pagebreak
 
-## Oplossing 5
+## `width` en `height`: oplossing 4
 
 ```c++
 void setup() 
@@ -155,14 +151,14 @@ void draw()
 }
 ```
 
-## Opdracht 6
+## `width` en `height`: opdracht 5
 
-![Opdracht 6](WidthHeight6.png)
+![`width` en `height`: opdracht 5](WidthHeight_5.png)
 
 Maak een derde cirkel die als middelpunt de linkeronderhoek heeft.
 Gebruik `width` en/of `height`.
 
-## Oplossing 6
+## `width` en `height`: oplossing 5
 
 ```c++
 void setup() 
@@ -180,15 +176,14 @@ void draw()
 
 \pagebreak
 
-## Eindopdracht
+## `width` en `height`: eindopdracht
 
-![Eindopdracht `'width' en 'height'`](WidthHeightEindopdracht.png)
+![`width` en `height`: eindopdracht](WidthHeight_Eindopdracht.png)
 
  * Maak het venster 300 pixels breed en 200 pixels hoog
  * Maak een vierde cirkel die als middelpunt de rechteronderhoek heeft
  * Maak een vijfde cirkel die in het midden staat en twee keer zo klein is
 
-## Links
+## `width` en `height`: links
 
- * [YouTube video 'Width en Height'](https://youtu.be/pbj0fUn0qVQ)
- * [mp4](http://www.richelbilderbeek/width_en_height.mp4)
+ * `width` en `height`: [YouTube](https://youtu.be/pbj0fUn0qVQ), [mp4](http://www.richelbilderbeek/width_en_height.mp4)

@@ -13,18 +13,7 @@ Zo ziet het programma eruit:
 
 ![EenMooiProgramma](EenMooiProgramma.png)
 
-## Wat je nodig hebt
-
-Je moet Processing op kunnen starten. 
-Hoe dat moet, hangt af van het besturingssysteem:
-
- * [Processing opstarten op cursus laptop](../ProcessingOpstartenOpCursusLaptop/README.md)
- * Processing installeren op eigen laptop met GNU/Linux
- * Processing installeren op eigen laptop met Windows
-
-\pagebreak
-
-## Code kopiëren
+## Een mooi programma: intro
 
 Processing begint met een leeg programma zonder code:
 
@@ -54,8 +43,7 @@ Voor nu is het genoeg te weten dat het iets moois doet.
 
 ![De Run knop](ProcessingRun.png)
 
-## Eindopdracht
-
+## Een mooi programma: eindopdracht
 
  * Start Processing
  * Run deze code, door op de 'Run' knop te klikken
@@ -65,5 +53,4 @@ Voor nu is het genoeg te weten dat het iets moois doet.
 
 ## Links
 
- * [YouTube video](https://www.youtube.com/watch?v=TW6fIxI-Pl4)
- * [mp4](http://www.richelbilderbeek/een_mooi_programma.mp4)
+ * Een Mooi Programma: [YouTube](https://www.youtube.com/watch?v=TW6fIxI-Pl4), [mp4](http://www.richelbilderbeek/een_mooi_programma.mp4)
