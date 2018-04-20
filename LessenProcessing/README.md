@@ -45,6 +45,7 @@ Dit zijn de Processing lessen
  ?|[Toetsenbord 1: Qix](./Toetsenbord1/README.md)
  ?|[Toetsenbord 2: Tron](./Toetsenbord2/README.md)
  ?|[Toetsenbord 3: Terminator II](./Toetsenbord3/README.md)
+ ?|[Toetsenbord 4: Paratrooper](./Toetsenbord4/README.md)
  ?|[Scrollen: Zelda](./Scrollen/README.md)
  ?|[Rotate: Contra 3](./Rotate/README.md)
  ?|[GitHub account aanmaken](./GitHub/README.md)
