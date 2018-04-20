@@ -2,7 +2,7 @@
 
 In deze les gaan we een bal schuin laten stuiteren.
 
-## Een bal die horizontaal stuitert
+## Bal die schuin stuitert: intro
 
 ```c++
 float x = 150;
@@ -28,9 +28,9 @@ void draw()
 }
 ```
 
-## Opdracht 1
+## Bal die schuin stuitert: opdracht 1
 
-![Opdracht 1](BalDieSchuinStuitert1.png)
+![Bal die schuin stuitert: opdracht 1](BalDieSchuinStuitert1.png)
 
 Maak een nieuwe variable aan met de naam `y`.
 Teken de ovaal op coordinaat `(x, y)`.
@@ -42,7 +42,7 @@ Zorg dat de code hetzelfde blijft doen
 
 \pagebreak
 
-## Oplossing 1
+## Bal die schuin stuitert: oplossing 1
 
 ```c++
 float x = 150;
@@ -69,16 +69,16 @@ void draw()
 }
 ```
 
-## Opdracht 2
+## Bal die schuin stuitert: opdracht 2
 
-![Opdracht 2](BalDieSchuinStuitert2.png)
+![Bal die schuin stuitert: opdracht 2](BalDieSchuinStuitert2.png)
 
 Maak een nieuwe variable aan met de naam `snelheid_omlaag`. 
 Geef deze de beginwaarde van `1`. De bal hoeft nog niet te bewegen.
 
 \pagebreak
 
-## Oplossing 2
+## Bal die schuin stuitert: oplossing 2
 
 ```c++
 float x = 150;
@@ -106,15 +106,15 @@ void draw()
 }
 ```
 
-## Opdracht 3
+## Bal die schuin stuitert: opdracht 3
 
-![Opdracht 3](BalDieSchuinStuitert3.png)
+![Bal die schuin stuitert: opdracht 3](BalDieSchuinStuitert3.png)
 
 Laat de bal nu ook naar onder bewegen. Hij hoeft nog niet te stuiteren.
 
 \pagebreak
 
-## Oplossing 3
+## Bal die schuin stuitert: oplossing 3
 
 ```c++
 float x = 150;
@@ -143,15 +143,15 @@ void draw()
 }
 ```
 
-## Opdracht 4
+## Bal die schuin stuitert: opdracht 4
 
-![Opdracht 4](BalDieSchuinStuitert4.png)
+![Bal die schuin stuitert: opdracht 4](BalDieSchuinStuitert4.png)
 
 Laat de bal nu omhoog stuiteren als de bal de onderkant van het scherm raakt.
 
 \pagebreak
 
-## Oplossing 4
+## Bal die schuin stuitert: oplossing 4
 
 ```c++
 float x = 150;
@@ -186,8 +186,8 @@ void draw()
 
 \pagebreak
 
-## Eindopdracht
+## Bal die schuin stuitert: eindopdracht
 
-![Eindopdracht `Bal Die Schuin Stuitert`](BalDieSchuinStuitertEindopdracht.png)
+![Bal die schuin stuitert: eindopdracht](BalDieSchuinStuitertEindopdracht.png)
 
 Laat nu de bal ook stuiteren als deze de bovenkant raakt.
