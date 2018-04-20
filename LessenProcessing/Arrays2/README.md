@@ -4,7 +4,7 @@ Nog meer arrays!
 
 ![Robotron](Robotron.png)
 
-## Opdracht 1
+## Arrays 2: opdracht 1
 
 Run deze code:
 
@@ -27,22 +27,21 @@ void draw()
 
 \pagebreak
 
-## Oplossing 1
+## Arrays 2: oplossing 1
 
-![Een rookdeeltje](Arrays2_een_rookdeeltje.png)
+![Arrays 2: oplossing 1](Arrays2_een_rookdeeltje.png)
 
 Ha, een rookdeeltje.
 
+## Arrays 2: opdracht 2
 
-## Opdracht 2
-
-![Twee rookdeeltjes](Arrays2_twee_rookdeeltjes.png)
+![Arrays 2: opdracht 2](Arrays2_twee_rookdeeltjes.png)
 
 Maak een tweede rookdeeltje.
 
 \pagebreak
 
-## Oplossing 2
+## Arrays 2: oplossing 2
 
 ```c++
 float x1 = 160;
@@ -66,7 +65,7 @@ void draw()
 }
 ```
 
-## Opdracht 3
+## Arrays 2: opdracht 3
 
 Gebruik nu een array, zonder for loop.
 
@@ -83,7 +82,7 @@ Gebruik nu een array, zonder for loop.
 
 \pagebreak
 
-## Oplossing 3
+## Arrays 2: oplossing 3
 
 ```c++
 float[] xs;
@@ -111,9 +110,9 @@ void draw()
 }
 ```
 
-## Opdracht 4
+## Arrays 2: opdracht 4
 
-![Drie rookdeeltjes](Arrays2_drie_rookdeeltjes.png)
+![Arrays 2: opdracht 4](Arrays2_drie_rookdeeltjes.png)
 
 Gebruik nu for loops. Maak zowel array `xs` en `ys` drie laatjes groot.
 
@@ -123,7 +122,7 @@ Gebruik nu for loops. Maak zowel array `xs` en `ys` drie laatjes groot.
 
 \pagebreak
 
-## Oplossing 4
+## Arrays 2: oplossing 4
 
 ```c++
 float[] xs;
@@ -152,9 +151,9 @@ void draw()
 }
 ```
 
-## Opdracht 5
+## Arrays 2: opdracht 5
 
-![Vier rookdeeltjes](Arrays2_vier_rookdeeltjes.png)
+![Arrays 2: opdracht 5](Arrays2_vier_rookdeeltjes.png)
 
 Elk rookdeeltje krijgt nu een eigen rode randkleur:
 
@@ -168,7 +167,7 @@ Elk rookdeeltje krijgt nu een eigen rode randkleur:
 
 \pagebreak
 
-## Oplossing 5
+## Arrays 2: oplossing 5
 
 ```c++
 float[] xs;
@@ -204,9 +203,9 @@ void draw()
 
 \pagebreak
 
-## Eindopdracht
+## Arrays 2: eindopdracht
 
-![Arrays2 eindopdracht](Arrays2_eindopdracht.png)
+![Arrays 2: eindopdracht](Arrays2_eindopdracht.png)
 
 Maak nu de code zo dat:
 
