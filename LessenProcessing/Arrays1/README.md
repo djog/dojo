@@ -1,11 +1,11 @@
-# Arrays1
+# Arrays 1
 
 Met arrays kun je de computer veel waardes laten onthouden:
 de coordinaten van kogels, meteorieten, vijanden.
 
 ![Galaga is een beroemde game met veel vijanden en kogels](Galaga.png)
 
-## Opdracht 1
+## Arrays 1: opdracht 1
 
 Run deze code. Wat doet het?
 
@@ -30,13 +30,13 @@ void draw()
 
 \pagebreak
 
-## Oplossing 1
+## Arrays 1: oplossing 1
 
 Een bal die eeuwig naar rechts gaat!
 
-![Oplossing 1](Arrays1_1.png)
+![Arrays 1: oplossing 1](Arrays1_1.png)
 
-## Opdracht 2
+## Arrays 1: opdracht 2
 
 Zorg dat er een tweede bal bijkomt.
 
@@ -50,7 +50,7 @@ Zorg dat er een tweede bal bijkomt.
 
 \pagebreak
 
-## Oplossing 2
+## Arrays 1: oplossing 2
 
 ```c++
 float x1 = 0;
@@ -81,15 +81,15 @@ void draw()
 ![Sunglasses](EmojiSunglasses.png) | Dit was zeven regels extra werk
 :-------------:|:----------------------------------------: 
 
-## Opdracht 3
+## Arrays 1: opdracht 3
 
 Zorg dat er een derde bal bijkomt.
 
-![Drie ballen](Arrays1_drie_ballen.png)
+![Arrays 1: opdracht 3](Arrays1_drie_ballen.png)
 
 \pagebreak
 
-## Oplossing 3
+## Arrays 1: oplossing 3
 
 ```c++
 float x1 = 0;
@@ -132,7 +132,7 @@ void draw()
 
 \pagebreak
 
-## Wat is een array?
+## Arrays 1: wat is een array?
 
 Een array is als een kast met laatjes.
 
@@ -238,7 +238,7 @@ Dit programma ziet er niet erg mooi uit. Het is bedoeld om je te laten hoe je ar
 
 \pagebreak
 
-## Opdracht 4 
+## Arrays 1: opdracht 4 
 
 Run onderstaande code.
 
@@ -279,13 +279,13 @@ void draw()
 
 \pagebreak
 
-## Oplossing 4
+## Arrays 1: oplossing 4
 
 Hee, hetzelfde als net!
 
-![Oplossing 4](Arrays1_drie_ballen.png)
+![Arrays 1: oplossing 4](Arrays1_drie_ballen.png)
 
-## Opdracht 5
+## Arrays 1: opdracht 5
 
 Run deze code:
 
@@ -321,7 +321,7 @@ void draw()
 
 \pagebreak
 
-## Oplossing 5
+## Arrays 1: oplossing 5
 
 Hee, hetzelfde als net!
 
@@ -342,9 +342,9 @@ Hee, hetzelfde als net!
  |  `  xs[i] = i * 100;`
  |`}`
 
-## Opdracht 6
+## Arrays 1: opdracht 6
 
-![Vier ballen](Arrays1_vier_ballen.png)
+![Arrays 1: opdracht 6](Arrays1_vier_ballen.png)
 
 Maak nu een vierde bal erbij.
 
@@ -353,7 +353,7 @@ Maak nu een vierde bal erbij.
 
 \pagebreak
 
-## Oplossing 6
+## Arrays 1: oplossing 6
 
 
 ```c++
@@ -383,15 +383,15 @@ void draw()
 }
 ```
 
-## Opdracht 7
+## Arrays 1: opdracht 7
 
 Maak nu het programma full-screen. Laat de ballen als ze rechts het scherm uitgaan, weer links beginnen. Gebruik hiervoor `width`
 
-![Opdracht 7](Arrays1_7.png)
+![Arrays 1: opdracht 7](Arrays1_7.png)
 
 \pagebreak
 
-## Oplossing 7
+## Arrays 1: oplossing 7
 
 ```c++
 float[] xs;
@@ -420,9 +420,9 @@ void draw()
 }
 ```
 
-## Eindopdracht
+## Arrays 1: eindopdracht
 
-![Eindopdracht](Arrays1_eindopdracht.png)
+![Arrays 1: eindopdracht](Arrays1_eindopdracht.png)
 
 Maak de code nu zo dat:
 
