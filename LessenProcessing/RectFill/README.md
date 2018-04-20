@@ -9,7 +9,7 @@ Hier zie je een van de beroemdste games ooit:
 Je kunt een vierkant tekenen met vier lijnen,
 maar de `rect` functie werkt gemakkelijker.
 
-## Opdracht 1
+## `rect` en `fill`: opdracht 1
 
 Run deze code
 
@@ -34,11 +34,11 @@ void draw()
 
 \pagebreak
 
-## Oplossing 1
+## `rect` en `fill`: oplossing 1
 
 ![Oplossing 1](RectFill1.png)
 
-## Opdracht 2
+## `rect` en `fill`: opdracht 2
 
 Voeg de volgende extra regel toe, na `ellipse(x, height / 2, 100, 100);`:
 
@@ -52,7 +52,7 @@ Voeg de volgende extra regel toe, na `ellipse(x, height / 2, 100, 100);`:
 
 \pagebreak
 
-## Oplossing 2
+## `rect` en `fill`: oplossing 2
 
 ![Oplossing 2](RectFill2.png)
 
@@ -76,14 +76,13 @@ void draw()
 }
 ```
 
-
-## Opdracht 3
+## `rect` en `fill`: opdracht 3
 
 ![Opdracht 3](RectFill3.png)
 
 Teken de rechthoek nu over de ovaal. Doe dit door van de `x` en `y` coordinaat 50 af te halen.
 
-## Oplossing 3
+## `rect` en `fill`: oplossing 3
 
 ```c++
 float x = -50;
@@ -105,7 +104,7 @@ void draw()
 }
 ```
 
-## Opdracht 4
+## `rect` en `fill`: opdracht 4
 
 ![Opdracht 4](RectFill4.png)
 
@@ -116,7 +115,7 @@ kun je zien in figuur `Kleurencirkel`.
 
 \pagebreak
 
-## Oplossing 4
+## `rect` en `fill`: oplossing 4
 
 ```c++
 float x = -50;
@@ -138,7 +137,7 @@ void draw()
 }
 ```
 
-## Opdracht 5
+## `rect` en `fill`: opdracht 5
 
 Voeg de volgende regel toe na `stroke(255, 255, 0);`:
 
@@ -148,7 +147,7 @@ fill(x, 0, 255);
 
 \pagebreak
 
-## Oplossing 5
+## `rect` en `fill`: oplossing 5
 
 ![Opdracht 5](RectFill5.png)
 
@@ -177,7 +176,7 @@ void draw()
 :----------------:|:----------------------------------------: 
 `fill(0, 128, 255);`|'Lieve computer, maak de invulkleur zonder rood, halvol groen en vol blauw.'
 
-## Opdracht 6
+## `rect` en `fill`: opdracht 6
 
 Maak een nieuwe variable aan, `groen` met een beginwaarde van nul. 
 `groen` wordt gebruikt als het tweede getal van `fill` (inplaats van de nul).
@@ -185,7 +184,7 @@ Elke keer wordt `groen` twee hoger.
 
 \pagebreak
 
-### Oplossing 6
+### `rect` en `fill`: oplossing 6
 
 ```c++
 float x = -50;
@@ -210,7 +209,7 @@ void draw()
 }
 ```
  
-## Opdracht 7
+## `rect` en `fill`: opdracht 7
 
 ![Opdracht 7](RectFill7.png)
 
@@ -219,7 +218,7 @@ dat als `groen` meer is dan 255, dat groen dan nul wordt
 
 \pagebreak
 
-## Oplossing 7
+## `rect` en `fill`: oplossing 7
 
 ```c++
 float x = -50;
@@ -248,7 +247,7 @@ void draw()
 }
 ```
 
-## Opdracht 8
+## `rect` en `fill`: opdracht 8
 
 ![Opdracht 8](RectFill8.png)
 
@@ -256,7 +255,7 @@ Maak de blauwheid van de invulkleur een willekeurig getal van nul tot 256.
 
 \pagebreak
 
-## Oplossing 8
+## `rect` en `fill`: oplossing 8
 
 ```c++
 float x = -50;
@@ -285,7 +284,7 @@ void draw()
 }
 ```
 
-## Eindopdracht
+## `rect` en `fill`: eindopdracht
 
 ![Eindopdracht `rect` en `fill`](RectFillEindopdracht.png)
 
