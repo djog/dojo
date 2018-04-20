@@ -13,11 +13,15 @@ Zo ziet het programma eruit:
 
 ![EenMooiProgramma](EenMooiProgramma.png)
 
+\pagebreak
+
 ## Een mooi programma: intro
 
 Processing begint met een leeg programma zonder code:
 
 ![Processing zonder code](Processing.png)
+
+\pagebreak
 
 Dit is de programmeercode die we gaan gebruiken:
 
@@ -41,12 +45,14 @@ Voor nu is het genoeg te weten dat het iets moois doet.
 
 ![Processing met code](ProcessingMetCode.png)
 
-![De Run knop](ProcessingRun.png)
+\pagebreak
 
 ## Een mooi programma: eindopdracht
 
  * Start Processing
  * Run deze code, door op de 'Run' knop te klikken
+
+![De Run knop](ProcessingRun.png)
 
 ![Sunglasses](EmojiSunglasses.png) | Gelukt? Laat dit zien aan een volwassene voor een sticker!
 :-------------:|:----------------------------------------: 

@@ -2,6 +2,8 @@
 
 In deze les leer je hoe handig `width` en `height zijn`
 
+![De Gameboy heeft een scherm van 160 bij 144 pixels](Gameboy.jpg)
+
 ## `width` en `height`: intro
 
 ```c++
@@ -31,7 +33,7 @@ Type bovenstaande code over en run deze.
 
 Maak het venster nu 128 bij 128 pixels klein.
 
-## Oplossing
+## `width` en `height`: oplossing
 
 ```c++
 void setup() 
