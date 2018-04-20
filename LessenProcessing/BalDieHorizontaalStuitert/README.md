@@ -4,7 +4,7 @@
 
 In deze les gaan we een bal horizontaal laten stuiteren.
 
-## Een bal met een snelheid
+## Bal die horizontaal stuitert: opdracht 1
 
 ```c++
 float x = 300;
@@ -26,14 +26,11 @@ void draw()
 }
 ```
 
-## Opdracht 1
-
-Type de code van `Een bal met een snelheid` over. 
-Zet de waarde van `snelheid` op `1`. Wat zie je?
+Type deze code over. Zet de waarde van `snelheid` op `1`. Wat zie je?
 
 \pagebreak
 
-## Antwoord 1
+## Bal die horizontaal stuitert: oplossing 1
 
 Je ziet dat de bal rustig naar rechts beweegt. Als de bal
 rechts het beeld uit gaat, komt deze vanaf links weer in het beeldscherm.
@@ -58,15 +55,15 @@ void draw()
 }
 ```
 
-![Oplossing 1](BalDieHorizontaalStuitert1.png)
+![Bal die horizontaal stuitert: oplossing 1](BalDieHorizontaalStuitert1.png)
 
-## Opdracht 2
+## Bal die horizontaal stuitert: opdracht 2
 
 Zet de waarde van `snelheid` op `0`. Wat zie je?
 
 \pagebreak
 
-## Antwoord 2
+## Bal die horizontaal stuitert: oplossing 2
 
 De bal staat nu stil
 
@@ -90,9 +87,9 @@ void draw()
 }
 ```
 
-![Oplossing 2](BalDieHorizontaalStuitert2.png)
+![Bal die horizontaal stuitert: oplossing 2](BalDieHorizontaalStuitert2.png)
 
-## Opdracht 3
+## Bal die horizontaal stuitert: opdracht 3
 
 Zet de waarde van `snelheid` op `-1`. Wat zie je?
 
@@ -101,7 +98,7 @@ Zet de waarde van `snelheid` op `-1`. Wat zie je?
 
 \pagebreak
 
-## Antwoord 3
+## Bal die horizontaal stuitert: oplossing 3
 
 De bal gaat nu naar links en komt niet meer in beeld.
 
@@ -125,18 +122,18 @@ void draw()
 }
 ```
 
-![Oplossing 3](BalDieHorizontaalStuitert3.png)
+![Bal die horizontaal stuitert: oplossing 3](BalDieHorizontaalStuitert3.png)
 
-## Opdracht 4
+## Bal die horizontaal stuitert: opdracht 4
 
-![Opdracht 4](BalDieHorizontaalStuitert4.png)
+![Bal die horizontaal stuitert: opdracht 4](BalDieHorizontaalStuitert4.png)
 
 Zorg dat als de bal links uit beeld gaat, deze weer rechts verschijnt.
 Doe dit door een tweede `if` te maken
 
 \pagebreak
 
-## Oplossing 4
+## Bal die horizontaal stuitert: oplossing 4
 
 ```c++
 float x = 300;
@@ -162,7 +159,7 @@ void draw()
 }
 ```
 
-## Opdracht 5
+## Bal die horizontaal stuitert: opdracht 5
 
 Denk na: wat moet er met de `snelheid` gebeuren om de bal te laten stuiteren (van links naar rechst)? 
 
@@ -170,7 +167,7 @@ Als je durft: probeer dit zonder verder te lezen!
 
 \pagebreak
 
-## Oplossing 5
+## Bal die horizontaal stuitert: oplossing 5
 
 Als tegen de linkerkant komt, moet de bal de bal naar rechts gaan. Als tegen de rechterkant komt, moet de bal de bal naar links gaan.
 
@@ -184,7 +181,7 @@ Als tegen de linkerkant komt, moet de bal de bal naar rechts gaan. Als tegen de 
 ![Bal aan linkerkant](BalDieHorizontaalStuitertLinksKlein.png)|`x < 50`|`snelheid = 1;`
 ![Bal aan rechterkant](BalDieHorizontaalStuitertRechtsKlein.png)|`x > 550`|`snelheid = -1;`
 
-## Opdracht 6
+## Bal die horizontaal stuitert: opdracht 6
 
 ![Opdracht 6](BalDieHorizontaalStuitert6.png)
 
@@ -192,7 +189,7 @@ Laat de bal nu van links naar rechts stuiteren
 
 \pagebreak
 
-## Oplossing 6
+## Bal die horizontaal stuitert: oplossing 6
 
 ```c++
 float x = 300;
@@ -218,7 +215,7 @@ void draw()
 }
 ```
 
-## Opdracht 7
+## Bal die horizontaal stuitert: opdracht 7
 
 ![Opdracht 7](BalDieHorizontaalStuitert7.png)
 
@@ -226,7 +223,7 @@ Laat de bal nu met een snelheid van 2 pixels per keer bewegen.
 
 \pagebreak
 
-## Oplossing 7
+## Bal die horizontaal stuitert: oplossing 7
 
 ```c++
 float x = 300;
@@ -252,7 +249,7 @@ void draw()
 }
 ```
 
-## Opdracht 8
+## Bal die horizontaal stuitert: opdracht 8
 
 Verander in de code:
 
@@ -270,7 +267,7 @@ van|naar
 
 \pagebreak
 
-## Oplossing 8
+## Bal die horizontaal stuitert: oplossing 8
 
 ![Opdracht 8](BalDieHorizontaalStuitert8.png)
 
@@ -300,8 +297,8 @@ void draw()
 
 \pagebreak
 
-## Eindopdracht
+## Bal die horizontaal stuitert: eindopdracht
 
-![Eindopdracht `Bal Die Horizontaal Stuitert`](BalDieHorizontaalStuitertEindopdracht.png)
+![Bal die horizontaal stuitert: eindopdracht](BalDieHorizontaalStuitertEindopdracht.png)
 
 Laat de bal nu omhoog en omlaag stuiteren.
