@@ -5,7 +5,7 @@ In deze les gaan we een bal eeuwig naar rechts laten gaan.
 We leren in deze les wat `if`-statement is.
 Je kunt (bijna) niet programmeren zonder `if`-statements.
 
-## Een `if`-statement
+## Bal die eeuwig naar rechts gaat: intro
 
 ![Verkleurende bal naar rechts](BalEeuwigNaarRechtsIntro.png)
 
@@ -51,7 +51,7 @@ Het tekentje `>` betekent 'groter dan'. Preciezer zeg je: 'Lieve computer, *als*
 
 \pagebreak
 
-## Opdracht 1
+## Bal die eeuwig naar rechts gaat: opdracht 1
 
 ![Opdracht 1](BalEeuwigNaarRechts1.png)
 
@@ -59,7 +59,7 @@ Zet de `if` tussen de code van het programma. Zet de `if` aan het eind van `draw
 
 \pagebreak
 
-## Oplossing 1
+## Bal die eeuwig naar rechts gaat: oplossing 1
 
 De code wordt dan:
 
@@ -82,7 +82,7 @@ void draw()
 }
 ```
 
-## Opdracht 2
+## Bal die eeuwig naar rechts gaat: opdracht 2
 
 ![Opdracht 2](BalEeuwigNaarRechts2.png)
 
@@ -90,7 +90,7 @@ Zorg ervoor dat de ovaal helemaal naar de linkerkant van het scherm springt
 
 \pagebreak
 
-## Oplossing 2
+## Bal die eeuwig naar rechts gaat: oplossing 2
 
  * Verander `float x = 50` naar `float x = 0` of `float x = -50`: allebei is goed.
  * Verander `x = 100` naar `x = 0` of `x = -50`: allebei is goed.
@@ -114,7 +114,7 @@ void draw()
 }
 ```
 
-## Opdracht 3
+## Bal die eeuwig naar rechts gaat: opdracht 3
 
 ![Opdracht 3](BalEeuwigNaarRechts3.png)
 
@@ -122,7 +122,7 @@ Zorg ervoor dat de ovaal helemaal naar rechts beweegt, voordat deze naar de link
 
 \pagebreak
 
-## Oplossing 3
+## Bal die eeuwig naar rechts gaat: oplossing 3
 
 Verander `if (x > 200)` naar `if (x > 650)`.
 
@@ -147,7 +147,7 @@ void draw()
 
 \pagebreak
 
-## Bal die eeuwig naar links gaat
+## Bal die eeuwig naar rechts gaat: opdracht 4
 
 Gefopt! Ook al het de les 'Bal die eeuwig naar rechts gaat', we gaan toch de bal ook andere
 kanten op laten gaan.
@@ -170,8 +170,6 @@ zet dan `x` op vijfhonderd.
 :-------------:|:----------------------------------------: 
 `if (x < 100) { }`|'Lieve computer, als `x` kleiner is dan 100, doe dan wat tussen accolades staat.'
 
-## Opdracht 4
-
 ![Opdracht 4](BalEeuwigNaarRechts4.png)
 
 Maak een bal die eeuwig naar links gaat:
@@ -182,7 +180,7 @@ Maak een bal die eeuwig naar links gaat:
 
 \pagebreak
 
-## Antwoord 4
+## Bal die eeuwig naar rechts gaat: oplossing 4
 
 Dit is een eeuwig naar links gaande bal:
 
@@ -214,13 +212,11 @@ void draw()
 
 \pagebreak
 
-## Bal die eeuwig omlaag gaat
+## Bal die eeuwig naar rechts gaat: opdracht 5
 
 We hebben een bal naar rechts en naar links laten bewegen door de `x` coordinaat
 te veranderen. De bal kan ook naar omlaag en omhoog gaan door de `y` coordinaat
 te veranderen.
-
-## Opdracht 5
 
 ![Opdracht 5](BalEeuwigNaarRechts5.png)
 
@@ -233,7 +229,7 @@ Schrijf een programma waarin een bal eeuwig omlaag gaat:
 
 \pagebreak
 
-## Oplossing 5
+## Bal die eeuwig naar rechts gaat: oplossing 5
 
 ```c++
 float y = -50;
@@ -254,7 +250,7 @@ void draw()
 }
 ```
 
-## Bal die schuin gaat
+## Bal die eeuwig naar rechts gaat: opdracht 6
 
 Hoppa, nu we een variabele `x` of een `y` hebben gemaakt, gaan we beiden doen!
 
@@ -264,14 +260,12 @@ Als we code samenvoegen, gelden de volgende regels:
  * alles wat binnen de `setup` functie staat, moet binnen de `setup` functie blijven
  * alles wat binnen de `draw` functie staat, moet binnen de `draw` functie blijven
 
-## Opdracht 6
-
 ![Opdracht 6](BalEeuwigNaarRechts6.png)
 
  * Voeg de code van 'Bal die eeuwig naar rechts gaat' samen met 'Bal die eeuwig omlaag gaat'
  * Verander de code zo dat de bal schuin gaat
 
-## Oplossing 6
+## Bal die eeuwig naar rechts gaat: oplossing 6
 
 ```c++
 float x = -50;
@@ -298,13 +292,12 @@ void draw()
 }
 ```
 
-## Eindopdracht
+## Bal die eeuwig naar rechts gaat: eindopdracht
 
 ![Eindopdracht `Bal Eeuwig Naar Rechts`](BalEeuwigNaarRechtsEindopdracht.png)
 
 Laat de bal nu eeuwig schuin naar linksonder gaan.
 
-## Links
+## Bal die eeuwig naar rechts gaat: links
 
- * [YouTube](https://youtu.be/k-7Ji0_HcAc)
- * [mp4](http://www.richelbilderbeek/bal_eeuwig_naar_rechts.mp4)
+ * Bal die eeuwig naar rechts gaat: [YouTube](https://youtu.be/k-7Ji0_HcAc), [mp4](http://www.richelbilderbeek/bal_eeuwig_naar_rechts.mp4)
