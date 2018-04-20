@@ -2,7 +2,9 @@
 
 In deze les gaan we een kanon besturen met de pijltjes.
 
-![Terminator 2 (arcade game)](Terminator2.png)
+```
+Plaatje van Paratrooper
+```
 
 ## Intro
 

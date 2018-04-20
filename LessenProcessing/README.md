@@ -42,18 +42,25 @@ Dit zijn de Processing lessen
 
 #|Omschrijving
 ---|---
- ?|[Toetsenbord 1: Qix](./Toetsenbord1/README.md)
- ?|[Toetsenbord 2: Tron](./Toetsenbord2/README.md)
- ?|[Toetsenbord 3: Terminator II](./Toetsenbord3/README.md)
- ?|[Toetsenbord 4: Paratrooper](./Toetsenbord4/README.md)
+ -| **Boek 5**
+17|[Toetsenbord 1: Qix](./Toetsenbord1/README.md)
+18|[Toetsenbord 2: Tron](./Toetsenbord2/README.md)
+19|[Toetsenbord 3: Terminator II](./Toetsenbord3/README.md)
+20|[Toetsenbord 4: Paratrooper](./Toetsenbord4/README.md)
+ -| **Boek 6**
+ ?|[Muis les 1: Positie](./MuisPositie/README.md)
+ ?|[Muis les 2: Positie](./MuisPositie/README.md)
+ ?|[Muis les 3: Knoppen](./MuisKnoppen/README.md)
+ ?|[Muis les 4: Scrollen](./MuisScroll/README.md)
+
+
+#|Omschrijving
+---|---
  ?|[Scrollen: Zelda](./Scrollen/README.md)
  ?|[Rotate: Contra 3](./Rotate/README.md)
  ?|[GitHub account aanmaken](./GitHub/README.md)
  ?|[GitHub repository maken](./GitHubPages/README.md)
  ?|Code op je GitHub zetten
- ?|[Muis les 1: Positie](./MuisPositie/README.md)
- ?|[Muis les 2: Knoppen](./MuisKnoppen/README.md)
- ?|[Muis les 3: Scrollen](./MuisScroll/README.md)
  ?|for loops 1: geheel getal dat telt van 0 tot een waarde
  ?|for loops les 2: andere soorten for-loops, continue, break
  ?|[Functies les 1: Tekening](./FunctiesTekening/README.md)
