@@ -5,6 +5,10 @@ In deze les gaan we een bal eeuwig naar rechts laten gaan.
 We leren in deze les wat `if`-statement is.
 Je kunt (bijna) niet programmeren zonder `if`-statements.
 
+![In Bosconian kun je ook eeuwig naar rechts gaan](Bosconian.jpg)
+
+\pagebreak
+
 ## Bal die eeuwig naar rechts gaat: intro
 
 ![Verkleurende bal naar rechts](BalEeuwigNaarRechtsIntro.png)
@@ -27,6 +31,8 @@ void draw()
 ```
 
 Nadeel: de bal komt nooit meer terug in het scherm.
+
+\pagebreak
 
 We willen kunnen zeggen: 'Lieve computer, *als* de bal te ver naar rechts is, 
 dan teleporteer je de bal naar rechts'. `if` is Engels voor 'als'.
@@ -82,6 +88,8 @@ void draw()
 }
 ```
 
+\pagebreak
+
 ## Bal die eeuwig naar rechts gaat: opdracht 2
 
 ![Opdracht 2](BalEeuwigNaarRechts2.png)
@@ -113,6 +121,8 @@ void draw()
   }
 }
 ```
+
+\pagebreak
 
 ## Bal die eeuwig naar rechts gaat: opdracht 3
 
@@ -250,6 +260,8 @@ void draw()
 }
 ```
 
+\pagebreak
+
 ## Bal die eeuwig naar rechts gaat: opdracht 6
 
 Hoppa, nu we een variabele `x` of een `y` hebben gemaakt, gaan we beiden doen!
@@ -264,6 +276,8 @@ Als we code samenvoegen, gelden de volgende regels:
 
  * Voeg de code van 'Bal die eeuwig naar rechts gaat' samen met 'Bal die eeuwig omlaag gaat'
  * Verander de code zo dat de bal schuin gaat
+
+\pagebreak
 
 ## Bal die eeuwig naar rechts gaat: oplossing 6
 
@@ -291,6 +305,8 @@ void draw()
   }
 }
 ```
+
+\pagebreak
 
 ## Bal die eeuwig naar rechts gaat: eindopdracht
 

@@ -9,6 +9,8 @@ Hier zie je een van de beroemdste games ooit:
 Je kunt een vierkant tekenen met vier lijnen,
 maar de `rect` functie werkt gemakkelijker.
 
+\pagebreak
+
 ## `rect` en `fill`: opdracht 1
 
 Run deze code
@@ -37,6 +39,8 @@ void draw()
 ## `rect` en `fill`: oplossing 1
 
 ![Oplossing 1](RectFill1.png)
+
+\pagebreak
 
 ## `rect` en `fill`: opdracht 2
 
@@ -76,11 +80,15 @@ void draw()
 }
 ```
 
+\pagebreak
+
 ## `rect` en `fill`: opdracht 3
 
 ![Opdracht 3](RectFill3.png)
 
 Teken de rechthoek nu over de ovaal. Doe dit door van de `x` en `y` coordinaat 50 af te halen.
+
+\pagebreak
 
 ## `rect` en `fill`: oplossing 3
 
@@ -103,6 +111,8 @@ void draw()
   }
 }
 ```
+
+\pagebreak
 
 ## `rect` en `fill`: opdracht 4
 
@@ -136,6 +146,8 @@ void draw()
   }
 }
 ```
+
+\pagebreak
 
 ## `rect` en `fill`: opdracht 5
 
@@ -176,6 +188,8 @@ void draw()
 :----------------:|:----------------------------------------: 
 `fill(0, 128, 255);`|'Lieve computer, maak de invulkleur zonder rood, halvol groen en vol blauw.'
 
+\pagebreak
+
 ## `rect` en `fill`: opdracht 6
 
 Maak een nieuwe variable aan, `groen` met een beginwaarde van nul. 
@@ -209,6 +223,8 @@ void draw()
 }
 ```
  
+\pagebreak
+
 ## `rect` en `fill`: opdracht 7
 
 ![Opdracht 7](RectFill7.png)
@@ -247,6 +263,8 @@ void draw()
 }
 ```
 
+\pagebreak
+
 ## `rect` en `fill`: opdracht 8
 
 ![Opdracht 8](RectFill8.png)
@@ -283,6 +301,8 @@ void draw()
   }
 }
 ```
+
+\pagebreak
 
 ## `rect` en `fill`: eindopdracht
 

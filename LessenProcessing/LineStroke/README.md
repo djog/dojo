@@ -45,6 +45,8 @@ Laat de lijn niet naar de rechteronderhoek, maar naar de rechterbovenhoek gaan.
 
 \pagebreak
 
+\pagebreak
+
 ## `line` en `stroke`: oplossing 2
 
 ```c++
@@ -58,6 +60,8 @@ void draw()
   line(0, 100, 300, 0);
 }
 ```
+
+\pagebreak
 
 ## `line` en `stroke`: opdracht 3
 
@@ -81,6 +85,8 @@ void draw()
 }
 ```
 
+\pagebreak
+
 ## `line` en `stroke`: opdracht 4
 
 Laat de lijn van linksonder naar rechtsboven gaan, maar gebruik nu `width` en `height`
@@ -103,11 +109,15 @@ void draw()
 }
 ```
 
+\pagebreak
+
 ## `line` en `stroke`: opdracht 5
 
 ![Opdracht 5](LineStroke5.png)
 
 Laat de lijn links op een willekeurige hoogte beginnen. Dit doe je met `random`
+
+\pagebreak
 
 \pagebreak
 
@@ -124,6 +134,8 @@ void draw()
   line(0, random(height), width, 0);
 }
 ```
+
+\pagebreak
 
 ## `line` en `stroke`: opdracht 6
 
@@ -146,6 +158,8 @@ void draw()
   line(0, random(height), width, random(height));
 }
 ```
+
+\pagebreak
 
 ## `line` en `stroke`: opdracht 7
 
@@ -175,13 +189,13 @@ void draw()
 `stroke(255, 0, 0);`|'Lieve computer, geef de lijnen de kleur rood.'
 `stroke(255, 0, 0);`|'Lieve computer, geef de lijnen de kleur vol rood, zonder groen en zonder blauw.'
 
+\pagebreak
+
 ## `line` en `stroke`: opdracht 8
 
 ![Opdracht 8](LineStroke8.png)
 
-Maak de lijnen nu cyaan. Kijk naar figuur `Kleurencirkel` (op de volgende bladzijde) hoe je die maakt
-
-\pagebreak
+Maak de lijnen nu cyaan. Kijk naar figuur `Kleurencirkel` hoe je die maakt
 
 ![Kleurencirkel](AdditiveColor3.png)
 
@@ -207,6 +221,7 @@ void draw()
 `stroke(0, 255, 255);`|'Lieve computer, geef de lijnen de kleur cyaan.'
 `stroke(0, 255, 255);`|'Lieve computer, geef de lijnen de kleur zonder rood, vol groen en vol blauw.'
 
+\pagebreak
 
 ## `line` en `stroke`: opdracht 9
 
@@ -214,8 +229,8 @@ void draw()
 
 Laat nu de roodwaarde een willeukeurig getal van 0 tot 256 worden.
 
-\pagebreak
 
+\pagebreak
 
 ## `line` en `stroke`: oplossing 9
 
@@ -231,6 +246,8 @@ void draw()
   line(0, random(height), width, random(height));
 }
 ```
+
+\pagebreak
 
 ## `line` en `stroke`: eindopdracht
 
