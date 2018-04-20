@@ -7,10 +7,9 @@ tekstavonturen ooit:
 
 ![Zork](ZorkKleiner.png)
 
-## Opdracht 1
+## `text`: opdracht 1
 
 Run deze code:
-
 
 ```c++
 float x = 150;
@@ -42,9 +41,9 @@ void draw()
 
 \pagebreak
 
-## Oplossing 1
+## `text`: oplossing 1
 
-![Oplossing 1](Text1.png)
+![`text`: oplossing 1](Text1.png)
 
 ## Opdracht 2
 
@@ -56,9 +55,9 @@ text(x, 10, 20);
 
 \pagebreak
 
-## Oplossing 2
+## `text`: oplossing 2
 
-![Oplossing 2](Text2.png)
+![`text`: oplossing 2](Text2.png)
 
 ```c++
 float x = 150;
@@ -94,15 +93,15 @@ void draw()
 `text(100, 200, 300);`|'Lieve computer, zet de tekst `100` op het scherm met als linkerbovenhoek `(200, 300)`
 `text("Hallo", 100, 200);`|'Lieve computer, zet de tekst `Hallo` op het scherm met als linkerbovenhoek `(100, 200)`
 
-## Opdracht 3
+## `text`: opdracht 3
 
-![Opdracht 3](Text3.png)
+![`text`: opdracht 3](Text3.png)
 
 Het programma laat nu de `x` zien. Laat eronder nu ook de `y` coordinaat op het scherm zien.
 
 \pagebreak
 
-## Oplossing 3
+## `text`: oplossing 3
 
 ```c++
 float x = 150;
@@ -134,16 +133,16 @@ void draw()
 }
 ```
 
-## Opdracht 4
+## `text`: opdracht 4
 
-![Opdracht 4](Text4.png)
+![`text`: opdracht 4](Text4.png)
 
 Met `fill` kun je de kleur van je tekst bepalen. 
 Na de eerste `text`, zet de fill op groen.
 
 \pagebreak
 
-## Oplossing 4
+## `text`: oplossing 4
 
 ```c++
 float x = 150;
@@ -176,9 +175,9 @@ void draw()
 }
 ```
 
-## Opdracht 5
+## `text`: opdracht 5
 
-![Opdracht 5](Text5.png)
+![`text`: opdracht 5](Text5.png)
 
 Zet de tekst `PONG` bovenin en midden op het scherm.
 De tekst moet een willekeurige kleur krijgen.
@@ -186,7 +185,7 @@ Gebruik `width` om het midden te bepalen.
 
 \pagebreak
 
-## Oplossing 5
+## `text`: oplossing 5
 
 ```c++
 float x = 150;
@@ -221,9 +220,9 @@ void draw()
 }
 ```
 
-## Opdracht 6
+## `text`: opdracht 6
 
-![Opdracht 6](Text6.png)
+![`text`: opdracht 6](Text6.png)
 
 Maak een variabele erbij: `aantal_botsingen`.
 `aantal_botsingen` heeft als beginwaarde nul.
@@ -231,7 +230,7 @@ Zet deze waarde op het scherm, in het wit.ex
 
 \pagebreak
 
-## Oplossing 6
+## `text`: oplossing 6
 
 ```c++
 float x = 150;
@@ -269,15 +268,15 @@ void draw()
 }
 ```
 
-## Opdracht 7
+## `text`: opdracht 7
 
-![Opdracht 7](Text7.png)
+![`text`: opdracht 7](Text7.png)
 
 Maak `botsingen` hoger als de bal teken de rechter muur komt.
 
 \pagebreak
 
-## Oplossing 7
+## `text`: oplossing 7
 
 ```c++
 float x = 150;
@@ -316,9 +315,9 @@ void draw()
 }
 ```
 
-## Eindopdracht
+## `text`: eindopdracht
 
-![Eindopdracht `text`](TextEindopdracht.png)
+![`text`: eindopdracht](TextEindopdracht.png)
 
 Zet linksboven de tekst: `aantal botsingen:` in het wit.
 Zet daaronder de waarde van `botsingen` in het wit.
