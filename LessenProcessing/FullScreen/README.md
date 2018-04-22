@@ -2,6 +2,8 @@
 
 `fullScreen` is een functie waarmee je het venster van je programma net zo groot maakt als het beeldscherm van je computer.
 
+\pagebreak
+
 ## `fullScreen`: opdracht 1
 
 Run deze code. Wat zie je?
@@ -30,6 +32,8 @@ void draw()
 
 ![`fullScreen`: oplossing 1](Fullscreen1.png)
 
+\pagebreak
+
 ## `fullScreen`: opdracht 2
 
 Maak een rechthoek met de linkerbovenhoek in het midden, 
@@ -52,6 +56,8 @@ void draw()
   rect(width / 2, height / 2, 200, 100);
 }
 ```
+
+\pagebreak
 
 ## `fullScreen`: opdracht 3
 
@@ -78,6 +84,8 @@ void draw()
 }
 ```
 
+\pagebreak
+
 ## `fullScreen`: opdracht 4
 
 Zet een rechthoek in het midden van het scherm, met een breedte van 300 pixels
@@ -100,6 +108,8 @@ void draw()
   rect(width / 2 - 150, height / 2 - 200, 300, 400);
 }
 ```
+
+\pagebreak
 
 ## `fullScreen`: opdracht 5
 
@@ -124,9 +134,10 @@ void draw()
 }
 ```
 
+\pagebreak
+
 ## `fullScreen`: eindopdracht
 
 ![`fullScreen`: eindopdracht](Fullscreen6.png)
 
 Zet een rechthoek in het midden van het scherm, die half zo breed en hoog is als het scherm.
-

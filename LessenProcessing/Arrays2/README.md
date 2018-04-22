@@ -4,6 +4,8 @@ Nog meer arrays!
 
 ![Robotron](Robotron.png)
 
+\pagebreak
+
 ## Arrays 2: opdracht 1
 
 Run deze code:
@@ -32,6 +34,8 @@ void draw()
 ![Arrays 2: oplossing 1](Arrays2_een_rookdeeltje.png)
 
 Ha, een rookdeeltje.
+
+\pagebreak
 
 ## Arrays 2: opdracht 2
 
@@ -64,6 +68,8 @@ void draw()
   ellipse(x2, y2, 10, 10);
 }
 ```
+
+\pagebreak
 
 ## Arrays 2: opdracht 3
 
@@ -110,6 +116,8 @@ void draw()
 }
 ```
 
+\pagebreak
+
 ## Arrays 2: opdracht 4
 
 ![Arrays 2: opdracht 4](Arrays2_drie_rookdeeltjes.png)
@@ -150,6 +158,8 @@ void draw()
   }
 }
 ```
+
+\pagebreak
 
 ## Arrays 2: opdracht 5
 

@@ -5,6 +5,8 @@ de coordinaten van kogels, meteorieten, vijanden.
 
 ![Galaga is een beroemde game met veel vijanden en kogels](Galaga.png)
 
+\pagebreak
+
 ## Arrays 1: opdracht 1
 
 Run deze code. Wat doet het?
@@ -35,6 +37,8 @@ void draw()
 Een bal die eeuwig naar rechts gaat!
 
 ![Arrays 1: oplossing 1](Arrays1_1.png)
+
+\pagebreak
 
 ## Arrays 1: opdracht 2
 
@@ -80,6 +84,8 @@ void draw()
 
 ![Sunglasses](EmojiSunglasses.png) | Dit was zeven regels extra werk
 :-------------:|:----------------------------------------: 
+
+\pagebreak
 
 ## Arrays 1: opdracht 3
 
@@ -156,7 +162,7 @@ getal tweeenveertig.
 
 \pagebreak
 
-## Werken met een array met een laatje
+## Arrays 1: werken met een array
 
 ![Array met naam 'geheime_getallen' en een laatje](Arrays1_kast_geheime_getallen.png)
 
@@ -285,6 +291,8 @@ Hee, hetzelfde als net!
 
 ![Arrays 1: oplossing 4](Arrays1_drie_ballen.png)
 
+\pagebreak
+
 ## Arrays 1: opdracht 5
 
 Run deze code:
@@ -342,6 +350,8 @@ Hee, hetzelfde als net!
  |  `  xs[i] = i * 100;`
  |`}`
 
+\pagebreak
+
 ## Arrays 1: opdracht 6
 
 ![Arrays 1: opdracht 6](Arrays1_vier_ballen.png)
@@ -383,6 +393,8 @@ void draw()
 }
 ```
 
+\pagebreak
+
 ## Arrays 1: opdracht 7
 
 Maak nu het programma full-screen. Laat de ballen als ze rechts het scherm uitgaan, weer links beginnen. Gebruik hiervoor `width`
@@ -419,6 +431,8 @@ void draw()
   }
 }
 ```
+
+\pagebreak
 
 ## Arrays 1: eindopdracht
 

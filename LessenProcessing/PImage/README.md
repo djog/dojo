@@ -4,6 +4,8 @@ In deze les gaan we met plaatjes werken!
 
 ![EmojiSunglasses.png](EmojiSunglasses.png)
 
+\pagebreak
+
 ## `PImage`: opdracht 1
 
 Save deze code. Run deze code. Wat zie je?

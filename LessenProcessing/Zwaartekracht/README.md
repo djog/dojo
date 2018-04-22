@@ -4,6 +4,8 @@ In deze les gaan we zwaartekracht programmeren.
 
 We gaan in deze les twee variabelen en twee `if`-statements gebruiken. 
 
+\pagebreak
+
 ## Zwaartekracht: opdracht 1
 
 Wat doet deze code?
@@ -45,6 +47,8 @@ void draw()
 
 ![Zwaartekracht: oplossing 1](Zwaartekracht1.png)
 
+\pagebreak
+
 ## Zwaartekracht: opdracht 2
 
 Zorg dat het programma full-screen wordt
@@ -85,6 +89,8 @@ void draw()
   }
 }
 ```
+
+\pagebreak
 
 ## Zwaartekracht: opdracht 3
 
@@ -129,6 +135,8 @@ void draw()
   }
 }
 ```
+
+\pagebreak
 
 ## Zwaartekracht: opdracht 4
 
