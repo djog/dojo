@@ -4,9 +4,11 @@ In deze les gaan we een puntje besturen met het toetsenbord.
 
 ![Tron](Tron.png)
 
-## Intro
+\pagebreak
 
-![Intro](Toetsenbord2_Intro.png)
+## Toetsenbord 2: intro
+
+![Toetsenbord 2: intro](Toetsenbord2_Intro.png)
 
 Dit is onze begincode. Type deze code over:
 
@@ -49,14 +51,18 @@ Start het programma en druk op ADSW om van richting te veranderen.
 ![Sunglasses](EmojiSunglasses.png) | De besturing is niet perfect! Dit perfect maken is iets moeilijker
 :-------------:|:----------------------------------------: 
 
-## Opdracht 1
+\pagebreak
+
+## Toetsenbord 2: opdracht 1
 
 Zorg ervoor dat als de speler rechts het beeld uit gaat, dat
 'ie aan de rechterkant verschijnt.
 
-![Opdracht 1](Toetsenbord2_1.png)
+![Toetsenbord 2: opdracht 1](Toetsenbord2_1.png)
 
-## Oplossing 1
+\pagebreak
+
+## Toetsenbord 2: oplossing 1
 
 Je hebt een `if`-statement nodig:
 
@@ -99,14 +105,18 @@ void draw()
 :-------------:|:----------------------------------------: 
 `if (x > width) x = 0`|'Lieve computer, als `x` groter is dan `width`, zet `x` dan op nul.'
 
-## Opdracht 2
+\pagebreak
+
+## Toetsenbord 2: opdracht 2
 
 Zorg ervoor dat *ook* als de speler bovenaan het beeld uit gaat, dat
 'ie aan de onderkant verschijnt.
 
-![Opdracht 2](Toetsenbord2_2.png)
+![Toetsenbord 2: opdracht 2](Toetsenbord2_2.png)
 
-## Oplossing 2
+\pagebreak
+
+## Toetsenbord 2: oplossing 2
 
 ```c++
 float x = 0;
@@ -144,8 +154,10 @@ void draw()
 }
 ```
 
-## Eindopdracht
+\pagebreak
+
+## Toetsenbord 2: eindopdracht
 
 Zorg ervoor dat de speler altijd in het beeld blijft.
 
-![Eindopdracht](Toetsenbord2_Eindopdracht.png)
+![Toetsenbord 2: eindopdracht](Toetsenbord2_Eindopdracht.png)

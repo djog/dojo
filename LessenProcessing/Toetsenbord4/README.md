@@ -6,7 +6,9 @@ In deze les gaan we een kanon besturen met de pijltjes.
 Plaatje van Paratrooper
 ```
 
-## Intro
+\pagebreak
+
+## Toetsenbord 4: intro
 
 ![Intro](Toetsenbord4_Intro.png)
 
@@ -44,7 +46,9 @@ Start het programma en met de pijltjes naar links en rechts kun je het kanon bes
 ![Sunglasses](EmojiSunglasses.png) | Met `final` zeg je dat een variabele niet mag veranderen
 :-------------:|:----------------------------------------: 
 
-## Opdracht 1
+\pagebreak
+
+## Toetsenbord 4: opdracht 1
 
 Zorg ervoor dat de hoek van het kanon niet onder 
 de 0,7853981634 (een kwart pi) komt. 
@@ -52,7 +56,9 @@ Het kanon moet dan blijven op die hoek.
 
 ![Opdracht 1](Toetsenbord4_1.png)
 
-## Oplossing 1
+\pagebreak
+
+## Toetsenbord 4: oplossing 1
 
 Je hebt een `if`-statement nodig:
 
@@ -84,7 +90,9 @@ void draw()
 }
 ```
 
-## Eindopdracht
+\pagebreak
+
+## Toetsenbord 4: eindopdracht
 
 Zorg ervoor dat de hoek van het kanon niet boven 
 de 2,35619449019 (driekwart pi) komt. 

@@ -4,7 +4,9 @@ In deze les gaan we een puntje bewegen met het toetsenbord.
 
 ![Qix](Qix.png)
 
-## Intro
+\pagebreak
+
+## Toetsenbord 1: intro
 
 ![Intro](Intro.png)
 
@@ -39,14 +41,18 @@ Start het programma en druk op ADSW om te bewegen.
 ![Sunglasses](EmojiSunglasses.png) | De besturing is niet perfect! Dit perfect maken is iets moeilijker
 :-------------:|:----------------------------------------: 
 
-## Opdracht 1
+\pagebreak
+
+## Toetsenbord 1: opdracht 1
 
 Zorg ervoor dat als de speler rechts het beeld uit gaat, dat
 'ie aan de rechterkant verschijnt.
 
-![Opdracht 1](Toetsenbord1_1.png)
+![Toetsenbord 1: opdracht 1](Toetsenbord1_1.png)
 
-## Oplossing 1
+\pagebreak
+
+## Toetsenbord 1: oplossing 1
 
 Je hebt een `if`-statement nodig:
 
@@ -79,14 +85,18 @@ void draw()
 :-------------:|:----------------------------------------: 
 `if (x > width) x = 0`|'Lieve computer, als `x` groter is dan `width`, zet `x` dan op nul.'
 
-## Opdracht 2
+\pagebreak
+
+## Toetsenbord 1: opdracht 2
 
 Zorg ervoor dat *ook* als de speler bovenaan het beeld uit gaat, dat
 'ie aan de onderkant verschijnt.
 
-![Opdracht 2](Toetsenbord1_2.png)
+![Toetsenbord 1: opdracht 2](Toetsenbord1_2.png)
 
-## Oplossing 2
+\pagebreak
+
+## Toetsenbord 1: oplossing 2
 
 ```c++
 float x = 0;
@@ -114,8 +124,10 @@ void draw()
 }
 ```
 
-## Eindopdracht
+\pagebreak
+
+## Toetsenbord 1: eindopdracht
 
 Zorg ervoor dat de speler altijd in het beeld blijft.
 
-![Eindopdracht](Toetsenbord1_Eindopdracht.png)
+![Toetsenbord 1: eindopdracht](Toetsenbord1_Eindopdracht.png)

@@ -4,7 +4,9 @@ In deze les gaan we een puntje besturen met het toetsenbord.
 
 ![Terminator 2 (arcade game)](Terminator2.jpg)
 
-## Intro
+\pagebreak
+
+## Toetsenbord 3: intro
 
 ![Intro](Toetsenbord3_Intro.png)
 
@@ -44,14 +46,18 @@ Start het programma en druk op ADSW om van richting te veranderen.
 ![Sunglasses](EmojiSunglasses.png) | In het Engels gebruik je een punt in een komma-getal
 :-------------:|:----------------------------------------: 
 
-## Opdracht 1
+\pagebreak
+
+## Toetsenbord 3: opdracht 1
 
 Zorg ervoor dat als de speler rechts het beeld uit gaat, dat
 'ie aan de rechterkant verschijnt.
 
 ![Opdracht 1](Toetsenbord3_1.png)
 
-## Oplossing 1
+\pagebreak
+
+## Toetsenbord 3: oplossing 1
 
 Je hebt een `if`-statement nodig:
 
@@ -89,14 +95,18 @@ void draw()
 :-------------:|:----------------------------------------: 
 `if (x > width) x = 0`|'Lieve computer, als `x` groter is dan `width`, zet `x` dan op nul.'
 
-## Opdracht 2
+\pagebreak
+
+## Toetsenbord 3: opdracht 2
 
 Zorg ervoor dat *ook* als de speler bovenaan het beeld uit gaat, dat
 'ie aan de onderkant verschijnt.
 
 ![Opdracht 2](Toetsenbord3_2.png)
 
-## Oplossing 2
+\pagebreak
+
+## Toetsenbord 3: oplossing 2
 
 ```c++
 float x = 0;
@@ -134,7 +144,9 @@ void draw()
 }
 ```
 
-## Eindopdracht
+\pagebreak
+
+## Toetsenbord 3: eindopdracht
 
 Zorg ervoor dat de speler altijd in het beeld blijft.
 
