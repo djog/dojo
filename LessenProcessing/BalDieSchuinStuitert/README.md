@@ -2,7 +2,9 @@
 
 In deze les gaan we een bal schuin laten stuiteren.
 
-## Bal die schuin stuitert: intro
+\pagebreak
+
+## Bal die schuin stuitert: opdracht 1
 
 ```c++
 float x = 150;
@@ -28,13 +30,12 @@ void draw()
 }
 ```
 
-## Bal die schuin stuitert: opdracht 1
-
 ![Bal die schuin stuitert: opdracht 1](BalDieSchuinStuitert1.png)
 
-Maak een nieuwe variable aan met de naam `y`.
-Teken de ovaal op coordinaat `(x, y)`.
-Zorg dat de code hetzelfde blijft doen
+ * Type deze code over 
+ * Maak een nieuwe variable aan met de naam `y`.
+ * Teken de ovaal op coordinaat `(x, y)`.
+ * Zorg dat de code hetzelfde blijft doen
 
 ![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
 :-------------:|:----------------------------------------: 
@@ -68,6 +69,8 @@ void draw()
   }
 }
 ```
+
+\pagebreak
 
 ## Bal die schuin stuitert: opdracht 2
 
@@ -106,6 +109,8 @@ void draw()
 }
 ```
 
+\pagebreak
+
 ## Bal die schuin stuitert: opdracht 3
 
 ![Bal die schuin stuitert: opdracht 3](BalDieSchuinStuitert3.png)
@@ -142,6 +147,8 @@ void draw()
   }
 }
 ```
+
+\pagebreak
 
 ## Bal die schuin stuitert: opdracht 4
 

@@ -7,6 +7,8 @@ dat veel met cirkels werkt:
 
 ![Bubble Bobble](BubbleBobble.png)
 
+\pagebreak
+
 ## `ellipse` en `background`: opdracht 1
 
 Run deze code
@@ -38,6 +40,8 @@ void draw()
 ## `ellipse` en `background`: oplossing 1
 
 ![Oplossing 1](EllipseBackground1.png)
+
+\pagebreak
 
 ## `ellipse` en `background`: opdracht 2
 
@@ -71,6 +75,8 @@ void draw()
   }
 }
 ```
+
+\pagebreak
 
 ## `ellipse` en `background`: opdracht 3
 
@@ -109,6 +115,8 @@ void draw()
 }
 ```
 
+\pagebreak
+
 ## `ellipse` en `background`: opdracht 4
 
 ![Oplossing 4](EllipseBackground4.png)
@@ -143,6 +151,8 @@ void draw()
 }
 ```
 
+\pagebreak
+
 ## `ellipse` en `background`: opdracht 5
 
 Zet de regel met `background` nu na `size` (binnen `setup`).
@@ -175,6 +185,8 @@ void draw()
   }
 }
 ```
+
+\pagebreak
 
 ## `ellipse` en `background`: opdracht 6
 
@@ -209,6 +221,8 @@ void draw()
   }
 }
 ```
+
+\pagebreak
 
 ## `ellipse` en `background`: eindopdracht
 

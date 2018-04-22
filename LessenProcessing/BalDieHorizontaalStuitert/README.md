@@ -4,6 +4,8 @@
 
 In deze les gaan we een bal horizontaal laten stuiteren.
 
+\pagebreak
+
 ## Bal die horizontaal stuitert: opdracht 1
 
 ```c++
@@ -57,6 +59,8 @@ void draw()
 
 ![Bal die horizontaal stuitert: oplossing 1](BalDieHorizontaalStuitert1.png)
 
+\pagebreak
+
 ## Bal die horizontaal stuitert: opdracht 2
 
 Zet de waarde van `snelheid` op `0`. Wat zie je?
@@ -88,6 +92,8 @@ void draw()
 ```
 
 ![Bal die horizontaal stuitert: oplossing 2](BalDieHorizontaalStuitert2.png)
+
+\pagebreak
 
 ## Bal die horizontaal stuitert: opdracht 3
 
@@ -124,6 +130,8 @@ void draw()
 
 ![Bal die horizontaal stuitert: oplossing 3](BalDieHorizontaalStuitert3.png)
 
+\pagebreak
+
 ## Bal die horizontaal stuitert: opdracht 4
 
 ![Bal die horizontaal stuitert: opdracht 4](BalDieHorizontaalStuitert4.png)
@@ -159,6 +167,8 @@ void draw()
 }
 ```
 
+\pagebreak
+
 ## Bal die horizontaal stuitert: opdracht 5
 
 Denk na: wat moet er met de `snelheid` gebeuren om de bal te laten stuiteren (van links naar rechst)? 
@@ -180,6 +190,8 @@ Als tegen de linkerkant komt, moet de bal de bal naar rechts gaan. Als tegen de 
 :---:|:------:|:------:
 ![Bal aan linkerkant](BalDieHorizontaalStuitertLinksKlein.png)|`x < 50`|`snelheid = 1;`
 ![Bal aan rechterkant](BalDieHorizontaalStuitertRechtsKlein.png)|`x > 550`|`snelheid = -1;`
+
+\pagebreak
 
 ## Bal die horizontaal stuitert: opdracht 6
 
@@ -215,6 +227,8 @@ void draw()
 }
 ```
 
+\pagebreak
+
 ## Bal die horizontaal stuitert: opdracht 7
 
 ![Opdracht 7](BalDieHorizontaalStuitert7.png)
@@ -248,6 +262,8 @@ void draw()
   }
 }
 ```
+
+\pagebreak
 
 ## Bal die horizontaal stuitert: opdracht 8
 

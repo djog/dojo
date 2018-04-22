@@ -7,6 +7,8 @@ tekstavonturen ooit:
 
 ![Zork](ZorkKleiner.png)
 
+\pagebreak
+ 
 ## `text`: opdracht 1
 
 Run deze code:
@@ -44,6 +46,8 @@ void draw()
 ## `text`: oplossing 1
 
 ![`text`: oplossing 1](Text1.png)
+
+\pagebreak
 
 ## Opdracht 2
 
@@ -93,6 +97,8 @@ void draw()
 `text(100, 200, 300);`|'Lieve computer, zet de tekst `100` op het scherm met als linkerbovenhoek `(200, 300)`
 `text("Hallo", 100, 200);`|'Lieve computer, zet de tekst `Hallo` op het scherm met als linkerbovenhoek `(100, 200)`
 
+\pagebreak
+
 ## `text`: opdracht 3
 
 ![`text`: opdracht 3](Text3.png)
@@ -132,6 +138,8 @@ void draw()
   }
 }
 ```
+
+\pagebreak
 
 ## `text`: opdracht 4
 
@@ -174,6 +182,8 @@ void draw()
   }
 }
 ```
+
+\pagebreak
 
 ## `text`: opdracht 5
 
@@ -219,6 +229,8 @@ void draw()
   }
 }
 ```
+
+\pagebreak
 
 ## `text`: opdracht 6
 
@@ -268,6 +280,8 @@ void draw()
 }
 ```
 
+\pagebreak
+
 ## `text`: opdracht 7
 
 ![`text`: opdracht 7](Text7.png)
@@ -314,6 +328,8 @@ void draw()
   }
 }
 ```
+
+\pagebreak
 
 ## `text`: eindopdracht
 
