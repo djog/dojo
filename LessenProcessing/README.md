@@ -63,6 +63,7 @@ Dit zijn de Processing lessen
 ---|---
  ?|[Scrollen: Zelda](./Scrollen/README.md)
  ?|[Rotate: Contra 3](./Rotate/README.md)
+ ?|[Flappy Bird](./FlappyBird/README.md)
  ?|[GitHub account aanmaken](./GitHub/README.md)
  ?|[GitHub repository maken](./GitHubPages/README.md)
  ?|Code op je GitHub zetten

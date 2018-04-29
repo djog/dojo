@@ -1,4 +1,4 @@
-# Flappy Birds
+# Flappy Bird
 
 :construction: Deze les is nog niet af
 
