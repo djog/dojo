@@ -1,63 +1,122 @@
-# 3D les 1
+# 3D les 1: bal naar rechts
 
-In Processing kun je best gemakkelijk 3D programmeren.
-3D ziet er vaak mooi uit.
-In deze les gaan we hiermee wat dingen doen.
-Doe deze les pas als je 2D kunt programmeren!
+In deze les gaan we 3D programmeren.
 
-## Wat is 3D?
+\pagebreak
 
-'3D' is een afkorting van drie-dimensionaal.
-Alles wat je kunt vastpakken is drie dimensionaal:
-een tafel, stoel en jezelf. Drie dimensionaal betekent
-dat de voorwerpen een breedte, hoogte en diepte hebben.
+## 3D 1: opdracht 1 
 
-Tot nu toe heb je vooral 2D geprogrammeerd: platte dingen
-als vierkanten en ovalen, die een breedte en hoogte hebben.
-Als je een ovaal op het midden van het scherm wilde zetten,
-gebruik je twee getallen om de plaats te bepalen: `x` (hoeveel
-pixels naar rechts) en `y` (hoeveel pixels omlaag). 
+Type deze code over:
 
-In 3D heb je drie coordinaten nodig:
+```c++
+float x = 0;
 
- * `x`: hoeveel naar rechts
- * `y`: hoeveel naar achter
- * `z`: hoeveel naar omlaag
-
-## Een bol
-
-Als eerste gaan we een bol tekenen.
-
-![Bol 1](Bol1.png)
-
-```
 void setup() 
 {
-  size(200, 200, P3D);
+  size(300, 200, P3D);
+  noStroke();
 }
 
 void draw() 
 {
-  background(0);
+  background(255, 255, 255);
+  translate(x, 100, 0);
   lights();
-  noStroke();
-  translate(100, 100, 0);
-  sphere(70);
+  sphere(20);
+  x = x + 1;
 }
 ```
 
-Dit betekenen de regels:
+Wat zie je?
 
- * `void setup() {}`: de setup functie. Dat wat tussen de accolates staat wordt een keer gedaan
- * `size(200, 200, P3D)`: maak een venster van 200 pixels breed en 200 pixel hoog voor een 3D programma
- * `void draw() {}`: de draw functie. Dat wat tussen de accolates staat wordt oneindig keer gedaan
- * `background(0)`: maak de achtergrond zwart
- * `translate(100, 100, 0)`: verplaats alle punten honderd pixels in de x richting, 
-   honderd punten in de y richting en nul punten in de z richting. 
-   Hierdoor komt coordinaat (0,0,0) in het midden van het venster
- * `sphere(70)` 
+\pagebreak
+
+## 3D 1: oplossing 1 
+
+![3D 1: oplossing 1](3D1_1.png)
+
+Je ziet een bal van links naar rechts bewegen.
+
+Als je goed kijkt zie je dat het witste gedeelte van de bal ook van plek verandert.
+
+\pagebreak
+
+## 3D 1: opdracht 2
+
+ * Laat de bal nu naar rechtsonder gaan
+ * Maak een nieuwe variabele, bijvoorbeeld `y`
+
+![3D 1: opdracht 2](3D1_2.png)
+
+\pagebreak
+
+## 3D 1: oplossing 2 
+
+```c++
+float x = 0;
+float y = 0;
+
+void setup() 
+{
+  size(300, 200, P3D);
+  noStroke();
+}
+
+void draw() 
+{
+  background(255, 255, 255);
+  translate(x, y, 0);
+  lights();
+  sphere(20);
+  x = x + 1;
+  y = y + 1;
+}
+```
+
+\pagebreak
+
+## 3D 1: opdracht 3
+
+ * Laat de bal nu naar voren gaan
+ * Maak een nieuwe variabele, bijvoorbeeld `z`
+
+Dit ziet er misschien anders uit dan je verwacht!
+
+![3D 1: opdracht 3](3D1_3.png)
+
+\pagebreak
+
+## 3D 1: oplossing 3
+
+```c++
+float x = 0;
+float y = 0;
+float z = 0;
+
+void setup() 
+{
+  size(300, 200, P3D);
+  noStroke();
+}
+
+void draw() 
+{
+  background(255, 255, 255);
+  translate(x, y, z);
+  lights();
+  sphere(20);
+  x = x + 1;
+  y = y + 1;
+  z = z + 1;
+}
+```
 
 
+## 3D 1: Eindopdracht
 
+ * Maak de grootte van de bol gelijk aan de `x`
+ * Haal `noStroke` weg
 
+Dit ziet er misschien anders uit dan je verwacht!
 
+![3D 1: Eindopdracht](3D1_Eindopdracht.png)
