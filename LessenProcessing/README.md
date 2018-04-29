@@ -48,6 +48,11 @@ Dit zijn de Processing lessen
 19|[Toetsenbord 3: Terminator II](./Toetsenbord3/README.md)
 20|[Toetsenbord 4: Paratrooper](./Toetsenbord4/README.md)
  -| **Boek 6**
+21|[3D 1: bal bewegen](./3D1/README.md)
+22|[3D 2: bal besturen](./3D2/README.md)
+23|[3D 3: bal en kubus](./3D3/README.md)
+24|[3D 4: belichting](./3D4/README.md)
+ -| **Boek 7**
  ?|[Muis les 1: Positie](./MuisPositie/README.md)
  ?|[Muis les 2: Positie](./MuisPositie/README.md)
  ?|[Muis les 3: Knoppen](./MuisKnoppen/README.md)
