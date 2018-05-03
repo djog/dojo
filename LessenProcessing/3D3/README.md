@@ -98,5 +98,5 @@ void draw()
  * Maak een nieuwe variabele, bijvoorbeeld `y2`, met als beginwaarde `height / 2`
 
 
-![3D 3: opdracht 3](3D3_3.png)
+![3D 3: opdracht 3](3D3_Eindopdracht.png)
 
