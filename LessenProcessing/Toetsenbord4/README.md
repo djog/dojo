@@ -2,9 +2,7 @@
 
 In deze les gaan we een kanon besturen met de pijltjes.
 
-```
-Plaatje van Paratrooper
-```
+![Paratrooper](Paratrooper.gif)
 
 \pagebreak
 
