@@ -53,15 +53,15 @@ Dit zijn de Processing lessen
 23|[3D 3: bal en kubus](./3D3/README.md)
 24|[3D 4: belichting](./3D4/README.md)
  -| **Boek 7**
+25|[Sinus en cosinus 1: grafiek](./SinusEnCosinus1/README.md)
+26|[Sinus en cosinus 2: tekenen](./SinusEnCosinus2/README.md)
+27|[Sinus en cosinus 3: planeten](./SinusEnCosinus3/README.md)
+28|[Sinus en cosinus 4: schieten](./SinusEnCosinus4/README.md)
+ -| **Boek 8**
  ?|[Muis les 1: Positie](./MuisPositie/README.md)
  ?|[Muis les 2: Positie](./MuisPositie/README.md)
  ?|[Muis les 3: Knoppen](./MuisKnoppen/README.md)
  ?|[Muis les 4: Scrollen](./MuisScroll/README.md)
- -| **Boek 8**
- ?|[Sinus en cosinus 1: Tekenen](./SinusEnCosinus1/README.md)
- ?|[Muis les 2: Positie](./SinusEnCosinus2/README.md)
- ?|[Muis les 3: Knoppen](./SinusEnCosinus3/README.md)
- ?|[Muis les 4: Scrollen](./SinusEnCosinus4/README.md)
 
 
 #|Omschrijving
