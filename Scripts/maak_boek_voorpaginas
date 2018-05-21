@@ -28,3 +28,4 @@ pandoc Voorpagina3.md -o ../../Boek/Boek_voorpagina_3.pdf
 pandoc Voorpagina4.md -o ../../Boek/Boek_voorpagina_4.pdf
 pandoc Voorpagina5.md -o ../../Boek/Boek_voorpagina_5.pdf
 pandoc Voorpagina6.md -o ../../Boek/Boek_voorpagina_6.pdf
+pandoc Voorpagina7.md -o ../../Boek/Boek_voorpagina_7.pdf

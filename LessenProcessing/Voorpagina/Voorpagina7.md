@@ -1,9 +1,8 @@
-![Boek 7](Voorpagina7.png)
+![Boek 7: sinus en cosinus](Voorpagina7.png)
 
-# Sinus en cosinus
-
- * 25: grafiek
- * 26: tekenen
- * 27: planeten
- * 28: schieten
-
+`#`|Omschrijving
+---|---
+25|Sinus en cosinus 1: grafiek
+26|Sinus en cosinus 2: tekenen
+27|Sinus en cosinus 3: planeten
+28|Sinus en cosinus 4: schieten
