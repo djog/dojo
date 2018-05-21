@@ -57,6 +57,11 @@ Dit zijn de Processing lessen
  ?|[Muis les 2: Positie](./MuisPositie/README.md)
  ?|[Muis les 3: Knoppen](./MuisKnoppen/README.md)
  ?|[Muis les 4: Scrollen](./MuisScroll/README.md)
+ -| **Boek 8**
+ ?|[Sinus en cosinus 1: Tekenen](./SinusEnCosinus1/README.md)
+ ?|[Muis les 2: Positie](./SinusEnCosinus2/README.md)
+ ?|[Muis les 3: Knoppen](./SinusEnCosinus3/README.md)
+ ?|[Muis les 4: Scrollen](./SinusEnCosinus4/README.md)
 
 
 #|Omschrijving
