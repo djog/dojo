@@ -1,16 +1,17 @@
 # Dojo
 
-```
-NIEUW:
-```
+## Binnenkort ...
 
- * [Zondag 8 juli 2018: hackathon](https://github.com/richelbilderbeek/ArduinoCourse/Dingen/Hackathon20180708/README.md)
+ * Zondag 8 juli 2018 9:00-17:00 @ DJO: [hackathon](https://github.com/richelbilderbeek/ArduinoCourse/blob/master/Dingen/Hackathon20180708/README.md)
+ * Donderdag 12 juli 2018 18:30-20:00 @ DJO: Leerlingpresentaties
 
 Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
 ---|---
 master|[![Build Status](https://travis-ci.org/richelbilderbeek/Dojo.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Dojo)
 
 ![DJOG logo](DjogKleiner.png) ![Codestarter logo](CodestarterWebsite.png)
+
+[![IRC Network](https://img.shields.io/badge/irc-%23ArduinoGroningen-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=ArduinoGroningen)
 
 Scratch | [Processing](LessenProcessing/README.md) | [C++](https://github.com/richelbilderbeek/correct_cpp)
 --- | --- | ---
