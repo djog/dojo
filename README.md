@@ -15,10 +15,11 @@ master|[![Build Status](https://travis-ci.org/richelbilderbeek/Dojo.svg?branch=m
 
 ![SuperBar](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/superBar.png)
 
-Aan computers vertellen wat ze moeten doen is de kern van programmeren. Wil jij dit ook kunnen? Elke donderdagavond kun je bij de DOJO leren hoe je je eigen interactieve programma's maakt, zoals een échte game! Je kunt programma's leren maken voor PC, maar uiteindelijk ook smartphone of Nintendo DS. Voorkennis is niet nodig.
+Aan computers vertellen wat ze moeten doen is de kern van programmeren. Wil jij dit ook kunnen? Elke donderdagavond kun je bij de DOJO leren hoe je je eigen interactieve programma's maakt, zoals een échte game! De jongsten maken programma's voor de desktop PC, de tieners mogen zich wagen aan webgames, apps en andere 
+platforms. Voorkennis is niet nodig.
 
 Deze avond is een cursusavond, waarin samen leren programmeren voorop staat. 
-Je zult aan de slag gaan met Scratch, Processing of C++ met Qt, SFML en/of Urho3D, 
+Je zult aan de slag gaan met Processing of C++, 
 maar je bent ook vrij je eigen weg te kiezen.
 
  * Dag: Elke donderdagavond, behalve op feestdagen en in de kerstvakantie
