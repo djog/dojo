@@ -9,7 +9,7 @@ Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
 ---|---
 master|[![Build Status](https://travis-ci.org/richelbilderbeek/Dojo.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Dojo)
 
-![DJOG logo](DjogKleiner.png) ![Codestarter logo](CodestarterWebsite.png)
+![DJOG logo](DjogKleiner.png)
 
 [![IRC Network](https://img.shields.io/badge/irc-%23ArduinoGroningen-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=ArduinoGroningen)
 
