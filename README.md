@@ -1,5 +1,11 @@
 # Dojo
 
+```
+NIEUW:
+```
+
+ * [Zondag 8 juli 2018: hackathon](https://github.com/richelbilderbeek/ArduinoCourse/Dingen/Hackathon20180708/README.md)
+
 Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
 ---|---
 master|[![Build Status](https://travis-ci.org/richelbilderbeek/Dojo.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Dojo)
