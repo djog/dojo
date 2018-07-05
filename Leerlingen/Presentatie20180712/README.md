@@ -2,19 +2,19 @@
 
 Volgorde| Wie| Titel
 ---|---|---
-?|Maksim|[3D Eiland](Maksim/README.md)
-?|Marlies|[Gekheid](Marlies/README.md)
-?|Christien|[Fantasiewereld](Christien/README.md)
+1|Processing|Maksim|[3D Eiland](Maksim/README.md)
+2|Processing|Himar|[Super Qix](Himar/README.md)
+3|Processing|Marlies|[Discoparty](Marlies/README.md)
 ?|Oliver|[Typeprogramma](Oliver/README.md)
-?|Jasper|[Er Is Geen Spel, Jee!](Jasper/README.md)
-?|Jesper|[Regenboog Qix](Jesper/README.md)
-?|Mees|[Het Ultieme Gevecht Dat Het Niet Doet](Mees/README.md)
+?|Scratch|Wouter|Cool
+?|Scratch|Guus en Marco en Wouter|Guus Gevecht
+?|Scratch|Annika en Pricilla|?
 ?|Kyriel|[?](Kyriel/README.md)
-?|Guus|[The Guus Battle](Guus/README.md)
-?|Marco|[?](Marco/README.md)
-?|Daan|[Vecht Het Spel](Daan/README.md)
-?|Mart|[Schuifgame](Mart/README.md)
-?|Himar|[Super Qix](Himar/README.md)
+?|Processing|Jasper|[Er Is Geen Spel, Jee!](Jasper/README.md)
+?|Processing|Jesper|[Regenboog Qix](Jesper/README.md)
+?|Processing|Mees|[Het Ultieme Gevecht](Mees/README.md)
+?|Processing|Bastian|[Motomani](Mart/README.md)
+?|Processing|Bastian en Mart|[Viersprong](Bastian_en_Mart/README.md)
 
 ## Richtlijnen tijdschema
 
