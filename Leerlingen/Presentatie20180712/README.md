@@ -15,7 +15,7 @@ Volgorde| Taal | Wie| Titel
 11| Processing| Jesper| X [Regenboog Qix](Jesper/README.md)
 12| Processing| Mees| [Het Ultieme Gevecht](Mees/koning/koning.pde)
 13| Processing| Bastian| [Motomani](Bastian/motoania/motoania.pde)
-14| Processing| Bastian en Mart| [Viersprong](Bastian_en_Mart/README.md)
+14| Processing| Bastian en Mart| [Viersprong](Bastian_en_Mart/spel_viersprong_winning/spel_viersprong_winning.pde)
 
 ## Richtlijnen tijdschema
 
