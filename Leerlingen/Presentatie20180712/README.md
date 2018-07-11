@@ -3,7 +3,7 @@
 Volgorde| Taal | Wie| Titel
 ---|------|--------|-----------
 01| Scratch   | Christien | Fantasiewereld
-02| Processing| Maksim | [3D Eiland](Maksim/README.md)
+02| Processing| Maksim | [3D Eiland](Maksim/Maksim.pde)
 03| Processing| Himar| [Super Qix](Himar/README.md)
 04| Processing| Marlies| [Discoparty](Marlies/README.md)
 05| Processing| Oliver| X [Typeprogramma](Oliver/README.md)
