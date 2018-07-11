@@ -11,7 +11,7 @@ Volgorde| Taal | Wie| Titel
 07| Scratch   | Guus en Marco en Wouter| Guus Gevecht
 08| Scratch   | Annika en Pricilla|?
 09| Processing| Kyriel| X [?](Kyriel/README.md)
-10| Processing| Jasper| X [Er Is Geen Spel, Jee!](Jasper/jasper2/jasper2.pde)
+10| Processing| Jasper| [Er Is Geen Spel, Jee!](Jasper/jasper2/jasper2.pde)
 11| Processing| Jesper| X [Regenboog Qix](Jesper/README.md)
 12| Processing| Mees| [Het Ultieme Gevecht](Mees/koning/koning.pde)
 13| Processing| Bastian| [Motomani](Bastian/motoania/motoania.pde)
