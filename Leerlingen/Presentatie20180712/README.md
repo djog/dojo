@@ -14,7 +14,7 @@ Volgorde| Taal | Wie| Titel
 10| Processing| Jasper| X [Er Is Geen Spel, Jee!](Jasper/README.md)
 11| Processing| Jesper| X [Regenboog Qix](Jesper/README.md)
 12| Processing| Mees| [Het Ultieme Gevecht](Mees/koning/koning.pde)
-13| Processing| Bastian| [Motomani](Bastian/README.md)
+13| Processing| Bastian| [Motomani](Bastian/motoania/motoania.pde)
 14| Processing| Bastian en Mart| [Viersprong](Bastian_en_Mart/README.md)
 
 ## Richtlijnen tijdschema
