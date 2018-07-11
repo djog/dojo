@@ -5,7 +5,7 @@ Volgorde| Taal | Wie| Titel
 01| Scratch   | Christien | Fantasiewereld
 02| Processing| Maksim | [3D Eiland](Maksim/Maksim.pde)
 03| Processing| Himar| [Super Qix](Himar/Himar.pde)
-04| Processing| Marlies| [Discoparty](Marlies/README.md)
+04| Processing| Marlies| [Discoparty](Marlies/Marlies.pde)
 05| Processing| Oliver| X [Typeprogramma](Oliver/README.md)
 06| Scratch   | Wouter| Cool
 07| Scratch   | Guus en Marco en Wouter| Guus Gevecht
