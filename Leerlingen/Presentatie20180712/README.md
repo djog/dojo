@@ -6,7 +6,6 @@ Volgorde| Taal | Wie| Titel
 02| Processing | Maksim                  | [3D Eiland](Maksim/Maksim.pde)
 03| Processing | Himar                   | [Super Qix](Himar/Himar.pde)
 04| Processing | Marlies                 | [Discoparty](Marlies/Marlies.pde)
-05| Processing | Oliver                  | X [Typeprogramma](Oliver/README.md)
 06| Scratch    | Wouter                  | Cool
 07| Scratch    | Guus en Marco en Wouter | Guus Gevecht
 08| Scratch    | Annika en Pricilla      | ?
@@ -18,6 +17,7 @@ Volgorde| Taal | Wie| Titel
 12| Arduino    | Quinn                   | ?
 13| Processing | Bastian                 | [Motomani](Bastian/motoania/motoania.pde)
 14| Processing | Bastian en Mart         | [Viersprong](Bastian_en_Mart/spel_viersprong_winning/spel_viersprong_winning.pde)
+15| Processing | Oliver                  | X [Typeprogramma](Oliver/README.md)
 
 ## Richtlijnen tijdschema
 
