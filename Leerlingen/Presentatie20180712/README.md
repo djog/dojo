@@ -12,7 +12,7 @@ Volgorde| Taal | Wie| Titel
 08| Scratch    | Annika en Pricilla      | ?
 12| ?          | ?Rohan                  | ?
 09| Processing | Kyriel                  | X [?](Kyriel/README.md)
-10| Processing | Jasper                  | [Er Is Geen Spel, Jee!](Jasper/jasper2/jasper2.pde)
+10| Processing | Jasper                  | [Er Is Geen Spel, Jee!](Jasper/dit_is_geen_spel_jee/dit_is_geen_spel_jee.pde)
 11| Processing | Jesper                  | X [Regenboog Qix](Jesper/README.md)
 12| Processing | Mees                    | [Het Ultieme Gevecht](Mees/koning/koning.pde)
 12| Arduino    | Quinn                   | ?
