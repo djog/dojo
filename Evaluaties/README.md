@@ -12,3 +12,7 @@ Hierbij vragen we een onbekende om met de leerlingen de cursus anoniem te beoord
 3|2016-12-15|[Resultaten](Evaluatie20161215Vragen.md)
 2|2016-06-30|[Resultaten](20160630Resultaten.md)
 1|2015-12-10|[Resultaten](20151210Resultaten.md)
+
+![](Evaluaties_box.png)
+
+![](Evaluaties_viool.png)
