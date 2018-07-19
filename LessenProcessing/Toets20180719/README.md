@@ -1,5 +1,9 @@
 # Toets 2018-07-19
 
+# Naam: ____________________
+
+# Cijfer: __
+
 ## Code 1
 
 Bekijk deze code:
