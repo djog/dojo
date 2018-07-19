@@ -18,17 +18,17 @@ void draw()
 
 ### 1.1. Hoe breed is het scherm?
 
- w. 50 pixels
- v. 100 pixels
- z. 200 pixels
- s. 300 pixels 
+ * W. 50 pixels
+ * V. 100 pixels
+ * Z. 200 pixels
+ * S. 300 pixels 
 
 ### 1.2. Hoeveel pixels zit de getekende punt van de onderkant af?
 
- * v 50 pixels
- * b 100 pixels
- * g 200 pixels
- * k 300 pixels 
+ * V. 50 pixels
+ * B. 100 pixels
+ * G. 200 pixels
+ * K. 300 pixels 
 
 
 ## Code 2
@@ -49,17 +49,17 @@ void draw()
 
 ### 2.1. Hoeveel pixels gaat de lijn naar rechts?
 
- * i 50 pixels
- * k 100 pixels
- * m 150 pixels
- * n 200 pixels
+ * I. 50 pixels
+ * K. 100 pixels
+ * M. 150 pixels
+ * N. 200 pixels
 
 ### 2.1. Hoeveel pixels gaat de lijn naar omlaag?
 
- * b 50 pixels
- * d 100 pixels
- * t 150 pixels
- * m 200 pixels
+ * B. 50 pixels
+ * D. 100 pixels
+ * T. 150 pixels
+ * M. 200 pixels
 
 ## Code 3
 
@@ -79,17 +79,17 @@ void draw()
 
 ### 3.1. Hoeveel pixels is de rechthoek breed?
 
- * i 50 pixels
- * d 100 pixels
- * s 150 pixels
- * j 200 pixels
+ * I. 50 pixels
+ * D. 100 pixels
+ * S. 150 pixels
+ * J. 200 pixels
 
 ### 3.2. Hoeveel pixels is de rechthoek hoog?
 
- * v 50 pixels
- * d 100 pixels
- * k 150 pixels
- * u 200 pixels
+ * V. 50 pixels
+ * D. 100 pixels
+ * K. 150 pixels
+ * U. 200 pixels
 
 ## Code 4
 
@@ -112,13 +112,13 @@ void draw()
 
 ### 4.1 Wat komt er onderin het scherm te staan?
 
- * d Niks
- * w 100
- * s 100, 60
- * v 100, 60, 20
- * j 60
- * n 60, 20
- * a Iets anders
+ * D. Niks
+ * W. 100
+ * S. 100, 60
+ * V. 100, 60, 20
+ * J. 60
+ * N. 60, 20
+ * A. Iets anders
 
 ## Code 5
 
@@ -141,13 +141,13 @@ void draw()
 
 ### 5.1 Wat komt er onderin het scherm te staan?
 
- * b Niks
- * z 100
- * w 100, 60
- * j 100, 60, 20
- * s 60
- * g 60, 20
- * k Iets anders
+ * B. Niks
+ * Z. 100
+ * W. 100, 60
+ * J. 100, 60, 20
+ * S. 60
+ * G. 60, 20
+ * K. Iets anders
 
 ## Code 6
 
@@ -167,12 +167,12 @@ void draw()
 
 ### 6.1 Welke getallen komt er onderin het scherm te staan?
 
- * d Niks
- * e 2
- * a 2, 4
- * r 2, 4, 6
- * v 2, 4, 6, 8
- * g 4
- * n 4, 6
- * l 4, 6, 8
+ * D. Niks
+ * E. 2
+ * A. 2, 4
+ * R. 2, 4, 6
+ * V. 2, 4, 6, 8
+ * G. 4
+ * N. 4, 6
+ * L. 4, 6, 8
 
