@@ -4,7 +4,7 @@
 
 Bekijk deze code:
 
-```
+```c++
 void setup()
 {
   size(200, 300);
@@ -30,12 +30,13 @@ void draw()
  * G. 200 pixels
  * K. 300 pixels 
 
+\pagebreak
 
 ## Code 2
 
 Bekijk deze code:
 
-```
+```c++
 void setup()
 {
   size(400, 400);
@@ -61,11 +62,13 @@ void draw()
  * T. 150 pixels
  * M. 200 pixels
 
+\pagebreak
+
 ## Code 3
 
 Bekijk deze code:
 
-```
+```c++
 void setup()
 {
   size(400, 400);
@@ -95,7 +98,7 @@ void draw()
 
 Bekijk deze code:
 
-```
+```c++
 float x = 100;
 
 void setup() {}
@@ -124,7 +127,7 @@ void draw()
 
 Bekijk deze code:
 
-```
+```c++
 float x = 100;
 
 void setup() {}
@@ -153,7 +156,7 @@ void draw()
 
 Bekijk deze code:
 
-```
+```c++
 void setup() { }
 
 void draw()

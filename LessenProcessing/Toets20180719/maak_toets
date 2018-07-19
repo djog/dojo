@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Concatenate all Markdown files first, convert those to one PDF
+pandoc README.md -o toets.pdf --highlight-style=tango -V geometry:margin=0.5in
+
+bookletimposer -a toets.pdf -o toetsje.pdf
