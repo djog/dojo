@@ -18,10 +18,10 @@ void draw()
 
 ### 1.1. Hoe breed is het scherm?
 
- * w 50 pixels
- * v 100 pixels
- * z 200 pixels
- * s 300 pixels 
+ w. 50 pixels
+ v. 100 pixels
+ z. 200 pixels
+ s. 300 pixels 
 
 ### 1.2. Hoeveel pixels zit de getekende punt van de onderkant af?
 
