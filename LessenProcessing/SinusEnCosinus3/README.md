@@ -2,6 +2,8 @@
 
 In deze les gaan we een sinus en cosinus gebruiken om een zonnestelsel te maken
 
+![Chaos Engine](ChaosEngine.jpg)
+
 \pagebreak
 
 ## Sinus en cosinus 3: opdracht 1 
@@ -105,6 +107,8 @@ void draw()
   hoek_aarde += 0.01;
 }
 ```
+
+\pagebreak
 
 ## Sinus en cosinus 3: opdracht 4
 

@@ -2,6 +2,8 @@
 
 In deze les gaan we een sinus en cosinus gebruiken om een kogel te schieten
 
+![Xybots](Xybots.jpg)
+
 \pagebreak
 
 ## Sinus en cosinus 4: opdracht 1 
@@ -127,6 +129,8 @@ void draw()
 }
 ```
 
+\pagebreak
+
 ## Sinus en cosinus 4: opdracht 4
 
  * Maak bovenaan de variabelen `x_kogel` en `y_kogel`
@@ -170,6 +174,8 @@ void draw()
   }
 }
 ```
+
+\pagebreak
 
 ## Sinus en cosinus 4: opdracht 5
 
@@ -217,16 +223,7 @@ void draw()
 }
 ```
 
-
-
-
-
-
-
-
-
-
-
+\pagebreak
 
 ## Sinus en cosinus 4: opdracht 6
 
@@ -276,6 +273,8 @@ void draw()
   }
 }
 ```
+
+\pagebreak
 
 ## Sinus en cosinus 4: Eindopdracht
 

@@ -2,6 +2,8 @@
 
 In deze les gaan we een sinus en cosinus tekenen.
 
+![Elite](Elite.jpg)
+
 \pagebreak
 
 ## Sinus en cosinus 1: opdracht 1 
@@ -180,6 +182,8 @@ void draw()
 
 ![Sunglasses](EmojiSunglasses.png) | `x / 25` zorgt ervoor dat we 25x rustiger door de sinus gaan
 :-------------:|:----------------------------------------: 
+
+\pagebreak
 
 ## Sinus en cosinus 1: Eindopdracht
 

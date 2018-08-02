@@ -2,6 +2,8 @@
 
 In deze les gaan we een sinus en cosinus gebruiken om een maan om een planeet te laten slingeren.
 
+![Spacewar](Spacewar.png)
+
 \pagebreak
 
 ## Sinus en cosinus 2: opdracht 1 
