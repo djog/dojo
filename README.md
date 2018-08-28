@@ -2,13 +2,10 @@
 
 ## Binnenkort ...
 
- * Zondag 8 juli 2018 9:00-17:00 @ DJO: [hackathon](https://github.com/richelbilderbeek/ArduinoCourse/blob/master/Dingen/Hackathon20180708/README.md)
- * Donderdag 12 juli 2018 18:30-20:00 @ DJO: Leerlingpresentaties
- * Donderdag 19 juli 2018: laatste les :-(
- * Zomervakantielessen op vrijdag bij [de Arduino cursus](https://github.com/richelbilderbeek/ArduinoCourse)
- * ([de Arduino cursus](https://github.com/richelbilderbeek/ArduinoCourse))
- * Donderdag 6 september 2018: eerst les :-)
+ * Donderdag 6 september 2018: eerst les
  * Zaterdag 29 september 10:15 @ [modelspoorbeurs](http://mscrailrunners.eu/events/event/modelspoorbeurs-groningen-29-september-2018-hanze-plaza-10-00-16-00/): lesgeven!
+ * Donderdag 13 december 2018 18:30-20:00 @ DJO: Leerlingpresentaties
+ * Donderdag 20 juli 2018: laatste les
 
 Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
 ---|---
@@ -56,8 +53,3 @@ Je eerste (proef)les kan elke avond zijn. Ook zonder opgave.
  * Plek waar je je code kunt opslaan: [http://www.codechamps.nl/jorik/Codedump](http://www.codechamps.nl/jorik/Codedump)
 
 Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
-
-Na de laatste les:
-
- * In de zomervakantie zijn er lessen op vrijdag bij [de Arduino cursus](https://github.com/richelbilderbeek/ArduinoCourse)
- * Eerste les na de zomervakantie is op donderdag 6 september
