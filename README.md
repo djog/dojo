@@ -3,9 +3,11 @@
 ## Binnenkort ...
 
  * Donderdag 6 september 2018: eerst les
+ * Woensdag 12 september: lezing Studium Generale: Is the internet killing democracy?
  * Zaterdag 29 september 10:15 @ [modelspoorbeurs](http://mscrailrunners.eu/events/event/modelspoorbeurs-groningen-29-september-2018-hanze-plaza-10-00-16-00/): lesgeven!
+ * 11 en 18 oktober: Codeweek
  * Donderdag 13 december 2018 18:30-20:00 @ DJO: Leerlingpresentaties
- * Donderdag 20 juli 2018: laatste les
+ * Donderdag 20 december 2018: laatste les
 
 Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
 ---|---

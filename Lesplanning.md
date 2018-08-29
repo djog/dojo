@@ -1,5 +1,21 @@
 # Lesplanning
 
+## Eind 2018
+
+Les|Datum|Les A|Les B
+---|---|---|---
+ 1| 6 sep|Eerste les|.
+ 2|13 sep|.|.
+ 3|20 sep|.|.
+ 4|27 sep|.|.
+ 5| 4 okt|.|.
+ 6|11 okt|Codeweek|.
+ 7|18 okt|Codeweek|.
+??|13 dec|Eindpresentatie|.
+??|20 dec|Laatste les|Laatste les
+
+## Begin 2018
+
 Les|Datum|Les A|Les B
 ---|---|---|---
  1| 4 jan|[1](LessenProcessing/EenMooiProgramma/README.md)|[0](https://github.com/richelbilderbeek/correct_cpp_scoreboard)
