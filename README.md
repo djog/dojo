@@ -8,6 +8,7 @@
  * 11 en 18 oktober: Codeweek
  * Donderdag 13 december 2018 18:30-20:00 @ DJO: Leerlingpresentaties
  * Donderdag 20 december 2018: laatste les
+ * Zaterdag 22 december: OrbitFest
 
 Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
 ---|---
