@@ -5,8 +5,10 @@
  * Donderdag 6 september 2018: eerst les
  * Woensdag 12 september: lezing Studium Generale: Is the internet killing democracy?
  * Zaterdag 29 september 10:15 @ [modelspoorbeurs](http://mscrailrunners.eu/events/event/modelspoorbeurs-groningen-29-september-2018-hanze-plaza-10-00-16-00/): lesgeven!
- * 11 en 18 oktober: Codeweek
- * Donderdag 13 december 2018 18:30-20:00 @ DJO: Leerlingpresentaties
+ * Donderdag 11 oktober: Codeweek
+ * Donderdag 18 oktober: Codeweek
+ * Zondag 9 december 2018 9:00-17:00: Hackathon @ DJO: 
+ * Donderdag 13 december 2018 18:30-20:00: Leerlingpresentaties @ DJO
  * Donderdag 20 december 2018: laatste les
  * Zaterdag 22 december: OrbitFest
 
