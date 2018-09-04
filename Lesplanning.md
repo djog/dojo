@@ -7,12 +7,19 @@ Les|Datum|Les A|Les B
  1| 6 sep|Eerste les|.
  2|13 sep|.|.
  3|20 sep|.|.
- 4|27 sep|.|.
- 5| 4 okt|.|.
+ 4|27 sep|Mafkeesles|.
+ 5| 4 okt|Start Instagram takeover met Carleen|.
  6|11 okt|Codeweek|.
  7|18 okt|Codeweek|.
-??|13 dec|Eindpresentatie|.
-??|20 dec|Laatste les|Laatste les
+ 8|25 okt|Mafkeesles|.
+ 9| 1 nov|.|.
+10| 8 nov|.|.
+11|15 nov|.|.
+12|22 nov|.|.
+13|29 nov|Mafkeesles|.
+14| 6 dec|.|.
+15|13 dec|Eindpresentatie|.
+16|20 dec|Laatste les|Laatste les
 
 ## Begin 2018
 

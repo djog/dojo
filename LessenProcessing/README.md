@@ -36,7 +36,7 @@ Dit zijn de Processing lessen
 15|[Arrays les 1](./Arrays1/README.md)
 16|[Arrays les 2](./Arrays2/README.md)
 
-### Leskaart 2: Games
+### Leskaart 2: Games 1
 
 :construction:
 
@@ -58,11 +58,25 @@ Dit zijn de Processing lessen
 27|[Sinus en cosinus 3: planeten](./SinusEnCosinus3/README.md)
 28|[Sinus en cosinus 4: schieten](./SinusEnCosinus4/README.md)
  -| **Boek 8**
- ?|[Muis les 1: Positie](./MuisPositie/README.md)
- ?|[Muis les 2: Positie](./MuisPositie/README.md)
- ?|[Muis les 3: Knoppen](./MuisKnoppen/README.md)
- ?|[Muis les 4: Scrollen](./MuisScroll/README.md)
+29|[Muis les 1: Positie](./MuisPositie/README.md)
+30|[Muis les 2: Positie](./MuisPositie/README.md)
+31|[Muis les 3: Knoppen](./MuisKnoppen/README.md)
+32|[Muis les 4: Scrollen](./MuisScroll/README.md)
 
+
+### Leskaart 3: Games 2
+
+:construction:
+
+#|Omschrijving
+---|---
+ -| **Boek 9**
+33|Is punt in vierkant?
+34|Twee vierkanten die botsem
+35|Twee cirkels die botsen
+36|Vierkanten en cirkels die botsen
+
+### Ongesorteerd
 
 #|Omschrijving
 ---|---
@@ -79,12 +93,3 @@ Dit zijn de Processing lessen
  ?|[Functies les 3: Poten](./FunctiesPoten/README.md)
  ?|Klassen les 1: een pixel
 
-### Leskaart 3
-
-:construction:
-
-#|Omschrijving
----|---
- ?|[GitHub #3: Processing sketch op je homepage zetten](./ProcessingJS/README.md)
- ?|[GitHub chat](./GitHubChat/README.md)
- ?|[GitHub en samenwerken](./GitHubSamenwerken/README.md)
