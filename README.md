@@ -2,9 +2,9 @@
 
 ## Binnenkort ...
 
- * Donderdag 6 september 2018: eerst les
- * Woensdag 12 september: lezing Studium Generale: Is the internet killing democracy?
  * Zaterdag 29 september 10:15 @ [modelspoorbeurs](http://mscrailrunners.eu/events/event/modelspoorbeurs-groningen-29-september-2018-hanze-plaza-10-00-16-00/): lesgeven!
+ * Vrijdag 5 oktober 20:15-21:00: lezing over generative design, door Winand Slingenberg
+ * Zaterdag 6 oktober ?12:00-16:00: Zpannend Zernike @ DJO
  * Donderdag 11 oktober: Codeweek
  * Donderdag 18 oktober: Codeweek
  * Zondag 9 december 2018 9:00-17:00: Hackathon @ DJO: 
@@ -53,8 +53,8 @@ Je eerste (proef)les kan elke avond zijn. Ook zonder opgave.
  * De [lesplanning](Lesplanning.md) staat [hier](Lesplanning.md)
  * De [lessen](LessenProcessing/README.md) staan [hier](LessenProcessing/README.md)
  * De Processing [boeken](Boek) zijn [1](Boek/Boek_1.pdf), [2](Boek/Boek_2.pdf), [3](Boek/Boek_3.pdf), [4](Boek/Boek_4.pdf) 
- * De C++ lessen staan [hier](https://github.com/richelbilderbeek/correct_cpp)
  * [Het Processing YouTube kanaal](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDGx6-L49ts6S70YfGnCP83F)
  * Plek waar je je code kunt opslaan: [http://www.codechamps.nl/jorik/Codedump](http://www.codechamps.nl/jorik/Codedump)
+ * [Project van de tieners: Nature Zen](https://github.com/richelbilderbeek/djog_unos_2018)
 
 Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
