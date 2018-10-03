@@ -58,9 +58,9 @@ Dit zijn de Processing lessen
 27|[Sinus en cosinus 3: planeten](./SinusEnCosinus3/README.md)
 28|[Sinus en cosinus 4: schieten](./SinusEnCosinus4/README.md)
  -| **Boek 8**
-29|Is muiscursor in vierkant?
-30|Is muiscursor in cirkel?
-31|Botsen twee vierkanten?
+29|[Muis binnen vierkant](./MuisBinnenVierkant/README.md) 
+30|[Muis binnen cirkel](./MuisBinnenCirkel/README.md) 
+31|[Cirkels botsen](./CirkelsBotsen/README.md)
 32|Botsen twee cirkels?
 33|Botsen een cirkel en een vierkant?
 
