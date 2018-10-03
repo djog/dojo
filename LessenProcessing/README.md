@@ -58,10 +58,11 @@ Dit zijn de Processing lessen
 27|[Sinus en cosinus 3: planeten](./SinusEnCosinus3/README.md)
 28|[Sinus en cosinus 4: schieten](./SinusEnCosinus4/README.md)
  -| **Boek 8**
-29|[Muis les 1: Positie](./MuisPositie/README.md)
-30|[Muis les 2: Positie](./MuisPositie/README.md)
-31|[Muis les 3: Knoppen](./MuisKnoppen/README.md)
-32|[Muis les 4: Scrollen](./MuisScroll/README.md)
+29|Is muiscursor in vierkant?
+30|Is muiscursor in cirkel?
+31|Botsen twee vierkanten?
+32|Botsen twee cirkels?
+33|Botsen een cirkel en een vierkant?
 
 
 ### Leskaart 3: Games 2
@@ -70,11 +71,11 @@ Dit zijn de Processing lessen
 
 #|Omschrijving
 ---|---
- -| **Boek 9**
-33|Is punt in vierkant?
-34|Twee vierkanten die botsem
-35|Twee cirkels die botsen
-36|Vierkanten en cirkels die botsen
+ -| **Boek 8**
+29|[Muis les 1: Positie](./MuisPositie/README.md)
+30|[Muis les 2: Positie](./MuisPositie/README.md)
+31|[Muis les 3: Knoppen](./MuisKnoppen/README.md)
+32|[Muis les 4: Scrollen](./MuisScroll/README.md)
 
 ### Ongesorteerd
 
