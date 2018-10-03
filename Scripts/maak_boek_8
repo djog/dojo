@@ -1,0 +1,43 @@
+#!/bin/bash
+
+# Concatenate all Markdown files first, convert those to one PDF
+
+my_script_path=`realpath $0`
+my_folder_path=`dirname $my_script_path`
+build_folder=$my_folder_path/build
+#echo $build_folder
+
+rm -rf build
+mkdir build
+
+if [ ! -d $build_folder ]; then 
+  echo "Error: failed to create build folder"
+  exit 1
+fi
+
+cd ..
+cd LessenProcessing
+cd Voorwoord         ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_00.md; cd ..
+cd MuisBinnenVierkant; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_01.md; cd ..
+cd MuisBinnenCirkel  ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_02.md; cd ..
+cd CirkelsBotsen     ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_03.md; cd ..
+cd VierkantenBotsen  ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_04.md; cd ..
+
+cd $build_folder
+
+cat README_00.md >> README.md; echo " " >> README.md; echo "\pagebreak" >> README.md; echo " " >> README.md
+cat README_01.md >> README.md; echo " " >> README.md; echo "\pagebreak" >> README.md; echo " " >> README.md
+cat README_02.md >> README.md; echo " " >> README.md; echo "\pagebreak" >> README.md; echo " " >> README.md
+cat README_03.md >> README.md; echo " " >> README.md; echo "\pagebreak" >> README.md; echo " " >> README.md
+cat README_04.md >> README.md; echo " " >> README.md; echo "\pagebreak" >> README.md; echo " " >> README.md
+
+pandoc README.md -o Boek_8.pdf --toc --toc-depth=1 --highlight-style=tango -V geometry:margin=0.5in
+mv Boek_8.pdf ../../Boek/Boek_8_zonder_voorpagina.pdf
+
+cd ../../Boek
+pdfunite Boek_voorpagina_8.pdf Boek_8_zonder_voorpagina.pdf Boek_8.pdf
+
+# Make booklet
+bookletimposer -a Boek_8.pdf -o Boekje_8.pdf
+
+rm Boek_8_zonder_voorpagina.pdf
