@@ -2,9 +2,8 @@
 
 ## Binnenkort ...
 
- * Zaterdag 29 september 10:15 @ [modelspoorbeurs](http://mscrailrunners.eu/events/event/modelspoorbeurs-groningen-29-september-2018-hanze-plaza-10-00-16-00/): lesgeven!
  * Vrijdag 5 oktober 20:15-21:00: lezing over generative design, door Winand Slingenberg
- * Zaterdag 6 oktober ?12:00-16:00: Zpannend Zernike @ DJO
+ * Zaterdag 6 oktober 12:00-16:00: Zpannend Zernike @ DJO
  * Donderdag 11 oktober: Codeweek
  * Donderdag 18 oktober: Codeweek
  * Zondag 9 december 2018 9:00-17:00: Hackathon @ DJO: 
