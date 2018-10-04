@@ -2,6 +2,7 @@
 
 Hier kun je zien waar we allemaal zijn geweest.
 
+ * [29 september 2018: Modelspoorbeurs](20180929Modelspoorbeurs/README.md)
  * [27 april 2018: Koningsdag](20180427Koningsdag/README.md)
  * [10 februari 2018: Open Dag DJO](20180210OpenDagDjo/README.md)
  * [11 juni 2016: Science en Hi-Tech Dag bij De Jonge Onderzoekers](20170611ScienceEnHiTechDag/README.md)
