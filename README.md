@@ -6,6 +6,8 @@
  * Zaterdag 6 oktober 12:00-16:00: Zpannend Zernike @ DJO
  * Donderdag 11 oktober: Codeweek
  * Donderdag 18 oktober: Codeweek
+ * 7 t/m 16 november: [Beverwedstrijd](http://beverwedstrijd.nl)
+
  * Zondag 9 december 2018 9:00-17:00: Hackathon @ DJO: 
  * Donderdag 13 december 2018 18:30-20:00: Leerlingpresentaties @ DJO
  * Donderdag 20 december 2018: laatste les
