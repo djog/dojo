@@ -71,11 +71,17 @@ Dit zijn de Processing lessen
 
 #|Omschrijving
 ---|---
- -| **Boek 8**
+ -| **Boek 9**
+34|[Functies les 1: Tekening](./FunctiesTekening/README.md)
+35|[Functies les 2: Schaapkleur](./FunctiesSchaapkleur/README.md)
+36|[Functies les 3: Poten](./FunctiesPoten/README.md)
+37|Functies les 4
+ -| **Boek 9**
 29|[Muis les 1: Positie](./MuisPositie/README.md)
 30|[Muis les 2: Positie](./MuisPositie/README.md)
 31|[Muis les 3: Knoppen](./MuisKnoppen/README.md)
 32|[Muis les 4: Scrollen](./MuisScroll/README.md)
+
 
 ### Ongesorteerd
 
@@ -89,8 +95,5 @@ Dit zijn de Processing lessen
  ?|Code op je GitHub zetten
  ?|for loops 1: geheel getal dat telt van 0 tot een waarde
  ?|for loops les 2: andere soorten for-loops, continue, break
- ?|[Functies les 1: Tekening](./FunctiesTekening/README.md)
- ?|[Functies les 2: Schaapkleur](./FunctiesSchaapkleur/README.md)
- ?|[Functies les 3: Poten](./FunctiesPoten/README.md)
  ?|Klassen les 1: een pixel
 
