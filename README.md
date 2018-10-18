@@ -18,7 +18,7 @@ master|[![Build Status](https://travis-ci.org/richelbilderbeek/Dojo.svg?branch=m
 
 [![IRC Network](https://img.shields.io/badge/irc-%23ArduinoGroningen-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=ArduinoGroningen)
 
-![SuperBar](https://raw.githubusercontent.com/richelbilderbeek/Dojo/master/Images/superBar.png)
+![Mohammad's werk](Leerlingen/Mohammad20180902/Mohammad20180902.png)
 
 Aan computers vertellen wat ze moeten doen is de kern van programmeren. Wil jij dit ook kunnen? Elke donderdagavond kun je bij de DOJO leren hoe je je eigen interactieve programma's maakt, zoals een échte game! De jongsten maken programma's voor de desktop PC, de tieners mogen zich wagen aan webgames, apps en andere 
 platforms. Voorkennis is niet nodig.
