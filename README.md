@@ -2,12 +2,9 @@
 
 ## Binnenkort ...
 
- * Vrijdag 5 oktober 20:15-21:00: lezing over generative design, door Winand Slingenberg
- * Zaterdag 6 oktober 12:00-16:00: Zpannend Zernike @ DJO
- * Donderdag 11 oktober: Codeweek
  * Donderdag 18 oktober: Codeweek
+ * Vrijdag 2 november 20:15-21:00: 13+ lezing over R, OpenStreetMap en ruimtelijke data, door Willy Tadema
  * 7 t/m 16 november: [Beverwedstrijd](http://beverwedstrijd.nl)
-
  * Zondag 9 december 2018 9:00-17:00: Hackathon @ DJO: 
  * Donderdag 13 december 2018 18:30-20:00: Leerlingpresentaties @ DJO
  * Donderdag 20 december 2018: laatste les
