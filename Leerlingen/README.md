@@ -22,7 +22,3 @@ Jasper:
 Mohammad:
 
 ![](Mohammad20180902/Mohammad20180902.png)
-
-## Scorebord
-
-Zie [Scorebord](Scorebord.md)

@@ -1,6 +1,8 @@
 # Himar
 
-Super Qix
+Super Qix.
+
+![](Himar.png)
 
 ```
 float x = 0;
