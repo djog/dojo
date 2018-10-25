@@ -2,7 +2,6 @@
 
 ## Binnenkort ...
 
- * Donderdag 18 oktober: Codeweek
  * Vrijdag 2 november 20:15-21:00: 13+ lezing over R, OpenStreetMap en ruimtelijke data, door Willy Tadema
  * 7 t/m 16 november: [Beverwedstrijd](http://beverwedstrijd.nl)
  * Zondag 9 december 2018 9:00-17:00: Hackathon @ DJO: 
