@@ -5,8 +5,7 @@
  * Vrijdag 2 november 20:15-21:00: 13+ lezing over R, OpenStreetMap en ruimtelijke data, door Willy Tadema
  * Zondag 9 december 2018 9:00-17:00: Hackathon @ DJO: 
  * Donderdag 13 december 2018 18:30-20:00: Leerlingpresentaties @ DJO
- * Donderdag 20 december 2018: laatste les
- * Zaterdag 22 december: OrbitFest
+ * Donderdag 20 december 2018: laatste les voor de vakantie
 
 Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
 ---|---
