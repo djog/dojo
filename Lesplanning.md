@@ -17,7 +17,7 @@ Les|Datum|Les A|Les B
 11|15 nov|.|.
 12|22 nov|.|.
 13|29 nov|Mafkeesles|.
-14| 6 dec|.|.
+14| 6 dec|Oefenpresentatie|.
 15|13 dec|Eindpresentatie|.
 16|20 dec|Laatste les|Laatste les
 
