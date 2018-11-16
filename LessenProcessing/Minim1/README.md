@@ -88,8 +88,8 @@ Laat de muziek pauzeren als je op 'p' (van 'Pauze') drukt.
 
 void draw()
 {
-  //...
   if (keyPressed)
+  //...
   {
     // ...
     if (key == 'p') 
