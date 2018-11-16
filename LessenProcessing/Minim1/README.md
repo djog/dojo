@@ -1,234 +1,106 @@
 # Minim 1: achtergrondmuziek
 
-In deze les gaan we muziek maken.
+In deze les gaan we met Minim een muziekje laten afspelen!
+
+![Dance Dance Revolution is een spel waar je moet dansen op de muziek](dance_dance_revolution.jpg)
 
 \pagebreak
 
-## Minim 1: installeren
+## Minim 1: opdracht 1
 
-
-![Sketch | Import Library | Add Library](minim_1_add_library.png)
-
-![Zoek op 'Minim' en klik 'Install'](minim_1_install.png)
-
-![minim is geinstalleerd!](minim_1_install_done.png)
-
-
-Run deze code:
-
+Save deze code. Run deze code. Wat zie je?
+   
 ```c++
-float x1 = 160;
-float y1 = 100;
+import ddf.minim.*;
+Minim minim;
+AudioPlayer player;
 
-void setup() 
+void setup()
 {
-  size(320, 200);
+  minim = new Minim(this);
+  player = minim.loadFile("mijn_muziekje.mp3");
+  player.play();
 }
 
 void draw()
 {
-  x1 += random(-1,1);
-  y1 += random(-1,1);
-  ellipse(x1, y1, 10, 10);
+  text("Gelukt!", 10, 20);
 }
 ```
 
 \pagebreak
 
-## Arrays 2: oplossing 1
+## Minim 1: oplossing 1
 
-![Arrays 2: oplossing 1](Arrays2_een_rookdeeltje.png)
+Je krijgt een error!
 
-Ha, een rookdeeltje.
+![Oplossing 1](minim_1_could_not_find_mijn_muziekje.png)
 
-\pagebreak
-
-## Arrays 2: opdracht 2
-
-![Arrays 2: opdracht 2](Arrays2_twee_rookdeeltjes.png)
-
-Maak een tweede rookdeeltje.
+![Sunglasses](EmojiSunglasses.png) | De computer zegt dat hij het muziek niet kan vinden!
+:-------------:|:----------------------------------------: 
 
 \pagebreak
 
-## Arrays 2: oplossing 2
+## Minim 1: opdracht 2
+
+Download een MP3 van internet, bijvoorbeeld op [https://github.com/richelbilderbeek/Dojo/blob/master/LessenProcessing/Minim1/mijn_muziekje.mp3](https://github.com/richelbilderbeek/Dojo/blob/master/LessenProcessing/Minim1/mijn_muziekje.mp3).
+
+Stop dit bestand in een subfolder van waar je code staat, met de naam `data`.
+
+Hier zie je een plaatje waarop staat waar de bestanden moeten staan:
+
+![Folder structuur](minim_1_folder_structuur_geannoteerd.png)
+
+ * De sketch heet `Minim1.pde`. Daarom staat deze in de map `Minim1`
+ * De sketch heeft een folder `data`. Hierin staat het plaatje, `mijn_muziekje.mp3`
+
+Zet de bestanden op de goede plek en run het programma. 
+
+\pagebreak
+
+## Minim 1: opdracht 2
+
+Laat de muziek opnieuw afspelen als je op 'r' (van 'Rewind') drukt.
+
+## Minim 1: oplossing 2
 
 ```c++
-float x1 = 160;
-float y1 = 100;
-float x2 = 160;
-float y2 = 100;
-
-void setup() 
-{
-  size(320, 200);
-}
+//...
 
 void draw()
 {
-  x1 += random(-1,1);
-  y1 += random(-1,1);
-  ellipse(x1, y1, 10, 10);
-  x2 += random(-1,1);
-  y2 += random(-1,1);
-  ellipse(x2, y2, 10, 10);
-}
-```
-
-\pagebreak
-
-## Arrays 2: opdracht 3
-
-Gebruik nu een array, zonder for loop.
-
-![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
-:-------------:|:----------------------------------------: 
-`float[] xs`|'Lieve computer, onthoud keiveel gebroken getallen met de naam `xs`'
-
-![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
-:-------------:|:----------------------------------------: 
-`xs = new float[2]`|'Lieve computer, maak `xs` 2 laatjes groot`'
-
-![Bowtie](EmojiBowtie.png) | Tip: gebruik `xs[0]` inplaats van `x1` en `xs[1]` inplaats van `x2` 
-:-------------:|:----------------------------------------: 
-
-\pagebreak
-
-## Arrays 2: oplossing 3
-
-```c++
-float[] xs;
-float[] ys;
-
-void setup() 
-{
-  size(320, 200);
-  xs = new float[2];
-  ys = new float[2];
-  xs[0] = 160;
-  xs[1] = 160;
-  ys[0] = 100;
-  ys[1] = 100;
-}
-
-void draw()
-{
-  xs[0] += random(-1,1);
-  ys[0] += random(-1,1);
-  ellipse(xs[0], ys[0], 10, 10);
-  xs[1] += random(-1,1);
-  ys[1] += random(-1,1);
-  ellipse(xs[1], ys[1], 10, 10);
-}
-```
-
-\pagebreak
-
-## Arrays 2: opdracht 4
-
-![Arrays 2: opdracht 4](Arrays2_drie_rookdeeltjes.png)
-
-Gebruik nu for loops. Maak zowel array `xs` en `ys` drie laatjes groot.
-
-![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
-:-------------:|:----------------------------------------: 
-`for (int i=0; i<3; ++i) {}`|'Lieve computer, doe wat tussen accolades staat met waarden van `i` van `0` tot `3` in stapjes van `1`'
-
-\pagebreak
-
-## Arrays 2: oplossing 4
-
-```c++
-float[] xs;
-float[] ys;
-
-void setup() 
-{
-  size(320, 200);
-  xs = new float[3];
-  ys = new float[3];
-  for (int i=0; i<3; ++i)
+  if (keyPressed)
   {
-    xs[i] = 160;
-    ys[i] = 100;
-  }
-}
-
-void draw()
-{
-  for (int i=0; i<3; ++i)
-  {
-    xs[i] += random(-1,1);
-    ys[i] += random(-1,1);
-    ellipse(xs[i], ys[i], 10, 10);
+    if (key == 'r') 
+    {
+      player.rewind();
+    }
   }
 }
 ```
 
-\pagebreak
+## Minim 1: opdracht 3
 
-## Arrays 2: opdracht 5
-
-![Arrays 2: opdracht 5](Arrays2_vier_rookdeeltjes.png)
-
-Elk rookdeeltje krijgt nu een eigen rode randkleur:
-
- * Maak een derde array genaamd `rs`, voor de roodheid van de rookdeeltjes
- * In `rs` moeten de getallen `0`, `64`, `128` en `196` komen
- * De roodheid moet ook steeds een meer of minder worden
- * De rand van het eerste rookdeeltje, moet de eerste roodheid krijgen. Tip: gebruik `stroke`
-
-![Bowtie](EmojiBowtie.png) | Tip: gebruik `stroke` voor de randkleur
-:-------------:|:----------------------------------------: 
-
-\pagebreak
-
-## Arrays 2: oplossing 5
+Laat de muziek pauzeren als je op 'p' (van 'Pauze') drukt.
 
 ```c++
-float[] xs;
-float[] ys;
-float[] rs; //Roodwaarden
-
-void setup() 
-{
-  size(320, 200);
-  xs = new float[4];
-  ys = new float[4];
-  rs = new float[4];
-  for (int i=0; i<4; ++i)
-  {
-    xs[i] = 160;
-    ys[i] = 100;
-    rs[i] = i * 64;
-  }
-}
+//...
 
 void draw()
 {
-  for (int i=0; i<4; ++i)
+  //...
+  if (keyPressed)
   {
-    xs[i] += random(-1,1);
-    ys[i] += random(-1,1);
-    rs[i] += random(-1,1);
-    stroke(rs[i], 0, 0);
-    ellipse(xs[i], ys[i], 10, 10);
+    // ...
+    if (key == 'p') 
+    {
+      player.pause();
+    } 
   }
 }
 ```
 
-\pagebreak
+## Minim 1: eindopdracht 3
 
-## Arrays 2: eindopdracht
-
-![Arrays 2: eindopdracht](Arrays2_eindopdracht.png)
-
-Maak nu de code zo dat:
-
- * er 256 rookdeeltjes komen.
- * elk rookdeeltje heeft en eigen *blauw*waarde
- * het eerste rookdeeltje heeft een blauwwaarde van nul. Het tweede rookdeeltje heeft een blauwwaarde van een. Het derde rookdeeltje heeft een blauwwaarde van twee. Enzovoorts
- * niet de rand, maar de vulkleur is blauw
-
-![Bowtie](EmojiBowtie.png) | Tip: gebruik `fill` voor de vulkleur
-:-------------:|:----------------------------------------: 
+ * Bij het opstarten, mag er geen muziek spelen
+ * Laat de muziek starten als je op 's' (van 'Start') drukt
