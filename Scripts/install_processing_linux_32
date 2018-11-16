@@ -3,7 +3,7 @@
 cd ~
 mkdir Programs
 cd Programs
-wget http://download.processing.org/processing-3.3.6-linux32.tgz
-tar -xvzf processing-3.3.6-linux32.tgz
+wget http://download.processing.org/processing-3.4-linux32.tgz
+tar -xvzf processing-3.4-linux32.tgz
 cd ..
-ln -s Programs/processing-3.3.6/processing
+ln -s Programs/processing-3.4/processing
