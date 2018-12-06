@@ -13,7 +13,7 @@ Jasper|.
 Jesper|.
 Judith|[Judith](judith/judith.pde)
 Kjel|.
-Kyriell|[Kyriell](kyriell/kyriell.pde)
+Kyrill|[Kyriell](kyriell/kyriell.pde)
 Maksim|[ELLIPSE](maksim_3/maksim_3.pde)
 Mees|.
 Oliver|.
