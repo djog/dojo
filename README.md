@@ -6,6 +6,7 @@
  * Zondag 9 december 2018 9:00-17:00: Hackathon @ DJO: 
  * Donderdag 13 december 2018 18:30-20:00: Leerlingpresentaties @ DJO
  * Donderdag 20 december 2018: laatste les voor de vakantie
+ * Donderdag 10 januari 2019: eerste les nieuwe seizoen
 
 Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
 ---|---

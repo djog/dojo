@@ -1,5 +1,11 @@
 # Lesplanning
 
+## Begin 2019
+
+Les|Datum|Les
+---|---|---
+ 1| 10 jan|Eerste les
+
 ## Eind 2018
 
 Les|Datum|Les A|Les B
