@@ -14,7 +14,7 @@ Jesper|.
 Judith|[Judith](judith/judith.pde)
 Kjel|.
 Kyriell|[Kyriell](kyriell/kyriell.pde)
-Maksim|[Game from Max](maksim_game_from_max/maksim_game_from_max.pde)
+Maksim|[ELLIPSE](maksim_3/maksim_3.pde)
 Mees|.
 Oliver|.
 Priscilla|[Color](annika_berber_priscilla_color/annika_berber_priscilla_color.pde) (samen met Annika en Berber)
