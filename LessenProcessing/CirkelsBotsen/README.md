@@ -51,7 +51,7 @@ Maak vier nieuwe variabelen:
 float x2 = 30;
 float y2 = 100;
 float d2 = 60;
-float r2 = d1 / 2;
+float r2 = d2 / 2;
 ```
 
 Teken een tweede cirkel met als middelpunt `(x2, y2)` en een breedte en
