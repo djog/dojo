@@ -8,7 +8,7 @@ Volgorde | Wie| Titel
 04| Himar                   | [Himar2](himar2/himar2.pde)
 05| Judith                  | [Judith](judith/judith.pde)
 06| Daan                    | DaanOS
-07| Seb                     | [](seb/seb.pde)
+07| Seb                     | [Seb](seb/seb.pde)
 08| Rohan                   | ?
 09| Kyrill                  | [Kyrill](kyrill/kyrill.pde)
 10| Jasper                  | [HITBOX](Jasper20181211/Jasper20181211.pde)
