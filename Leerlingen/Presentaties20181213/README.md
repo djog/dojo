@@ -6,7 +6,7 @@ Volgorde | Wie| Titel
 02| Kjel                    | ?
 03| Maksim                  | [ELLIPSE](maksim_3/maksim_3.pde)
 04| Himar                   | [Himar2](himar2/himar2.pde)
-05| Judith                  | [Judith](judith/judith.pde)
+05| Judith                  | [Judith2](judith2/judith2.pde)
 06| Daan                    | DaanOS
 07| Seb                     | [Seb](seb/seb.pde)
 08| Rohan                   | ?
