@@ -17,5 +17,5 @@ Volgorde | Wie| Titel
 13| Quinn                   | ?
 14| Ryan                    | ?
 15| Huy Anh                 | [Digitale klok](huy_anh/huy_anh.pde)
-16| Oliver                  | [](oliver2/oliver2.pde)
+16| Oliver                  | [Oliver](oliver2/oliver2.pde)
 VR| Seny                    | [Colorwheel](seny_colorwheel/seny_colorwheel.pde)
