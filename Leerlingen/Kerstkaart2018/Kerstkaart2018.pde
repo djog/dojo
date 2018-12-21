@@ -79,6 +79,38 @@ void draw()
     line(0, i * 100, 1000, i * 100);
   }
 
+  //Jesper
+  textSize(15);
+  fill(0, 0, 0);
+  rect(0, 300, 100, 100);
+
+  fill(kleur[0], kleur[1], kleur[2]);
+  text(
+    "fijne_kerst_&_een\n" +
+    "gelukkig_nieuwjaar", text1, height - 50);  
+  text1 -= 0.7;
+  //println(text1);
+  if (text1 <= -120) {
+    text1 = 50;
+    for (int i = 0; i < 3; ++i) {
+      kleur[i] = random(255);
+    }
+  }
+  textSize(15);
+
+  //Seb
+  for (int i=0; i<seb_g; ++i) {
+    seb_xs[i] += random(-10, 10);
+    seb_ys[i] += random(-10, 10);
+    fill(0, 0, seb_bs[i]);
+    stroke(255);
+    ellipse(seb_xs[i], seb_ys[i], 10, 10);
+    if (seb_xs[i] > 200) seb_xs[i] = 190;
+    if (seb_xs[i] < 100) seb_xs[i] = 110;
+    if (seb_ys[i] < 300)seb_ys[i] = 310;
+    if (seb_ys[i] > 400)seb_ys[i] = 390;
+  }
+
   //Jasper
   fill(jwp_r,jwp_b,jwp_g);
   rect(200,200,100,100);
@@ -88,24 +120,6 @@ void draw()
   if(jwp_c == 2) {jwp_b-=1; jwp_g+=1;}
   if(jwp_g == 255) {jwp_c = 3;}
   if(jwp_c == 3) {jwp_g-=1; jwp_r+=1;}  
-
-  //Jesper
-  fill(0, 0, 0);
-  rect(0, 300, 100, 100);
-
-  fill(kleur[0], kleur[1], kleur[2]);
-  text(
-    "fijne_kerst_&_een\n" +
-    "gelukkig_nieuwjaar", text1, height - 50);  
-  text1 -= 0.7;
-  println(text1);
-  if (text1 <= -120) {
-    text1 = 50;
-    for (int i = 0; i < 3; ++i) {
-      kleur[i] = random(255);
-    }
-  }
-  textSize(15);
 
   //Kyrill
   stroke(0);
@@ -134,6 +148,52 @@ void draw()
   ellipse(150,130,10,10);
   
 
+  //Richel
+  fill(0, 0, 255);
+  textSize(40);
+
+  fill(0, 0, 0);
+  rect(300, 200, 100, 100);
+  fill(255, 128, 0);
+  textSize(85);
+  translate(350, 250); 
+  rotate(richel_hoek);
+  text("R", 320 - 350, 290 - 250);
+  rotate(-richel_hoek);
+  translate(-350, -250); 
+  richel_hoek += 0.01;
+  textSize(15);
+
+ 
+  //Fijne kerst
+  fill(0, 0, 0);
+  rect(100, 000, 100, 100);
+  rect(200, 000, 100, 100);
+  rect(300, 000, 100, 100);
+  rect(000, 100, 100, 100);
+  rect(200, 100, 100, 100);
+  rect(300, 100, 100, 100);
+  rect(000, 200, 100, 100);
+  rect(100, 200, 100, 100);
+  rect(200, 300, 100, 100);
+  rect(300, 300, 100, 100);
+
+
+  textSize(85);
+  fill(255, 0, 0);
+  text("F", 120, 80);
+  text("I", 240, 80);
+  text("J", 340, 80);
+  text("N", 220, 180);
+  text("E", 320, 180);
+
+  fill(0, 255, 0);
+  text("K", 20, 180);
+  text("E", 20, 280);
+  text("R", 120, 280);
+  text("S", 220, 380);
+  text("T", 320, 380);
+
   //Oliver
   fill(255);
   rect(-1, -1, 101, 101);
@@ -145,36 +205,4 @@ void draw()
     if (keyCode == LEFT)x--;
     if (keyCode == RIGHT)x++;
   }
-
-
-  //Richel
-  fill(0, 0, 255);
-  textSize(40);
-
-  fill(0, 0, 0);
-  rect(300, 200, 100, 100);
-  fill(255, 0, 0);
-  textSize(85);
-  translate(350, 250); 
-  rotate(richel_hoek);
-  text("R", 320 - 350, 290 - 250);
-  rotate(-richel_hoek);
-  translate(-350, -250); 
-  richel_hoek += 0.01;
-  textSize(15);
-
-  //Seb
-  for (int i=0; i<seb_g; ++i) {
-    seb_xs[i] += random(-10, 10);
-    seb_ys[i] += random(-10, 10);
-    fill(0, 0, seb_bs[i]);
-    stroke(255);
-    ellipse(seb_xs[i], seb_ys[i], 10, 10);
-    if (seb_xs[i] > 200) seb_xs[i] = 190;
-    if (seb_xs[i] < 100) seb_xs[i] = 110;
-    if (seb_ys[i] < 300)seb_ys[i] = 310;
-    if (seb_ys[i] > 400)seb_ys[i] = 390;
-  }
- 
-  //Fijne kerst
 }
