@@ -1,0 +1,31 @@
+void setup()
+{
+  size(400,400);
+}
+void draw()
+{
+  stroke(0);
+  line(100,0,100,height);
+  line(0,100,width,100);
+  line(200,0,200,height);
+  line(0,200,width,200);
+  line(300,0,300,height);
+  line(0,300,width,300);
+  line(400,0,400,width);
+  line(0,400,height,400);
+  fill(0,190,0);
+  rect(100,165,100,35);
+  fill(0,20,200);
+  rect(100,100,100,65);
+  stroke(100,100,00);
+  fill(100,100,00);
+  rect(145,175,10,25);
+  stroke(0,100,0);
+  fill(0,100,0);
+  triangle(110,180,190,180,150,150);
+  triangle(120,160,180,160,150,140);
+  triangle(130,145,170,145,150,130);
+  stroke(255,255,00);
+  fill(255,255,00);
+  ellipse(150,130,10,10);
+}
