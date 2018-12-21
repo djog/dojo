@@ -1,9 +1,10 @@
 # Dojo
 
+![Kerstkaart 2018](Leerlingen/Kerstkaart2018/Kerstkaart2018.png)
+
 ## Binnenkort ...
 
- * Donderdag 13 december 2018 18:30-20:00: [Leerlingpresentaties](Leerlingen/Presentaties20181213/README.md) @ DJO
- * Donderdag 20 december 2018: laatste les voor de vakantie
+
  * Donderdag 10 januari 2019: eerste les nieuwe seizoen
 
 Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
