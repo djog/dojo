@@ -1,4 +1,8 @@
+
 //jasper
+float kr = 1;
+float kg = 0;
+float kb = 0;
 float jwp_r = 255;
 float jwp_b = 0;
 float jwp_g = 0;
@@ -29,6 +33,8 @@ void setup()
 {
   size(400, 400);
 
+  //Jasper
+  
   //Jesper
   text1 = 50;
   kleur = new float[3];
@@ -51,6 +57,15 @@ void draw()
     line(0, i * 100, 1000, i * 100);
   }
 
+  //Jasper
+  fill(jwp_r,jwp_b,jwp_g);
+  rect(200,200,100,100);
+  if(jwp_r == 255) {jwp_c = 1;}
+  if(jwp_c == 1) {jwp_r-=1; jwp_b+=1;}
+  if(jwp_b == 255) {jwp_c = 2;}
+  if(jwp_c == 2) {jwp_b-=1; jwp_g+=1;}
+  if(jwp_g == 255) {jwp_c = 3;}
+  if(jwp_c == 3) {jwp_g-=1; jwp_r+=1;}  
 
   //Jesper
   fill(0, 0, 0);
