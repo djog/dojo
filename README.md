@@ -2,8 +2,9 @@
 
 ![Kerstkaart 2018](Leerlingen/Kerstkaart2018/Kerstkaart2018.png)
 
-## Binnenkort ...
+ * [Kerstkaart als video](https://youtu.be/g620yYaLohc)
 
+## Binnenkort ...
 
  * Donderdag 10 januari 2019: eerste les nieuwe seizoen
 
