@@ -103,6 +103,8 @@
  * 9 (ik nam aan dat '4-5' als een 4.5 van 5 gezien moet worden)
  * 7.5
 
+Gemiddelde: 9.6
+
 ## Gesproken evaluatie
 
 ### Leerlingen
