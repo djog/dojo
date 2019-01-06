@@ -70,9 +70,9 @@ Hackathon: PIZZA, vaak genoeg, een extra vw.
 
 Geen kids in het aquarium.
 
-Verhouding tieners/volwasennen maakt niet uit.
+Verhouding tieners/volwassenen maakt niet uit.
 
-Verstand van programmeren
+Verstand van programmeren.
 Liever geen <12 jr; niveau, sfeer
 
 Te weinig MLP shirts
@@ -82,4 +82,16 @@ Te weinig MLP shirts
 
 ## Conclusies Richel
 
+De tieners schetsen hetzelfde beeld van de cursus als dat ik heb. Inderdaad,
+de kids die na 20:15 blijven plakken is een probleem, en daar werk ik al 
+aan, door bijvoorbeeld de ouders dit te verzoeken op de eindpresentatie.
 
+Dat de volwassenen de code van Nature Zen vaak breken klopt en dat komt volgens
+mij door twee dingen: (1) de volwassenen zijn ook de jongste en meest onervaren
+teamleden, en (2) ik geef inderdaad de tieners meer uitleg, *juist* omdat de
+tieners voor gaan. Daarnaast was dit probleem al bekend, en is er een sociale
+afspraak gemaakt dat enkel de ervaren tieners code mogen mergen. Ik zal
+voortaan de volwassenen en tieners evenveel tijd geven.
+
+Met de tieners is al pseudo-democratisch 
+een werkwijze besproken hoe de jongere kids toe te laten in het team.
