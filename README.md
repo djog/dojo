@@ -10,8 +10,11 @@ master|[![Build Status](https://travis-ci.org/richelbilderbeek/Dojo.svg?branch=m
 
 ![Mohammad's werk](Leerlingen/Mohammad20180902/Mohammad20180902.png)
 
-Aan computers vertellen wat ze moeten doen is de kern van programmeren. Wil jij dit ook kunnen? Elke donderdagavond kun je bij de DOJO leren hoe je je eigen interactieve programma's maakt, zoals een échte game! De jongsten maken programma's voor de desktop PC, de tieners mogen zich wagen aan webgames, apps en andere 
-platforms. Voorkennis is niet nodig.
+Aan computers vertellen wat ze moeten doen is de kern van programmeren. 
+Wil jij dit ook kunnen? Elke donderdagavond kun je bij de DOJO 
+leren hoe je je eigen interactieve programma's maakt, zoals een échte game! 
+De jongsten maken kleine programma's, de tieners werken samen aan grotere projecten.
+Voorkennis is niet nodig!
 
 Deze avond is een cursusavond, waarin samen leren programmeren voorop staat. 
 Je zult aan de slag gaan met Processing of C++, 
@@ -21,12 +24,18 @@ maar je bent ook vrij je eigen weg te kiezen.
 
 Groep | A | B | C
 ---|---|---|---
-Leeftijd | 8-12 | 12-18 | 18+
+Leeftijd | 8-18 | 13-18 | 18+
 Inloop | 18:15 | 19:15 | 20:15
 Start les | 18:30 | 19:30 | 20:30
-Pauze les | 19:15 | 20:00 | 21:15
-Vervolg les | 19:30 | 20:15 | 21:30
+Pauze les | 19:15 | 20:00 | 21:00
+Vervolg les | 19:30 | 20:15 | 21:15
 Einde les | 20:00 | 21:00 | 22:00
+
+Groep|Naam|Website|YouTube
+---|---|---|---
+A|?Pico's|[Processing](LessenProcessing/README.md) (deze)|[hier](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDGx6-L49ts6S70YfGnCP83F)
+B|Nano's|[djog_nanos_2018](https://github.com/richelbilderbeek/djog_nanos_2018)|[hier](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDEhG_MPfrOk52NeVP0Np_Ow)
+C|Uno's|[djog_unos_2018](https://github.com/richelbilderbeek/djog_unos_2018)|[hier](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDGWROB_20d-upONVDL5azVR)
 
  * Locatie: De Jonge Onderzoekers Groningen, www.djog.nl, Dirk Huizingastraat 13
  * Kosten per leerling:
@@ -39,10 +48,7 @@ Einde les | 20:00 | 21:00 | 22:00
 Je eerste (proef)les kan elke avond zijn. Ook zonder opgave.
 
  * De [lesplanning](Lesplanning.md) staat [hier](Lesplanning.md)
- * De [lessen](LessenProcessing/README.md) staan [hier](LessenProcessing/README.md)
  * De Processing [boeken](Boek) zijn [1](Boek/Boek_1.pdf), [2](Boek/Boek_2.pdf), [3](Boek/Boek_3.pdf), [4](Boek/Boek_4.pdf) 
- * [Het Processing YouTube kanaal](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDGx6-L49ts6S70YfGnCP83F)
  * Plek waar je je code kunt opslaan: [http://www.codechamps.nl/jorik/Codedump](http://www.codechamps.nl/jorik/Codedump)
- * [Project van de tieners: Nature Zen](https://github.com/richelbilderbeek/djog_unos_2018)
 
 Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
