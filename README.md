@@ -1,13 +1,5 @@
 # Dojo
 
-![Kerstkaart 2018](Leerlingen/Kerstkaart2018/Kerstkaart2018.png)
-
- * [Kerstkaart als video](https://youtu.be/g620yYaLohc)
-
-## Binnenkort ...
-
- * Donderdag 10 januari 2019: eerste les nieuwe seizoen
-
 Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
 ---|---
 master|[![Build Status](https://travis-ci.org/richelbilderbeek/Dojo.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Dojo)
