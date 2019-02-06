@@ -5,10 +5,14 @@
 Les|Datum|Les
 ---|---|---
  1| 10 jan|Eerste les
+ ?| 9 mrt|Open dag
  ?|21 mrt|Mafkeesles
  ?|28 mrt|Geen les, wegens afwezigheid Richel
+ ?| 5 mei|?Bevrijdingsfestival
  ?|23 mei|Mafkeesles
  ?|30 mei|Geen les, wegens Hemelvaart
+ ?| 6 jun|?Nacht van Kunst en Wetenschap
+ ?|16 jun|?Roboticadag
  ?| 4 jul|Eindpresentaties
  ?|11 jul|Laatste les voor de vakantie
 
