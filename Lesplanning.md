@@ -13,6 +13,8 @@ Les|Datum|Les
  ?|30 mei|Geen les, wegens Hemelvaart
  ?| 6 jun|?Nacht van Kunst en Wetenschap
  ?|16 jun|?Roboticadag
+ ?|29 jun|?Hackathon
+ ?|30 jun|?Hackathon
  ?| 4 jul|Eindpresentaties
  ?|11 jul|Laatste les voor de vakantie
 
