@@ -33,7 +33,7 @@ Einde les | 20:00 | 21:00 | 22:00
 
 Groep|Naam|Website|YouTube
 ---|---|---|---
-A|Pico's|[Processing](LessenProcessing/README.md)|[hier](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDGx6-L49ts6S70YfGnCP83F)
+A|Pico's|[Processing](https://github.com/richelbilderbeek/processing_voor_jonge_tieners)|[hier](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDGx6-L49ts6S70YfGnCP83F)
 B|Nano's|[djog_nanos_2018](https://github.com/richelbilderbeek/djog_nanos_2018)|[hier](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDEhG_MPfrOk52NeVP0Np_Ow)
 C|Uno's|[djog_unos_2018](https://github.com/richelbilderbeek/djog_unos_2018)|[hier](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDGWROB_20d-upONVDL5azVR)
 
@@ -50,5 +50,4 @@ Je eerste (proef)les kan elke avond zijn. Ook zonder opgave.
 Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
 
  * De [lesplanning](Lesplanning.md) staat [hier](Lesplanning.md)
- * De Processing [boeken](Boek) zijn [1](Boek/Boek_1.pdf), [2](Boek/Boek_2.pdf), [3](Boek/Boek_3.pdf), [4](Boek/Boek_4.pdf) 
  * Plek waar je je code kunt opslaan: [http://www.codechamps.nl/jorik/Codedump](http://www.codechamps.nl/jorik/Codedump)
