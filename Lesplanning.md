@@ -7,7 +7,7 @@ Les|Datum|Les
  1| 10 jan|Eerste les
  ?| 9 mrt|Open dag
  ?|21 mrt|Mafkeesles
- ?|28 mrt|Geen les, wegens afwezigheid Richel
+ ?|28 mrt|Les
  ?| 5 mei|?Bevrijdingsfestival
  ?|23 mei|Mafkeesles
  ?|30 mei|Geen les, wegens Hemelvaart
