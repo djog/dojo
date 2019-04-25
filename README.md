@@ -34,8 +34,10 @@ Einde les | 20:00 | 21:00 | 22:00
 Groep|Naam|Website|YouTube
 ---|---|---|---
 A|Pico's|[Processing](https://github.com/richelbilderbeek/processing_voor_jonge_tieners)|[hier](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDGx6-L49ts6S70YfGnCP83F)
-B|Nano's|[djog_nanos_2018](https://github.com/richelbilderbeek/djog_nanos_2018)|[hier](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDEhG_MPfrOk52NeVP0Np_Ow)
-C|Uno's|[djog_unos_2018](https://github.com/richelbilderbeek/djog_unos_2018)|[hier](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDGWROB_20d-upONVDL5azVR)
+A|Team [naam nog onbekend]|[djog_picos_2018](https://github.com/richelbilderbeek/djog_picos_2018)|.
+A|Team Red Cobra|[djog_nanos_2018](https://github.com/richelbilderbeek/djog_nanos_2018)|[hier](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDEhG_MPfrOk52NeVP0Np_Ow)
+B|Team Octane|[djog_unos_2018](https://github.com/richelbilderbeek/djog_unos_2018)|[hier](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDGWROB_20d-upONVDL5azVR)
+C|Team Octane|[djog_unos_2018](https://github.com/richelbilderbeek/djog_unos_2018)|[hier](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDGWROB_20d-upONVDL5azVR)
 
  * Locatie: De Jonge Onderzoekers Groningen, www.djog.nl, Dirk Huizingastraat 13
  * Kosten per leerling:
