@@ -1,5 +1,11 @@
 # Dojo
 
+## Agenda
+
+ * 25 april: wel les, met waarschijnlijk minder kids
+ * 2 mei: wel les, met waarschijnlijk minder kids
+ * 30 mei: geen les ivm Hemelvaart
+
 Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
 ---|---
 master|[![Build Status](https://travis-ci.org/richelbilderbeek/Dojo.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Dojo)
