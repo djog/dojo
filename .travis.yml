@@ -1,3 +1,6 @@
+language: generic
+dist: xenial
+
 install:
   - echo "Nothing for now"
   # markdown-link-check, commented out due to Issue #63
