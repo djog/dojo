@@ -2,8 +2,6 @@
 
 ## Agenda
 
- * 25 april: wel les, met waarschijnlijk minder kids
- * 2 mei: wel les, met waarschijnlijk minder kids
  * 30 mei: geen les ivm Hemelvaart
  * 4 juli: eindpresentaties!
  * 11 juli: laatste les voor de zomervakantie
