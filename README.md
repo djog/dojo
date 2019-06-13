@@ -2,9 +2,10 @@
 
 ## Agenda
 
- * 30 mei: geen les ivm Hemelvaart
- * 4 juli: eindpresentaties!
- * 11 juli: laatste les voor de zomervakantie
+ * Zondag 30 juni: hackathon! Van hoe laat tot hoe laat bepalen we nog
+ * Donderdag 4 juli: eindpresentaties!
+ * Donderdag 11 juli: laatste les voor de zomervakantie
+ * Vanaf dan: zomerrooster, elke vrijdag van 18:00-22:00 
 
 Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
 ---|---
