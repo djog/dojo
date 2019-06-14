@@ -2,7 +2,7 @@
 
 ## Agenda
 
- * Zondag 30 juni: hackathon! Van hoe laat tot hoe laat bepalen we nog
+ * Zondag 30 juni 10:00-16:00: hackathon!
  * Donderdag 4 juli: eindpresentaties!
  * Donderdag 11 juli: laatste les voor de zomervakantie
  * Vanaf dan: zomerrooster, elke vrijdag van 18:00-22:00 
