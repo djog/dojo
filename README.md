@@ -1,15 +1,16 @@
 # Dojo
 
+Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
+---|---
+`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/Dojo.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Dojo)
+
 ## Agenda
 
  * Zondag 30 juni 10:00-16:00: hackathon!
  * Donderdag 4 juli: eindpresentaties!
  * Donderdag 11 juli: laatste les voor de zomervakantie
- * Vanaf dan: zomerrooster, elke vrijdag van 18:00-22:00 
-
-Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
----|---
-`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/Dojo.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Dojo)
+ * Vanaf dan: zomerrooster, elke vrijdag ben je welkom van 18:00-22:00 
+ * Donderdag 29 augustus: eerste les nieuwe seizoen
 
 ![DJOG logo](DjogKleiner.png)
 
