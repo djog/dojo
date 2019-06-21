@@ -18,3 +18,7 @@ Hierbij vragen we een onbekende om met de leerlingen de cursus anoniem te beoord
 ![](Evaluaties_viool.png)
 
 In periode 2 hebben de leerlingen geen cijfers gegeven.
+
+## Team lente 2019
+
+ * Thijs
