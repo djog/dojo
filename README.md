@@ -10,6 +10,7 @@ Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
  * Donderdag 4 juli: eindpresentaties!
  * Donderdag 11 juli: laatste les voor de zomervakantie
  * Vanaf dan: zomerrooster, elke vrijdag ben je welkom van 18:00-22:00 
+ * Maandag 22 juli: [Pi Benaderingsdag](https://github.com/richelbilderbeek/pi_approximation_day)
  * Donderdag 29 augustus: eerste les nieuwe seizoen
 
 ![DJOG logo](DjogKleiner.png)
