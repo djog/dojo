@@ -13,4 +13,4 @@ cd ~/.local/share
 wget http://download.processing.org/processing-3.5.3-linux64.tgz
 tar -xvzf processing-3.5.3-linux64.tgz
 cd ~
-ln -s Programs/processing-5.4/processing
+ln -s ~/.local/share/processing-3.5.3/processing
