@@ -1,9 +1,16 @@
 #!/bin/bash
+#
+# Installeert de 64-bit Linux versie van
+# Processing in de ~/.local/share folder
+# en maakt een link in de home folder
+# 
+# Gebuik:
+#
+# ./install_processing_linux_64
+#
 
+cd ~/.local/share
+wget http://download.processing.org/processing-3.5.3-linux64.tgz
+tar -xvzf processing-3.5.3-linux64.tgz
 cd ~
-mkdir Programs
-cd Programs
-wget http://download.processing.org/processing-3.4-linux64.tgz
-tar -xvzf processing-3.4-linux64.tgz
-cd ..
-ln -s Programs/processing-3.4/processing
+ln -s Programs/processing-5.4/processing
