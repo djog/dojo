@@ -1,6 +1,6 @@
 # Dojo
 
-![DJOG logo](DjogKleiner.png)
+![DJOG logo](pics/DjogKleiner.png)
 
 Aan computers vertellen wat ze moeten doen is de kern van programmeren. 
 Wil jij dit ook kunnen? Elke donderdagavond kun je bij de DOJO 
@@ -58,7 +58,7 @@ Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
 
 ## Build status
 
-Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
+Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
 ---|---
 `master`|[![Build Status](https://travis-ci.org/richelbilderbeek/Dojo.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Dojo)
 
