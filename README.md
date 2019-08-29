@@ -2,22 +2,6 @@
 
 ![DJOG logo](DjogKleiner.png)
 
-Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
----|---
-`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/Dojo.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Dojo)
-
-## Agenda
-
- * Donderdag 29 augustus: eerste les nieuwe seizoen
- * Donderdag 5 september: eerste les nieuwe seizoen 
- * Donderdag 26 september: mafkeesles
- * Donderdag 10 oktober: Open Les, wegens [Codeweek](https://codeweek.eu/)
- * Donderdag 17 oktober: Open Les, wegens [Codeweek](https://codeweek.eu/)
-
-![Mohammad's werk](Leerlingen/Mohammad20180902/Mohammad20180902.png)
-
-[![IRC Network](https://img.shields.io/badge/irc-%23ArduinoGroningen-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=ArduinoGroningen)
-
 Aan computers vertellen wat ze moeten doen is de kern van programmeren. 
 Wil jij dit ook kunnen? Elke donderdagavond kun je bij de DOJO 
 leren hoe je je eigen interactieve programma's maakt, zoals een échte game! 
@@ -27,6 +11,18 @@ Voorkennis is niet nodig!
 Deze avond is een cursusavond, waarin samen leren programmeren voorop staat. 
 Je zult aan de slag gaan met Processing of C++, 
 maar je bent ook vrij je eigen weg te kiezen.
+
+Zie 'Lesrooster' hieronder voor meer detail.
+
+## Agenda
+
+ * Donderdag 29 augustus: eerste les nieuwe seizoen
+ * Donderdag 5 september: eerste les nieuwe seizoen 
+ * Donderdag 26 september: mafkeesles
+ * Donderdag 10 oktober: Open Les, wegens [Codeweek](https://codeweek.eu/)
+ * Donderdag 17 oktober: Open Les, wegens [Codeweek](https://codeweek.eu/)
+
+## Lesrooster
 
  * Dag: Elke donderdagavond, behalve op feestdagen en in de kerstvakantie
 
@@ -45,7 +41,7 @@ Einde les   | 20:00 | 21:00 | 22:00
    * September t/m december: 27,50 euro
    * Januari tot en met mei: 27,50 euro
    * Juni en juli: gratis, de lessen zijn dan op de vrijdag!
- * Leeftijd: 6-25 jaar
+ * Leeftijd: 8-18 jaar [*](FAQ.md)
  * Benodigdheden: Het zou fijn zijn als je een laptop met WiFi meeneemt. 
    Maar wij hebben ook wel wat laptops te leen. Neem een USB stick mee als
    je je code wilt bewaren.
@@ -56,7 +52,21 @@ Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
 
  * De [lesplanning](Lesplanning.md) staat [hier](Lesplanning.md)
 
-## 2018
+## Screenshots van leerlingwerk
+
+![Mohammad's werk](Leerlingen/Mohammad20180902/Mohammad20180902.png)
+
+## Build status
+
+Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
+---|---
+`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/Dojo.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Dojo)
+
+## Links
+
+[![IRC Network](https://img.shields.io/badge/irc-%23ArduinoGroningen-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=ArduinoGroningen)
+
+### Teams schooljaar 2018-2019 
 
 Groep|Naam|Website|YouTube
 ---|---|---|---
