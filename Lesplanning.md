@@ -1,5 +1,29 @@
 # Lesplanning
 
+## Herst en kerst 2019
+
+Les|Datum |Omschrijving
+---|------|--------------------
+ 01|29 aug|Eerste les
+ 02|05 sep|Eerste les nogmaals 
+ 03|12 sep| 
+ 04|19 sep| 
+ 05|26 sep|Mafkeesles 
+ 06|03 okt| 
+ 07|10 okt|Codeweek 
+ 08|17 okt|Codeweek 
+ 09|24 okt| 
+ 10|31 okt| 
+ 11|07 nov| 
+ 12|14 nov| 
+ 13|21 nov|Mafkeesles 
+ 14|28 nov|Oefenen eindpresentaties 
+ --|05 dec|GEEN LES, wegens Sinterklaas
+ --|07 dec|[Innovatiefestival Midden-Groningen](http://www.mifmig.nl/over/) 10:00-17:00 @ Het Kielzog (Bibliotheek), Hoogezand 
+ 15|12 dec|Eindpresentaties
+ 16|19 dec|Laatste les voor de vakantie
+ --|26 dec|Kerstvakantie 
+
 ## Begin 2019
 
 Les|Datum|Les
