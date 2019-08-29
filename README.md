@@ -48,9 +48,9 @@ Einde les   | 20:00 | 21:00 | 22:00
 
 Je eerste (proef)les kan elke avond zijn. Ook zonder opgave.
 
-Heb je nog een vraag? Zie [Veelgestelde vragen](FAQ.md)
+Heb je nog een vraag? Zie [Veelgestelde vragen](docs/veelgestelde_vragen.md)
 
- * De [lesplanning](Lesplanning.md) staat [hier](Lesplanning.md)
+ * De [lesplanning](Lesplanning.md) staat [hier](docs/lesplanning.md)
 
 ## Screenshots van leerlingwerk
 
