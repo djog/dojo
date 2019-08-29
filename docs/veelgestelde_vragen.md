@@ -81,6 +81,22 @@ Je begint met Processing, later kun je doorstromen naar de programmeerteams.
 
 ## Lessen en lesmateriaal
 
+### Wat is een mafkeesles?
+
+Een mafkeesles is een les waarin we iets wat met programmeren te maken
+heeft naspelen/dansen/rennen/springen. 
+Dit ziet er vaak uit alsof wij mafkezen zijn.
+
+Een mafkeesles is aan het begin van de les, zodat ouders die willen
+vanaf de zijkant mee kunnen kijken.
+
+Dingen die we hebben uitgebeeld:
+
+ * for loop
+ * binair tellen
+ * omwisselen
+ * sorteren
+
 ### Waar staan de lessen?
 
  * De lessen Processing staan op de website van [Processing voor jonge tieners](https://github.com/richelbilderbeek/processing_voor_jonge_tieners)
