@@ -36,18 +36,18 @@ Zie 'Lesrooster' hieronder voor meer detail.
 
  * Dag: Elke donderdagavond, behalve op feestdagen en in de kerstvakantie
 
-Groep       |Nanos' |Uno's  |Mega's
-------------|-------|-------|------
-Leeftijd    | 08-13 | 13-18 | 18-88
-Inloop      | 18:15 | 19:15 | 20:15
-Start les   | 18:30 | 19:30 | 20:30
-Pauze les   | 19:15 | 20:00 | 21:00
-Vervolg les | 19:30 | 20:15 | 21:15
-Einde les   | 20:00 | 21:00 | 22:00
+Groep       |Pico's |Nanos' |Uno's  |Mega's
+------------|-------|-------|-------|------
+Leeftijd    | 08-13 | 08-13 | 13-18 | 18-88
+Inloop      | 18:15 | 18:15 | 19:15 | 20:15
+Start les   | 18:30 | 18:30 | 19:30 | 20:30
+Pauze les   | 19:15 | 19:15 | 20:00 | 21:00
+Vervolg les | 19:30 | 19:30 | 20:15 | 21:15
+Einde les   | 20:00 | 20:00 | 21:00 | 22:00
 
 Groep |Lesmateriaal
 ------|------------------------
-Nano's|[Processing](https://github.com/richelbilderbeek/processing_voor_jonge_tieners)
+Pico's|[Processing](https://github.com/richelbilderbeek/processing_voor_jonge_tieners)
 Nano's|[Team 'djog_nanos_2019'](https://github.com/orgs/djog/teams/djog_nanos_2019)
 Uno's |[Team 'djog_unos_2019'](https://github.com/orgs/djog/teams/djog_unos_2019)
 Mega's|Doen mee met [team 'djog_unos_2019'](https://github.com/orgs/djog/teams/djog_unos_2019)
