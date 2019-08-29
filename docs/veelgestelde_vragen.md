@@ -130,7 +130,7 @@ Hij speelt graag het spel Diablo.
 
 ### Wie is [Richel](https://github.com/richelbilderbeek)?
 
-![Richel](Images/Richel.png)
+![Richel](richelbilderbeek.png)
 
 Richel is een volwassen vrijwilliger en coordineert de Dojo.
 
