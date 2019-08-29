@@ -21,6 +21,15 @@ Zie 'Lesrooster' hieronder voor meer detail.
  * Donderdag 26 september: mafkeesles
  * Donderdag 10 oktober: Open Les, wegens [Codeweek](https://codeweek.eu/)
  * Donderdag 17 oktober: Open Les, wegens [Codeweek](https://codeweek.eu/)
+ * Donderdag 21 nov: mafkeesles 
+ * Zaterdag 7 dec: [Innovatiefestival Midden-Groningen](http://www.mifmig.nl/over/) 10:00-17:00 @ Het Kielzog (Bibliotheek), Hoogezand
+ * Donderdag 12 december: Eindpresentaties (ook Uno's!)
+    * 18:15 tot ongeveer 19:00: voorbereiden
+    * ongeveer 19:00: presentaties!
+    * ongeveer 20:15: evaluatie met leerlingen en ouders
+    * ongeveer 21:00: klaar
+ * Donderdag 19 december: laatste les voor kerstvakantie
+ * Donderdag 9 januari: eerste les nieuwe periode
 
 ## Lesrooster
 
@@ -41,7 +50,7 @@ Einde les   | 20:00 | 21:00 | 22:00
    * September t/m december: 27,50 euro
    * Januari tot en met mei: 27,50 euro
    * Juni en juli: gratis, de lessen zijn dan op de vrijdag!
- * Leeftijd: 8-18 jaar [*](FAQ.md)
+ * Leeftijd: 8-18 jaar [*](docs/veelgestelde_vragen.md)
  * Benodigdheden: Het zou fijn zijn als je een laptop met WiFi meeneemt. 
    Maar wij hebben ook wel wat laptops te leen. Neem een USB stick mee als
    je je code wilt bewaren.
