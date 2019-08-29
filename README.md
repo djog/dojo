@@ -44,6 +44,13 @@ Pauze les   | 19:15 | 20:00 | 21:00
 Vervolg les | 19:30 | 20:15 | 21:15
 Einde les   | 20:00 | 21:00 | 22:00
 
+Groep |Lesmateriaal
+------|------------------------
+Nano's|[Processing](https://github.com/richelbilderbeek/processing_voor_jonge_tieners)
+Nano's|[Team 'djog_nanos_2019'](https://github.com/orgs/djog/teams/djog_nanos_2019)
+Uno's |[Team 'djog_unos_2019'](https://github.com/orgs/djog/teams/djog_unos_2019)
+Mega's|Doen mee met [team 'djog_unos_2019'](https://github.com/orgs/djog/teams/djog_unos_2019)
+
  * Locatie: De Jonge Onderzoekers Groningen, [www.djog.nl](https://www.djog.nl), 
    Dirk Huizingastraat 13
  * Kosten per leerling:
