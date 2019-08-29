@@ -48,9 +48,9 @@ Einde les   | 20:00 | 20:00 | 21:00 | 22:00
 Groep |Lesmateriaal
 ------|------------------------
 Pico's|[Processing](https://github.com/richelbilderbeek/processing_voor_jonge_tieners)
-Nano's|[Team 'djog_nanos_2019'](https://github.com/orgs/djog/teams/djog_nanos_2019)
-Uno's |[Team 'djog_unos_2019'](https://github.com/orgs/djog/teams/djog_unos_2019)
-Mega's|Doen mee met [team 'djog_unos_2019'](https://github.com/orgs/djog/teams/djog_unos_2019)
+[Nano's](https://github.com/orgs/djog/teams/djog_nanos_2019) | [https://github.com/djog/djog_nanos_2019](https://github.com/djog/djog_nanos_2019)
+[Uno's](https://github.com/orgs/djog/teams/djog_unos_2019) | [https://github.com/djog/djog_unos_2019](https://github.com/djog/djog_unos_2019)
+Mega's|Zelfde als Uno's
 
  * Locatie: De Jonge Onderzoekers Groningen, [www.djog.nl](https://www.djog.nl), 
    Dirk Huizingastraat 13
