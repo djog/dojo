@@ -12,14 +12,14 @@ Maar ben je jonger dan acht en denk je dat je al op les
 kan (bijvoorbeeld omdat je al kunt programmeren),
 dan ben je hartstikke welkom om eens een les te proberen!
 
-### Ik ben tussen 8 en 12 jaar oud. Ben ik welkom na 20:15?
+### Ik ben 8/9/10/11/12 jaar oud. Ben ik welkom na 20:15?
 
 In principe: nee, omdat dan de oudere tieners begeleid worden.
 
 Wil je echter nuttig werk doen, zonder de oudere tieners te storen,
 dan ben je welkom.
 
-### Ik ben tussen 12 en 18 jaar oud. Ben ik welkom voor 20:00?
+### Ik ben 12/13/14/15/16/17/18 jaar oud. Ben ik welkom voor 20:00?
 
 Jazeker! 
 
