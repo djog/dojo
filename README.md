@@ -19,6 +19,7 @@ Zie 'Lesrooster' hieronder voor meer detail.
  * Donderdag 29 augustus: eerste les nieuwe seizoen
  * Donderdag 5 september: eerste les nieuwe seizoen 
  * Donderdag 26 september: 18:30: mafkeesles Nano's [*](docs/veelgestelde_vragen.md)
+ * Zaterdag 5 oktober: Zpannend Zernike, van 12:00-17:00 in DJOG, Dirk Huizingstraat 13, Groningen
  * Donderdag 10 oktober: Open Les, wegens [Codeweek](https://codeweek.eu/)
  * Donderdag 17 oktober: Open Les, wegens [Codeweek](https://codeweek.eu/)
  * Donderdag 21 nov: 18:30: mafkeesles Nano's [*](docs/veelgestelde_vragen.md)
