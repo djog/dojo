@@ -1,5 +1,9 @@
 # Dojo
 
+```
+19 september: geen les, want Richel is ziek 
+```
+
 ![DJOG logo](pics/DjogKleiner.png)
 
 Aan computers vertellen wat ze moeten doen is de kern van programmeren. 
