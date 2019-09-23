@@ -1,9 +1,5 @@
 # Dojo
 
-```
-19 september: geen les, want Richel is ziek 
-```
-
 ![DJOG logo](pics/DjogKleiner.png)
 
 Aan computers vertellen wat ze moeten doen is de kern van programmeren. 
@@ -87,6 +83,8 @@ Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
 ## Links
 
 [![IRC Network](https://img.shields.io/badge/irc-%23ArduinoGroningen-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=ArduinoGroningen)
+
+ * [Lesmateriaal 'git voor jonge tieners'](https://github.com/richelbilderbeek/git_voor_jonge_tieners)
 
 ### Teams schooljaar 2018-2019 
 
