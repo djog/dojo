@@ -22,6 +22,7 @@ Zie 'Lesrooster' hieronder voor meer detail.
  * Zaterdag 5 oktober: Zpannend Zernike, van 12:00-17:00 in DJOG, Dirk Huizingstraat 13, Groningen
  * Donderdag 10 oktober: Open Les, wegens [Codeweek](https://codeweek.eu/)
  * Donderdag 17 oktober: Open Les, wegens [Codeweek](https://codeweek.eu/)
+ * Donderdag 7 nov: [Beverwedstrijd](https://www.beverwedstrijd.nl)
  * Donderdag 21 nov: 18:30: mafkeesles Nano's [*](docs/veelgestelde_vragen.md)
  * Donderdag 5 dec: GEEN LES, wegens Sinterklaas
  * Zaterdag 7 dec: [Innovatiefestival Midden-Groningen](http://www.mifmig.nl/over/) 10:00-17:00 @ Het Kielzog (Bibliotheek), Hoogezand
