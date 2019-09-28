@@ -1,5 +1,3 @@
-**Als je nog geen GitHub account hebt, doe dan eerst [deze les](../GitHub/README.md)**
-
 # GitHub Pages
 
 GitHub Pages is een service van GitHub waarmee elke gebruiker zijn eigen website kan maken. Deze les gaan we een GitHub Page met homepage maken.

@@ -11,7 +11,7 @@
   * Tom presenteert Reactiespel
   * Raymon presenteert MarioPlaatje
   * Ruben presenteert [Pong](http://ruben-bouman.github.io)
-  * Jorn presenteert [PWC inzending(en)](https://github.com/jorn600/WAKKA_WAKKA) [fireflies](fireflies/fireflies.pde)
+  * Jorn presenteert PWC inzending [fireflies](fireflies/fireflies.pde)
   * Robin presenteert FNAF
   * Jeroen presenteert Space Invaders
   * Carmen presenteert Sneek
@@ -29,12 +29,3 @@ Deze leerlingen konden niet aanwezig zijn op de echte presentaties.
 
   * Daan presenteert [Het Bewegende Rondje](hetbewegenderonje/hetbewegenderonje.pde)
   * Stijn presenteert [Lolding](Lolding/Lolding.pde)
-
-## Foto's
-
-![Presentatie 30 juni 2016 1](20160630Presentatie_1.jpg)
-![Presentatie 30 juni 2016 2](20160630Presentatie_2.jpg)
-![Presentatie 30 juni 2016 3](20160630Presentatie_3.jpg)
-![Presentatie 30 juni 2016 4](20160630Presentatie_4.jpg)
-![Presentatie 30 juni 2016 5](20160630Presentatie_5.jpg)
-![Presentatie 30 juni 2016 6](20160630Presentatie_6.jpg)
