@@ -100,7 +100,7 @@ Dingen die we hebben uitgebeeld:
 ### Waar staan de lessen?
 
  * De lessen Processing staan op de website van [Processing voor jonge tieners](https://github.com/richelbilderbeek/processing_voor_jonge_tieners)
- * De lessen C++ staan [in de map LessenCpp](LessenCpp/README.md).
+ * De lessen C++ staan op de website van [C++ voor jonge tieners](https://github.com/richelbilderbeek/cpp_voor_jonge_tieners).
 
 ## Ik wil Processing doen, kan dat?
 
@@ -169,7 +169,7 @@ De missie van De Jonge Onderzoekers is: '[Het] exploiteren van een activiteitenc
 
 ### Ik wil niet dat Processing in `Update` scherm laat zien
 
-![Update scherm](Images/Update.png)
+![Update scherm](processing_update_dialog.png)
 
 In de folder van Processing, bijvoorbeeld `processing-3.2.3`, doe:
 

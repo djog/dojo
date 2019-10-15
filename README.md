@@ -70,8 +70,6 @@ Je eerste (proef)les kan elke avond zijn. Ook zonder opgave.
 
 Heb je nog een vraag? Zie [Veelgestelde vragen](docs/veelgestelde_vragen.md)
 
- * De [lesplanning](Lesplanning.md) staat [hier](docs/lesplanning.md)
-
 ## Screenshots van leerlingwerk
 
 ![Mohammad's werk](Leerlingen/Mohammad20180902/Mohammad20180902.png)
