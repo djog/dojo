@@ -1,0 +1,22 @@
+#!/bin/bash
+
+
+folders="blue_monkeys Red-Cobra Unyted-Programmers Team-Universe"
+
+# Go to GitHubs folder
+cd ..
+
+echo "datum,team,score" > score.csv
+
+for folder_name in $folders
+do
+  cd $folder_name
+  echo "\""$(date --iso-8601)"\"," $folder_name"," $(hub issue | wc --lines) >> ../score.csv
+  cd ..
+done
+
+# Go into dojo folder again
+cd dojo
+
+# Call R script in /scripts folder
+Rscript scripts/maak_score.R

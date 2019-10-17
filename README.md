@@ -86,6 +86,18 @@ Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
 
  * [Lesmateriaal 'git voor jonge tieners'](https://github.com/richelbilderbeek/git_voor_jonge_tieners)
 
+### Teams schooljaar 2019-2020
+
+Teamnaam               |Website
+-----------------------|---------------
+Team Blue Monkeys      |[https://github.com/djog/blue_monkeys](https://github.com/djog/blue_monkeys)
+Team Octane            |[https://github.com/djog/djog_unos_2019](https://github.com/djog/djog_unos_2019)
+Team Red Cobra         |[https://github.com/djog/Red-Cobra](https://github.com/djog/Red-Cobra)
+Team Universe          |[https://github.com/djog/Team-Universe](https://github.com/djog/Team-Universe)
+Team Unyted Programmers|[https://github.com/djog/Unyted-Programmers](https://github.com/djog/Unyted-Programmers)
+
+![](open_issues.png)
+
 ### Teams schooljaar 2018-2019 
 
 Groep|Naam|Website|YouTube
