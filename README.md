@@ -16,6 +16,7 @@ Zie 'Lesrooster' hieronder voor meer detail.
 
 ## Agenda
 
+ * Donderdag 5 december: geen les, wegens Sinterklaas
  * Zaterdag 7 dec: LEGO FIRST wedstrijd in Appingedam: wij geven les!
  * Donderdag 12 december: Eindpresentaties (ook Uno's!)
     * 18:15 tot ongeveer 19:00: voorbereiden
