@@ -16,17 +16,7 @@ Zie 'Lesrooster' hieronder voor meer detail.
 
 ## Agenda
 
- * Donderdag 29 augustus: eerste les nieuwe seizoen
- * Donderdag 5 september: eerste les nieuwe seizoen 
- * Donderdag 26 september: 18:30: mafkeesles Nano's [*](docs/veelgestelde_vragen.md)
- * Zaterdag 5 oktober: Zpannend Zernike, van 12:00-17:00 in DJOG, Dirk Huizingstraat 13, Groningen
- * Donderdag 10 oktober: Open Les, wegens [Codeweek](https://codeweek.eu/)
- * Donderdag 17 oktober: Open Les, wegens [Codeweek](https://codeweek.eu/)
- * Donderdag 24 oktober: Geen les, wegens herfstvakantie
- * Donderdag 7 nov: [Beverwedstrijd](https://www.beverwedstrijd.nl)
- * Donderdag 21 nov: 18:30: mafkeesles Nano's [*](docs/veelgestelde_vragen.md)
- * Donderdag 5 dec: GEEN LES, wegens Sinterklaas
- * Zaterdag 7 dec: [Innovatiefestival Midden-Groningen](http://www.mifmig.nl/over/) 10:00-17:00 @ Het Kielzog (Bibliotheek), Hoogezand
+ * Zaterdag 7 dec: LEGO FIRST wedstrijd in Appingedam: wij geven les!
  * Donderdag 12 december: Eindpresentaties (ook Uno's!)
     * 18:15 tot ongeveer 19:00: voorbereiden
     * ongeveer 19:00: presentaties!
