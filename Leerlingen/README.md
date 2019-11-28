@@ -4,6 +4,8 @@
 
 Nieuwste eerst!
 
+ * [Presentaties 12 december 2018](Presentaties20191212/README.md)
+ * [Presentaties 4 juli 2018](Presentatie20190704/README.md)
  * [Presentaties 13 december 2018](Presentaties20181213/README.md)
  * [Presentaties 12 juli 2018](Presentatie20180712/README.md)
  * [Presentaties 14 december 2017](Presentatie20171214/README.md)
