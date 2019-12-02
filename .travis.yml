@@ -2,12 +2,14 @@ language: generic
 dist: bionic
 
 install:
+  - echo "Nothing now"
   # Check dead links
-  - sudo apt-get install -qq npm
-  - npm config set strict-ssl false
-  - sudo npm install -g markdown-link-check
+  #- sudo apt-get install -qq npm
+  #- npm config set strict-ssl false
+  #- sudo npm install -g markdown-link-check
 
 script:
+  - echo "Nothing now"
   # Check dead links
-  - rm .travis.yml
-  - ./scripts/check_dead_links
+  #- rm .travis.yml
+  #- ./scripts/check_dead_links
