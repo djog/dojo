@@ -1,4 +1,4 @@
-# Dojojojo
+# Dojo
 
 ![DJOG logo](pics/DjogKleiner.png)
 
@@ -41,11 +41,11 @@ Vervolg les | 19:30 | 19:30 | 20:15 | 21:15
 Einde les   | 20:00 | 20:00 | 21:00 | 22:00
 
 Groep |Lesmateriaal
-------|------------------------
+------|-------------------------------------------------------------------------------
 Pico's|[Processing](https://github.com/richelbilderbeek/processing_voor_jonge_tieners)
-[Nano's](https://github.com/orgs/djog/teams/djog_nanos_2019) | [https://github.com/djog/djog_nanos_2019](https://github.com/djog/djog_nanos_2019)
-[Uno's](https://github.com/orgs/djog/teams/djog_unos_2019) | [https://github.com/djog/djog_unos_2019](https://github.com/djog/djog_unos_2019)
-Mega's|Zelfde als Uno's
+Nano's|Teams (nog niet gevormd)
+Uno's |[Team Snek](https://github.com/djog/the_hunger_games), [Team Rustig](https://github.com/djog/djog_rust)
+Mega's|Zie Uno's
 
  * Locatie: De Jonge Onderzoekers Groningen, [www.djog.nl](https://www.djog.nl), 
    Dirk Huizingastraat 13
@@ -78,7 +78,14 @@ Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
 
  * [Lesmateriaal 'git voor jonge tieners'](https://github.com/richelbilderbeek/git_voor_jonge_tieners)
 
-### Teams schooljaar 2019-2020
+### Teams voorjaar 2019
+
+Teamnaam          |Website
+------------------|---------------
+Rustig            |[Team Rustig](https://github.com/djog/djog_rust)
+Snek              |[Team Snek](https://github.com/djog/the_hunger_games), 
+
+### Teams najaar 2019
 
 Teamnaam               |Website
 -----------------------|---------------
@@ -92,10 +99,11 @@ Team Unyted Programmers|[https://github.com/djog/Unyted-Programmers](https://git
 
 ### Teams schooljaar 2018-2019 
 
-Groep|Naam|Website|YouTube
----|---|---|---
-A|Pico's|[Processing](https://github.com/richelbilderbeek/processing_voor_jonge_tieners)|[hier](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDGx6-L49ts6S70YfGnCP83F)
-A|Team [Facilis]|[djog_picos_2018](https://github.com/richelbilderbeek/djog_picos_2018)|.
-A|Team Red Cobra|[djog_nanos_2018](https://github.com/richelbilderbeek/djog_nanos_2018)|[hier](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDEhG_MPfrOk52NeVP0Np_Ow)
-B|Team Octane|[djog_unos_2018](https://github.com/richelbilderbeek/djog_unos_2018)|[hier](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDGWROB_20d-upONVDL5azVR)
-C|Team Octane|[djog_unos_2018](https://github.com/richelbilderbeek/djog_unos_2018)|[hier](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDGWROB_20d-upONVDL5azVR)
+Groep|Naam           |Website                                                                         |YouTube
+-----|---------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------
+A    |Pico's         |[Processing](https://github.com/richelbilderbeek/processing_voor_jonge_tieners) |[hier](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDGx6-L49ts6S70YfGnCP83F)
+A    |Team Facilis   |[djog_picos_2018](https://github.com/richelbilderbeek/djog_picos_2018)          |.
+A    |Team Red Cobra |[djog_nanos_2018](https://github.com/richelbilderbeek/djog_nanos_2018)          |[hier](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDEhG_MPfrOk52NeVP0Np_Ow)
+B    |Team Octane    |[djog_unos_2018](https://github.com/richelbilderbeek/djog_unos_2018)            |[hier](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDGWROB_20d-upONVDL5azVR)
+C    |Team Octane    |[djog_unos_2018](https://github.com/richelbilderbeek/djog_unos_2018)            |[hier](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDGWROB_20d-upONVDL5azVR)
+
