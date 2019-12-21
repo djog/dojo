@@ -16,15 +16,6 @@ Zie 'Lesrooster' hieronder voor meer detail.
 
 ## Agenda
 
- * Donderdag 5 december: geen les, wegens Sinterklaas
- * Zaterdag 7 dec: LEGO FIRST wedstrijd in Appingedam: wij geven les, van 10:00-15:00 @
-   DJO Eemsdelta, Technieklokaal Noorderpoortcollege, Opwierderweg 2, Appingedam
- * Donderdag 12 december: Eindpresentaties (ook Uno's!)
-    * 18:15 tot ongeveer 19:00: voorbereiden
-    * ongeveer 19:00: presentaties!
-    * ongeveer 20:15: evaluatie met leerlingen en ouders
-    * ongeveer 21:00: klaar
- * Donderdag 19 december: laatste les voor kerstvakantie
  * Donderdag 9 januari: eerste les nieuwe periode
 
 ## Lesrooster
