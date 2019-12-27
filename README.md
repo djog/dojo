@@ -2,6 +2,8 @@
 
 ![DJOG logo](pics/DjogKleiner.png)
 
+ * [Nieuwe homepage op GitLab](http://51.15.53.32/dojo/dojo_home)
+
 Aan computers vertellen wat ze moeten doen is de kern van programmeren. 
 Wil jij dit ook kunnen? Elke donderdagavond kun je bij de DOJO 
 leren hoe je je eigen interactieve programma's maakt, zoals een échte game! 
