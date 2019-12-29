@@ -131,3 +131,7 @@ TO  |9.75
 TO  |9.9
 Avg.|9.4
 
+## Conclusies
+
+ * Er moet een pizza dag komen, zegge rond pi dag!
+ * Teams moeten hervormen
