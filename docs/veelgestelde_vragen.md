@@ -8,9 +8,15 @@ Goed dat je dit leest, want acht jaar is enkel een richtlijn!
 Die richtlijn is er niet voor niks: programmeren is een 
 moeilijk (maar keigave!) hobby. 
 
-Maar ben je jonger dan acht en denk je dat je al op les 
-kan (bijvoorbeeld omdat je al kunt programmeren),
-dan ben je hartstikke welkom om eens een les te proberen!
+Je zult moeten kunnen:
+
+ * (begrijpend) lezen
+
+Maar ben je jonger dan acht en kun je al kunt programmeren,
+dan ben je hartstikke welkom!
+
+Uit ervaring weten we dat kinderen onder de acht jaar in de regel
+slecht mee kunnen komen. 
 
 ### Ik ben 8/9/10/11/12 jaar oud. Ben ik welkom na 20:15?
 
