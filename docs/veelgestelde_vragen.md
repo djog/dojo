@@ -8,10 +8,6 @@ Goed dat je dit leest, want acht jaar is enkel een richtlijn!
 Die richtlijn is er niet voor niks: programmeren is een 
 moeilijk (maar keigave!) hobby. 
 
-Je zult moeten kunnen:
-
- * (begrijpend) lezen
-
 Maar ben je jonger dan acht en kun je al kunt programmeren,
 dan ben je hartstikke welkom!
 
