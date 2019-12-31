@@ -131,6 +131,48 @@ TO  |9.75
 TO  |9.9
 Avg.|9.4
 
+## Gesproken vragen
+
+### 1. Hoe was de eindpresentatie?
+
+ * Superleuk. Jammer dat je niet kunr programmeren, liever
+   programmeer dag of op andere dag of eerder beginnen
+
+### 2. Wat was jouw favoriete presentatie? Waarom?
+
+ * game van Daan en Team Octane
+
+### 3. Wat is er goed aan de cursus?
+
+ * Richel leuke gast. Lekker vrij om te leren. Richel altijd blij,
+   altijd vrolijk
+
+### 4. Wat doet jouw team goed?
+
+ * Alles, maar ik weet niet wat we doen de laatste tijd. Laatste tijd
+   niet zo veel. Alles. Beste slimme kinderen. Hou van programmeren.
+   Niet zo goed in, omdat ik vaak gesurlccked ben van taal.
+   Felix ... is gestopt. Hoop geroddel. Alleen Scratch games:
+   dat is lang geleden gestopt
+
+### 5. Wat had jouw team beter kunnen doen?
+
+ * Gezamelijk project. Webbrowser best wel moeilijk. Beter
+   samenwerken. Nu maar een paar mensen doen het onderwerp
+   webbrowser. Is nog niet gelukt.
+
+### 6. Welk team was volgens jou het best? Waarom?
+### 7. Hoe is Richel?
+### 8. Wat doet Richel goed?
+### 9. Wat zou Richel kunnen verbeteren?
+### 10. Is er iets waarin Richel strenger zou moeten zijn?
+### 11. Is er iets waarin Richel minder streng zou moeten zijn?
+### 12. Hoe zou de cursus verbeterd kunnen worden?
+### 13. Richel wil een niet-team groep invoeren, de Nano’s, waarin iedereen begint. De Nano’s werken de Processing boekjes door. Een Nano moet (1) een GitHub account hebben, (2) 3x op verschillende dagen inloggen, (3) solliciteren bij een team om erbij te komen. Goed plan?
+### 14. Nog andere dingen?
+
+
+
 ## Conclusies
 
  * Er moet een pizza dag komen, zegge rond pi dag!
