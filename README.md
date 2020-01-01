@@ -19,6 +19,12 @@ Zie 'Lesrooster' hieronder voor meer detail.
 ## Agenda
 
  * Donderdag 9 januari: eerste les nieuwe periode
+ * Donderdag 20 februari: geen les, wegens voorjaarsvakantie
+ * Donderdag 12 maart: BPD ('Bijna Pi Dag'): een avond met :pizza:
+ * Donderdag 30 april: geen les, wegens meivakantie
+ * Donderdag 21 mei: geen les, wegens hemelvaartsdag
+ * Donderdag 25 juni: eindpresentaties
+ * Donderdag 2 juli: laatste les voor de zomervakantie
 
 ## Lesrooster
 
@@ -76,7 +82,7 @@ Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
 Teamnaam          |Website
 ------------------|---------------
 Rustig            |[Team Rustig](https://github.com/djog/djog_rust)
-Snek              |[Team Snek](https://github.com/djog/the_hunger_games), 
+Snek              |[Team Snek](https://github.com/djog/the_hunger_games)
 
 ### Teams najaar 2019
 

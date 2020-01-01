@@ -1,5 +1,38 @@
 # Lesplanning
 
+## Voorjaar 2020
+
+Les|Datum |Omschrijving
+---|------|--------------------
+ 01|09 jan|Eerste les
+ 02|16 jan|
+ 03|23 jan| 
+ 04|30 jan| 
+ 05|06 feb| 
+ 06|13 feb| 
+ --|20 feb|Geen les, wegens voorjaarsvakantie
+ 07|27 feb|
+ 08|05 mrt| 
+ 09|12 mrt|BPD ('Bijna Pi Dag'): avond met :pizza:
+ --|14 mrt|Pi Dag
+ 10|19 mrt| 
+ 11|26 mrt| 
+ 12|02 apr|
+ 13|09 apr|
+ 14|16 apr|
+ 15|23 apr|
+ --|30 apr|Geen les, wegens meivakantie
+ 16|07 mei|
+ 17|14 mei|
+ --|21 mei|Geen les, wegens hemelvaartsdag
+ 18|28 mei|
+ 19|04 jun|
+ 20|11 jun|
+ 21|18 jun|Oefenpresentaties
+ 22|25 jun|Eindpresentaties
+ 23|02 jul|Laatste les voor de zomervakantie
+ --|04 jul|Begin zomervakantie
+
 ## Herst en kerst 2019
 
 Les|Datum |Omschrijving
