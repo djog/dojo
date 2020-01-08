@@ -1,5 +1,13 @@
 # Lesplanning
 
+## Najaar 2020
+
+Les|Datum |Omschrijving
+---|------|--------------------
+ --|03 okt|Open dag DJO ivm Zpannend Zernike
+ --|13 okt|Herstvakantie
+ --|21 dec|Kerstvakantie
+
 ## Voorjaar 2020
 
 Les|Datum |Omschrijving
@@ -12,9 +20,10 @@ Les|Datum |Omschrijving
  06|13 feb| 
  --|20 feb|Geen les, wegens voorjaarsvakantie
  07|27 feb|
+ --|29 feb|:tada: Open Dag DJO
  08|05 mrt| 
  09|12 mrt|BPD ('Bijna Pi Dag'): avond met :pizza:
- --|14 mrt|Pi Dag
+ --|14 mrt|:tada: Pi Dag
  10|19 mrt| 
  11|26 mrt| 
  12|02 apr|
@@ -32,6 +41,7 @@ Les|Datum |Omschrijving
  22|25 jun|Eindpresentaties
  23|02 jul|Laatste les voor de zomervakantie
  --|04 jul|Begin zomervakantie
+ --|22 jul|Pi Benaderingsdag
 
 ## Herst en kerst 2019
 
