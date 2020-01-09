@@ -2,8 +2,6 @@
 
 ![DJOG logo](pics/DjogKleiner.png)
 
- * [Nieuwe homepage op GitLab](http://51.15.53.32/dojo/dojo_home)
-
 Aan computers vertellen wat ze moeten doen is de kern van programmeren. 
 Wil jij dit ook kunnen? Elke donderdagavond kun je bij de DOJO 
 leren hoe je je eigen interactieve programma's maakt, zoals een échte game! 
@@ -66,17 +64,14 @@ Heb je nog een vraag? Zie [Veelgestelde vragen](docs/veelgestelde_vragen.md)
 
 ![Mohammad's werk](Leerlingen/Mohammad20180902/Mohammad20180902.png)
 
-## Build status
-
-Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
----|---
-`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/Dojo.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Dojo)
-
 ## Links
 
 [![IRC Network](https://img.shields.io/badge/irc-%23ArduinoGroningen-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=ArduinoGroningen)
 
+ * [GitLab](http://51.15.53.32)
  * [Lesmateriaal 'git voor jonge tieners'](https://github.com/richelbilderbeek/git_voor_jonge_tieners)
+ * [Lesmateriaal 'Processing voor jonge tieners'](https://github.com/richelbilderbeek/processing_voor_jonge_tieners)
+ * [Lesmateriaal 'Arduino voor jonge tieners'](https://github.com/richelbilderbeek/arduino_voor_jonge_tieners)
 
 ### Teams voorjaar 2019
 
@@ -106,4 +101,10 @@ A    |Team Facilis   |[djog_picos_2018](https://github.com/richelbilderbeek/djog
 A    |Team Red Cobra |[djog_nanos_2018](https://github.com/richelbilderbeek/djog_nanos_2018)          |[hier](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDEhG_MPfrOk52NeVP0Np_Ow)
 B    |Team Octane    |[djog_unos_2018](https://github.com/richelbilderbeek/djog_unos_2018)            |[hier](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDGWROB_20d-upONVDL5azVR)
 C    |Team Octane    |[djog_unos_2018](https://github.com/richelbilderbeek/djog_unos_2018)            |[hier](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDGWROB_20d-upONVDL5azVR)
+
+## Build status
+
+Branch  |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
+--------|-----------------------------------------------------------------------------------------------------------------------------
+`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/Dojo.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Dojo)
 
