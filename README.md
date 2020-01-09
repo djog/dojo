@@ -69,6 +69,10 @@ Heb je nog een vraag? Zie [Veelgestelde vragen](docs/veelgestelde_vragen.md)
  * [Lesmateriaal 'git voor jonge tieners'](https://github.com/richelbilderbeek/git_voor_jonge_tieners)
  * [Lesmateriaal 'Processing voor jonge tieners'](https://github.com/richelbilderbeek/processing_voor_jonge_tieners)
 
+## Video's
+
+ * Hoe maak ik een GitLab homepage? [YouTube](https://youtu.be/SMUTWqqQ3n4) [Download](http://richelbilderbeek.nl/dojo_gitlab_homepage_maken_20200109.ogv)
+
 ### Teams voorjaar 2019
 
 Teamnaam          |Website
