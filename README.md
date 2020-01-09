@@ -3,14 +3,16 @@
 ![DJOG logo](pics/DjogKleiner.png)
 
 Aan computers vertellen wat ze moeten doen is de kern van programmeren. 
-Wil jij dit ook kunnen? Elke donderdagavond kun je bij de DOJO 
-leren hoe je je eigen interactieve programma's maakt, zoals een échte game! 
-De jongsten maken kleine programma's, de tieners werken samen aan grotere projecten.
-Voorkennis is niet nodig!
+Wil jij dit ook kunnen? Elke donderdagavond kun je bij de Dojo
+leren hoe je iets gaafs (games!) maakt op de computer.
+
+Eerst werk je los uit boekjes om het begin te leren. Daarna ga je
+meedoen in een team. En misschien dat je daarna een team gaat leiden!
+
+Voorkennis is niet nodig.
 
 Deze avond is een cursusavond, waarin samen leren programmeren voorop staat. 
-Je zult aan de slag gaan met Processing of C++, 
-maar je bent ook vrij je eigen weg te kiezen.
+Je begin altijd met Processing. Daarna, binnen een team, mogen jullie zelf kiezen.
 
 Zie 'Lesrooster' hieronder voor meer detail.
 
@@ -18,8 +20,10 @@ Zie 'Lesrooster' hieronder voor meer detail.
 
  * Donderdag 9 januari: eerste les nieuwe periode
  * Donderdag 20 februari: geen les, wegens voorjaarsvakantie
+ * Zaterdag 29 februari: Open Dag DJO Groningen, ?12:00-?16:00,
  * Donderdag 12 maart: BPD ('Bijna Pi Dag'): een avond met :pizza:
  * Zaterdag 14 maart: Pi Dag: om 00:03:14 (pi minuten na middernacht) op perron P van CS Groningen
+ * Zaterdag 14 maart: DigiDoeDag, Groningen, tijd nog onbekend
  * Donderdag 30 april: geen les, wegens meivakantie
  * Donderdag 21 mei: geen les, wegens hemelvaartsdag
  * Donderdag 25 juni: eindpresentaties
@@ -37,13 +41,6 @@ Start les   | 18:30 | 18:30 | 19:30 | 20:30
 Pauze les   | 19:15 | 19:15 | 20:00 | 21:00
 Vervolg les | 19:30 | 19:30 | 20:15 | 21:15
 Einde les   | 20:00 | 20:00 | 21:00 | 22:00
-
-Groep |Lesmateriaal
-------|-------------------------------------------------------------------------------
-Pico's|[Processing](https://github.com/richelbilderbeek/processing_voor_jonge_tieners)
-Nano's|Teams (nog niet gevormd)
-Uno's |[Team Snek](https://github.com/djog/the_hunger_games), [Team Rustig](https://github.com/djog/djog_rust)
-Mega's|Zie Uno's
 
  * Locatie: De Jonge Onderzoekers Groningen, [www.djog.nl](https://www.djog.nl), 
    Dirk Huizingastraat 13
