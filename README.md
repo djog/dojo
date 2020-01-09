@@ -63,12 +63,11 @@ Heb je nog een vraag? Zie [Veelgestelde vragen](docs/veelgestelde_vragen.md)
 
 ## Links
 
-[![IRC Network](https://img.shields.io/badge/irc-%23ArduinoGroningen-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=ArduinoGroningen)
-
  * [GitLab](http://51.15.53.32)
+ * [Discord](https://discord.gg/XYBXfE)
+ * [Lesmateriaal 'Arduino voor jonge tieners'](https://github.com/richelbilderbeek/arduino_voor_jonge_tieners)
  * [Lesmateriaal 'git voor jonge tieners'](https://github.com/richelbilderbeek/git_voor_jonge_tieners)
  * [Lesmateriaal 'Processing voor jonge tieners'](https://github.com/richelbilderbeek/processing_voor_jonge_tieners)
- * [Lesmateriaal 'Arduino voor jonge tieners'](https://github.com/richelbilderbeek/arduino_voor_jonge_tieners)
 
 ### Teams voorjaar 2019
 
