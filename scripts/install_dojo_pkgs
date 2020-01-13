@@ -2,5 +2,8 @@
 #
 # Installeer alle programma's die we gebruiken op de Dojo
 #
-
-apt-get install qtcreator git mousepad arduino cowsay fortune fortunes sl libqwt-qt5-dev qt5-qmake qt5-default libboost-all-dev cppcheck sloccount 
+# Gebruik:
+#
+#   sudo ./install_dojo_pkgs
+#
+apt-get install qtcreator git mousepad arduino cowsay fortune fortunes sl libqwt-qt5-dev qt5-qmake qt5-default libboost-all-dev cppcheck sloccount
