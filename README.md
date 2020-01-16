@@ -73,6 +73,7 @@ Heb je nog een vraag? Zie [Veelgestelde vragen](docs/veelgestelde_vragen.md)
 
  * Hoe laat ik zien dat ik er ben? [YouTube](https://youtu.be/3S-2Ya9G1PA) [Download](http://richelbilderbeek.nl/dojo_ik_ben_er_20200109.ogv)
  * Hoe maak ik een GitLab homepage? [YouTube](https://youtu.be/SMUTWqqQ3n4) [Download](http://richelbilderbeek.nl/dojo_gitlab_homepage_maken_20200109.ogv)
+ * Hoe verander ik een sprookje? [YouTube](https://youtu.be/h04nilzBxKk) [Download](http://richelbilderbeek.nl/gitlab_en_sprookje_20200116.ogv)
 
 ### Teams voorjaar 2019
 
