@@ -20,7 +20,7 @@ Zie 'Lesrooster' hieronder voor meer detail.
 
  * Donderdag 9 januari: eerste les nieuwe periode
  * Donderdag 20 februari: geen les, wegens voorjaarsvakantie
- * Zaterdag 29 februari: Open Dag DJO Groningen, ?12:00-?16:00,
+ * ?Zaterdag 29 februari: Open Dag DJO Groningen, ?12:00-?16:00
  * Donderdag 12 maart: BPD ('Bijna Pi Dag'): een avond met :pizza:
  * Zaterdag 14 maart: Pi Dag: om 00:03:14 (pi minuten na middernacht) op perron P van CS Groningen
  * Zaterdag 14 maart: DigiDoeDag, Groningen, tijd nog onbekend
@@ -57,10 +57,6 @@ Je eerste (proef)les kan elke avond zijn. Ook zonder opgave.
 
 Heb je nog een vraag? Zie [Veelgestelde vragen](docs/veelgestelde_vragen.md)
 
-## Screenshots van leerlingwerk
-
-![Mohammad's werk](Leerlingen/Mohammad20180902/Mohammad20180902.png)
-
 ## Links
 
  * [GitLab](http://51.15.53.32)
@@ -74,35 +70,6 @@ Heb je nog een vraag? Zie [Veelgestelde vragen](docs/veelgestelde_vragen.md)
  * Hoe laat ik zien dat ik er ben? [YouTube](https://youtu.be/3S-2Ya9G1PA) [Download](http://richelbilderbeek.nl/dojo_ik_ben_er_20200109.ogv)
  * Hoe maak ik een GitLab homepage? [YouTube](https://youtu.be/SMUTWqqQ3n4) [Download](http://richelbilderbeek.nl/dojo_gitlab_homepage_maken_20200109.ogv)
  * Hoe verander ik een sprookje? [YouTube](https://youtu.be/h04nilzBxKk) [Download](http://richelbilderbeek.nl/gitlab_en_sprookje_20200116.ogv)
-
-### Teams voorjaar 2019
-
-Teamnaam          |Website
-------------------|---------------
-Rustig            |[Team Rustig](https://github.com/djog/djog_rust)
-Snek              |[Team Snek](https://github.com/djog/the_hunger_games)
-
-### Teams najaar 2019
-
-Teamnaam               |Website
------------------------|---------------
-Team Blue Monkeys      |[https://github.com/djog/blue_monkeys](https://github.com/djog/blue_monkeys)
-Team Octane            |[https://github.com/djog/djog_unos_2019](https://github.com/djog/djog_unos_2019)
-Team Red Cobra         |[https://github.com/djog/Red-Cobra](https://github.com/djog/Red-Cobra)
-Team Universe          |[https://github.com/djog/Team-Universe](https://github.com/djog/Team-Universe)
-Team Unyted Programmers|[https://github.com/djog/Unyted-Programmers](https://github.com/djog/Unyted-Programmers)
-
-![](open_issues.png)
-
-### Teams schooljaar 2018-2019 
-
-Groep|Naam           |Website                                                                         |YouTube
------|---------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------
-A    |Pico's         |[Processing](https://github.com/richelbilderbeek/processing_voor_jonge_tieners) |[hier](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDGx6-L49ts6S70YfGnCP83F)
-A    |Team Facilis   |[djog_picos_2018](https://github.com/richelbilderbeek/djog_picos_2018)          |.
-A    |Team Red Cobra |[djog_nanos_2018](https://github.com/richelbilderbeek/djog_nanos_2018)          |[hier](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDEhG_MPfrOk52NeVP0Np_Ow)
-B    |Team Octane    |[djog_unos_2018](https://github.com/richelbilderbeek/djog_unos_2018)            |[hier](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDGWROB_20d-upONVDL5azVR)
-C    |Team Octane    |[djog_unos_2018](https://github.com/richelbilderbeek/djog_unos_2018)            |[hier](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDGWROB_20d-upONVDL5azVR)
 
 ## Build status
 
