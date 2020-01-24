@@ -20,7 +20,7 @@ Zie 'Lesrooster' hieronder voor meer detail.
 
  * Donderdag 9 januari: eerste les nieuwe periode
  * Donderdag 20 februari: geen les, wegens voorjaarsvakantie
- * ?Zaterdag 29 februari: Open Dag DJO Groningen, ?12:00-?16:00
+ * Zaterdag 29 februari: Open Dag DJO Groningen, ?12:00-?16:00
  * Donderdag 12 maart: BPD ('Bijna Pi Dag'): een avond met :pizza:
  * Zaterdag 14 maart: Pi Dag: om 00:03:14 (pi minuten na middernacht) op perron P van CS Groningen
  * Zaterdag 14 maart: DigiDoeDag, Groningen, tijd nog onbekend
