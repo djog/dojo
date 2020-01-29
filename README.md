@@ -23,7 +23,7 @@ Zie 'Lesrooster' hieronder voor meer detail.
  * Zaterdag 29 februari: Open Dag DJO Groningen, ?12:00-?16:00
  * Donderdag 12 maart: BPD ('Bijna Pi Dag'): een avond met :pizza:
  * Zaterdag 14 maart: Pi Dag: om 00:03:14 (pi minuten na middernacht) op perron P van CS Groningen
- * Zaterdag 14 maart: DigiDoeDag, Groningen, tijd nog onbekend
+ * Zaterdag 14 maart: DigiDoeDag, Groningen, 11:00-17:00
  * Donderdag 30 april: geen les, wegens meivakantie
  * Donderdag 21 mei: geen les, wegens hemelvaartsdag
  * Donderdag 25 juni: eindpresentaties
