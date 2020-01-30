@@ -2,7 +2,7 @@
 
 ## Leeftijd
 
-### Ik ben jonger dan acht jaar. Ben ik welkom?
+### Ik ben jonger dan 8 jaar. Ben ik welkom?
 
 Goed dat je dit leest, want acht jaar is enkel een richtlijn!
 Die richtlijn is er niet voor niks: programmeren is een 
@@ -14,22 +14,38 @@ dan ben je hartstikke welkom!
 Uit ervaring weten we dat kinderen onder de acht jaar in de regel
 slecht mee kunnen komen. 
 
-### Ik ben 8/9/10/11/12 jaar oud. Ben ik welkom na 20:15?
+### Ik ben jonger dan 13 jaar. Ben ik welkom na 20:15?
 
-In principe: nee, omdat dan de oudere tieners begeleid worden.
+Nee, omdat dan de oudere tieners begeleid worden.
 
-Wil je echter nuttig werk doen, zonder de oudere tieners te storen,
-dan ben je welkom.
+Zou er begeleiding zijn, dan pas zou het wel weer kunnen :-)
 
-### Ik ben 12/13/14/15/16/17/18 jaar oud. Ben ik welkom voor 20:00?
+### Ik ben jonger dan 13 jaar. Mag ik ook meedoen op de GitHub?
 
-Jazeker! 
+Nee, omdat GitHub zich aan de wetten van Amerika moet houden.
+Hierin wordt bepaalt dat jij 13 jaar of ouder moeten zijn om GitHub 
+te mogen gebruiken. 
+
+Daarom hebben we voor de jonge tieners een GitLab. 
+
+Zie ook `Wat is GitLab?` en `Wat is GitHub?`.
+
+### Ik ben ouder dan 12 jaar. Ben ik welkom voor 20:00?
+
+Jazeker!
 
 Begrijp wel: voor 20:00 gaan wel de jongere tieners voor.
 Ook wordt van je verwacht, dat je de jongere tieners niet stoort
 en iets nuttigs komt doen.
 
-### Ik ben ouder dan achttien jaar. Ben ik welkom?
+### Ik ben ouder dan 12 jaar. Mag ik ook meedoen op de GitLab?
+
+Ja, dat kan prima. Je wordt verwacht over te stappen op GitHub,
+omdat we daar moeilijkere dingen op kunnen doen.
+
+Zie ook `Wat is GitLab?` en `Wat is GitHub?`.
+
+### Ik ben ouder dan 18 jaar. Ben ik welkom?
 
 Goed dat je dit leest, want achttien jaar is enkel een richtlijn!
 Die richtlijn is er niet voor niks: De Jonge Onderzoekers
@@ -138,13 +154,7 @@ kunnen volgen :-)
 
 ### Welke vrijwilligers zijn er?
 
- * Erik
  * Richel
-
-### Wie is Erik?
-
-Erik is een volwassen vrijwilliger.
-Hij speelt graag het spel Diablo.
 
 ### Wie is [Richel](https://github.com/richelbilderbeek)?
 
@@ -164,10 +174,44 @@ Zijn werk is te zien op [zijn website met meer dan 3900 pagina's](http://richelb
 
 ### Wat is de missie van de cursus?
 
-De missie van De Jonge Onderzoekers is: '[Het] exploiteren van een activiteitencentrum met als doel kinderen op een uitdagende en creatieve manier met techniek en wetenschap in aanraking te laten komen'. De missie van de DOJO heeft veel overlap hiermee. We vinden het belangrijk dat de kinderen iets leren, uitgedaagd worden en hun creativiteit gebruiken om iets te maken. Om dit te bereiken laten we de leerlingen games maken en presenteren, maar het spelen van niet-zelfgemaakte games vinden we niet goed.
+De missie van De Jonge Onderzoekers is: '[Het] exploiteren van een 
+activiteitencentrum met als doel kinderen op een uitdagende en creatieve 
+manier met techniek en wetenschap in aanraking te laten komen'. De missie van 
+de DOJO heeft veel overlap hiermee. We vinden het belangrijk dat de kinderen 
+iets leren, uitgedaagd worden en hun creativiteit gebruiken om iets te maken. 
+Om dit te bereiken laten we de leerlingen games maken en presenteren, maar het 
+spelen van niet-zelfgemaakte games vinden we niet goed.
 
+## Technische vragen
 
-## Technische
+### Wat is GitLab?
+
+GitLab is een website waarop de leerlingen kunnen samenwerken.
+
+De Jonge Onderzoekers heeft een eigen GitLab. 
+
+Onze GitLab heeft de volgende eigenschappen:
+
+ * Het is legaal voor elke leeftijd
+ * Leerlingen hebben geen emailadres nodig
+ * Leerlingen werken in een afgeschermde omgeving
+ * Leerlingen kunnen enkel op verzoek een project publiekelijk maken
+
+### Wat is GitHub?
+
+GitHub is een website waarop de leerlingen kunnen samenwerken,
+vanaf een leeftijd van 13 jaar.
+
+De Jonge Onderzoekers heeft een GitHub pagina op 
+[https://github.com/djog](https://github.com/djog). 
+
+GitHub heeft de volgende eigenschappen:
+
+ * Het is de meest gebruikte `git` host van de wereld
+ * Er zijn professionele services die de leerlingen leren kennen, zoals Travis CI en Codecov
+ * Leerlingen werken openbaar
+ * Leerlingen hebben een emailadres nodig
+ * Het is legaal enkel vanaf 13 jaar
 
 ### Ik wil niet dat Processing in `Update` scherm laat zien
 

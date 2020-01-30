@@ -41,6 +41,7 @@ Start les   | 18:30 | 18:30 | 19:30 | 20:30
 Pauze les   | 19:15 | 19:15 | 20:00 | 21:00
 Vervolg les | 19:30 | 19:30 | 20:15 | 21:15
 Einde les   | 20:00 | 20:00 | 21:00 | 22:00
+Werken met  |GitLab |GitLab |GitHub |GitHub
 
  * Locatie: De Jonge Onderzoekers Groningen, [www.djog.nl](https://www.djog.nl), 
    Dirk Huizingastraat 13
