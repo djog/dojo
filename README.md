@@ -48,7 +48,7 @@ Werken met  |GitLab |GitLab |GitHub |GitHub
  * Kosten per leerling:
    * September t/m december: 27,50 euro
    * Januari tot en met mei: 27,50 euro
-   * Juni en juli: gratis, de lessen zijn dan op de vrijdag!
+   * Juni en juli (onder voorbehoud): gratis 
  * Leeftijd: 8-18 jaar [*](docs/veelgestelde_vragen.md)
  * Benodigdheden: Het zou fijn zijn als je een laptop met WiFi meeneemt. 
    Maar wij hebben ook wel wat laptops te leen. Neem een USB stick mee als
