@@ -2,8 +2,8 @@
 
 ## Beneden
 
-#  |Naam
----|----
+N  |Naam
+---|-----
 1  |Aik
 2  |Annika
 3  |Aram
@@ -19,8 +19,8 @@
 
 ## Boven
 
-#  |Naam
----|----
+N  |Naam
+---|-----
 1  |Bruno
 2  |Jacob
 3  |Jonas
