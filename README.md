@@ -25,6 +25,7 @@ Zie 'Lesrooster' hieronder voor meer detail.
  * Zaterdag 14 maart: Pi Dag: om 00:03:14 (pi minuten na middernacht) op bushalte P van CS Groningen
  * Zaterdag 14 maart: DigiDoeDag, 11:00-17:00 @ Forum, Nieuwe Markt 1, Groningen
  * Donderdag 30 april: geen les, wegens meivakantie
+ * Zaterdag 16 mei: Django Girls
  * Donderdag 21 mei: geen les, wegens hemelvaartsdag
  * Donderdag 25 juni: eindpresentaties
  * Donderdag 2 juli: laatste les voor de zomervakantie
