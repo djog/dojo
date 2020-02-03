@@ -59,8 +59,8 @@ Heb je nog een vraag? Zie [Veelgestelde vragen](docs/veelgestelde_vragen.md)
 
 ## Links
 
- * [GitLab](http://51.15.53.32)
- * [Discord](https://discord.gg/XYBXfE)
+ * [DJOG GitLab](http://51.15.53.32)
+ * [DJOG Discord](https://discord.gg/XYBXfE)
  * [Lesmateriaal 'Arduino voor jonge tieners'](https://github.com/richelbilderbeek/arduino_voor_jonge_tieners)
  * [Lesmateriaal 'git voor jonge tieners'](https://github.com/richelbilderbeek/git_voor_jonge_tieners)
  * [Lesmateriaal 'Processing voor jonge tieners'](https://github.com/richelbilderbeek/processing_voor_jonge_tieners)
