@@ -20,11 +20,12 @@ Zie 'Lesrooster' hieronder voor meer detail.
 
  * Donderdag 9 januari: eerste les nieuwe periode
  * Donderdag 20 februari: geen les, wegens voorjaarsvakantie
- * ?Zaterdag 29 februari: Open Dag DJO Groningen, ?12:00-?16:00
+ * Zaterdag 29 februari: Open Dag DJO Groningen, 10:00-16:00
  * Donderdag 12 maart: BPD ('Bijna Pi Dag'): een avond met :pizza:
- * Zaterdag 14 maart: Pi Dag: om 00:03:14 (pi minuten na middernacht) op perron P van CS Groningen
- * Zaterdag 14 maart: DigiDoeDag, Groningen, tijd nog onbekend
+ * Zaterdag 14 maart: Pi Dag: om 00:03:14 (pi minuten na middernacht) op bushalte P van CS Groningen
+ * Zaterdag 14 maart: DigiDoeDag, 11:00-17:00 @ Forum, Nieuwe Markt 1, Groningen
  * Donderdag 30 april: geen les, wegens meivakantie
+ * Zaterdag 16 mei: Django Girls
  * Donderdag 21 mei: geen les, wegens hemelvaartsdag
  * Donderdag 25 juni: eindpresentaties
  * Donderdag 2 juli: laatste les voor de zomervakantie
@@ -41,13 +42,14 @@ Start les   | 18:30 | 18:30 | 19:30 | 20:30
 Pauze les   | 19:15 | 19:15 | 20:00 | 21:00
 Vervolg les | 19:30 | 19:30 | 20:15 | 21:15
 Einde les   | 20:00 | 20:00 | 21:00 | 22:00
+Werken met  |GitLab |GitLab |GitHub |GitHub
 
  * Locatie: De Jonge Onderzoekers Groningen, [www.djog.nl](https://www.djog.nl), 
    Dirk Huizingastraat 13
  * Kosten per leerling:
    * September t/m december: 27,50 euro
    * Januari tot en met mei: 27,50 euro
-   * Juni en juli: gratis, de lessen zijn dan op de vrijdag!
+   * Juni en juli (onder voorbehoud): gratis 
  * Leeftijd: 8-18 jaar [*](docs/veelgestelde_vragen.md)
  * Benodigdheden: Het zou fijn zijn als je een laptop met WiFi meeneemt. 
    Maar wij hebben ook wel wat laptops te leen. Neem een USB stick mee als
