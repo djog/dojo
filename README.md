@@ -18,12 +18,9 @@ Zie 'Lesrooster' hieronder voor meer detail.
 
 ## Agenda
 
- * Donderdag 9 januari: eerste les nieuwe periode
- * Donderdag 20 februari: geen les, wegens voorjaarsvakantie
- * Zaterdag 29 februari: Open Dag DJO Groningen, 10:00-16:00
  * Donderdag 12 maart: BPD ('Bijna Pi Dag'): een avond met :pizza:
  * Zaterdag 14 maart: Pi Dag: om 00:03:14 (pi minuten na middernacht) op bushalte P van CS Groningen
- * Zaterdag 14 maart: DigiDoeDag, 11:00-17:00 @ Forum, Nieuwe Markt 1, Groningen
+ * Zaterdag 14 maart: [DoeDigiDag](https://noordendigitaal.nl/activiteiten/kom-langs-bij-de-jonge-onderzoekers-en-leer-zelf-programmeren), 11:00-17:00 @ Forum, Nieuwe Markt 1, Groningen
  * Donderdag 30 april: geen les, wegens meivakantie
  * Zaterdag 16 mei: Django Girls
  * Donderdag 21 mei: geen les, wegens hemelvaartsdag
@@ -66,6 +63,7 @@ Heb je nog een vraag? Zie [Veelgestelde vragen](docs/veelgestelde_vragen.md)
  * [Lesmateriaal 'Arduino voor jonge tieners'](https://github.com/richelbilderbeek/arduino_voor_jonge_tieners)
  * [Lesmateriaal 'git voor jonge tieners'](https://github.com/richelbilderbeek/git_voor_jonge_tieners)
  * [Lesmateriaal 'Processing voor jonge tieners'](https://github.com/richelbilderbeek/processing_voor_jonge_tieners)
+ * [Lesmateriaal LEGO](https://education.lego.com/nl-nl)
 
 ## Video's
 
