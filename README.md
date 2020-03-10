@@ -19,7 +19,7 @@ Zie 'Lesrooster' hieronder voor meer detail.
 ## Agenda
 
  * Donderdag 12 maart: BPD ('Bijna Pi Dag'): een avond met :pizza:
- * Zaterdag 14 maart: Pi Dag: om 00:03:14 (pi minuten na middernacht) op bushalte P van CS Groningen
+ * Zaterdag 14 maart: Pi Dag: om 00:03:14 (pi minuten na middernacht) op bushalte P van CS Groningen, zie [hier](https://github.com/richelbilderbeek/pi_day)
  * Zaterdag 14 maart: [DoeDigiDag](https://noordendigitaal.nl/activiteiten/kom-langs-bij-de-jonge-onderzoekers-en-leer-zelf-programmeren), 11:00-17:00 @ Forum, Nieuwe Markt 1, Groningen
  * Donderdag 30 april: geen les, wegens meivakantie
  * Zaterdag 16 mei: Django Girls
