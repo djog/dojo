@@ -21,6 +21,7 @@ Zie 'Lesrooster' hieronder voor meer detail.
  * ~~Donderdag 12 maart: BPD ('Bijna Pi Dag'): een avond met :pizza:~~ Geen les wegens een niet-computer virus
  * Zaterdag 14 maart: Pi Dag: om 00:03:14 (pi minuten na middernacht) op bushalte P van CS Groningen, zie [hier](https://github.com/richelbilderbeek/pi_day)
  * ~~Zaterdag 14 maart: [DoeDigiDag](https://noordendigitaal.nl/activiteiten/kom-langs-bij-de-jonge-onderzoekers-en-leer-zelf-programmeren), 11:00-17:00 @ Forum, Nieuwe Markt 1, Groningen~~  Gaat niet meer door, wegens een niet-computer virus
+ * Donderdag 19 maart: geen les, wegens een niet-computer virus
  * Donderdag 30 april: geen les, wegens meivakantie
  * Zaterdag 16 mei: Django Girls
  * Donderdag 21 mei: geen les, wegens hemelvaartsdag
