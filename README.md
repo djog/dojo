@@ -16,7 +16,7 @@ Je begin altijd met Processing. Daarna, binnen een team, mogen jullie zelf kieze
 
 Zie 'Lesrooster' hieronder voor meer detail.
 
-## Tijdelijk lessen via Discord
+## :warning: Tijdelijk lessen via Discord :warning: 
 
 In deze dagen gaan veel dingen even niet door. Met De Jonge Onderzoekers
 proberen we iets leuks te blijven doen :+1:
