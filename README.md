@@ -28,6 +28,11 @@ dan voegt hij je toe aan het De Jonge Onderzoekers kanaal.
 Het wordt even wennen, maar samen maken we er vast iets leuks en leerzaams van!
 Logisch, Richel is erbij :sunglasses: !
 
+Deze video's laten we zien hoe wij werken:
+
+ * Hoe gedragen wij ons op Discord: [YouTube](https://youtu.be/Qij8TCIv20w) [download (.OGG)](http://richelbilderbeek.nl/damster_dojo_discord_gedrag.ogv)
+ * Onze eerste les op Discord: [YouTube](https://youtu.be/TQ8myDdix8U) [download (.OGG)](http://richelbilderbeek.nl/damster_dojo_discord_20200315.ogv)
+
 ## Agenda
 
  * ~~Donderdag 12 maart: BPD ('Bijna Pi Dag'): een avond met :pizza:~~ Geen les wegens een niet-computer virus
