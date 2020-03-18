@@ -35,11 +35,8 @@ Deze video's laten we zien hoe wij werken:
 
 ## Agenda
 
- * ~~Donderdag 12 maart: BPD ('Bijna Pi Dag'): een avond met :pizza:~~ Geen les wegens een niet-computer virus
- * Zaterdag 14 maart: Pi Dag: om 00:03:14 (pi minuten na middernacht) op bushalte P van CS Groningen, zie [hier](https://github.com/richelbilderbeek/pi_day)
- * ~~Zaterdag 14 maart: [DoeDigiDag](https://noordendigitaal.nl/activiteiten/kom-langs-bij-de-jonge-onderzoekers-en-leer-zelf-programmeren), 11:00-17:00 @ Forum, Nieuwe Markt 1, Groningen~~  Gaat niet meer door, wegens een niet-computer virus
- * Donderdag 19 maart: geen les op locatie, maar wel via Discord :godmode:
- * Donderdag 26 maart: geen les op locatie, maar wel via Discord :godmode:
+ * Donderdag 19 maart: les via Discord :godmode:
+ * Donderdag 26 maart: les via Discord :godmode:
  * Donderdag 2 april: misschien weer les op locatie, dat is even afwachten ...
  * Donderdag 30 april: geen les, wegens meivakantie
  * Zaterdag 16 mei: Django Girls
