@@ -30,7 +30,7 @@ Logisch, Richel is erbij :sunglasses: !
 
 Deze video's laten we zien hoe wij werken:
 
- * Hoe gedragen wij ons op Discord: [YouTube](https://youtu.be/Qij8TCIv20w) [download (.OGG)](http://richelbilderbeek.nl/damster_dojo_discord_gedrag.ogv)
+ * Hoe gedragen wij ons op Discord: [YouTube](https://youtu.be/VFhYMwp4pcc) [download (.OGG)](http://richelbilderbeek.nl/http://richelbilderbeek.nl/dojo_op_discord.ogv)
  * Onze eerste les op Discord: [YouTube](https://youtu.be/TQ8myDdix8U) [download (.OGG)](http://richelbilderbeek.nl/damster_dojo_discord_20200315.ogv)
 
 ## Agenda
