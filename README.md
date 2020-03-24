@@ -35,10 +35,17 @@ Deze video's laten we zien hoe wij werken:
 
 ## Agenda
 
- * Donderdag 19 maart: les via Discord
  * Donderdag 26 maart: les via Discord
- * Donderdag 2 april: misschien weer les op locatie, dat is even afwachten ...
- * Donderdag 30 april: geen les, wegens meivakantie
+ * Donderdag 2 april: les via Discord
+ * Donderdag 9 april: les via Discord
+ * Donderdag 16 april: les via Discord
+ * Donderdag 23 april: les via Discord
+ * Donderdag 30 april: les via Discord
+ * Donderdag 7 mei: les via Discord
+ * Donderdag 14 mei: les via Discord
+ * Donderdag 21 mei: les via Discord
+ * Donderdag 28 mei: les via Discord
+ * Donderdag 4 juni: les op locatie? Dat wordt nog even afwachten :+1:
  * Zaterdag 16 mei: Django Girls
  * Donderdag 21 mei: geen les, wegens hemelvaartsdag
  * Donderdag 25 juni: eindpresentaties
