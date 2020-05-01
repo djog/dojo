@@ -16,17 +16,11 @@ Je begin altijd met Processing. Daarna, binnen een team, mogen jullie zelf kieze
 
 Zie 'Lesrooster' hieronder voor meer detail.
 
-## :warning: Tijdelijk lessen via Discord :warning: 
+## Lessen via Discord
 
-In deze dagen gaan veel dingen even niet door. Met De Jonge Onderzoekers
-proberen we iets leuks te blijven doen :+1:
-
-Komende tijd ben je welkom om op Discord mee te doen met de lessen. 
+Je bent welkom om op Discord mee te doen met de lessen. 
 Maak Richel je Discord vriend: `richelbilderbeek#9002`,
 dan voegt hij je toe aan het De Jonge Onderzoekers kanaal.
-
-Het wordt even wennen, maar samen maken we er vast iets leuks en leerzaams van!
-Logisch, Richel is erbij :sunglasses: !
 
 Deze video's laten we zien hoe wij werken:
 
@@ -35,18 +29,6 @@ Deze video's laten we zien hoe wij werken:
 
 ## Agenda
 
- * Donderdag 26 maart: les via Discord
- * Donderdag 2 april: les via Discord
- * Donderdag 9 april: les via Discord
- * Donderdag 16 april: les via Discord
- * Donderdag 23 april: les via Discord
- * Donderdag 30 april: les via Discord
- * Donderdag 7 mei: les via Discord
- * Donderdag 14 mei: les via Discord
- * Donderdag 21 mei: les via Discord
- * Donderdag 28 mei: les via Discord
- * Donderdag 4 juni: les op locatie? Dat wordt nog even afwachten :+1:
- * Zaterdag 16 mei: Django Girls
  * Donderdag 21 mei: geen les, wegens hemelvaartsdag
  * Donderdag 25 juni: eindpresentaties
  * Donderdag 2 juli: laatste les voor de zomervakantie
