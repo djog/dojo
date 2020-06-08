@@ -29,8 +29,7 @@ Deze video's laten we zien hoe wij werken:
 
 ## Agenda
 
- * Donderdag 21 mei: geen les, wegens hemelvaartsdag
- * Donderdag 25 juni: eindpresentaties
+ * Donderdag 25 juni: eindpresentaties, zie details bij 'Eindpresentaties'
  * Donderdag 2 juli: laatste les voor de zomervakantie
 
 ## Lesrooster
