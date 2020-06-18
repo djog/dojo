@@ -32,6 +32,17 @@ Deze video's laten we zien hoe wij werken:
  * Donderdag 25 juni: eindpresentaties, zie details bij 'Eindpresentaties'
  * Donderdag 2 juli: laatste les voor de zomervakantie
 
+## Eindpresentatie
+
+Tijd                     |Kids   |Ouders 
+-------------------------|-------|-------
+Inloop                   | 18:15 | 18:30 
+Voorbereiding            | 18:30 | .
+Start presentaties       | 18:45 | 18:45
+Eind presentaties, pauze | 19:15 | 19:15
+Pauze voorbij, evaluatie | 19:30 | 19:30 
+Einde les                | 20:00 | 20:00 
+
 ## Lesrooster
 
  * Dag: Elke donderdagavond, behalve op feestdagen en in de kerstvakantie
