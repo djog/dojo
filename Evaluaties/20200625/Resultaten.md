@@ -35,6 +35,8 @@ niet; meer JavaScript en Node.js; meer hulp
 
 ## Uno's
 
+Thanks Lizzie Rouble!
+
 1. How did the presentations go? 
 Pretty well. Enjoyed it, but first ones too long. Due to students taking a long time explaining in detail. Keep it 2-3 minutes. Some were quite nice and cool, others were just okay.
 
