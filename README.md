@@ -16,21 +16,9 @@ Je begin altijd met Processing. Daarna, binnen een team, mogen jullie zelf kieze
 
 Zie 'Lesrooster' hieronder voor meer detail.
 
-## Lessen via Discord
-
-Je bent welkom om op Discord mee te doen met de lessen. 
-Maak Richel je Discord vriend: `richelbilderbeek#9002`,
-dan voegt hij je toe aan het De Jonge Onderzoekers kanaal.
-
-Deze video's laten we zien hoe wij werken:
-
- * Hoe gedragen wij ons op Discord: [YouTube](https://youtu.be/VFhYMwp4pcc) [download (.OGG)](http://richelbilderbeek.nl/http://richelbilderbeek.nl/dojo_op_discord.ogv)
- * Onze eerste les op Discord: [YouTube](https://youtu.be/TQ8myDdix8U) [download (.OGG)](http://richelbilderbeek.nl/damster_dojo_discord_20200315.ogv)
-
 ## Agenda
 
- * Donderdag 25 juni: eindpresentaties, zie details bij 'Eindpresentaties'
- * Donderdag 2 juli: laatste les voor de zomervakantie
+ * Donderdag 20 augustus: eerste les
 
 ## Eindpresentatie
 
