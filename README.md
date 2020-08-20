@@ -73,6 +73,7 @@ Einde les                | 20:00 | 20:00
  * [Lesmateriaal 'Arduino voor jonge tieners'](https://github.com/richelbilderbeek/arduino_voor_jonge_tieners)
  * [Lesmateriaal 'git voor jonge tieners'](https://github.com/richelbilderbeek/git_voor_jonge_tieners)
  * [Lesmateriaal 'Processing voor jonge tieners'](https://github.com/richelbilderbeek/processing_voor_jonge_tieners)
+ * [Lesmateriaal 'DJOG Help'](https://github.com/djog/help)
  * [Lesmateriaal LEGO](https://education.lego.com/nl-nl)
 
 ## Video's
@@ -86,4 +87,5 @@ Einde les                | 20:00 | 20:00
 Branch  |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
 --------|-----------------------------------------------------------------------------------------------------------------------------
 `master`|[![Build Status](https://travis-ci.org/richelbilderbeek/Dojo.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Dojo)
+
 
