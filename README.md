@@ -19,6 +19,10 @@ Zie 'Lesrooster' hieronder voor meer detail.
 ## Agenda
 
  * Donderdag 20 augustus: eerste les
+ * Donderdag 15 oktober: geen les, wegens herstvakantie
+ * Donderdag 3 december: oefenpresentaties
+ * Donderdag 10 december: eindpresentaties
+ * Donderdag 17 december: laatste les
 
 ## Lesrooster
 
@@ -26,12 +30,12 @@ Zie 'Lesrooster' hieronder voor meer detail.
 
 Groep       |Pico's |Nanos' |Uno's  |Mega's
 ------------|-------|-------|-------|------
-Leeftijd    | 08-13 | 08-13 | 13-18 | 18-88
-Inloop      | 18:15 | 18:15 | 19:15 | 20:15
-Start les   | 18:30 | 18:30 | 19:30 | 20:30
-Pauze les   | 19:15 | 19:15 | 20:00 | 21:00
-Vervolg les | 19:30 | 19:30 | 20:15 | 21:15
-Einde les   | 20:00 | 20:00 | 21:00 | 22:00
+Leeftijd    | 08-13 | 08-13 | 13-18 | 13-88
+Inloop      | 18:15 | 18:15 | 19:15 | 19:15
+Start les   | 18:30 | 18:30 | 19:30 | 19:30
+Pauze les   | 19:15 | 19:15 | 20:00 | 20:00
+Vervolg les | 19:30 | 19:30 | 20:15 | 20:15
+Einde les   | 20:00 | 20:00 | 21:00 | 21:00 of 22:00
 Werken met  |GitLab |GitLab |GitHub |GitHub
 
  * Locatie: De Jonge Onderzoekers Groningen, [www.djog.nl](https://www.djog.nl), 
@@ -48,6 +52,19 @@ Werken met  |GitLab |GitLab |GitHub |GitHub
 Je eerste (proef)les kan elke avond zijn. Ook zonder opgave.
 
 Heb je nog een vraag? Zie [Veelgestelde vragen](docs/veelgestelde_vragen.md)
+
+## Eindpresentatie
+
+Dit zijn de tijden voor de eindpresentatie op donderdag 10 december.
+
+Tijd                     |Kids   |Ouders 
+-------------------------|-------|-------
+Inloop                   | 18:15 | 18:30 
+Voorbereiding            | 18:30 | .
+Start presentaties       | 18:45 | 18:45
+Eind presentaties, pauze | 19:15 | 19:15
+Pauze voorbij, evaluatie | 19:30 | 19:30 
+Einde les                | 20:00 | 20:00 
 
 ## Links
 
