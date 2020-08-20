@@ -16,6 +16,12 @@ Je begin altijd met Processing. Daarna, binnen een team, mogen jullie zelf kieze
 
 Zie 'Lesrooster' hieronder voor meer detail.
 
+## Aanmelden verplicht
+
+Nieuw: van de leerlingen wordt verwacht dat ze zich aanmelden.
+
+Dat kan hier: [https://forms.gle/sPZFnphsQDAuaQSJ7](https://forms.gle/sPZFnphsQDAuaQSJ7)
+
 ## Agenda
 
  * Donderdag 20 augustus: eerste les
@@ -50,6 +56,7 @@ Werken met  |GitLab |GitLab |GitHub |GitHub
    je je code wilt bewaren.
 
 Je eerste (proef)les kan elke avond zijn. Ook zonder opgave.
+Als je weet wanneer je komt, is het fijn als je je hier aanmeldt: [https://forms.gle/sPZFnphsQDAuaQSJ7](https://forms.gle/sPZFnphsQDAuaQSJ7)
 
 Heb je nog een vraag? Zie [Veelgestelde vragen](docs/veelgestelde_vragen.md)
 
