@@ -13,9 +13,12 @@ script:
   # Check dead links
   #- rm .travis.yml
   #- ./scripts/check_dead_links
+
 after_success:
-  - Rscript -e 'download.file("https://www.rug.nl/research/portal/files/132028374/Complete_thesis.pdf", tempfile())'
+  # Download thesis
+  - wget https://www.rug.nl/research/portal/files/132028374/Complete_thesis.pdf
 
 after_failure:
-  - Rscript -e 'download.file("https://www.rug.nl/research/portal/files/132028374/Complete_thesis.pdf", tempfile())'
+  # Download thesis
+  - wget https://www.rug.nl/research/portal/files/132028374/Complete_thesis.pdf
 
