@@ -88,6 +88,8 @@ Einde les                | 20:00 | 20:00
  * Hoe laat ik zien dat ik er ben? [YouTube](https://youtu.be/3S-2Ya9G1PA) [Download](http://richelbilderbeek.nl/dojo_ik_ben_er_20200109.ogv)
  * Hoe maak ik een GitLab homepage? [YouTube](https://youtu.be/SMUTWqqQ3n4) [Download](http://richelbilderbeek.nl/dojo_gitlab_homepage_maken_20200109.ogv)
  * Hoe verander ik een sprookje? [YouTube](https://youtu.be/h04nilzBxKk) [Download](http://richelbilderbeek.nl/gitlab_en_sprookje_20200116.ogv)
+ * GitLab Issues: [YouTube](https://youtu.be/ilb6uOFTel4) [Download](http://richelbilderbeek.nl/gitlab_issue.ogv)
+ * GitLab Board: [YouTube](https://youtu.be/_Tv_qMcShvM) [Download](http://richelbilderbeek.nl/gitlab_board.ogv)
 
 ## Build status
 
