@@ -26,6 +26,8 @@ Dat kan hier: [https://forms.gle/sPZFnphsQDAuaQSJ7](https://forms.gle/sPZFnphsQD
 
  * Donderdag 20 augustus: eerste les
  * Donderdag 15 oktober: geen les, wegens herstvakantie
+ * Donderdag 22 oktober: geen les, wegens COVID-19
+ * Donderdag 29 oktober: geen les, wegens COVID-19
  * Donderdag 3 december: oefenpresentaties
  * Donderdag 10 december: eindpresentaties
  * Donderdag 17 december: laatste les
