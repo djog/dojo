@@ -24,13 +24,9 @@ Dat kan hier: [https://forms.gle/sPZFnphsQDAuaQSJ7](https://forms.gle/sPZFnphsQD
 
 ## Agenda
 
- * Donderdag 20 augustus: eerste les
- * Donderdag 15 oktober: geen les, wegens herstvakantie
- * Donderdag 22 oktober: geen les, wegens COVID-19
- * Donderdag 29 oktober: geen les, wegens COVID-19
- * Donderdag 3 december: oefenpresentaties
- * Donderdag 10 december: eindpresentaties
- * Donderdag 17 december: laatste les
+ * Donderdag 10 december: oefenpresentaties
+ * Donderdag 17 december: eindpresentaties
+ * Donderdag 24 december: geen les, wegens kerstvakantie
 
 ## Lesrooster
 
@@ -68,12 +64,41 @@ Dit zijn de tijden voor de eindpresentatie op donderdag 10 december.
 
 Tijd                     |Kids   |Ouders 
 -------------------------|-------|-------
-Inloop                   | 18:15 | 18:30 
+Inloop                   | 18:15 | . 
 Voorbereiding            | 18:30 | .
+Discord open             |       | 18:31
 Start presentaties       | 18:45 | 18:45
-Eind presentaties, pauze | 19:15 | 19:15
-Pauze voorbij, evaluatie | 19:30 | 19:30 
-Einde les                | 20:00 | 20:00 
+Eind presentaties        | 19:15 | 19:15
+Pauze                    | 19:16 | .
+Pauze voorbij, evaluatie | 19:30 | optioneel 
+Einde les                | 20:00 | .
+
+### Vragen over eindpresentatie
+
+#### Waar moeten de kids zijn?
+
+Die gaan als gewoonlijk naar het DJO pand.
+
+#### Waar moeten de ouders zijn?
+
+Niet in het gebouw, want we mogen daar geen ouders ontvangen :-(.
+
+Tip: breng uw kind vroeg bij DJO (zegge, stipt 18:15), dan is er
+wellicht genoeg tijd om om 18:45 de livestream te kunnen volgen.
+
+#### Waarom Discord?
+
+Omdat de kids (en de meeste ouders) dit medium nu kennen.
+
+#### Hoe kom ik op de DJO Discord server?
+
+Via de link naar de DJO server (`https://discord.gg/?????eq`, volledige
+link in email), of stuur Richel (`richelbilderbeek#9002`) 
+een vriendschapsverzoek.
+
+#### Wordt de presentatie opgenomen?
+
+Nee.
 
 ## Links
 
