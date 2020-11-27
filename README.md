@@ -60,7 +60,7 @@ Heb je nog een vraag? Zie [Veelgestelde vragen](docs/veelgestelde_vragen.md)
 
 ## Eindpresentatie
 
-Dit zijn de tijden voor de eindpresentatie op donderdag 10 december.
+Dit zijn de tijden voor de eindpresentatie op donderdag 17 december.
 
 Tijd                     |Kids   |Ouders 
 -------------------------|-------|-------
