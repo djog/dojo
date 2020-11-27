@@ -1,8 +1,8 @@
 Geachte ouders van de Dojo [1],
 
-Donderdag 17 december 18:30-19:00 hebben de kids een online eindpresentatie
+Donderdag 17 december 18:45-19:15 hebben de kids een online eindpresentatie
 en ik nodig u uit deze online mee te bekijken
-op de Discord DJO server op  .
+op de Discord DJO server op https://discord.gg/?????eq .
 
 Gedetailleerde planning en veelgestelde vragen staan op [2].
 
@@ -13,4 +13,4 @@ te sturen naar richelbilderbeek#9002
 Groetjes, Richel Bilderbeek
 
  * [1] oftewel de Codeclub
- * [2] https://github.com/djog/damster_dojo#eindpresentatie
+ * [2] https://github.com/djog/dojo#eindpresentatie
