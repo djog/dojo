@@ -64,7 +64,7 @@ Dit zijn de tijden voor de eindpresentatie op donderdag 17 december.
 
 Tijd                     |Kids   |Ouders 
 -------------------------|-------|-------
-Inloop                   | 18:15 | . 
+Inloop op Discord        | 18:15 | . 
 Voorbereiding            | 18:30 | .
 Discord open             |       | 18:31
 Start presentaties       | 18:45 | 18:45
@@ -77,14 +77,11 @@ Einde les                | 20:00 | .
 
 #### Waar moeten de kids zijn?
 
-Die gaan als gewoonlijk naar het DJO pand.
+Thuis :-)
 
 #### Waar moeten de ouders zijn?
 
-Niet in het gebouw, want we mogen daar geen ouders ontvangen :-(.
-
-Tip: breng uw kind vroeg bij DJO (zegge, stipt 18:15), dan is er
-wellicht genoeg tijd om om 18:45 de livestream te kunnen volgen.
+Thuis.
 
 #### Waarom Discord?
 
