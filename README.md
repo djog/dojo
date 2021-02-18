@@ -11,16 +11,14 @@ meedoen in een team. En misschien dat je daarna een team gaat leiden!
 
 Voorkennis is niet nodig.
 
+Wegens corona werken we online via Discord. Je kunt
+op de DJO Discord server komen via deze link, `https://discord.gg/mHjQQ4FxHJ`, 
+of stuur Richel (`richelbilderbeek#9002`) een vriendschapsverzoek.
+
 Deze avond is een cursusavond, waarin samen leren programmeren voorop staat. 
 Je begin altijd met Processing. Daarna, binnen een team, mogen jullie zelf kiezen.
 
 Zie 'Lesrooster' hieronder voor meer detail.
-
-## Aanmelden verplicht
-
-Nieuw: van de leerlingen wordt verwacht dat ze zich aanmelden.
-
-Dat kan hier: [https://forms.gle/sPZFnphsQDAuaQSJ7](https://forms.gle/sPZFnphsQDAuaQSJ7)
 
 ## Agenda
 
@@ -58,49 +56,10 @@ Als je weet wanneer je komt, is het fijn als je je hier aanmeldt: [https://forms
 
 Heb je nog een vraag? Zie [Veelgestelde vragen](docs/veelgestelde_vragen.md)
 
-## Eindpresentatie
-
-Dit zijn de tijden voor de eindpresentatie op donderdag 17 december.
-
-Tijd                     |Kids   |Ouders 
--------------------------|-------|-------
-Inloop op Discord        | 18:15 | . 
-Voorbereiding            | 18:30 | .
-Discord open             |       | 18:31
-Start presentaties       | 18:45 | 18:45
-Eind presentaties        | 19:15 | 19:15
-Pauze                    | 19:16 | .
-Pauze voorbij, evaluatie | 19:30 | optioneel 
-Einde les                | 20:00 | .
-
-### Vragen over eindpresentatie
-
-#### Waar moeten de kids zijn?
-
-Thuis :-)
-
-#### Waar moeten de ouders zijn?
-
-Thuis.
-
-#### Waarom Discord?
-
-Omdat de kids (en de meeste ouders) dit medium nu kennen.
-
-#### Hoe kom ik op de DJO Discord server?
-
-Via de link naar de DJO server (`https://discord.gg/?????eq`, volledige
-link in email), of stuur Richel (`richelbilderbeek#9002`) 
-een vriendschapsverzoek.
-
-#### Wordt de presentatie opgenomen?
-
-Nee.
-
 ## Links
 
  * [DJOG GitLab](http://51.15.53.32)
- * [DJOG Discord](https://discord.gg/XYBXfE)
+ * [DJOG Discord](https://discord.gg/mHjQQ4FxHJ)
  * [Lesmateriaal 'Arduino voor jonge tieners'](https://github.com/richelbilderbeek/arduino_voor_jonge_tieners)
  * [Lesmateriaal 'git voor jonge tieners'](https://github.com/richelbilderbeek/git_voor_jonge_tieners)
  * [Lesmateriaal 'Processing voor jonge tieners'](https://github.com/richelbilderbeek/processing_voor_jonge_tieners)
