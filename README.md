@@ -20,12 +20,6 @@ Je begin altijd met Processing. Daarna, binnen een team, mogen jullie zelf kieze
 
 Zie 'Lesrooster' hieronder voor meer detail.
 
-## Agenda
-
- * Donderdag 10 december: oefenpresentaties
- * Donderdag 17 december: eindpresentaties
- * Donderdag 24 december: geen les, wegens kerstvakantie
-
 ## Lesrooster
 
  * Dag: Elke donderdagavond, behalve op feestdagen en in de kerstvakantie
