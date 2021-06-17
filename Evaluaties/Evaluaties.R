@@ -4,8 +4,8 @@ grades$Periode <- as.factor(grades$Periode)
 g <- ggplot(grades, aes(x = Periode, y = Cijfer)) +
   ggtitle("Cijfers Dojo")
 
-g + geom_violin() + ggsave("Evaluaties_viool.png")
-g + geom_boxplot() + ggsave("Evaluaties_box.png")
+g + geom_violin(); ggsave("Evaluaties_viool.png")
+g + geom_boxplot(); ggsave("Evaluaties_box.png")
 
 grades <- read.csv("Evaluaties.csv")
 grades

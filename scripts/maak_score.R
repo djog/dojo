@@ -10,4 +10,4 @@ ggplot(
 ) + geom_col(position = position_dodge2()) +
   labs(
     title = "Aantal open Issues"
-  ) + ggsave("~/GitHubs/dojo/open_issues.png")
+  ); ggsave("~/GitHubs/dojo/open_issues.png")
