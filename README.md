@@ -70,8 +70,8 @@ Heb je nog een vraag? Zie [Veelgestelde vragen](docs/veelgestelde_vragen.md)
 
 ## Build status
 
-Branch  |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
+Branch  |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.com)
 --------|-----------------------------------------------------------------------------------------------------------------------------
-`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/Dojo.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Dojo)
+`master`|[![Build Status](https://travis-ci.com/richelbilderbeek/Dojo.svg?branch=master)](https://travis-ci.com/richelbilderbeek/Dojo)
 
 
